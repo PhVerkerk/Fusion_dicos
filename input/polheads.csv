@@ -302,8 +302,7 @@ aduncitas|aduncita_s, aduncita_tis : f
 aduncus|aduncus, adunca, aduncum : a
 adurgeo|adurgeo_, adurge_re, adursi_ : v2
 aduro|adu_ro_, adu_rere, adussi_, adustum : v3
-adusque|adusque : adv
-adusque|adusque : prep with acc
+adusque|adusque : adv ; prep with acc
 advecticius|advecti_cius, advecti_cia, advecti_cium : a
 adveho|adveho_, advehere, adve_xi_, advectum : v3
 advena|advena, advenae : m/f
@@ -357,7 +356,6 @@ aemulatio|aemula_tio_, aemula_tio_nis : f
 aemulator|aemula_tor, aemula_to_ris : m
 aemulatus|aemula_tus, aemula_tu_s : m
 aemulor|aemulor, aemula_ri_, aemula_tus sum : v1 dep
-aemulus|aemulus, aemuli_ : m
 aemulus|aemulus, aemula, aemulum : a
 aeneus|ae_neus, ae_nea, ae_neum : a
 aenigma|aenigma, aenigmatis : n
@@ -498,8 +496,7 @@ alea|a_lea, a_leae : f
 aleator|a_lea_tor, a_lea_to_ris : m
 aleatorius|a_lea_to_rius, a_lea_to_ria, a_lea_to_rium : a
 aleo|a_leo_, a_leo_nis : m
-ales|a_les, a_litis : m/f
-ales|a_les, a_litis : a
+ales|a_les, a_litis : a, m/f
 alga|alga, algae : f
 algeo|algeo_, alge_re, alsi_ : v2
 algor|algor, algo_ris : m
@@ -912,8 +909,7 @@ arte|arte_ : adv
 arteria|arte_ria, arte_riae : f
 arthriticus|arthri_ticus, arthri_tica, arthri_ticum : a
 articulus|articulus, articuli_ : m
-artifex|artifex, artificis : m
-artifex|artifex, artificis : a
+artifex|artifex, artificis : a, m
 artificiosus|artificio_sus, artificio_sa, artificio_sum : a
 artificium|artificium, artific(i)i_ : n
 arto|arto_, arta_re, arta_vi_, arta_tum : v1
@@ -1206,9 +1202,7 @@ beatitas|bea_tita_s, bea_tita_tis : f
 beatitudo|bea_titu_do_, bea_titu_dinis : f
 beatus|bea_tus, bea_ta, bea_tum : a
 bellator|bella_tor, bella_to_ris : m
-bellator|bella_tor, bella_to_ris : a
 bellatrix|bella_trix, bella_tri_cis : f
-bellatrix|bella_tri_x, bella_tri_cis : a
 bellicosus|bellico_sus, bellico_sa, bellico_sum : a
 bellicus|bellicus, bellica, bellicum : a
 belliger|belliger, belligera, belligerum : a
@@ -1245,7 +1239,6 @@ bicolor|bicolor, bicolo_ris : a
 bicorniger|bicorniger, bicornigeri_ : a
 bicornis|bicornis, bicorne : a
 bidens|bide_ns, bidentis : m
-bidens|bide_ns, bidentis : m/f
 biduum|bi_duum, bi_dui_ : n
 biennium|biennium, bienn(i)i_ : n
 bifariam|bifa_riam : adv
@@ -1345,7 +1338,6 @@ caedo|caedo_, caedere, ceci_di_, caesum : v3
 caelator|caela_tor, caela_to_ris : m
 caelatura|caela_tu_ra, caela_tu_rae : f
 caelebs|caelebs, caelibis : a
-caeles|caeles, caelitis : m
 caeles|caeles, caelitis : a
 caelestis|caelestis, caelestis : m/f
 caelestis|caelestis, caeleste : a
@@ -1661,15 +1653,13 @@ cipus|cipus, cipi_ : m
 circa|circa_ : adv
 circa|circa_ : prep with acc
 circenses|circe_nse_s, circe_nsium : mpl
-circiter|circiter : adv
-circiter|circiter : prep with acc
+circiter|circiter : adv,  prep with acc
 circueo|circueo_, circui_re, circui_vi_/circuii_, circuitum : v5
 circuitio|circuitio_, circuitio_nis : f
 circuitus|circuitus, circuitu_s : m
 circulor|circulor, circula_ri_, circula_tus sum : v1 dep
 circulus|circulus, circuli_ : m
-circum|circum : adv
-circum|circum : prep with acc
+circum|circum : prep with acc, adv.
 circumago|circumago_, circumagere, circume_gi_, circuma_ctum : v3
 circumcido|circumci_do_, circumci_dere, circumci_di_, circumci_sum : v3
 circumcludo|circumclu_do_, circumclu_dere, circumclu_si_, circumclu_sum : v3
@@ -1751,8 +1741,7 @@ civiliter|ci_vi_liter : adv
 civis|ci_vis, ci_vis : m/f
 civitas|ci_vita_s, ci_vita_tis : f
 clades|cla_de_s, cla_dis : f
-clam|clam : adv
-clam|clam : prep with abl
+clam|clam : adv, prep with abl
 clamator|cla_ma_tor, cla_ma_to_ris : m
 clamito|cla_mito_, cla_mita_re, cla_mita_vi_, cla_mita_tum : v1
 clamo|cla_mo_, cla_ma_re, cla_ma_vi_, cla_ma_tum : v1
@@ -2237,7 +2226,6 @@ consolor|co_nso_lor, co_nso_la_ri_, co_nso_la_tus sum : v1 dep
 consono|co_nsono_, co_nsona_re, co_nsonui_ : v1
 consonus|co_nsonus, co_nsona, co_nsonum : a
 consopio|co_nso_pio_, co_nso_pi_re, co_nso_pi_vi_, co_nso_pi_tum : v4
-consors|co_nsors, co_nsortis : m/f
 consors|co_nsors, co_nsortis : a
 consortio|co_nsortio_, co_nsortio_nis : f
 consortium|co_nsortium, co_nsort(i)i_ : n
@@ -2301,7 +2289,6 @@ contendo|contendo_, contendere, contendi_, contentum : v3
 contente|contente_ : adv
 contentio|contentio_, contentio_nis : f
 contentus|contentus, contenta, contentum : a
-contentus|contentus, contenta, contentum : a
 conterminus|conterminus, contermina, conterminum : a
 contero|contero_, conterere, contri_vi_, contri_tum : v3
 conterreo|conterreo_, conterre_re, conterrui_, conterritum : v2
@@ -2329,8 +2316,7 @@ contionator|co_ntio_na_tor, co_ntio_na_to_ris : m
 contionor|co_ntio_nor, co_ntio_na_ri_, co_ntio_na_tus sum : v1 dep
 contiuncula|co_ntiuncula, co_ntiunculae : f
 contorqueo|contorqueo_, contorque_re, contorsi_, contortum : v2
-contra|contra_ : adv
-contra|contra_ : prep with acc
+contra|contra_ : adv, prep with acc
 contractio|contractio_, contractio_nis : f
 contractus|contractus, contracta, contractum : a
 contradico|contra_di_co_, contra_di_cere, contra_di_xi_, contra_dictum : v3
@@ -2403,8 +2389,7 @@ coquo|coquo_, coquere, coxi_, coctum : v3
 coquus|coquus, coqui_ : m
 cor|cor, cordis : n
 corallium|corallium, corall(i)i_ : n
-coram|co_ram : adv
-coram|co_ram : prep with abl
+coram|co_ram : prep with abl ; adv
 corbis|corbis, corbis : m/f
 corium|corium, cor(i)i_ : n
 corneus|corneus, cornea, corneum : a
@@ -2937,7 +2922,6 @@ devoro|de_voro_, de_vora_re, de_vora_vi_, de_vora_tum : v1
 devotio|de_vo_tio_, de_vo_tio_nis : f
 devoveo|de_voveo_, de_vove_re, de_vo_vi_, de_vo_tum : v2
 dexter|dexter, dextera, dexterum : a
-dexter|dexter, dextra, dextrum : a
 dextera|dextera, dexterae : f
 dextere|dextere_ : adv
 dextra|dextra, dextrae : f
@@ -3242,7 +3226,6 @@ ecce|ecce : int
 echidna|e_chidna, e_chidnae : f
 echo|e_cho_, e_chu_s : f
 ecloga|ecloga, eclogae : f
-ecquis|ecquis, ecquae, ecqua, ecquod : pn
 ecquis|ecquis, ecquid : pn
 edax|eda_x, eda_cis : a
 edepol|edepol : int
@@ -3702,8 +3685,7 @@ exto|exto_, exta_re, exta_vi_, exta_tum : v1
 extollo|extollo_, extollere : v3
 extorqueo|extorqueo_, extorque_re, extorsi_, extortum : v2
 extorris|extorris, extorre : a
-extra|extra_ : adv
-extra|extra_ : prep with acc
+extra|extra_ : adv prep with acc
 extraho|extraho_, extrahere, extra_xi_, extractum : v3
 extraneus|extra_neus, extra_nea, extra_neum : a
 extraordinarius|extraordina_rius, extraordina_ria, extraordina_rium : a
@@ -4832,7 +4814,6 @@ infamia|i_nfa_mia, i_nfa_miae : f
 infamis|i_nfa_mis, i_nfa_me : a
 infamo|i_nfa_mo_, i_nfa_ma_re, i_nfa_ma_vi_, i_nfa_ma_tum : v1
 infandus|i_nfandus, i_nfanda, i_nfandum : a
-infans|i_nfa_ns, i_nfantis : m/f
 infans|i_nfa_ns, i_nfantis : a
 infantia|i_nfantia, i_nfantiae : f
 infaustus|i_nfaustus, i_nfausta, i_nfaustum : a
@@ -4874,8 +4855,7 @@ infodio|i_nfodio_, i_nfodere, i_nfo_di_, i_nfossum : v3
 informis|i_nfo_rmis, i_nfo_rme : a
 informo|i_nfo_rmo_, i_nfo_rma_re, i_nfo_rma_vi_, i_nfo_rma_tum : v1
 infortunium|i_nfortu_nium, i_nfortu_n(i)i_ : n
-infra|i_nfra_ : adv
-infra|i_nfra_ : prep with acc
+infra|i_nfra_ : adv prep with acc
 infractus|i_nfra_ctus, i_nfra_cta, i_nfra_ctum : a
 infremo|i_nfremo_, i_nfremere, i_nfremui_ : v3
 infrendo|i_nfrendo_, i_nfrendere : v3
@@ -5123,8 +5103,7 @@ insulsus|i_nsulsus, i_nsulsa, i_nsulsum : a
 insulto|i_nsulto_, i_nsulta_re, i_nsulta_vi_, i_nsulta_tum : v1
 insum|i_nsum, inesse, i_nfui_ : v5
 insuo|i_nsuo_, i_nsuere, i_nsui_, i_nsu_tum : v3
-insuper|i_nsuper : adv
-insuper|i_nsuper : prep with acc
+insuper|i_nsuper : adv prep with acc
 insuperabilis|i_nsupera_bilis, i_nsupera_bile : a
 insurgo|i_nsurgo_, i_nsurgere, i_nsurre_xi_, i_nsurre_ctum : v3
 intabesco|inta_be_sco_, inta_be_scere, inta_bui_ : v3
@@ -5221,8 +5200,7 @@ intolerantia|intolerantia, intolerantiae : f
 intono|intono_, intona_re, intonui_ : v1
 intonsus|into_nsus, into_nsa, into_nsum : a
 intorqueo|intorqueo_, intorque_re, intorsi_, intortum : v2
-intra|intra_ : adv
-intra|intra_ : prep with acc
+intra|intra_ : adv, prep with acc
 intractabilis|intracta_bilis, intracta_bile : a
 intremo|intremo_, intremere, intremui_ : v3
 intrepidus|intrepidus, intrepida, intrepidum : a
@@ -5348,8 +5326,7 @@ janua|ja_nua, ja_nuae : f
 januarius|Ja_nua_rius, Ja_nua_r(i)i_ : m
 janus|Ja_nus, Ja_ni_ : m
 jaspis|jaspis, jaspidis : f
-jecur|jecur, jecoris : n
-jecur|jecur, jecinoris : n
+jecur|jecur, jecoris (jecinoris) : n
 jejunus|je_ju_nus, je_ju_na, je_ju_num : a
 jocor|jocor, joca_ri_, joca_tus sum : v1 dep
 jocosus|joco_sus, joco_sa, joco_sum : a
@@ -5402,8 +5379,7 @@ juventa|juventa, juventae : f
 juventas|juventa_s, juventa_tis : f
 juventus|juventu_s, juventu_tis : f
 juvo|juvo_, juva_re, ju_vi_, ju_tum : v1
-juxta|juxta_ : adv
-juxta|juxta_ : prep with acc
+juxta|juxta_ : adv prep with acc
 kalendae|Kalendae, Kalenda_rum : fpl
 labasco|laba_sco_, laba_scere : v3
 labefacio|labefacio_, labefacere, labefe_ci_, labefactum : v3
@@ -5520,8 +5496,8 @@ latrocinium|latro_cinium, latro_cin(i)i_ : n
 latrocinor|latro_cinor, latro_cina_ri_, latro_cina_tus sum : v1 dep
 latrunculus|latrunculus, latrunculi_ : m
 latumiae|la_tumiae, la_tumia_rum : fpl
-latus|latus, lateris : n
 latus|la_tus, la_ta, la_tum : a
+latus|latus, lateris : n
 laudabilis|lauda_bilis, lauda_bile : a
 laudatio|lauda_tio_, lauda_tio_nis : f
 laudator|lauda_tor, lauda_to_ris : m
@@ -5765,7 +5741,6 @@ lusor|lu_sor, lu_so_ris : m
 lustralis|lu_stra_lis, lu_stra_le : a
 lustro|lu_stro_, lu_stra_re, lu_stra_vi_, lu_stra_tum : v1
 lustrum|lu_strum, lu_stri_ : n
-lustrum|lustrum, lustri_ : n
 lusus|lu_sus, lu_su_s : m
 luteolus|lu_teolus, lu_teola, lu_teolum : a
 luteus|lu_teus, lu_tea, lu_teum : a
@@ -5991,7 +5966,6 @@ meracus|mera_cus, mera_ca, mera_cum : a
 mercator|merca_tor, merca_to_ris : m
 mercatura|merca_tu_ra, merca_tu_rae : f
 mercatus|merca_tus, merca_tu_s : m
-mercennarius|merce_nna_rius, merce_nna_r(i)i_ : m
 mercennarius|merce_nna_rius, merce_nna_ria, merce_nna_rium : a
 merces|merce_s, merce_dis : f
 mercor|mercor, merca_ri_, merca_tus sum : v1 dep
@@ -6165,8 +6139,7 @@ mugio|mu_gio_, mu_gi_re, mu_gi_vi_/mu_gii_, mu_gi_tum : v4
 mugitus|mu_gi_tus, mu_gi_tu_s : m
 mula|mu_la, mu_lae : f
 mulceo|mulceo_, mulce_re, mulsi_, mulsum : v2
-mulciber|Mulciber, Mulciberis : m
-mulciber|Mulciber, Mulciberi_ : m
+mulciber|Mulciber, Mulciberis (Mulciberi_) : m
 mulco|mulco_, mulca_re, mulca_vi_, mulca_tum : v1
 mulctra|mulctra, mulctrae : f
 mulctrum|mulctrum, mulctri_ : n
@@ -6245,8 +6218,7 @@ mysterium|myste_rium, myste_r(i)i_ : n
 mysticus|mysticus, mystica, mysticum : a
 naevus|naevus, naevi_ : m
 naias|Na_ias, Na_iadis : f
-nais|Na_is, Na_idis :f
-nais|Na_is, Na_idos : f
+nais|Na_is, Na_idis (Na_idos) :f
 nam|nam : conj
 namque|namque : conj
 nanciscor|nanci_scor, nanci_sci_, nactus/na_nctus sum : v3 dep
@@ -6373,10 +6345,8 @@ niger|niger, nigra, nigrum : a
 nigrans|nigra_ns, nigrantis : a
 nigresco|nigre_sco_, nigre_scere, nigrui_ : v3
 nigro|nigro_, nigra_re, nigra_vi_, nigra_tum : v1
-nihil|nihil : adv
-nihil|nihil : n indec
+nihil|nihil : adv, n indec
 nihilominus|nihilo_minus : adv
-nihilum|nihilum : adv
 nihilum|nihilum, nihili_ : n
 nil|ni_l : n indec
 nimbosus|nimbo_sus, nimbo_sa, nimbo_sum : a
@@ -6426,8 +6396,7 @@ nondum|no_ndum : adv
 nongenti|no_ngenti_, no_ngentae, no_ngenta : a
 nonne|no_nne : adv
 nonnemo|no_nne_mo_, no_nne_minis : m/f
-nonnihil|no_nnihil : adv
-nonnihil|no_nnihil : n indec
+nonnihil|no_nnihil : adv, n indec
 nonnullus|no_nnu_llus, no_nnu_lla, no_nnu_llum : a
 nonnunquam|no_nnunquam : adv
 nonus|no_nus, no_na, no_num : a
@@ -6804,7 +6773,6 @@ orbis|o_rbis, o_rbis : m
 orbita|orbita, orbitae : f
 orbitas|orbita_s, orbita_tis : f
 orbo|orbo_, orba_re, orba_vi_, orba_tum : v1
-orbus|orbus, orbi_ : m
 orbus|orbus, orba, orbum : a
 orcus|Orcus, Orci_ : m
 ordinarius|o_rdina_rius, o_rdina_ria, o_rdina_rium : a
@@ -6881,8 +6849,7 @@ pagina|pa_gina, pa_ginae : f
 pagus|pa_gus, pa_gi_ : m
 pala|pa_la, pa_lae : f
 palaestra|palaestra, palaestrae : f
-palam|palam : adv
-palam|palam : prep with abl
+palam|palam : adv, prep with abl
 palatinus|Pala_ti_nus, Pala_ti_na, Pala_ti_num : a
 palatium|Pala_tium, Pala_t(i)i_ : n
 palatum|pala_tum, pala_ti_ : n
@@ -6956,7 +6923,6 @@ parricida|parrici_da, parrici_dae : m/f
 parricidium|parrici_dium, parrici_d(i)i_ : n
 pars|pars, partis : f
 parsimonia|parsimo_nia, parsimo_niae : f
-particeps|particeps, participis : m/f
 particeps|particeps, participis : a
 participium|participium, particip(i)i_ : n
 participo|participo_, participa_re, participa_vi_, participa_tum : v1
@@ -7434,8 +7400,7 @@ pomus|po_mus, po_mi_ : f
 pondero|pondero_, pondera_re, pondera_vi_, pondera_tum : v1
 pondo|pondo_ : adv
 pondus|pondus, ponderis : n
-pone|po_ne : adv
-pone|po_ne : prep with acc
+pone|po_ne : adv prep with acc
 pono|po_no_, po_nere, posui_, positum : v3
 pons|po_ns, pontis : m
 ponticulus|ponticulus, ponticuli_ : m
@@ -7482,8 +7447,7 @@ possessor|possessor, possesso_ris : m
 possibilis|possibilis, possibile : a
 possideo|possideo_, posside_re, posse_di_, possessum : v2
 possum|possum, posse, potui_ : v5
-post|post : adv
-post|post : prep with acc
+post|post : adv prep with acc
 postea|postea_ : adv
 posteaquam|postea_quam : adv
 posterior|posterior, posterius : a
@@ -7650,8 +7614,7 @@ praesulto|praesulto_, praesulta_re, praesulta_vi_, praesulta_tum : v1
 praesum|praesum, praeesse, praefui_ : v5
 praesumo|praesu_mo_, praesu_mere, praesu_mpsi_/praesu_msi_, praesu_mptum : v3
 praetendo|praetendo_, praetendere, praetendi_, praetentum : v3
-praeter|praeter : adv
-praeter|praeter : prep with acc
+praeter|praeter : adv, prep with acc
 praeterea|praeterea_ : adv
 praetereo|praetereo_, praeteri_re, praeteri_vi_/praeterii_, praeteri_tum : v5
 praeterfluo|praeterfluo_, praeterfluere : v3
@@ -7724,8 +7687,7 @@ privigna|pri_vigna, pri_vignae : f
 privignus|pri_vignus, pri_vigni_ : m
 privo|pri_vo_, pri_va_re, pri_va_vi_, pri_va_tum : v1
 privus|pri_vus, pri_va, pri_vum : a
-pro|pro_ : prep with abl
-pro|pro_ : int
+pro|pro_ : int, prep with abl
 proavia|proavia, proaviae : f
 proavitus|proavi_tus, proavi_ta, proavi_tum : a
 proavus|proavus, proavi_ : m
@@ -7841,8 +7803,7 @@ propagatio|propa_ga_tio_, propa_ga_tio_nis : f
 propago|propa_go_, propa_ga_re, propa_ga_vi_, propa_ga_tum : v1
 propago|propa_go_, propa_ginis : f
 propalam|pro_palam : adv
-prope|prope : adv
-prope|prope : prep with acc
+prope|prope : adv, prep with acc
 propediem|propediem : adv
 propello|pro_pello_, pro_pellere, pro_puli_, pro_pulsum : v3
 propemodo|propemodo : adv
@@ -7863,8 +7824,7 @@ propositum|pro_positum, pro_positi_ : n
 propraetor|pro_praetor, pro_praeto_ris : m
 proprietas|proprieta_s, proprieta_tis : f
 proprius|proprius, propria, proprium : a
-propter|propter : adv
-propter|propter : prep with acc
+propter|propter : adv prep with acc
 propterea|propterea_ : adv
 propugnaculum|pro_pugna_culum, pro_pugna_culi_ : n
 propugnator|pro_pugna_tor, pro_pugna_to_ris : m
@@ -8675,7 +8635,6 @@ saltem|saltem : adv
 salto|salto_, salta_re, salta_vi_, salta_tum : v1
 saltuosus|saltuo_sus, saltuo_sa, saltuo_sum : a
 saltus|saltus, saltu_s : m
-saltus|saltus, saltu_s : m
 saluber|salu_ber, salu_bris, salu_bre : a
 salubritas|salu_brita_s, salu_brita_tis : f
 salum|salum, sali_ : n
@@ -8814,8 +8773,7 @@ secubitus|se_cubitus, se_cubitu_s : m
 secubo|se_cubo_, se_cuba_re, se_cubui_ : v1
 secundani|secunda_ni_, secunda_no_rum : mpl
 secundo|secundo_, secunda_re, secunda_vi_, secunda_tum : v1
-secundum|secundum : adv
-secundum|secundum : prep with acc
+secundum|secundum : adv prep with acc
 secundus|secundus, secunda, secundum : a
 securifer|secu_rifer, secu_rifera, secu_riferum : a
 securiger|secu_riger, secu_rigera, secu_rigerum : a
@@ -8881,8 +8839,7 @@ semisomnus|se_misomnus, se_misomna, se_misomnum : a
 semisupinus|se_misupi_nus, se_misupi_na, se_misupi_num : a
 semita|se_mita, se_mitae : f
 semiustus|se_miustus, se_miusta, se_miustum : a
-semivir|se_mivir, se_miviri_ : m
-semivir|se_mivir, se_miviri_ : a
+semivir|se_mivir, se_miviri_ : a m
 semivivus|se_mivi_vus, se_mivi_va, se_mivi_vum : a
 semotus|se_mo_tus, se_mo_ta, se_mo_tum : a
 semper|semper : adv
@@ -8895,7 +8852,6 @@ senecta|senecta, senectae : f
 senectus|senectu_s, senectu_tis : f
 seneo|seneo_, sene_re : v2
 senesco|sene_sco_, sene_scere, senui_ : v3
-senex|senex, senis : m
 senex|senex, senis : a
 seni|se_ni_, se_nae, se_na : a
 senilis|seni_lis, seni_le : a
@@ -9067,7 +9023,6 @@ singultim|singultim : adv
 singulto|singulto_, singulta_re, singulta_vi_, singulta_tum : v1
 singultus|singultus, singultu_s : m
 sinister|sinister, sinistra, sinistrum : a
-sinistra|sinistra_ : adv
 sinistra|sinistra, sinistrae : f
 sinistrorsum|sinistro_rsum : adv
 sinistrorsus|sinistro_rsus : adv
@@ -9429,8 +9384,7 @@ subsum|subsum, subesse : v5
 subsutus|subsu_tus, subsu_ta, subsu_tum : a
 subtegmen|subte_gmen, subte_gminis : n
 subtemen|subte_men, subte_minis : n
-subter|subter : adv
-subter|subter : prep with acc/abl
+subter|subter : adv prep with acc/abl
 subterfugio|subterfugio_, subterfugere, subterfu_gi_ : v3
 subterlabor|subterla_bor, subterla_bi_ : v3 dep
 subtexo|subtexo_, subtexere, subtexui_, subtextum : v3
@@ -9512,8 +9466,7 @@ sumptus|su_mptus, su_mptu_s : m
 suo|suo_, suere, sui_, su_tum : v3
 suovetaurilia|suovetauri_lia, suovetauri_lium : npl
 supellex|supellex, supellectilis : f
-super|super : adv
-super|super : prep with acc/abl
+super|super : adv prep with acc/abl
 supera|supera, supero_rum : npl
 superabilis|supera_bilis, supera_bile : a
 superaddo|superaddo_, superaddere, superaddidi_, superadditum : v3
@@ -10117,8 +10070,7 @@ ulterius|ulterius : adv
 ultimus|ultimus, ultima, ultimum : a
 ultio|ultio_, ultio_nis : f
 ultor|ultor, ulto_ris : m
-ultra|ultra_ : adv
-ultra|ultra_ : prep with acc
+ultra|ultra_ : adv, prep with acc
 ultrix|ultri_x, ultri_cis : a
 ultro|ultro_ : adv
 ulula|ulula, ululae : f
@@ -10264,8 +10216,7 @@ vannus|vannus, vanni_ : f
 vanus|va_nus, va_na, va_num : a
 vapor|vapor, vapo_ris : m
 vaporo|vapo_ro_, vapo_ra_re, vapo_ra_vi_, vapo_ra_tum : v1
-vappa|vappa, vappae : f
-vappa|vappa, vappae : m
+vappa|vappa, vappae : f/m
 vapulo|va_pulo_, va_pula_re, va_pula_vi_, va_pula_tum : v1
 variantia|variantia, variantiae : f
 variatio|varia_tio_, varia_tio_nis : f
@@ -10390,8 +10341,7 @@ versatilis|versa_tilis, versa_tile : a
 versicolor|versicolor, versicolo_ris : a
 versiculus|versiculus, versiculi_ : m
 verso|verso_, versa_re, versa_vi_, versa_tum : v1
-versum|versum : adv
-versum|versum : prep with acc
+versum|versum : adv, prep with acc
 versus|versus : adv
 versus|versus : prep with acc
 versus|versus, versu_s : m
@@ -10417,7 +10367,7 @@ vescus|ve_scus, ve_sca, ve_scum : a
 vesica|ve_si_ca, ve_si_cae : f
 vesicula|ve_si_cu_la, ve_si_cu_lae : f
 vespa|vespa, vespae : f
-vesper|vesper, vesperisvesperi_ : m
+vesper|vesper, vesperis / vesperi_ : m
 vespera|vespera, vesperae : f
 vesperasco|vespera_sco_, vespera_scere, vespera_vi_ : v3
 vespertinus|vesperti_nus, vesperti_na, vesperti_num : a
@@ -10466,8 +10416,7 @@ vicissitudo|vicissitu_do_, vicissitu_dinis : f
 victima|victima, victimae : f
 victor|victor, victo_ris : m
 victoria|victo_ria, victo_riae : f
-victrix|victrix, victri_cis : f
-victrix|victri_x, victri_cis : a
+victrix|victri_x, victri_cis : a/f
 victus|vi_ctus, vi_ctu_s : m
 viculus|vi_culus, vi_culi_ : m
 vicus|vi_cus, vi_ci_ : m
@@ -10479,7 +10428,6 @@ viduus|viduus, vidua, viduum : a
 vietus|vie_tus, vie_ta, vie_tum : a
 vigeo|vigeo_, vige_re : v2
 vigesco|vige_sco_, vige_scere : v3
-vigil|vigil, vigilis : m/f
 vigil|vigil, vigilis : a
 vigilans|vigila_ns, vigilantis : a
 vigilantia|vigilantia, vigilantiae : f
