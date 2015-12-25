@@ -1,0 +1,910 @@
+|abdomen|abdŏmĕn|ābdŏmĕn
+LS|abdomen|abdŏmĕn|ĭnis|n.||the fat lower part of the belly, the paunch, abdomen|abdomen|0
+GG|abdomen|abdōmĕn|ĭnis|n.||ventre, abdomen / [d'animaux] / [fig.] = sensualité, gourmandise|abdomen|
+GJ|abdomen|abdōmĕn|ĭnĭs, n.|- 1 - ventre, bas-ventre, abdomen. - 2 - sensualité, gourmandise, gloutonnerie. - 3 - ventre de truie, tétine de truie (un mets recherché).
+Ge|abdomen|abdōmen|minis, n.|Unterleib - der Schmerbauch, Wanst
+FG|abdomen|abdomen inis neutre, 1. ventre, abdomen ; 2. (figuré) = sensualité, gourmandise.
+Lw|abdomen|abdōmen|inis|n||the belly, abdomen:||||abdomen
+YO|abdomen|abdōmĕn=ābdōmĕn|7|ābdōmĭn||inis, n.|
+PO|abdomen|abdo_men, abdo_minis : n
+WW|abdomen, abdominis|||
+|aculeus|ăcūlĕus|ăcūlĕus
+LS|aculeus|ăcūlĕus|i|m.||a sting.|aculeus|0
+GG|aculeus|ăcŭlĕus|i|m.||aiguillon / pointe d'un trait / [métaph., surtout au pl.] / stimulant / pointes, finesses, subtilités|aculeus|
+GJ|aculeus|ăcŭlĕus|i, m. [acus]|- 1 - aiguillon, dard, pointe (d'un trait); ergot. - 2 - au fig. aiguillon, stimulant, piquant. - 3 - raisonnement pointilleux, subtilités, finesses.
+Ge|aculeus|aculeus|ī, m.|der Stachel - der Stift - die Spitze - das Stechende, Verletzende, Herzverwundende - der Sporn, Stachel - der tiefe Eindruck
+FG|aculeus|aculeus i masculin (acus), aiguillon :
+Lw|aculeus|aculeus|ī|m||a sting, a point, a sting, spur, goad||||aculeus
+YO|aculeus|ăcŭlĕus|1|||i, m.|
+PO|aculeus|aculeus, aculei_ : m
+WW||||
+|aliquando|ălĭquandŏ|ălĭqụāndŏ
+LS|aliquando|ălĭquandŏ|||adv.|temp. adv.|aliquando|0
+GG|aliquando|ălĭquandō|||adv.|un jour, une fois, qq jour / enfin, une bonne fois / quelquefois (= il arrive que), parfois|aliquando|
+GJ|aliquando|ălĭquandō|adv. [aliquis]|1 - un jour, une fois, qq jour. 2 - enfin, une bonne fois. 3 - quelquefois (= il arrive que), parfois.
+Ge|aliquando|aliquando|Adv.|irgend jemals, irgend einmal - wenn irgend jemals - wenn einstmals, wenn einst. – - sonst, einst, einmal - einmal - irgendwann - endlich, endlich einmal - manchmal, bisweilen - bisweilen... bisweilen, bald... bald
+FG|aliquando|aliquando (aliquis), adverbe,
+Lw|aliquando|aliquandō|||adv.|at some time or other, once; at any time, ever, but yet once, if at any time, if ever, if once, if at one time, if one day, once, formerly, some day, hereafter, sometimes, now and then, once, for once, on this occasion, now, now in our own way, I must for once say it, at length, now at last, finally, at length, now at last, now at length||||aliquando
+YO|aliquando|ălĭquandŏ=ălĭquāndŏ|30|||adv.|
+PO|aliquando|aliquando_ : adv
+WW||||
+|antevenio|antēvĕnĭo|āntēvĕnĭo
+LS|antevenio|antēvĕnĭo|vēni, ventum, 4||v. n.|to come before, get the start of, anticipate.|antevenio|0
+GG|antevenio|antĕvĕnĭo|vēnī, ventum, venīre||tr. intr.|int., venir avant, prendre les devants / [au fig.] être supérieur ; [avec dat.] / tr., mêmes sens ; aliquem, rem, devancer qqn, qqch|antevenio|
+GJ|antevenio|antĕvĕnĭo|īre, vēni, ventum|- tr. et intr. - 1 - arriver avant, devancer, précéder, prévenir, déjouer. 2 - surpasser.
+Ge|antevenio|antevenio|vēni, ventum, Ire|zuvorkommen, überholen - Sache zuvorkommen - vereiteln - Eigenschaft über - gehen - übertreffen
+FG|antevenio|antevenio venire veni ventum,
+Lw|antevenio|ante-veniō|vēnī, ventus, īre|||to come before, get the start of, anticipate:||||antevenio
+YO|antevenio|antĕvĕnĭo=āntĕvĕnĭo|21|āntĕvēn|āntĕvēnt|is, ire, ueni, uentum|
+PO|antevenio|antevenio_, anteveni_re, anteve_ni_, anteventum : v4
+WW|||antevenio, anteveni|antevenio, anteventum
+|antistes|antistĕs|āntīstĕs
+LS|antistes|antistĕs|ĭtis|m.||an overseer, president.|antistes|0
+GG|antistes|antistēs|ĭtis|m. f. f.||chef, préposé / prêtre / prêtresse / maître|antistes|
+GJ|antistes|antistes|itis, m. et f.|- 1 - chef, préposé, maître. - 2 - pontife, évêque, prêtre. - 3 - maître, guide (dans un art).
+Ge|antistes|antistes|stitis, c.|der Vorsteher, Aufseher - die Vorsteherin, Aufseherin - der Vorsteher, erste Priester - der Oberpriester - Tempelpriester - der Bischof - die Tempelvorsteherin, Oberpriesterin - der Priester - Kunst Eingeweihte - der Meister
+FG|antistes|antistes itis masculin et féminin (ante et stare), chef, préposé ; prêtre.
+Lw|antistes|antistes|itis|m||an overseer, high-priest, priest, Fem, unremitting attendants at, a master||||antistes
+YO|antistes|antistĕs=āntīstĕs|5|āntīstĭt||stitis, m.|
+PO|antistes|antistes, antistitis : m/f
+WW||||
+|ariobarzanes|Ărĭŏbarzānēs|Ărĭŏbārzānēs
+LS|Ariobarzanes|Ărĭŏbarzānes|is|m.||a king of Cappadocia|Ariobarzanes|0
+GG|Ariobarzanes|Arĭŏbarzănēs|is|m.||roi de Cappadoce|Ariobarzanes|
+GJ|Ariobarzanes|Ariobarzanēs|is, m.|Ariobarzane (un roi de Cappadoce).
+Ge|ariobarzanes|ariobarzanēs|is|
+FG|Ariobarzanes|Ariobarzanes is masculin, roi de Cappadoce.
+Lw|
+YO|ariobarzanes|Ărĭŏbarzānes=Ărĭŏbārzānēs|6|Ărĭŏbārzān||is, m.|
+PO|
+WW||||
+|artabanus|Artăbānus|Ārtăbānus
+LS|Artabanus|Artăbānus|i|m.||A Parthian king of the family of the Arsacid&oelig;|Artabanus|0
+GG|Artabanus|Artăbănus|i|m.||général de Xerxès / roi des Parthes|Artabanus|
+GJ|Artabanus|Artăbănus|i, m.|Artaban. - 1 - général de Xerxès. - 2 - roi des Parthes.
+Ge|artabanus|artabanus|ī, m.|
+FG|Artabanus|Artabanus i masculin, 1. général de Xerxès ; 2. roi des Parthes.
+Lw|
+YO|artabanus|Artăbānus=Ārtăbānus|1|||i, m.|
+PO|
+WW||||
+|canities|cānĭtĭēs|cānĭtĭēs
+LS|canities|cānĭtĭes||f.||a gray, grayish-white color, hoariness|canities|(
+GG|canities|cănĭtĭēs|ĭēi|f.||blancheur / blancheur des cheveux, de la barbe = vieillesse|canities|
+GJ|canities|cānĭtĭēs|ĭēi, f. [canus]|1 - blancheur. 2 - blancheur des cheveux, de la barbe = vieillesse.
+Ge|canities|cānitiēs||die (weiß) graue Farbe - graue Haare
+FG|canities|canities iei féminin (canus), blancheur ; blancheur des cheveux, de la barbe ( = vieillesse).
+Lw|canities|cānitiēs||f||a gray color, grayish-white, hoariness, gray hair, Gray hairs, old age||||canities
+YO|canities|cānĭtĭes|10|||ei, f.|
+PO|canities|ca_nitie_s, ca_nitie_i_ : f
+WW||||
+|castimonia|castīmōnĭa|cāstīmōnĭa
+LS|castimonia|castīmōnĭa|ae|f.|||castimonia|0
+GG|castimonia|castĭmōnĭa|ae|f.||continence, chasteté du corps / pureté des moeurs, moralité|castimonia|
+GJ|castimonia|castĭmōnĭa|ae, f.|- 1 - continence, chasteté. - 2 - pureté des moeurs, vertu.
+Ge|castimonia|castimōnia|ae, f.|körperliche Reinheit - die Enthaltsamkeit von sinnlichen Genüssen - das Fasten - Sittenreinheit, Moralität
+FG|castimonia|castimonia ae féminin (castus), continence ; pureté des moeurs, moralité.
+Lw|castimonia|castimōnia|ae|f||purity of morals, morality, chastity, abstinence||||castimonia
+YO|castimonia|castīmōnĭa=cāstīmōnĭa|0|||ae, f.|
+PO|castimonia|castimo_nia, castimo_niae : f
+WW||||
+|catamitus|Cătămītus|Cătămītus
+LS|Catamitus|Cătămītus||m.||the Latin name of Ganymede, Jupiter's cup-bearer|Catamitus|(
+GG|Catamitus|Cătămĭtus|i|m.||nom ancien de Ganymède / [fig.] homme débauché, mignon|Catamitus|
+GJ|Catamitus|Catamitus|i, m.|- 1 - Catamitus (nom latin de Ganymède). - 2 - un débauché, un mignon.
+Ge|Catamitus|Catamītus|ī, m.|ein Ganymed - ein Buhlknabe
+FG|
+Lw|Catamitus|Catamītus|ī|m||Ganymede, the cup-bearer of Jupiter||||Catamitus
+YO|catamitus|Cătămītus|1|||i, m.|
+PO|
+WW||||
+|caudinus|Caudīnus|Cāudīnus
+LS|Caudinus|Caudīnus|a, um||adj.|of Caudium, Caudine, the Caudine Forks, Casale di Forchia, Forchia d, Arpaia, Subst.|Caudium|0
+GG|Caudinus|Caudĭnus|a, um||adj.|les Fourches Caudines|Caudium|-ĭnus
+GJ|
+Ge|
+FG|
+Lw|
+YO|caudinus|Caudīnus=Cāudīnus|11|||a, um|
+PO|
+WW||||
+|celebritas|cĕlē̆brĭtās|cĕlē̆brĭtās
+LS|celebritas|cĕlē̆brĭtas|ātis|f.||A great number, a multitude, a large assembly, a numerous concourse, gathering, a crowd, to live in society|celebritas|0
+GG|celebritas|cēlĕbrĭtās|ātis|f.||fréquentation nombreuse d'un lieu / célébration solennelle (en foule) d'un jour de fête / extension, diffusion parmi un grand nombre de personnes, fait d'être mentionné souvent par une foule / grande affluence / fréquence / célébrité, renommée, notoriété|celebritas|
+GJ|celebritas|cĕlĕbrĭtās|ātis, f.|- 1 - affluence, fréquentation nombreuse, foule, multitude. - 2 - pompe, cortège, solennité, célébration solennelle. - 3 - célébrité, renommée.
+Ge|celebritas|celebritās|ātis, f.|der zahlreiche Besuch - das starke Besuchtsein - die Belebtheit - die Belebtheit - das festliche Begehen - die Feierlichkeit, Feier - das zahlreiche Erscheinen - der Zulauf - die große Volksmenge - die große Welt - das häufige Vorkommen - das Sich-Wiederholen - das Gefeiert-, Verherrlichtwerden - die Verherrlichung - die Berühmtheit
+FG|celebritas|celebritas atis féminin (celeber),
+Lw|celebritas|celebritās|ātis|f||a great number, multitude, throng, crowd, large assembly, concourse, publicity, to live in society, Frequency, repetition, A festal celebration, solemnity, for the dead.&mdash;Fame, renown||||celebritas
+YO|celebritas|cĕlebrĭtās=cĕlē̆brĭtās|5|cĕlē̆brĭtāt||atis, f.|
+PO|celebritas|celebrita_s, celebrita_tis : f
+WW||||
+|celia|cēlĭa|cēlĭa
+LS|celia|cēlĭa|ae|f.||a kind of beer made in Spain|celia|(
+GG|celia|cĕlĭa|ae|f.||bière d'Espagne|celia|
+GJ|celia|cĕlĭa|ae, f.|bière d'Espagne.
+Ge|celia|cēlia|ae, f.|Art Weizenbier
+FG|
+Lw|
+YO|celia|cēlĭa|0|||ae, f.|
+PO|
+WW||||
+|cethegus|Cĕthĕgus|Cĕthĕgus
+LS|Cethegus|Cĕthĕgus|i|m.||a Roman cognomen in the Cornelian|Cethegus|0
+GG|Cethegus|Cĕthēgus|i|m.|subst.|surnom des Cornelii / complice de Catilina|Cethegus|Cĕthēgus
+GJ|Cethegus|Cĕthēgus|i, m.|Céthégus (surnom des Cornelii).
+Ge|Cethegus|Cethēgus|ī, m.|
+FG|Cethegus|Cethegus i masculin, surnom des cornelii ; notamment C. Cornelius Cethegus (complice de Catilina qui fut arrêté sur l'ordre de Cicéron et étranglé dans la prison du Tullianum avec d'autres conjurés) ; Cethegi orum masculin, des Cethegus (c'est-à-dire des Romains de l'ancien temps).
+Lw|
+YO|cethegus|Cĕthĕgus|1|||i, m.|
+PO|
+WW||||
+|clamo|clāmo|clāmo
+LS|clamo|clāmo|āvi, ātum, 1||v. n. and a.||clamo|0
+GG|clamo|clămo|āvi, ātum, āre||tr. intr.|[abst] crier, pousser des cris / [av. l'exclamation au style direct] / [av. acc. de l'exclamation] / [av. prop. inf.] / [avec ut] / appeler à grands cris / proclamer|clamo|
+GJ|clamo|clāmo|āre, āvi, ātum|(Lebaigue P. 214 et P. 215) - intr. et tr. - 1 - crier, pousser des cris. 2 - appeler à grands cris, dire à grands cris, déclarer, proclamer, dire hautement. 3 - demander à grands cris. 4 - mugir, retentir.
+Ge|clamo|clāmo|āvi, Atum, Are|laut rufen, schreien, schreiend klagen - laut rufen - anrufen, herbeirufen - laut bezeichnen, laut nennen - einladen - laut rufen = ausrufen, laut verkünden, laut bezeugen, laut klagen - nach wem zu? gegen wen? - zurufen
+FG|clamo|clamo are avi atum,
+Lw|clamo|clāmō|āvī, ātus, āre|||to call, cry out, shout aloud, complain aloud, to call aloud, call upon, proclaim, declare, invoke, to proclaim, declare||||clamo
+YO|clamo|clāmo|17|||as, are|
+PO|clamo|cla_mo_, cla_ma_re, cla_ma_vi_, cla_ma_tum : v1
+WW|||clamo, clamavi|clamo, clamatum
+|cleopatra|Clĕŏpātră|Clĕŏpātră
+LS|Cleopatra|Clĕŏpātră|ae|f.||Queen of Egypt, and daughter of Ptolemy Auletes, notorious for her amorous intercourse with C&oelig;sar, and afterwards with Antony; conquered at Actium by Augustus|Cleopatra|(on the ā cf. 
+GG|Cleopatra|Clĕŏpătra|ae|f.||reine d'Égypte / l'une des Danaïdes|Cleopatra|
+GJ|Cleopatra|Clĕŏpătra|ae, f.|Cleopâtre. - 1 - Hyg. une des Danaïdes. - 2 - fille de Méléagre. - 3 - femme de Philippe, roi de Macédoine. - 4 - fille de Philippe. - 5 - reine d'Egypte, vaincue à Actium.
+Ge|Cleopatra|Cleopatra|ae, f.|von der Kleopatra herrührend, der Kleopatra
+FG|Cleopatra|Cleopatra ae féminin, Cléopâtre (reine d'Égypte, fut la cause de la guerre entre Octave et Antoine, assista à la bataille navale d'Actium, mais prit la fuite avec sa flotte, décidant ainsi de la défaite d'Antoine ; prise à Alexandrie, se donna la mort par une piqûre d'aspic pour n'être pas menée à Rome dans le triomphe du vainqueur).
+Lw|
+YO|cleopatra|Clĕŏpātră|0|||ae, f.|
+PO|
+WW||||
+|coicio|cōĭcĭo|cōĭcĭo
+LS|coicio|cōicio|jēci, jectum, 3||v. a.|To throw or bring together, to unite|conicio|(also 
+GG|coicio|cŏĭcĭo|jēcī, jectum, ĕre||intr.|jeter ensemble [sur un point] / jeter en tas (en masse) sur un point, réunir en un point / [poét.] / jeter, diriger [les yeux] / jeter les yeux sur qqn ; [avec int. indir.] / jeter, pousser, lancer / [fig.] jeter, pousser, faire entrer, faire aller / combiner dans l'esprit, conjecturer / interpréter des signes, deviner, présager|conjicio|coĭcĭo
+GJ|coicio|cŏĭcĭo|ĕre, jēci, jectum [cum + jacio]|- tr. - 1 - jeter ensemble [sur un point]. 2 - jeter en tas (en masse) sur un point, réunir en un point. 3 - jeter, diriger [les yeux]. 4 - jeter, pousser, lancer. 5 - fig. jeter, pousser, faire entrer, faire aller. 6 - combiner dans l'esprit, conjecturer, présumer. 7 - interpréter des signes, deviner, présager, prévoir.
+Ge|
+FG|
+Lw|
+YO|coicio|cōĭcio=cōĭcĭo|20|cōjēc|cōjēct|is, ere|
+PO|
+WW|||coicio, cojeci|coicio, cojectum
+|curiose|cūrĭŏsē|cūrĭŏsē
+LS|curiose|cūrĭŏsē|||adv.|With care, carefully, Comp., Sup.|curiosus|. 
+GG|curiose|cūrĭōsē|||adv.|avec soin, avec intérêt, avec attention / avec recherche, affectation|curiose|
+GJ|curiose|curĭosē|adv.|- 1 - avec soin, soigneusement. - 2 - avec attention, avec curiosité. - 3 - avec recherche, avec affectation.
+Ge|curiose|cūriōsē|Adv.|mit großer Sorgfalt, mit großem Interesse, mit allem Bedachte, mit großer Aufmerksamkeit - neugierig - pedantisch - überfein
+FG|curiose|curiose (curiosus), avec soin, avec intérêt, avec attention ; avec curiosité ; avec recherche, affectation.
+Lw|curiose|(cūriosē)|||adv.|carefully, attentively, Curiously||||curiose
+YO|curiose|cūrĭŏsē|31|||adv.|
+PO|
+WW||||
+|decoriter|dĕcŏrĭtĕr|dĕcŏrĭtĕr
+LS|decoriter|dĕcŏrĭter|||adv.|elegantly, beautifully|decoris|0
+GG|decoriter|dĕcōrĭtĕr|||adv.|c. decore|decoriter|
+GJ|decoriter|dĕcōrĭtĕr|adv. (c. decore)|- 1 - convenablement, décemment, dignement. - 2 - artistement.
+Ge|decoriter|decoriter|Adv.|zierlich, schön
+FG|
+Lw|
+YO|decoriter|dĕcŏrĭter=dĕcŏrĭtĕr|32|||adv.|
+PO|
+WW||||
+|deductio|dēductĭo|dēdūctĭo
+LS|deductio|dēductĭo|ōnis|f.||a leading away, leading on|deductio|0
+GG|deductio|dēductīo|ōnis|f.||action d'emmener, de détourner / action d'emmener une colonie / éviction symbolique d'une possession / action d'emmener l'épouse au domicile conjugal / déduction, retranchement|deductio|
+GJ|deductio|dēductĭo|ōnis, f.|- 1 - action de tirer de, action de détourner. - 2 - action de conduire, action d'établir (une garnison, une colonie). - 3 - conduite d'une fiancée (à la maison de son époux). - 4 - éviction, dépossession, expulsion. - 5 - déduction, retranchement, diminution. - 6 - continuation d'un raisonnement, déduction.
+Ge|deductio|dēductio|ōnis, f.|das Abführen, Fortführen - das Abführen - das Geleiten - die Heimführung - schützende Geleit - das Abführen - die Übersiedelung - die Kolonisation - symbolische Abführen, Vertreiben - das Ableiten - vermindernde Abzug
+FG|deductio|deductio onis féminin (deduco), action d'emmener, de détourner ; action d'emmener une colonie ; déduction, retranchement ; sine ulla deductione, intégralement.
+Lw|deductio|dēductiō|ōnis|f||a leading away, conducting off, a leading forth, establishing, colonizing, an ejection, expulsion, A diminution, subtraction, deduction, an inference, course of reasoning||||deductio
+YO|deductio|dēductĭo=dēdūctĭō̆|5|dēdūctĭōn||onis, f.|
+PO|deductio|de_ductio_, de_ductio_nis : f
+WW||||
+|dehonesto|dĕhŏnesto|dĕhŏnēsto
+LS|dehonesto|dĕhŏnesto|āre||v. a.|to disgrace, disparage, dishonor|dehonesto|0
+GG|dehonesto|dēhŏnesto|āvi, ātum, āre||tr.|tr., déshonorer, dégrader, flétrir|dehonesto|
+GJ|dehonesto|dĕhŏnesto|āre, āvi, ātum|(Lebaigue P. 339 et P. 340) - tr. - 1 - défigurer. - 2 - déshonorer, dégrader, flétrir.
+Ge|dehonesto|dehonesto|Avī, Atum, Are|entehren, schänden, beschimpfen
+FG|dehonesto|dehonesto are avi atum, transitif, déshonorer, dégrader, flétrir.
+Lw|dehonesto|de-honestō|&mdash;, &mdash;, āre|||to disgrace, dishonor||||dehonesto
+YO|dehonesto|dĕhŏnesto=dĕhŏnēsto|17|||as, are|
+PO|dehonesto|dehonesto_, dehonesta_re, dehonesta_vi_, dehonesta_tum : v1
+WW|||dehonesto, dehonestavi|dehonesto, dehonestatum
+|denique|dēnĭquē|dēnĭqụē
+LS|denique|dēnĭquē|||adv.|and thereupon, and then, in the sequel|denique|0
+GG|denique|dēnĭquĕ||||et puis après, enfin [surtout dans une énumération, et alors il peut être suivi de postremo] / [terme d'une série d'actions] / [aboutissement] en fin de compte, finalement / [résultat attendu] enfin une bonne fois / [terme d'une gradation] en somme, bref / [en mettant les choses au mieux] tout au plus / [en mettant les choses au pis] tout au moins / bref, pour tout dire d'un mot / [anal. à demum] / après tout, en dernière analyse / [post.-class.] par suite / ainsi|denique|
+GJ|denique|denique|adv.|(Lebaigue P. 347 et P. 348) - 1 - ensuite, alors, maintenant. - 2 - à la fin, finalement, enfin. - 3 - puis, ensuite (dans une énumération); finalement. - 4 - même, et même, au moins; en somme, en un mot, bref. - 5 - en conséquence, ainsi, aussi.
+Ge|denique|dēnique|Adv. I)|und nun gar, nun gar - endlich, zuletzt - und außerdem auch - und sonach, und sodann, und dann - hintereinander, nach-, in der Reihe - am Ende - am Ende, am Ende doch - wie am Ende - nun endlich einmal, endlich doch - überhaupt - ja - oder überhaupt - ja, ja sogar, und sogar - oder sogar - aber was die Hauptsache ist - ( und - überhaupt, überhaupt aber - umfassen sei, kurz, mit einem Worte - die Folge von allem dem, mit einem Worte, kurzum - überhaupt alles - infolgedessen - auf diese Weise, auf die Art, so auch - Schlußfolge: infolgedessen - nun eben, dann eben, erst - jetzt erst - 5; jetzt eben - dann erst - 75; dann eben - eben, gerade
+FG|denique|denique,
+Lw|denique|dēnique|||adv.|and thenceforward, and thereafter, at last, at length, finally, lastly, only, not until||||denique
+YO|denique|dēnĭquĕ|30|||adv.|
+PO|denique|de_nique : adv
+WW||||
+|difficile|diffĭcĭlē|dīffĭcĭlē
+LS|difficile|diffĭcĭlē|||adv.|with difficulty|difficilis|0
+GG|difficile|diffĭcĭlĕ|||adv.|[rare] difficilement|difficile|
+GJ|difficile|difficile|adv.|difficilement.
+Ge|
+FG|
+Lw|
+YO|difficile|diffĭcĭlē=dīffĭcĭlē|31|||adv.|
+PO|
+WW||||
+|draconteus|drăcontĕus|drăcōntĕus
+LS|draconteus|dracontĕus|a, um||adj.|of a serpent, serpent's|draconteus|0
+GG|draconteus|drăcontēus|a, um|||de dragon|draconteus|
+GJ|draconteus|drăcontēus|a, um|de serpent.
+Ge|draconteus|draconteus|a, um|vom Drachen, Drachen-
+FG|
+Lw|
+YO|draconteus|drăcontĕus=drăcōntĕus|11|||a, um|
+PO|
+WW||||
+|ego|ĕgō|ĕgō
+LS|ego|ĕgō̆|||pron. pers.|I|ego|(ŏ always in poets of the best age, as Cat., Verg., Hor., etc.; ō ante-class. and post-Aug., as 
+GG|ego|ĕgŏ|mĕi, mĭhi, mē, mē|m. f.||moi, je / [pour insister] egomet, mihimet, memet (abl.), moi-même / mihi s'emploie qqf de façon explétive [datif éthique]|ego|
+GJ|ego|ĕgŏ|(gén. mei; dat. mihi ou qqf. mi; abl. et acc. me), m. et f.|je, moi, personnellement, pour moi, quant à moi, c'est moi qui.
+Ge|ego|ego|Pron. pers.|wir - wie wir für ich - zu mir - in mein Haus, zu den Meinigen - von dem Meinigen, aus meiner Tasche (Kasse) - aus meinem Hause - ich selbst - ich für mein Teil
+FG|ego|ego, mei, mihi, me, masculin ou féminin, moi je ; ego et tu praesumus..., toi et moi nous présidons... ; egone ? moi ? ; (pour insister) egomet, mihimet, memet (ablatif), moi-même ; me consule, sous mon consulat.
+Lw|ego|ego||||I, me, we, us, pleonast, I should like to know, must I hear?, ab or ad, my house, our house, at home, cum, in my absence||||ego
+YO|ego|ĕgō|29|||mei|
+PO|ego|ego : pn
+WW||||
+|exinde|exindē|ēxīndē
+LS|exinde|exindē|like him, illim||adv.|from there, from that place, thence|exinde|and apocopated 
+GG|exinde|exindĕ|||adv.|de là, de ce lieu / [succession] exim, après cela, ensuite / de là, par suite, en conséquence / [temps] ensuite, après cela / à partir de ce moment-là|exinde|exindĕ
+GJ|exinde|exinde|adv.|de là, de ce lieu, par suite, ensuite.
+Ge|exinde|exinde||von da, von da her - daher, daraufhin - von hier, hierauf - hierauf, nachher, alsdann - seit jener Zeit, seitdem - seitdem - seitdem daß - hierauf, alsdann, nächstdem
+FG|exinde|exinde (exin, exim), après cela, ensuite.
+Lw|exinde|ex-inde|||adv.|after that, thereafter, then||||exinde
+YO|exinde|exindĕ=ēxīndĕ|30|||adv.|
+PO|exinde|exinde : adv
+WW||||
+|fervefacio|fervĕfăcĭo|fērvĕfăcĭo
+LS|fervefacio|fervĕfăcĭo|fēci, factum, 3||v. a.|to cause to boil, to make hot, to heat, boil, melt, part. perf.|fervefacio|0
+GG|fervefacio|fervēfăcĭo|fēci, factum, ĕre||tr.|tr., chauffer, échauffer, faire bouillir, cuire|fervefacio|
+GJ|fervefacio|fervēfăcĭo|ĕre|- tr. - faire bouillir, chauffer.
+Ge|fervefacio|fervefacio|fēcī, factum, ere|siedend heiß-, glühend machen
+FG|fervefacio|fervefacio ere feci factum (ferveo, facio), transitif, chauffer, échauffer, faire bouillir, faire cuire.
+Lw|
+YO|fervefacio|fervĕfăcĭo=fērvĕfăcĭo|20|fērvĕfēc|fērvĕfāct|is, ere, feci, factum|
+PO|fervefacio|fervefacio_, fervefacere, fervefe_ci_, fervefactum : v3
+WW|||fervefacio, fervefeci|fervefacio, fervefactum
+|focilo|fŏcĭlo|fŏcĭlo
+LS|focilo|fŏcĭlo|āvi, ātum, 1||v. a.||focillo|(
+GG|focilo|fōcĭlo|āvi, ātum, āre||tr.|tr., ranimer, faire revenir à soi / [fig.] réconforter|focilo|fōcĭlo
+GJ|focilo|focilo|āre, ātum|- tr. - réchauffer, réconforter, rétablir, soigner (au pr. et au fig.).
+Ge|focilo|focilo||wieder ins Leben zurückbringen, wieder lebend machen
+FG|focilo|focilo are avi atum (focus), transitif, ranimer, faire revenir à soi ; (figuré) réconforter.
+Lw|
+YO|focilo|fŏcĭlo|17|||as, are|
+PO|
+WW|||focilo, focilavi|focilo, focilatum
+|fortasse|fortassē|fōrtāssē
+LS|fortasse|fortassē|||adv.|perhaps, peradventure, probably, possibly, sed, nisi, sed tamen, verum tamen, quidem|fortasse|(also 
+GG|fortasse|fortassĕ|||adv.|adv., peut-être bien, il se pourrait / à peu près|fortasse|
+GJ|fortasse|fortasse|adv.|- 1 - peut-être. - 2 - (avec un adj. cardinal) peut-être, environ, à peu près, presque.
+Ge|fortasse|fortāsse|Adv.|vielleicht, hoffentlich, wohl, etwa, möglich - kann sein, daß, sollte, ich denke - etwa, ungefähr
+FG|fortasse|fortasse, adverbe, peut-être bien, il se pourrait.
+Lw|fortasse|fortasse|||adv.|perhaps, peradventure, probably, possibly, about||||fortasse
+YO|fortasse|fortassē=fōrtāssē|30|||adv.|
+PO|fortasse|fortasse : adv
+WW||||
+|forte|fortē|fōrtē
+LS|forte|fortē|||adv.|by chance, by accident, casually, accidentally;|forte|0
+GG|forte|fortĕ|||adv.|par hasard, d'aventure|forte|
+GJ|forte|forte|abl. de fors pris comme adv.|- 1 - par hasard, d'aventure. - 2 - qqf. peut-être.
+Ge|
+FG|forte|forte, adverbe, (fors), par hasard, d'aventure : (expressions) si forte, nisi forte, si par hasard, à moins que par hasard, à moins peut-être que.
+Lw|forte|forte|||adv.|by chance, by accident, casually, accidentally, Once, once on a time, Perhaps, perchance, peradventure, Unless indeed, unless to be sure||||forte
+YO|forte|fortē=fōrtē|30|||adv.|
+PO|forte|forte : adv
+WW||||
+|gentilicius|gentĭlīcĭus|gēntĭlīcĭus
+LS|gentilicius|gentĭlīcĭus|a, um||adj.|of or belonging to a particular clan|gentilicius|or 
+GG|gentilicius|gentīlĭcĭus|a, um||adj.|propre à une famille / national|gentilicius|gentīlĭcĭus
+GJ|gentilicius|gentīlĭcĭus|a, um|- 1 - relatif à une race, propre à une famille. - 2 - de nation, national.
+Ge|gentilicius|gentīlicius|a, um|zum Geschlechte - gehörig, Geschlechts- - national, Volks- - heidnisch
+FG|gentilicius|gentilicius ou -tius a um (gentilis), propre à une famille ; national.
+Lw|gentilicius|gentīlīcius (-tius)|||adj.|of a clan, belonging to a gens||||gentilicius
+YO|gentilicius|gentĭlīcĭus=gēntĭlīcĭus|11|||a, um|
+PO|gentilicius|genti_licius, genti_licia, genti_licium : a
+WW||||
+|hadriaticus|Hādrĭātĭcus|Hādrĭātĭcus
+LS|Hadriaticus|Hādrĭātĭcus|a, um||adj.||Hadria|(
+GG|Hadriaticus|Hădrĭātĭcus|a, um||adj.|de la mer Adriatique|Hadria|-ĭātĭcus
+GJ|
+Ge|
+FG|
+Lw|
+YO|hadriaticus|Hādrĭātĭcus|11|||a, um|
+PO|
+WW||||
+|herennius|Hērennĭus|Hērēnnĭus
+LS|Herennius|Hērennĭus|a|||the name of a Roman gens, to whom the, of Cornificius is dedicated, a Samnite|Herennius|0
+GG|Herennius|Hĕrennĭus|ĭi|m. m.||nom de famille romaine / Hérennius, orateur / Hérennius Sénécio, historien|Herennius|
+GJ|Herennius|Hĕrennĭus|ĭi, m.|Herennius (nom de plusieurs Romains, entre autres, C. Hérennius, auquel est adressée la Réthorique, attribuée à Cicéron).
+Ge|Herennius|Herennius|a, um|herennianisch, des Herennius
+FG|
+Lw|
+YO|herennius|Hērennĭus=Hērēnnĭus|1|||i, m.|
+PO|
+WW||||
+|idus|Īdūs|Īdūs
+LS|Idus|Īdus|ŭum|f.||one of the three days in each month from which the other days were reckoned in the Roman calendar, the Ides; it fell upon the fifteenth day of March, May, July, and October; upon the thirteenth day in the remaining months|Idus|(often 
+GG|idus|īdūs|ŭum|f.||les ides [le jour qui partage le mois en deux ; le 15 des mois de mars, mai, juillet, octobre ; le 13 des autres mois]|idus|
+GJ|idus|īdūs|īdŭum, f. [iduo]|les ides (au milieu du mois, le 15 en mars, mai, juillet et octobre, le 13 pour les autres mois; c'était l'époque où les débiteurs payaient les créanciers).
+Ge|Idus|Idūs||die Iden
+FG|idus|idus uum, féminin, les ides (le jour qui partage le mois en deux ; le 15 des mois de mars, mai, juillet, octobre ; le 13 des autres mois).
+Lw|Idus|īdūs|īduum|f||the ides, middle of the month (the fifteenth day of March, May, July, and October; the thirteenth of every other month)||||Idus
+YO|idus|Īdus|9|||uum, f.|
+PO|idus|I_dus, I_du_s : fpl
+WW||||
+|inicio|īnĭcĭo|īnĭcĭo
+LS|inicio|īnĭcĭo|3||v. a.||inicio|(less correctly 
+GG|inicio|ĭnĭcĭo|ĕre|||v. injicio.|inicio|
+GJ|inicio|inicio|ĕre, injēci, injectum [in + jacio]|- tr. - 1 - jeter dans, jeter sur, jeter contre. - 2 - jeter sur, mettre sur, appliquer, adapter. - 3 - introduire (dans un discours), dire brusquement, insinuer. - 4 - faire naître, inspirer, susciter, provoquer.
+Ge|inicio|inicio|iēcī, iectum, ere|hineinwerfen, -stürzen, -legen, -tun, -lassen - einjagen, einflößen, beibringen, verursachen, veranlassen - Gespräche hinwerfen, einfließen-, verlauten lassen - auf-, an - werfen, legen - anwerfen, anlegen, überwerfen, umwerfen - Hand an einen legen - mit Gewalt durchsetzen - als sein Eigentum - Entscheidung in Besitz nehmen, -sich zueignen
+FG|inicio|inicio ere, cf. injicio.
+Lw|inicio|iniciō||||to throw in, put in, hurl upon, put on, cast on, set into, bury, To form by throwing, heap up, build, To insert, build in, To put on, throw over, impose, apply, attack, falling over, to lay hands on, seize, take possession of, checks, to bring into, inspire, suggest, impress, infuse, occasion, cause, furnish, given, dwelling on.&mdash;To throw out a hint, mention, suggest||||inicio
+YO|inicio|īnĭcĭo|20|īnĭēc|īnĭēct|is, ere, ieci, iectum|
+PO|inicio|inicio_, inicere, inie_ci_, iniectum : v3
+WW|||inicio, injeci|inicio, injectum
+|iniquitas|ĭnīquĭtās|ĭnīqụĭtās
+LS|iniquitas|ĭnīquĭtas|ātis|f.||gen. plur., unequalness.|iniquitas|0
+GG|iniquitas|īnīquĭtās|ātis|f.||inégalité [terrain] / action d'excéder ses forces / condition défavorable, désavantage, difficulté, adversité, malheur / injustice, iniquité|iniquitas|
+GJ|iniquitas|iniquĭtās|ātis, f.|- 1 - inégalité, aspérité (du sol). - 2 - excès, disproportion. - 3 - désavantage (d'une position militaire), situation fâcheuse, malheur. - 4 - injustice.
+Ge|iniquitas|inīquitās|ātis, f.|selbst Ungleiche - die Ungleichheit - die Unebenheit - die Schwierigkeit, Ungünstigkeit - die Ungleichheit - das ungleiche Verhältnis - das Übermaß - die Unbilligkeit, Ungerechtigkeit, unbillige-, ungerechte-, übertriebene Forderung, unbillige Strenge, Härte
+FG|iniquitas|iniquitas atis féminin (iniquus),
+Lw|iniquitas|inīquitās|ātis|f||inequality, unevenness, unfavorableness, difficulty, hardness, Unfairness, injustice, unreasonableness, unreasonable demands, enforcing unjust measures||||iniquitas
+YO|iniquitas|ĭnīquĭtās|5|ĭnīquĭtāt||atis, f.|
+PO|iniquitas|ini_quita_s, ini_quita_tis : f
+WW||||
+|janitor|jānĭtŏr|jānĭtŏr
+LS|janitor|jānĭtor|ōris|m.||a door-keeper, porter, janitor|janitor|(&Dagger; 
+GG|janitor|jănĭtŏr|ōris|m.||portier [esclave généralt enchaîné, à proximité du chien de garde]|janitor|
+GJ|janitor|jānĭtŏr|ōris, m. [janua]|portier, gardien.
+Ge|ianitor|iānitor|ōris, m.|der Pförtner, Türhüter
+FG|janitor|janitor oris masculin (janua), porte d'entrée ; (figuré) entrée, accès, chemin.
+Lw|ianitor|īānitor|ōris|m||a door-keeper, porter, janitor, Janus, Cerberus||||ianitor
+YO|janitor|jānĭtor=jānĭtŏr|5|jānĭtōr||oris, m.|
+PO|janitor|ja_nitor, ja_nito_ris : m
+WW||||
+|latericius|lătĕrīcĭus|lătĕrīcĭus
+LS|latericius|lătĕrīcĭus|a, um||adj.|made, consisting of bricks, subst.|latericius|or 
+GG|latericius|lătĕrĭcĭus|a, um||adj.|de brique, en brique|latericius|lătĕrĭcĭus
+GJ|latericius|lătĕrĭcĭus|a, um [later]|de brique, en brique.
+Ge|latericius|latericius|a, um|aus Ziegeln gemacht, -bestehend
+FG|latericius|latericius ou -tius a um (later), de brique, en brique ; latericium, neutre, briquetage, maçonnerie de brique.
+Lw|latericius|laterīcius|a, um||adj.|made of bricks, n., brickwork||||latericius
+YO|latericius|lătĕrīcĭus|11|||a, um|
+PO|latericius|latericius, latericia, latericium : a
+WW||||
+|limes|līmĕs|līmĕs
+LS|limes|līmĕs|ĭtis|m.||a cross-path, balk|limes|0
+GG|limes|līmēs|ĭtis|m.||sentier, passage entre deux champs / bordure, limite / rempart / [en gén.] sentier, chemin, route / veine [dans une pierre précieuse] / sillon, trace / [fig.] limite, frontière|limes|
+GJ|limes|līmes|līmĭtis, m.|(Lebaigue P. 714 et P. 715) - 1 - chemin de traverse, chemin, sentier, route. - 2 - lit (d'un fleuve). - 3 - sillon, trace. - 4 - limite, borne. - 5 - frontière fortifiée. - 6 - distinction, différence.
+Ge|limes|līmes|itis, m.|der Querweg, Rain - als Grenzlinie - bezeichnete Grenzlinie, Grenzscheide, Grenzmark, Grenze - die Grenzlinie - als Ziel - als Unterschied - die befestigte Grenzlinie - der Grenzwall - jede Weglinie, Feldweg, Vizinalweg, Steig - gehender Weg, Straße - die Linie, Ader
+FG|limes|limes itis masculin,
+Lw|limes|līmes|itis|m||a path, passage, road, way, track, by-roads, the line of the Appian way, channel, track, the zodiac, A boundary, limit, land-mark, A fortified boundary-line, boundary-wall, a boundary, limit, A way, path, the same means||||limes
+YO|limes|līmĕs|5|līmĭt||itis, m.|
+PO|limes|li_mes, li_mitis : m
+WW||||
+|lusitanus|Lūsĭtānus|Lūsĭtānus
+LS|Lusitanus|Lūsĭtānus|a, um||adj.|of or belonging to Lusitania, Lusitanian, plur. subst.|Lusitania|0
+GG|Lusitanus|Lūsītānus|a, um|m. pl.|adj.|de Lusitanie / habitants de la Lusitanie, Lusitaniens|Lusitania|-tānus
+GJ|
+Ge|
+FG|
+Lw|
+YO|lusitanus|Lūsĭtānus|1|||i, m.|
+PO|
+WW||||
+|magnopere|magnŏpĕrē|māgnŏpĕrē
+LS|magnopere|magnŏpĕrē|||adv.|very much, greatly, exceedingly, particularly, earnestly|magnopere|(so written by Plaut., C&aelig;s., Liv., and Sen., but ap. Ter., Cic., Plin. H. N., the best MSS. and edd. have 
+GG|magnopere|magnŏpĕrĕ|||adv.|grandement, fortement / [au comp. et superl.] / beaucoup, très / [surtout avec nég.] pas considérablement, pas beaucoup|magnopere|magnŏpĕrĕ
+GJ|magnopere|magnopĕrĕ|adv. (compar. magis ou majore opere; superl. maxime ou maximo opere)|grandement, fortement, beaucoup.
+Ge|magnopere|māgnopere|Adv.|von ganzer Seele, nachdrücklich, dringend, recht angelegentlich - im hohen Grade, sehr, ganz besonders - Negation oft = nicht erheblich, nicht eben sehr, nicht eben groß, nicht leicht
+FG|magnopere|magnopere (magno opere), adverbe,
+Lw|magnopere|māgnoperē|||adv.|very much, greatly, exceedingly, particularly, Earnestly, zealously, vehemently, heartily, urgently, most particularly||||magnopere
+YO|magnopere|magnŏpĕrē=māgnŏpĕrē|30|||adv.|
+PO|magnopere|magnopere : adv
+WW||||
+|miserandus|mĭsĕrandus|mĭsĕrāndus
+LS|miserandus|mĭsĕrandus|a, um||P. a.||miserandus|0
+GG|miserandus|mĭsērandus|a, um|||de miseror / digne de pitié [pers.] / déplorable [choses]|miserandus|
+GJ|miserandus|miserandus|a, um|adj. verb. de miseror. - 1 - digne de pitié. - 2 - déplorable.
+Ge|miserandus|miserandus|a, um|bejammerns-, beklagenswert, kläglich
+FG|miserandus|miserandus a um, verbal de miseror, digne de pitié ; déplorable.
+Lw|miserandus|miserandus|a, um||adj.|lamentable, deplorable, pitiable, touching, affecting, pitiably||||miserandus
+YO|miserandus|mĭsĕrandus=mĭsĕrāndus|11|||a, um|
+PO|
+WW||||
+|neria|Nērĭa|Nērĭa
+LS|Neria|Nēria|ae|f.||the companion and wife of Mars; nom., acc.|Nerio|and 
+GG|Neria|Nĕrĭa|ae|f.|subst.|Néria, Nério, Nériène [déesse des Sabins, épouse de Mars]|Neria|Nĕrĭa
+GJ|Neria|Nĕrĭa|ae, f. (Nĕrĭĕnē ou Nĕrĭēnē, ēs, f. ; Nĕrĭo, ēnis, f)|Néria ou Nériène ou Nério (déesse des Sabins, épouse de Mars).
+Ge|
+FG|
+Lw|
+YO|neria|Nēria=Nērĭa|0|||ae, f.|
+PO|
+WW||||
+|octo|octŏ|ōctŏ
+LS|octo|octŏ|||num. adj.|eight|octo|0
+GG|octo|octō||||huit|octo|
+GJ|octo|octo|indecl.|huit.
+Ge|octo|octō||acht
+FG|octo|octo, indéclinable, huit.
+Lw|
+YO|octo|octō=ōctō|30|||adj. num. inv.|
+PO|octo|octo : a indec
+WW||||
+|plerumque|plērumquē|plērūmqụē
+LS|plerumque|plērumquē||n.|adv.|-I. the greatest part -II. for the most part, mostly, commonly, very often, very frequently, often, frequently|plerusque|0
+GG|plerumque|plērumquĕ|||adv.|adv., la plupart du temps, ordinairement, généralement / souvent|plerumque|
+GJ|plerumque|plērumque|adv.|- 1 - la plupart du temps, le plus souvent, ordinairement, généralement. - 2 - souvent.
+Ge|
+FG|plerumque|plerumque (plerusque),
+Lw|plerumque|plērumque|||adv.|for the most part, mostly, commonly, generally, Often, frequently||||plerumque
+YO|plerumque|plērumquē=plērūmquē|30|||adv.|
+PO|plerumque|ple_rumque : adv
+WW||||
+|promoveo|prōmōvĕo|prōmōvĕo
+LS|promoveo|prōmōvĕo|mōvi, mōtum, 2||v. a.|to move forward, cause to advance, push onward, advance.|promoveo|0
+GG|promoveo|prōmŏvĕo|mōvi, mōtum, ēre||tr.|pousser en avant, faire avancer / étendre, agrandir / se déplacer / faire monter en grade / développer / faire sortir / reculer, ajourner / avec nihil, aliquid, parum, avancer, faire des progrès|promoveo|
+GJ|promoveo|prōmŏvĕo|ēre, mōvi, mōtum|- tr. - 1 - pousser en avant, faire avancer. 2 - étendre, agrandir, développer. 3 - déplacer. 4 - faire monter en grade. 5 - faire sortir. 6 - reculer, ajourner. 7 - avancer, faire des progrès.
+Ge|promoveo|prōmoveo|mōvī, mōtum, Ere|vor-, vorwärts bewegen, vor-, fortschieben, vor-, fortrücken - rücken lassen - vorbringen, mit - vorgehen - Punkte vorrücken, vorschieben - verrenken - sich verrenken - vorrücken - erweitern, ausdehnen, vergrößern - fördern, ausrichten - gedeihen machen, heben - vorrücken, zunehmen - politisch aufrücken lassen - Militärstelle befördern - nach verschieben, aufschieben - einsetzen, ernennen
+FG|promoveo|promoveo ere movi motum, transitif,
+Lw|promoveo|prō-moveō|mōvī|||to move forward, cause to advance, push onward, advance, Fig., to bring to pass, effect, accomplish||||promoveo
+YO|promoveo|prōmŏvĕo|18|prōmōv|prōmōt|es, ere, moui, motum|
+PO|promoveo|pro_moveo_, pro_move_re, pro_mo_vi_, pro_mo_tum : v2
+WW|||promoveo, promovi|promoveo, promotum
+|pugio|pŭgĭo|pŭgĭo
+LS|pugio|pŭgĭo|ōnis|m.||A short weapon for stabbing, a dagger, dirk, poniard|pugio|0
+GG|pugio|pūgĭo|ōnis|m.||poignard / signe du pouvoir des empereurs, droit de vie et de mort|pugio|
+GJ|pugio|pŭgĭo|ōnis, m. [pungo]|1 - poignard. 2 - signe du pouvoir des empereurs, droit de vie et de mort.
+Ge|pugio|pūgio|ōnis, m.|der Dolch - das Stilett
+FG|pugio|pugio onis masculin (pungo), poignard.
+Lw|pugio|pūgiō|ōnis|m||a short dagger, dirk, poniard, O leaden dagger!, O weak argument!||||pugio
+YO|pugio|pŭgĭo=pŭgĭō̆|5|pŭgĭōn||ionis, f.|
+PO|pugio|pugio_, pugio_nis : m
+WW||||
+|quandoquidem|quandōquĭdem|qụāndōqụĭdĕm
+LS|quandoquidem|quandōquĭdem|||adv.|since indeed, since, seeing that|quandoquidem|(o scanned short, 
+GG|quandoquidem|quandŏquĭdem|||conj.|conj., puisque|quandoquidem|
+GJ|quandoquidem|quandŏquĭdem|conj. (avec indic. ou subj.)|puisque.
+Ge|quandoquidem|quandōquidem|Coni.|da nämlich, da (weil) eben, da ja, da allerdings
+FG|quandoquidem|quandoquidem, conjonction, puisque.
+Lw|quandoquidem|quandō-quidem or quando-quidem|||adv.|since indeed, since, seeing that||||quandoquidem
+YO|quandoquidem|quandōquĭdem=quāndōquĭdĕm|30|||conj.|
+PO|quandoquidem|quandoquidem : conj
+WW||||
+|quapropter|quăproptĕr|qụăprōptĕr
+LS|quapropter|quăpropter|||adv.|for what, wherefore, why.|quapropter|(in tmesi: 
+GG|quapropter|quāproptĕr|||adv. conj.|interr., pourquoi / relatif / [conj. de coord.], c'est pourquoi|quapropter|
+GJ|quapropter|quaproptĕr|adv.|- 1 - pourquoi. - 2 - c'est pourquoi.
+Ge|quapropter|quāpropter||weswegen, weshalb, warum - daher, deswegen, deshalb
+FG|quapropter|quapropter, conjonction de coordination, c'est pourquoi.
+Lw|quapropter|quā-propter|||adv.|Interrog., for what, wherefore, why||||quapropter
+YO|quapropter|quăpropter=quā̆prōptĕr|30|||rel.|
+PO|quapropter|qua_propter : adv
+WW||||
+|quatuor|quātŭŏr|qụātŭŏr
+LS|quatuor|quātŭor|||num. adj.|four|quattuor|less correctly 
+GG|quatuor|quătŭŏr|indecl.|||ind., quatre|quattuor|quătŭŏr
+GJ|quatuor|quătŭŏr|adj. num. indecl.|quatre.
+Ge|
+FG|
+Lw|
+YO|quatuor|quātŭor=quātŭŏr|30|||cf. quattuor|
+PO|
+WW||||
+|quinquagesimus|quinquāgēsĭmus|qụīnqụāgēsĭmus
+LS|quinquagesimus|quinquāgēsĭmus|a, um||num. adj.|The fiftieth|quinquagesimus|0
+GG|quinquagesimus|quinquāgēsīmus|a, um||adj.|cinquantième|quinquagesimus|quinquāgēsīmus
+GJ|quinquagesimus|quinquāgēsĭmus|a, um|cinquantième.
+Ge|quinquagesimus|quīnquāgēsimus|a, um, Num.|der fünfzigste - der fünfzigste Teil - der Fünfzigste - der Pfingsttag
+FG|quinquagesimus|quinquagesimus a um, cinquantième ; quinquagesima ae féminin, impôt du cinquantième.
+Lw|quinquagesimus|quīnquāgēsimus||||the fiftieth, f, a fiftieth part, fiftieth, four per cent||||quinquagesimus
+YO|quinquagesimus|quinquāgēsĭmus=quīnquāgēsĭmus|11|-|-|(ou -ensimus) a, um|
+PO|quinquagesimus|qui_nqua_ge_simus, qui_nqua_ge_sima, qui_nqua_ge_simum : a
+WW||||
+|quousque|quŏusquē|qụŏūsqụē
+LS|quousque|quŏusquē|||adv.||quousque|(also separated, quo enim usque, 
+GG|quousque|quŏusquĕ|||adv.|jusqu'où, jusqu'à quel point / jusqu'à quand ? jusques à quand ?|quousque|
+GJ|quousque|quousque|adv. inter.|- 1 - jusqu'où? - 2 - jusqu'à quand?
+Ge|quousque|quousque|Adv., I)|wie weit - wie weit, inwiefern - wie lange
+FG|quousque|quousque, adverbe (interrogation directe et indirecte),
+Lw|quousque|quoūsque or quo ūsque|||adv.|until what time, till when, how long||||quousque
+YO|quousque|quŏusquē=quŏūsquē|30|||conj.|
+PO|quousque|quo_usque : adv
+WW||||
+|repente|rĕpentē|rĕpēntē
+LS|repente|rĕpentē|||adv.|suddenly, unexpectedly|repente|0
+GG|repente|rĕpentĕ|||adv.|adv., tout à coup, soudainement, soudain|repente|
+GJ|repente|rĕpente|adv.|tout à coup, à l'improviste.
+Ge|repente|repente|Adv.|plötzlich, mit einem Schlage, unvermutet
+FG|repente|repente (repens), adverbe, tout à coup, soudainement, soudain.
+Lw|repente|repente|||adv.|suddenly, unexpectedly, on a sudden||||repente
+YO|repente|rĕpentĕ=rĕpēntĕ|31|||adv.|
+PO|repente|repente : adv
+WW||||
+|ruminus|Rūmīnus|Rūmīnus
+LS|Ruminus|Rūmīnus|i|m.||an epithet of Jupiter, as the nourisher of all things|Ruminus|0
+GG|Ruminus|Rūmĭnus|i|m.||nourricier [épith. de Jupiter]|Ruminus|
+GJ|
+Ge|Ruminus|Rūminus|ī, m.|der Allernährer, Beiname Jupiters
+FG|
+Lw|
+YO|ruminus|Rūmīnus|11|||a, um|
+PO|
+WW||||
+|sacrosanctus|sā̆crōsanctus|sā̆crōsānctus
+LS|sacrosanctus|sā̆crōsanctus|and per tmesin, sacroque sanctum||adj.|inaugurated, consecrated with religious ceremonies|sacrosanctus|(sometimes separately, 
+GG|sacrosanctus|săcrŏsanctus|a, um|||déclaré inviolable, sacré / auguste, sacré|sacrosanctus|
+GJ|sacrosanctus|sacrosanctus|a, um|consacré, sacré, inviolable, auguste.
+Ge|sacrosanctus|sacrōsānctus|a, um|unverletzlich - hochheilig - hochheilig - ehrwürdig
+FG|sacrosanctus|sacrosanctus a um (sacer sanctus),
+Lw|sacrosanctus|sacrō-sānctus or sacrō sānctus|a, um||adj.|consecrated with religious ceremonies, most holy, sacred, inviolable||||sacrosanctus
+YO|sacrosanctus|săcrōsanctus=sā̆crōsānctus|11|||a, um|
+PO|sacrosanctus|sacro_sa_nctus, sacro_sa_ncta, sacro_sa_nctum : a
+WW||||
+|satelles|sătellĕs|sătēllĕs
+LS|satelles|sătellĕs|ĭtis|comm.||an attendant, a lifeguard;, attendants, escort, train, retinue|satelles|0
+GG|satelles|sătellēs|ĭtis|m.||garde [d'un prince], garde du corps, satellite, soldat ; pl., la garde, l'escorte / [fig.] (m. f.) compagnon ou compagne, escorte, serviteur / défenseur, champion / ministre [de], auxiliaire, complice|satelles|
+GJ|satelles|satelles|itis, m.|- 1 - garde, garde du corps, satellite, compagnon, serviteur. - 2 - au fig. gardien, partisan, acolyte; complice.
+Ge|satelles|satelles|itis, c.|der Trabant - das Gefolge - der Anhang - der Begleiter - der Helfershelfer, Spießgeselle
+FG|satelles|satelles itis,
+Lw|satelles|satelles|itis|m||an attendant, follower, courtier, life-guard||||satelles
+YO|satelles|sătellĕs=sătēllĕs|5|sătēllĭt||tellitis, m. ou f.|
+PO|satelles|satelles, satellitis : m
+WW||||
+|senones|Sē̆nōnes|Sē̆nōnes
+LS|Senones|Sē̆nōnes|um|m.||A people in Gallia Lugdunensis, whose chief city was Agendicum, now Sens|Senones|or 
+GG|Senones|Sĕnŏnes|um|m.||Sénonais [peuple de la Gaule Lyonnaise, habitant le pays de Sens] / ou Senon / peuple gaulois établi dans la Gaule Cisalpine|Senones|
+GJ|Senones|Senones|um, m.|les Sénonais (peuple de la Gaule, peuple de la région de Sens ou peuple de la Gaule Cisalpine).
+Ge|Senones|Senonēs|um, m., I)|ein Senone - s enonisch
+FG|
+Lw|
+YO|senones|Sĕnŏnes=Sĕnŏnēs|5|Sĕnŏn||um, m. pl.|
+PO|
+WW||||
+|simulator|sĭmŭlātŏr|sĭmŭlātŏr
+LS|simulator|sĭmŭlātor|ōris|m.||A copier, imitator|simulator|0
+GG|simulator|sīmŭlātŏr|ōris|m.||celui qui représente, qui copie, imitateur / celui qui feint, qui simule|simulator|
+GJ|simulator|simulātŏr|ōris, m.|- 1 - imitateur, qui copie, qui contrefait. - 2 - qui simule, qui feint.
+Ge|simulator|simulātor|ōris, m.|der Nachahmer - der Heuchler, fälschlich Vorgeber
+FG|simulator|simulator oris masculin (simulo),
+Lw|simulator|simulātor|ōris|m||a copier, imitator, A feigner, pretender, simulator, a master of irony||||simulator
+YO|simulator|sĭmŭlātor=sĭmŭlātŏr|5|sĭmŭlātōr||oris, m.|
+PO|simulator|simula_tor, simula_to_ris : m
+WW||||
+|siparum|sĭpărum|sĭpărŭm
+LS|siparum|sĭpărum|i|n.||A linen garment worn by women|supparum|(
+GG|siparum|sīpărum|i|n.|subst.|c. supparum, petite voile de perroquet.|siparum|sīpărum
+GJ|siparum|sīparum|i, n.|petite voile de perrroquet (voile de navire).
+Ge|
+FG|siparum|siparum i neutre, ou sipharum, cf. supparum, petite voile de perroquet.
+Lw|
+YO|siparum|sīpărum=sīpărŭm|4|||i, n.|
+PO|
+WW||||
+|socordia|sōcordĭa|sōcōrdĭa
+LS|socordia|sōcordĭa|ae|f.||dulness of mind|socordia|(o short, 
+GG|socordia|sŏcordĭa|ae|f.|subst.|défaut d'intelligence, stupidité / défaut de coeur, d'énergie ; insouciance, indolence, lâcheté|socordia|sŏcordĭa
+GJ|socordia|sŏcordĭa|(sēcordĭa), ae, f. [se (= sine) + cor]|1 - défaut d'intelligence, stupidité. 2 - défaut de coeur, d'énergie ; insouciance, indolence, lâcheté.
+Ge|socordia|sōcordia|ae, f.|die geistige Trägheit, Stumpfheit - geistige Beschränktheit, Geistesschwäche - die Sorglosigkeit, Gedankenlosigkeit, Fahrlässigkeit, Schlaffheit
+FG|socordia|socordia (secordia) ae féminin (socors),
+Lw|socordia|sōcordia|ae|f||dulness, carelessness, negligence, sloth, laziness, indolence, inactivity||||socordia
+YO|socordia|sōcordĭa=sōcōrdĭa|0|||ae, f.|
+PO|socordia|so_cordia, so_cordiae : f
+WW||||
+|socors|sōcors|sōcōrs
+LS|socors|sōcors|cordis||adj.|mentally dull|socors|(o short, 
+GG|socors|sŏcors|dis|||qui manque d'intelligence, qui est d'esprit borné, stupide / qui manque de coeur, d'énergie ; insouciant, indolent, apathique|socors|
+GJ|socors|sŏcors|cordis [se + cor]|1 - qui manque d'intelligence, qui est d'esprit borné, stupide. 2 - qui manque de coeur, d'énergie ; insouciant, indolent, apathique.
+Ge|socors|sōcors|cordis|geistig träge, stumpfsinnig - beschränkten Geistes, geistesschwach, einfältig - sorglos, gedankenlos, fahrlässig, schlaff
+FG|socors|socors dis (se cor),
+Lw|socors|sōcors|cordis||adj.|without spirit, unenterprising, negligent, sluggish, slothful, inactive, Without intelligence, narrow-minded, silly, foolish, stupid||||socors
+YO|socors|sōcors=sōcōrs|14|sōcōrd||ordis|
+PO|socors|so_cors, so_cordis : a
+WW||socors, socordis||
+|statilius|Stătĭlĭus|Stătĭlĭus
+LS|Statilius|Stătĭlĭus|ii|m.||a Roman name.|Statilius|0
+GG|Statilius|Stătīlĭus|ĭi|m.||nom de famille rom. / nott L. Statilius, complice de Catilina / nom d'un augure|Statilius|
+GJ|Statilius|Stătĭlĭus|ĭi, m.|Statilius (nom d'homme).
+Ge|
+FG|
+Lw|
+YO|statilius|Stătĭlĭus|1|||i, m.|
+PO|
+WW||||
+|subicio|sūbĭcĭo|sūbĭcĭo
+LS|subicio|sūbĭcĭo|jēci, jectum, 3||v. a.|to throw, lay, place, bring under, near, sub, acc.;, sub|subicio|(less correctly 
+GG|subicio|sŭbĭcĭo|ĕre|||v. subjicio.|subicio|
+GJ|subicio|sŭbĭcĭo|ĕre, jēci, jectum [sub + jacio]|(Lebaigue P. 1204 et P. 1205) - tr. - (avec dat. ou avec sub + acc. ou abl.)
+Ge|subicio|subicio|iēcī, iectum, ere|unter - unten - werfen, -legen, -setzen, -stellen, - fügen, -bringen - Niederungen, Talgründe - nahe (unten) - Ort heranrücken lassen - darreichen, überreichen - unterwerfen, unterwürfig machen - unterwerfen, aussetzen, preisgeben - unterordnen - nach unterordnen, hintansetzen - Schreiben nachstellen, -setzen, folgen lassen, anfügen, anschließen - darauf reden, sagen - unter den Fuß geben, an die Hand geben, eingeben - einhelfen (soufflieren), einflüstern, erinnerlich machen - die Hand geben, darauf führen - von unten werfen - in die Höhe werfen, -richten, -heben - von unten her- - hervorwerfen, -schleudern - an die Stelle - setzen - substituieren - fälschlich unterschieben - vorschieben, anstiften
+FG|
+Lw|subicio|subiciō||||to throw under, place under, cast below, discharged below, to bring, cause to be encamped, post, To set up, mount, throw up, shoots up, To substitute, forge, counterfeit, To suborn, to submit, subject, present, To ascribe, attribute, what meaning is to be attributed to it, To substitute, To place under, make subject, subject, expose, to subordinate, bring under, comprise in, to place after, let follow, affix, annex, append, subjoin, subjoins, answer, To bring forward, propose, adduce, bring to mind, prompt, suggest||||subicio
+YO|subicio|sūbĭcĭo|20|sūbĭēc|sūbĭēct|is, ere, ieci, iectum|
+PO|subicio|su_bicio_, su_bicere, subje_ci_, subjectum : v3
+WW|||subicio, subjeci|subicio, subjectum
+|superstes|sŭperstĕs|sŭpērstĕs
+LS|superstes|sŭperstĕs|ĭtis||adj.|One who stands by, is present at, a by-stander, witness|superstes|0
+GG|superstes|sŭperstēs|ĭtis|||qui est présent, témoin / qui reste, qui subsiste, qui survit, survivant / [avec dat.] / [avec gén.]|superstes|
+GJ|superstes|sŭperstĕs|stĭtis (abl. sing. -ite; gén. plur. -itum) [super + sto]|- 1 - qui assiste en justice, témoin, présent. - 2 - qui reste debout, qui est sain et sauf, qui est en bon état. - 3 - avec gén. ou dat. : qui reste après, qui survit à, survivant à.
+Ge|superstes|superstes|stitis|derdabeisteht, der gegenwärtig - der Zeuge - übrigbleibend - am Leben bleibend, fortlebend - überlebend
+FG|superstes|superstes itis (super sto),
+Lw|superstes|superstes|itis||adj.|standing by, present, witnessing, standing up as in triumph, Remaining alive, outliving, surviving, that he may live, posthumous, our better selves||||superstes
+YO|superstes|sŭperstĕs=sŭpērstĕs|14|sŭpērstĭt||itis|
+PO|superstes|superstes, superstitis : a
+WW||superstes, superstitis||
+|syria|Sȳrĭa|Sȳrĭa
+LS|Syria|Sȳrĭa|ae|f.||a country in Asia, on the Mediterranean Sea, Assyria, Plur.|Syria|(also written 
+GG|Syria|Sўrĭa|ae|f.|subst.|la Syrie [contrée de l'Asie entre la Méditerranée et l'Euphrate]|Syria|Sўrĭa
+GJ|
+Ge|
+FG|Syria|Syria ae féminin, la Syrie (contrée de l'Asie entre la Méditerranée et l'Euphrate) ; -rius a um, de la Syrie, syrien ; Syrii orum, les Syriens ; ou -iacus a um, ou -icus a um.
+Lw|
+YO|syria|Sȳrĭa|0|||ae, f.|
+PO|
+WW||||
+|temere|tĕmĕrē|tĕmĕrē
+LS|temere|tĕmĕrē|||adv.|by chance, by accident, at random, without design, intent, purpose, casually, fortuitously, rashly, heedlessly, thoughtlessly, inconsiderately, indiscreetly|temere|(ante-class. collat. form 
+GG|temere|tĕmĕrĕ|||adv.|au hasard, à l'aventure, au petit bonheur, à la légère, sans réflexion / non temere, non pas sans de sérieuses raisons, non aisément, rarement|temere|
+GJ|temere|tĕmĕrĕ|adv. (abl. instrumental de l'inusité temus, eris = dans les ténèbres)|1 - au hasard, à l'aventure, au petit bonheur, à la légère, sans réflexion. 2 - de soi-même, spontanément, facilement.
+Ge|temere|temere|Adv.|ohne Plan, planlos, aufs Geratewohl, vor der Zeit, blindlings, auf gut Glück, so ohne weiteres, absichtslos, ohne Grund, ohne Überlegung, unbesonnen - es ist nicht von ungefähr, da steckt etwas dahinter, es hat etwas zu bedeuten, es hat seinen guten Grund. - nicht leicht
+FG|temere|temere (ablatif instrumental de l'inusité temus eris : dans les ténèbres),
+Lw|temere|temerē|||adv.|by chance, by accident, at random, without design, casually, fortuitously, rashly, heedlessly, thoughtlessly, inconsiderately, indiscreetly, negative, not for nothing, not easily, hardly, scarcely, it means something, that it is something of moment||||temere
+YO|temere|tĕmĕrē|31|||adv.|
+PO|temere|temere : adv
+WW||||
+|tuditanus|Tŭdĭtānus|Tŭdĭtānus
+LS|Tuditanus|Tŭdĭtānus|i|m.||a surname in the|Tuditanus|0
+GG|Tuditanus|Tŭdītānus|i|m.||surnom dans la gens Sempronia|Tuditanus|
+GJ|Tuditanus|Tuditanus|i, m.|Tuditanus (surnom).
+Ge|
+FG|
+Lw|
+YO|tuditanus|Tŭdĭtānus|1|||i, m.|
+PO|
+WW||||
+|ubicumque|ŭbī̆cumquĕ|ŭbī̆cūmqụĕ
+LS|ubicumque|ŭbī̆cumque|||adv.|wherever, wheresoever.|ubicumque|(
+GG|ubicumque|ūbĭcumquĕ|||adv.|adv. rel., en quelque lieu que, partout où [sans mouvt] / adv. indéfini, en tout lieu, partout|ubicumque|ūbĭcumquĕ
+GJ|ubicumque|ŭbĭcumquĕ|(ŭbĭcunquĕ, ŭbĭquomquĕ)|1 - adv. rel., en quelque lieu que, partout où [sans mouvt]. 2 - adv. indéfini, en tout lieu, partout.
+Ge|ubicumque|ubicumque||wo nur immer, wo immer - wo es immer sei, überall
+FG|ubicumque|ubicumque ou -cunque, ou -quomque,
+Lw|ubicumque|ubi-cumque or ubī-cumque (-cunque, old -quomque)|||adv.|wherever, wheresoever||||ubicumque
+YO|ubicumque|ŭbī̆cumquĕ=ŭbī̆cūmquĕ|30|||adv.|
+PO|ubicumque|ubicumque : adv
+WW||||
+|ubique|ŭbīquē|ŭbīqụē
+LS|ubique|ŭbīquē|||adv.|wherever, wheresoever, in any place whatever, anywhere, everywhere, all wherever they may be, all in the world|ubique|0
+GG|ubique|ŭbīquĕ|||adv.|adv. corresp. à quisque [employé surtout dans les relatives ou les relatives-interrogatives], partout, en tout lieu / [sans relatif ni rel.-interr.] partout|1 ubique|
+GJ|ubique|ŭbīquĕ||1 - adv. de lieu. - n'importe où, en chaque endroit, en tout lieu, sans exception, partout. 2 - conj. de sub.
+Ge|ubique|ubīque|Adv.|wo es nur immer sei, wo nur immer, überall - so viel es allerorten gibt, allüberall, in aller Welt
+FG|ubique|ubique, adverbe correspondant à quisque, partout, en tout lieu : omnes agri, qui ubique sunt, toutes les terres sans exception.
+Lw|ubique|ubī-que|||adv.|in any place whatever, anywhere, in every place, everywhere||||ubique2
+YO|ubique|ŭbīquē|30|||adv.|
+PO|ubique|ubi_que : adv
+WW||||
+|usipetes|Usīpĕtes|Usīpĕtes
+LS|Usipetes|Usīpĕtes|um|m.||a Germanic people on the Rhine, near the Tenchteri|Usipetes|0
+GG|Usipetes|Usĭpĕtes|um|m.|subst.|les Usipètes ou Usipiens, peuple de Germanie, sur les bords du Rhin|Usipetes|Usĭpĕtes
+GJ|Usipetes|Usĭpĕtes|um, m.|les Usipètes, les Usipiens (peuple germanique qui habitait entre la Lippe et le Rhin).
+Ge|Usipetes|Usipetēs|um, m.|
+FG|
+Lw|
+YO|usipetes|Usīpĕtes=Usīpĕtēs|5|Usīpĕt||um, m. pl.|
+PO|
+WW||||
+|valitudo|vălītūdo|vălītūdo
+LS|valitudo|vălītūdo|ĭnis|f.||habit, state, condition of body, state of health, health|valetudo|(
+GG|valitudo|vălĭtūdo|ĭnis|f.||v. valetudo.|valitudo|
+GJ|valitudo|vălĭtūdo||c. valetudo.
+Ge|
+FG|
+Lw|
+YO|valitudo|vălītūdō|5|vălītūdĭn||inis, f.|
+PO|
+WW||||
+|vipereus|vīpĕrĕus|vīpĕrĕus
+LS|vipereus|vīpĕrĕus|a, um||adj.|of a viper, serpent, snake, sprung from the dragon's teeth|vipereus|0
+GG|vipereus|vĭpĕrĕus|a, um|||de vipère, de serpent / entouré de serpents / né de serpents, les Spartes|vipereus|
+GJ|vipereus|vipereus|a, um|- 1 - de vipère, de serpent. - 2 - venimeux, empoisonné, empesté.
+Ge|vipereus|vīpereus|a, um|von Vipern - oder Schlangen - Schlangen an sich habend
+FG|vipereus|vipereus a um (vipera), de vipère, de serpent ; entouré de serpents (en parlant de Méduse ou des Furies).
+Lw|vipereus|vīpereus|a, um||adj.|of a viper, of a serpent, poisonous breath, Bearing serpents, covered with snakes, the head of Medusa, the Furies||||vipereus
+YO|vipereus|vīpĕrĕus|11|||a, um|
+PO|vipereus|vi_pereus, vi_perea, vi_pereum : a
+WW||||
+|anas|ănăs|ănăs
+LS|anas|ănăs|ănătis|f.||gen. plur., the duck|anas1|0
+GG|anas|ănās|ĭtis (ātis)|f.||canard, cane|1 anas|
+GJ|anas|ănăs|ătis, f.|canard, cane.
+Ge|anas|anas|atis, f.|die Ente
+FG|anas|anas itis (atis), féminin, canard, cane.
+Lw|anas|anas|anatis|f||wild-duck, O.||||anas
+Y3|anas|ănās|5|ănāt||is, m.|
+PO|anas|anas, anatis : f
+WW||||
+|cedo|cĕdo|cĕdo
+LS|cedo|cĕdo|cessi, cessum, 3||v. n.|-I. imperat., hither with it! here! give! tell, say -II. a., to go, to be in motion, move, walk, go along.|cedo2|old 
+GG|cedo|cēdo|cessī, cessum, ĕre.||tr. intr.|aller, marcher, s'avancer / s'en aller, se retirer / alicui, se retirer devant qqn, céder, plier / [fig.] céder, ne pas résister / céder le pas, se reconnaître inférieur / alors que mon âge déjà te cédait le pas ; alicui aliqua re, le céder à qqn en qqch / faire cession (abandon) de, aliqua re de qqch / s'en aller, disparaître / aller, arriver, échoir / in aliquid, se changer en qqch, tourner en / le châtiment tenait lieu de l'acquittement de la dette [du paiement] / pro aliqua re, tenir lieu de qqch / [avec un adv. de manière] aller, arriver, se passer / s'il était arrivé qqch de fâcheux ; [cedere seul = bene cedere, réussir / tr., céder, concéder / [avec ut] concéder que, accorder que|1 cedo|
+GJ|cedo|cēdo|ĕre, cessi, cessum|- intr. - a - marcher, aller, s'avancer, venir. b - se changer en, tourner en, aboutir à. c - s’en aller, s'éloigner, se retirer, quitter (un lieu). d - faire place, céder à, renoncer à, être vaincu; céder, se rendre, obtempérer, obéir; le céder à. e - faire la cession de, faire l'abandon de, céder, accorder; tomber en partage, échoir à, revenir à, aller à, profiter à. f - arriver (bien ou mal), réussir, aboutir, devenir. g - disparaître, s'évanouir, s'écouler, passer. h - compter pour, équivaloir à, tenir lieu de. ii - tr. - accorder, céder, abandonner.
+Ge|cedo|cēdo|cessī, cessum, ere|Schrittes gehen, treten - einhertreten, einhergehen, einhergegangen kommen, passieren - gehen, schreiten - Fortgang haben, vonstatten gehen, Erfolg haben, ausgehen - für - gelten, gerechnet werden, passieren - kommen - übergehen - Sache überlassen werden, anheimfallen, zuteil werden - eintreten - treffen - übergehen - sich verwandeln - gehen - abtreten, fortgehen, sich wegbegeben, weichen, sich zurückziehen, ausscheiden - auch vergehen, verschwinden - von wo? - wohin? - wem? vor wem? - Übermacht weichen, unterliegen, sich fügen, nachgeben - wem? - weichen, sich unterordnen, sich fügen, nachgeben - wem? - nach weichen, nachstehen - wem? - wovon? - zurücktreten - verzichten - zu wessen Gunsten? - in betreff wessen? - abtreten, überlassen, nachlassen - wem? - einräumen, zugestehen - Körperschaft austreten, ausscheiden
+FG|cedo|cedo ere cessi cessum,
+Lw|cedo|cēdō|cessī, cessus, ere|||to go from, give place, remove, withdraw, go away, depart, retire, to be seen, to be evacuated, to leave the exchange, be bankrupt, to cede, assign, to retreat, abandon, the retreating enemy, to pass away, go from, drop out, vanish, die, elapse, be forgotten, To come to, fall, as a possession, to fall to the lot of, accrue, To result, happen, turn out, fall out, work, were successful, in proportion to his success at the outset, in, to take the place of, supply the want of, be a substitute for, are taken in commutation, To yield, give place, to warlike zeal, to yield to, retreat before, submit to, be overcome by, who were unharmed, succumb, To yield in rank, be inferior, were not inferior.&mdash;To comply with, yield to, obey, conform to, I comply, To grant, concede, allow, give up, yield, permit||||cedo1
+Y2|cedo|cēdo|19|cēss|cēss|is, ere, cessi, cessum|
+PO|cedo|ce_do_, ce_dere, cessi_, cessum : v3
+WW|||cedo, cessi|cedo, cessum
+|commodo2|commŏdŏ|cōmmŏdŏ
+LS|commodo|commŏdŏ|||adv.|just in time, seasonably, just at this time|commodus1|0
+GG|commodo|commŏdō|||adv.|adv., à propos, à point|1 commodo|
+GJ|commodo|commŏdŏ|adv.|à propos, juste à temps, à point nommé.
+Ge|commodo|commodō|Adv.|nach Bequemlichkeit, beliebig
+FG|
+Lw|
+Y2|commodo|commŏdŏ2=cōmmŏdŏ|30|||adv.|
+PO|
+WW||||
+|cous|Cŏus|Cŏus
+LS|Cous|Cŏus|i|f.||one of the Sporadic Islands in the Myrtoan Sea, on the coast of Caria, celebrated for the cultivation of the vine and for weaving; the birthplace of Hippocrates, Apelles, and Philetas, Stanco.; nom, Acc.;, Abl.|Cos2|or 
+GG|Cous|Cōus|i|f.||v. Coos.|2 Cous|
+GJ|Cous|Cŏus|i, f.|Cos (île de la mer Egée).
+Ge|
+FG|
+Lw|
+Y2|cous|Cōus|1|||i, f.|
+PO|
+WW||||
+|egenus|ĕgēnus|ĕgēnus
+LS|egenus|ĕgēnus|a, um||adj.|in want of, in need of, destitute, void of; Subst. m., a poor man|egenus|0
+GG|egenus|ēgēnus|a, um|||qui manque, privé / subst. n. egenum / susbt. m., un pauvre|egenus|
+GJ|egenus|ĕgēnus|a, um|- 1 - privé de, pauvre en. - 2 - pauvre nécessiteux.
+Ge|egenus|egēnus|a, um|Mangel habend - leidend - Sache entbehrend - etwas arm - Sache beraubt - dürftig, arm - der Arme - dürftig - dürftig, hilflos
+FG|egenus|egenus a um (egeo), qui manque ; privé de (avec génitif ou avec ablatif) ; (poétique) in rebus egenis, dans la détresse.
+Lw|egenus|egēnus|a, um||adj.|needy, necessitous, in want, destitute||||egenus
+Y2|egenus|ĕgēnus|11|||a, m|
+PO|egenus|ege_nus, ege_na, ege_num : a
+WW||||
+|fabula|făbŭla|făbŭla
+LS|fabula|făbŭla|ae|f.||a narration, narrative, account, story; the subject of common talk.|fabula2|v. fabulus.
+GG|fabula|fābŭla|ae|f.||propos de la foule, conversations / avec prop. inf., on raconte que / propos familiers, conversations [privées] / récit sans garantie historique, récit mythique / pièce de théâtre / conte, fable, apologue|1 fabula|
+GJ|fabula|făbŭla|ae, f. [fari]|1 - a - récit, histoire, discours, nouvelle, entretien, bruit public; sujet d'entretien public. b - fiction, conte, aventure imaginaire, récit fabuleux. c - fable, mythologie; fable, apologue. d - pièce de théâtre, tragédie. e - chose, affaire, incident. g - objet sans réalité, fantôme, néant. 2 -  petite fève.
+Ge|fabula|fabula|ae, f.|die Rede, Sage - das Gerede - das Gespräch - die Wechselrede - das Gespräch - die Unterhaltung - die Sage, Erzählung - Erzählung - die Erdichtung - das Märchen - die Sage - die Mythe - unverbürgte - äsopische Fabel - die Fabel - das Sujet - das dramatische Gedicht - das Theaterstück - das Schauspiel
+FG|fabula|fabula ae féminin (fari),
+Lw|fabula|fābula|ae|f||a narration, narrative, account, story, tale, the common talk, news, let us return to our story, conversation, An affair, concern, matter, talk, how deaf I am to his talk, what does this mean?, A fictitious narrative, tale, story, fiction, fable, tales!, A dramatic poem, drama, play, when the play opens, A fable, story with a lesson, talk of the devil, A plot, action, story||||fabula
+Y2|fabula|făbŭla|0|||ae, f.|
+PO|fabula|fa_bula, fa_bulae : f
+WW||||
+|frustra|frustră|frūstră
+LS|frustra|frustră|||adv.|In deception, in error, animi, to deceive, cheat one|frustra|(
+GG|frustra|frustrā|||adv.|en vain, vainement, inutilement / sans but, sans raison / [idée d'erreur, de tromperie]|frustra|
+GJ|frustra|frustrā|adv. [fraus]|1 - par erreur, faussement, frauduleusement. 2 - en vain, vainement, inutilement, sans résultat. 3 - sans raison, sans motif.
+Ge|frustra|frūstrā|Adv.|täuschender- - getäuschterweise, betrügerisch, irrtümlich, im Irrtum, irrig - erfolglos, ohne Erfolg, nutzlos, umsonst, vergeblich, vergebens - zwecklos, grundlos, ohne Zweck, ohne Grund
+FG|frustra|frustra (fraus), adverbe, en vain, vainement, inutilement ; sans but, sans raison ; (employé comme attribut) vain.
+Lw|frustra|frūstrā|||adv.|in deception, in error, disappointed, Without effect, to no purpose, uselessly, in vain, for nothing, disappointed, Without reason, causelessly, groundlessly||||frustra
+Y2|frustra|frustrā=frūstrā|30|||adv.|
+PO|frustra|fru_stra_ : adv
+WW||||
+|hic|hīc|hīc
+LS|hic|hīc|haec, hōc||pron. demonstr.|this.|hic|0
+GG|hic|hĭc|haec, hōc|n. f. pl.|adj.-pr.|[en gén.] hic se rapporte au mot le plus rapproché, ille au plus éloigné dans la phrase / à supposer que ces études-là soient mieux achalandées, celles-ci sont à coup sûr plus fécondes ; [mais l'ordre peut être inverse dans la pensée de l'écrivain] / cave Catoni anteponas Socratem / [hic renvoie à ce qui précède, ille annonce ce qui suit] / tel et tel / [qqf] hic et hic / l'un ou l'autre [quand il s'agit de deux objets] / [pour résumer ce qui précède] / voilà, tel est / [annonçant ce qui suit] / [une énumération] / [prop. inf.] / quod, ce fait que / ut subj. / [int. ind.] / voyons d'abord ceci / hoc avec gén. / pl. n. / la gloire parfaite résulte des trois conditions suivantes... / c'est-à-dire / acc. exclam. / ego / [constr. partic.] / formes arch.|1 hic|
+GJ|hic|hic|(hīc ou hĭc), haec, hōc|adj.-pr. démonstr., ce, cet, cette ; celui-ci, celle-ci ; ceci, cela [désigne l'objet qui est le plus rapproché dans le temps ou dans l'espace; par suite, pour un avocat, son client ; pour un écrivain en général, ce qui le concerne lui-même ou ce qui le touche de plus près].
+Ge|hic|hic|haec, hoc, Pronom. demonstr.|dieser, diese, dieses - dieser... jener - auch jener - ersterer... dieser - das und das, dieses und jenes - diese Stadt, dieser Staat - das ganze sichtbare Weltgebäude - dieser da, der da - dieser, diese, dieses - gegenwärtig, jetzt, jetzt gewöhnlich
+FG|hic|hic haec hoc, génitif hujus, datif huic, adjectif-pronom démonstratif, ce, cet, cette ; celui-ci, celle-ci ; ceci, cela (désigne l'objet qui est le plus rapproché dans le temps ou dans l'espace : pour un avocat, son client ; pour un écrivain, ce qui le concerne lui-même ou ce qui le touche de plus près),
+Lw|hic|hīc or hic||f||haec, this||||hic1
+Y2|hic|hīc|34|h||haec, hoc|
+PO|hic|hic, haec, hoc : pn
+WW||||
+|melium|mēlĭum|mēlĭŭm
+LS|melium|mēlĭum|ii|n.||a dog's collar|melium|0
+GG|melium|mĕlĭum|ĭi|n.||collier de chien|melium|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|melium|mĕlium=mĕlĭŭm|4|||i, n.|
+PO|
+WW||||
+|platea|plătēa|plătēa
+LS|platea|plătēa|ae|f.||A broad way in a city, a street|platea1|(plătĕa, 
+GG|platea|plătĕa|ae|f.||grande rue, place publique / cour // spatule [oiseau]|1 platea|
+GJ|platea|plătĕa|ae, f.|1 - (Aus. plătēa) - a - large rue, grande rue; place publique. - b - Lampr. cour (d'une maison). 2 - = platalea; spatule (oiseau).
+Ge|platea|platēa|ae, f.|die Straße - in der - die Gasse - der Hof
+FG|platea|platea ae féminin, grande rue, place publique.
+Lw|platea|platea|ae|f||a broad way, street, avenue||||platea
+Y2|platea|plătĕa|0|||ae, f.|
+PO|
+WW||||
+|polus2|Pŏlus|Pŏlus
+LS|Polus|Pŏlus|i|m.||a celebrated Greek tragic actor|Polus2|0
+GG|Polus|Pōlus|i|m.||nom d'un célèbre acteur grec|2 Polus|
+GJ|Polus|Pōlus|i, m.|Polus (acteur grec).
+Ge|
+FG|
+Lw|
+Y2|polus|Pŏlus2|1|||i, m.|
+PO|
+WW||||
+|scipio|scīpĭo|scīpĭo
+LS|scipio|scīpĭo|ōnis|m.||a staff ;|scipio1|0
+GG|scipio|scĭpĭo|ōnis|m.||bâton / bâton d'ivoire, bâton triomphal|1 scipio|
+GJ|scipio|scipĭo|ōnis, m.|- a - bâton. - b - bâton d'ivoire, bâton triomphal.
+Ge|scipio|scīpio|ōnis, m., I)|der Stab - Anhänger des Scipio - ein Scipiade - ein Scipio
+FG|scipio|scipio onis masculin, bâton ; bâton d'ivoire, bâton triomphal.
+Lw|scipio|scīpiō|ōnis|m||a staff, walkingstick||||scipio
+Y2|scipio|scīpĭo=scīpĭō̆|5|scīpĭōn||onis, m.|
+PO|scipio|sci_pio_, sci_pio_nis : m
+WW||||
+|stoicus|Stōĭcus|Stōĭcus
+LS|Stoicus|Stōĭcus|a, um||adj.|of or belonging to the Stoic philosophy, to the Stoics, Stoic, Subst. m. a Stoic philosopher, a Stoic|Stoicus|0
+GG|Stoicus|Stōīcus|a, um||adj.|des Stoïciens, stoïcien / subst. m., un Stoïcien|Stoicus|Stōīcus
+GJ|
+Ge|Stoicus|Stōicus|a, um|stoisch - der Stoiker, stoische Philosoph - die stoische Sekte - stoische Philosophie
+FG|Stoicus|Stoicus a um, des Stoïciens, stoïcien ; substantif, masculin, un Stoïcien ; Stoica orum neutre, la philosophie des Stoïciens.
+Lw|Stoicus|Stōicus|a, um||adj.|of the Stoic philosophy, of Stoics, Stoic, As ,||||Stoicus
+Y2|stoicus|Stōĭcus|11|||a, um|
+PO|stoicus|Sto_icus, Sto_ica, Sto_icum : a
+WW||||
+|verbero|verbĕro|vērbĕro
+LS|verbero|verbĕro|āvi, ātum, 1||v. a.|to lash, scourge, whip, flog, beat, drub|verbero1|0
+GG|verbero|verbēro|āvi, ātum, āre||tr.|battre de verges / frapper / battre / [en parl. des vents qui battent les flancs d'un navire] / [fig.] maltraiter [en paroles], malmener, fustiger, rabrouer|1 verbero|
+GJ|verbero|verbero|āre|- tr. - frapper, battre, fouetter, maltraiter (en paroles), rabrouer.
+Ge|verbero|verbero|Avī, Atum, Are|schlagen, klopfen, stoßen, werfen, treffen - etwas prallen - züchtigend schlagen - peitschen, geißeln - geißeln, schlagen, züchtigen, plagen
+FG|verbero|verbero are avi atum (verber), transitif,
+Lw|verbero|verberō|āvī, ātus, āre|||to beat, strike, lash, knock, To punish by striking, lash, scourge, whip, flog, beat, drub, to attack, lash, chastise, plague, torment, harass||||verbero1
+Y2|verbero|verbĕro=vērbĕro|17|||as, are|
+PO|verbero|verbero_, verbera_re, verbera_vi_, verbera_tum : v1
+WW|||verbero, verberavi|verbero, verberatum
+|impavidus=inpavidus|impăvĭdus|īmpăvĭdus
+LS|impavidus|impăvĭdus|a, um||adj.|fearless, undaunted, intrepid, Adv.|impavidus|(
+GG|impavidus|impāvĭdus|a, um|||inaccessible à la peur, calme, intrépide|impavidus|
+GJ|impavidus|impavidus|a, um|qui ne craint rien, intrépide, calme.
+Ge|impavidus|impavidus|a, um|unerschrocken, beherzt
+FG|impavidus|impavidus a um (in pavidus), inaccessible à la peur, calme, intrépide.
+Lw|impavidus|impavidus (in-p-)|||adj.|fearless, undaunted, intrepid, unterrified||||impavidus
+YO|impavidus|impăvĭdus=īmpăvĭdus|11|||a, um|
+PO|impavidus|impavidus, impavida, impavidum : a
+WW||||
+|importunitas=inportunitas|importūnĭtas|īmpōrtūnĭtas
+LS|importunitas|importūnĭtas|ātis|f.||unsuitableness, unfitness|importunitas|(
+GG|importunitas|importūnītas|ātis|||position désavantageuse [d'un lieu] / entêtement / humeur acariâtre / caractère violent / rigueur, cruauté|importunitas|
+GJ|importunitas|importūnĭtās|ātis, f. [importunus]|1 - position désavantageuse, désavantage (d'un lieu). 2 - humeur acariâtre, mauvais caractère. 3 - entêtement, obstination. 4 - caractère violent. 5 - rigueur, cruauté.
+Ge|importunitas|importūnitās|ātis, f.|die unbequeme-, ungünstige Lage - die Unumgänglichkeit, Unleidlichkeit, Unausstehlichkeit, Schroffheit, Barschheit, Rücksichtslosigkeit, Unverschämtheit, Scheußlichkeit
+FG|importunitas|importunitas atis, féminin (importunus), position désavantageuse (d'un lieu) ; humeur acariâtre ; caractère violent ; rigueur, cruauté.
+Lw|importunitas|importūnitās (inp-)|ātis|f||unsuitableness, unfitness, Unmannerliness, incivility, rudeness, insolence||||importunitas
+YO|importunitas|importūnĭtās=īmpōrtūnĭtās|5|īmpōrtūnĭtāt||atis, f.|
+PO|importunitas|importu_nita_s, importu_nita_tis : f
+WW||||
+|impune=inpune|impūnē|īmpūnē
+LS|impune|impūnē|||adv.||impunis|(archaic orthog. impoene, Cato ap. 
+GG|impune|impūnĕ|||adv.|impunément, avec impunité / sans danger, sans dommage|impune|
+GJ|impune|impune|adv.|- 1 - impunément, sans être puni; sans punir. - 2 - sans danger, sans dommage.
+Ge|impune|impūne|Adv.|ungestraft - frei von Strafe, ohne Strafe - ohne Nachteil, ohne Gefahr, sicher
+FG|impune|impune (in poena),
+Lw|impune|impūne (inp-)|||adv.|without punishment, unpunished, with impunity, inflicted, unavenged, without retaliation, Safely, unharmed, without danger, with safety, unharmed||||impune
+YO|impune|impūnē=īmpūnē|31|||adv.|
+PO|impune|impu_ne : adv
+WW||||
+|suffoco=subfoco|suffōco|sūffōco
+LS|suffoco|suffōco|āvi, ātum, 1||v. a.|to choke, stifle, strangle, suffocate|suffoco|(
+GG|suffoco|suffŏco|āvi, ātum, āre||tr.|tr., serrer la gorge de, étouffer, étrangler|suffoco|
+GJ|suffoco|suffoco|āre, āvi, ātum|- tr. - 1 - suffoquer, étouffer, asphyxier. - 2 - étrangler.
+Ge|suffoco|suffōco|āvi, Atum, Are|erwürgen, ersticken
+FG|suffoco|suffoco are avi atum (fauces), transitif, serrer la gorge de, étouffer, étrangler.
+Lw|suffoco|suffōcō|āvī, &mdash;, āre|||to throttle, choke, stifle, strangle, suffocate, to starve||||suffoco
+YO|suffoco|suffōco=sūffōco|17|||as, are|
+PO|
+WW|||suffoco, suffocavi|suffoco, suffocatum
+|suggero=subgero|suggĕro|sūggĕro
+LS|suggero|suggĕro|gessi, gestum, 3||v. a.|to carry, bring, put, lay under|suggero|(
+GG|suggero|suggēro|gessi, gestum, ĕre||tr.|porter sous / mettre sous / mettre sous la main, fournir / fournir, produire / suggérer / porter à la place de, à la suite de / suppléer / mettre à la suite de / porter de bas en haut ; entasser|suggero|suggēro
+GJ|suggero|suggero|ĕre, gessi, gestum|- tr. - 1 - apporter sous, mettre sous, apporter auprès, apporter devant. - 2 - apporter, transporter, charrier, fournir, procurer, donner. - 3 - mettre après, faire succéder, mettre à la place, substituer. - 4 - suggérer, faire penser; ajouter (dans le discours).
+Ge|suggero|suggero|gessī, gestum, ere|von unten hinanbringen - unterlegen, unten an etwas bringen, - fügen - hinzufügen, anfügen, beifügen - Aufzählung anfügen, folgen lassen - unter der Hand beibringen - auftragen, auffahren - hoch aufführen - unterbringen - zuführen, zutragen, darreichen, herbeischaffen, liefern, an die Hand geben - liefern - gewähren, Gelegenheit geben - an die Hand geben, eingeben, zur Sprache bringen, anraten
+FG|suggero|suggero (subg-) ere gessi gestum, transitif,
+Lw|suggero|suggerō|gessī, gestus, ere|||to bring under, lay beneath, apply below, To throw up, with an earthen wall, To furnish, afford, supply, to assign, add, subjoin, supply, place next in order, were added.&mdash;To put on, impose upon, is to be imposed upon.&mdash;To suggest, prompt||||suggero
+YO|suggero|suggĕro=sūggĕro|19|||is, ere, gessi, gestum|
+PO|suggero|suggero_, suggerere, suggessi_, suggestum : v3
+WW|||suggero, suggessi|suggero, suggestum

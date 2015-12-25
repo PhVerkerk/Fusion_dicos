@@ -1,0 +1,70 @@
+|conprendo
+LS|
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|conprendo|conprendo=cōnprēndo|19|cōnprēnd|cōnprēns|cf. comprehendo|
+PO|
+WW|||conprendo, conprendi|conprendo, conprensum
+|exilio
+LS|exilio|exĭlĭo|ĭlŭi||v. n.|to spring out, spring, bound forth, to spring, leap up, to start up, I leaped for joy|exsilio|or 
+GG|exilio|exĭlĭo|(s)ilŭi, (s)ultum, īre||intr.|sauter hors, s'élancer hors, bondir / s'élancer, s'élever|exsilio|exĭlĭo
+GJ|exilio|exĭlĭo|īre, lŭi, ultum [ex + salio]|- intr. - 1 - sauter hors, s'élancer hors, bondir. 2 - s'élancer, s'élever.
+Ge|
+FG|
+Lw|
+Y2|exilio|exĭlĭo=ēxĭlĭo|21|ēxĭlŭ|ēxūlt|is, ire, ilui, ultum|
+PO|exilio|exilio_, exili_re, exilui_ : v4
+WW|||exilio, exili(v)i|
+|exilium
+LS|exilium|exĭlĭum|ii|n.||banishment, exile.|exsilium|or 
+GG|exilium|exĭlĭum|ĭi|n.|subst.|exil, bannissement / lieu d'exil / pl., exilés|exsilium|exĭlĭum
+GJ|exilium|exĭlĭum||c. exsilium.
+Ge|
+FG|exilium|exilium, cf. exsilium.
+Lw|exilium|exilium|see exsilium.|||||||exilium
+YO|exilium|exĭlĭum=ēxĭlĭŭm|4|||ii, n.|
+PO|exilium|exilium, exil(i)i_ : n
+WW||||
+|expuo
+LS|expuo|expŭo|ŭi, ūtum, 3||v. n. and a.|to spit out, to spit|exspuo|(
+GG|expuo|expŭo||||v. exspuo.|expuo|
+GJ|expuo|expuo||c. exspuo.
+Ge|
+FG|
+Lw|expuo|expuō|see exspuo.|||y||||expuo
+YO|expuo|expŭo=ēxpŭo|19|||is, ere, pui, putum|
+PO|expuo|expuo_, expuere, expui_, expu_tum : v3
+WW|||expuo, expui|expuo, exputum
+|extinguo
+LS|extinguo|extinguo|nxi, nctum, 3||v. a.|to put out, to quench, extinguish|exstinguo|(
+GG|extinguo|extinguo|stinxī, stinctum, ĕre||tr.|éteindre / ôter la vie, faire mourir / pass. exstingui, mourir, disparaître / faire disparaître, effacer, détruire / faire oublier|exstinguo|extinguo
+GJ|extinguo|extinguo|ĕre, exstinxi, exstinctum|- tr. - 1 - éteindre (un incendie); apaiser, calmer. - 2 - faire disparaître, faire mourir, détruire, abolir, anénatir, étouffer, effacer, annuler. - 3 - au passif : être périmé, n'être plus valable. - 4 - dessécher, tarir, épuiser. - 5 - éclipser, effacer, surpasser.
+Ge|
+FG|
+Lw|extinguo|extinguō|see exstinguo.|||||||extinguo
+YO|extinguo|extinguo=ēxtīngŭo|19|ēxtīnx|ēxtīnct|is, ere, stinxi, strinctum|
+PO|extinguo|extinguo_, extinguere, exti_nxi_, exti_nctum : v3
+WW|||extinguo, extinxi|extinguo, extinctum
+|exto
+LS|exto|exto|āre||v. n.|part. fut., to stand out, forth, to project, to stand above.|exsto|(
+GG|exto|exto|āre||intr.|se tenir au-dessus, être élevé au-dessus, dépasser / [abst] / [poét. avec acc.] / être visible, se montrer, exister / [impers, exstat avec prop. inf.] il est certain que, c'est une chose avérée que / quant à un homme dont il soit certain qu'il fut éloquent, le premier c'est... ; [avec int. ind.] il apparaît clairement|exsto|exto
+GJ|exto|exto|āre|- intr. - 1 - être élevé au-dessus, se tenir au-dessus, dépasser, faire saillie, être saillant, être proéminent, ressortir. - 2 - ressortir, apparaître, se montrer, être visible. - 3 - durer, subsister, rester, survivre, exister, être. - 4 - tr. - s'élever au-dessus de, dépasser.
+Ge|
+FG|
+Lw|
+YO|exto|exto=ēxto|17|||as, are|
+PO|exto|exto_, exta_re, exta_vi_, exta_tum : v1
+WW|||exto, extiti|
+|extruo
+LS|extruo|extrŭo|xi, ctum, 3||v. a.|to pile, heap up|exstruo|(
+GG|extruo|extrŭo|uxi, uctum, ĕre||tr.|tr., accumuler, élever, dresser|exstruo|extrŭo
+GJ|extruo|extrŭo|ĕre, exstruxi, exstructum|- tr. - 1 - accumuler, entasser, élever, dresser. - 2 - construire, bâtir. - 3 - construire, arranger (les mots). - 4 - composer (un ouvrage). - 5 - exagérer, grossir.
+Ge|
+FG|
+Lw|extruo|extruō|see exstruo.|||CE||||extruo
+YO|extruo|extrŭo=ēxtrŭo|19|ēxtrūx|ēxtrūct|is, ere, struxi, structum|
+PO|extruo|extruo_, extruere, extru_xi_, extru_ctum : v3
+WW|||extruo, extruxi|extruo, extructum

@@ -1,0 +1,630 @@
+|aereus3
+LS|aereus|aerĕus|i|m.||a bronze coin|aereus1|(
+GG|aereus|aerĕus|i|m.||pièce de monnaie en cuivre|1 aereus|
+GJ|
+Ge|
+FG|aereus|aereus a um, (aes), 1. d'airain (cuivre, bronze) : aerea signa, statues d'airain ; 2. garni d'airain (cuivre, bronze) ; temo aereus, timon garni d'airain ; 3. semblable à l'airain ; 4. masculin pris substantivement, aereus i, pièce de monnaie en cuivre.
+Lw|
+Y3|
+PO|
+WW||||
+|augustalis2
+LS|Augustalis|Augustālis|is|m.||The prefect of Egypt was called Praefectus Augustalis|Augustalis|0
+GG|Augustalis|Augustālis|is|m.||ou praefectus Augustalis, préfet de l'Égypte|Augustalis|Augustālis
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||Augustalis, Augustalis||
+|barbatus3
+LS|
+GG|barbatus|barbātus|i|m.||bouc|1 barbatus|
+GJ|
+Ge|
+FG|barbatus|barbatus a um (barba), barbu, qui a de la barbe, qui porte barbe ; ancien, du vieux temps (époque où on ne se rasait pas) ; (substantif masculin) bouc.
+Lw|barbatus|barbātus|i|m.||a goat||||barbatus
+Y2|
+PO|
+WW||||
+|caecus3
+LS|
+GG|caecus|caecus|i|m.||un aveugle|1 caecus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|castrensis2
+LS|castrensis|castrensis|is|m.||A soldier in the camp, A high officer of the imperial court of Constantinople|castrensis|0
+GG|castrensis|castrensis|is|m.||officier du Palais|1 castrensis|castrensis
+GJ|
+Ge|
+FG|
+Lw|
+Y3|
+PO|
+WW||castrensis, castrensis||
+|conscius2
+LS|conscius|conscĭus|i|m.||a partaker, jointconspirator, accessory, accomplice, confidant|conscius|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|conspiratus2
+LS|conspiratus|conspīrātus|a, um||P. a.|having agreed, combined ; having conspired, having entered into a conspiracy|conspiratus2|0
+GG|conspiratus|conspīrātus|a, um||part.|part. de conspiro 1 / en accord / ayant conspiré, s'étant conjuré|1 conspiratus|
+GJ|conspiratus|conspīrātus|a, um|1 - part. passé de conspiro, āre [cum + spiro]. - a - d'un commun accord, en accord. - b - ayant conspiré, s'étant conjuré. 2 - part. passé de conspiro, āre [cum + spira] : enroulé, pressé, serré.
+Ge|
+FG|conspiratus|conspiratus a um, participe de conspiro :
+Lw|conspiratus|cōnspīrātus|a, um||adj.|conspiring, agreeing, in conspiracy, in concert||||conspiratus
+Y2|
+PO|
+WW||||
+|continuus2
+LS|continuus|contĭnŭus|i|m.||he who is always about one, an attendant|continuus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|delicatus2
+LS|
+GG|delicatus|dēlĭcātus|i|m.||favori, mignon|1 delicatus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|egenus2
+LS|egenus|ĕgēnus|i|m.||a poor man|egenus|0
+GG|egenus|ēgēnus|i|m.||un pauvre|egenus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|exiguus2
+LS|exiguus|exĭgŭus|i|m.||a poor man|exiguus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|expeditus3
+LS|expeditus|expĕdītus|i|m.||a soldier lightly burdened, a swiftly marching soldier|expeditus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y3|
+PO|
+WW||||
+|extraneus2
+LS|extraneus|extrānĕus|i|m.||a stranger|extraneus|0
+GG|extraneus|extrānĕus|i|m.||un étranger|extraneus|
+GJ|
+Ge|
+FG|extraneus|extraneus a um (extra) extérieur, du dehors ; substantif masculin, un étranger.
+Lw|extraneus|extrāneus|i|m.||a stranger||||extraneus
+Y2|
+PO|
+WW||||
+|fatidicus2
+LS|fatidicus|fātĭdĭcus|i|m.||a prophet|fatidicus|0
+GG|fatidicus|fātĭdĭcus|i|m.||devin, prophète|fatidicus|
+GJ|
+Ge|
+FG|fatidicus|fatidicus a um (fatum dico), qui prédit l'avenir, fatidique, prophétique ; substantif masculin, devin, prophète.
+Lw|fatidicus|fātidicus|i|m.||a prophet||||fatidicus
+Y2|
+PO|
+WW||||
+|fatuus2
+LS|fatuus|fătŭus|i|m.||a fool, simpleton, a jester, buffoon|fatuus1|0
+GG|fatuus|fătŭus|i|m.||fou, bouffon, folle|1 fatuus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|flavus2
+LS|flavus|flāvus|i|m.||gold pieces|flavus|0
+GG|flavus|flāvus|i|m.||pièce d'or|flavus|flāvus
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|florens3
+LS|florens|flōrens|entis|f.||a garland|florens|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y3|
+PO|
+WW||florens, florentis||
+|forensis2
+LS|forensis|fŏrensis|is|m.||public pleader, advocate|forensis|0
+GG|forensis|fŏrensis|is|m.||avocat|forensis|fŏrensis
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||forensis, forensis||
+|genetivus2
+LS|genetivus|gĕnĕtīvus|i|m.||the genitive|genetivus|(not 
+GG|
+GJ|
+Ge|genetivus|genetīvus|i, m.|der Zeugefall - der Genetiv
+FG|genetivus|genetivus (genit-) a um (geno), de naissance, naturel : genetivus casus, et absolument, genetivus, le génitif.
+Lw|
+Y2|
+PO|
+WW||||
+|geometricus2
+LS|geometricus|gĕōmē̆trĭcus|i|m.||a geometer, geometrician|geometricus|i. 
+GG|geometricus|gĕōmĕtrĭcus|i|m.||géomètre|geometricus|gĕōmĕtrĭcus
+GJ|
+Ge|
+FG|geometricus|geometricus a um, géométrique, d'arpentage ; -ca, neutre pluriel, la géométrie ; -cus i masculin, géomètre.
+Lw|
+Y2|
+PO|
+WW||||
+|germanus2
+LS|germanus|germānus|i|m.||an own or full brother|germanus1|0
+GG|germanus|germānus|i|m.||frère germain|1 germanus|
+GJ|
+Ge|
+FG|
+Lw|germanus|germānus|i|m.||an own brother, full brother||||germanus
+YO|
+PO|
+WW||||
+|graius2
+LS|Graius|Grāius|i|m.||a Greek|Graius|0
+GG|Graius|Grāĭus|i|m.||un Grec|Graius|Grāĭus
+GJ|
+Ge|
+FG|Graius|Graius a um, grec ; substantif masculin, un Grec ; pluriel, Graii ou Grai orum, masculin, les Grecs.
+Lw|
+Y2|
+PO|
+WW||||
+|gratus3
+LS|gratus|grātus|i|m.||a favorite, darling|gratus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y3|
+PO|
+WW||||
+|ingenuus3
+LS|ingenuus|ingĕnŭus|i|m.||a free-born man|ingenuus|0
+GG|ingenuus|ingĕnŭus|i|m.||homme libre|1 ingenuus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|iniquus2
+LS|iniquus|ĭnīquus|i|m.||an enemy, foe|iniquus|0
+GG|iniquus|ĭnīquus|i|m.||ennemi|iniquus|
+GJ|
+Ge|
+FG|
+Lw|iniquus|inīquus|i|m.||an enemy, foe||||iniquus
+Y2|
+PO|
+WW||||
+|intimus2
+LS|intimus|intĭmus|i|m.||a most intimate friend|intimus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|intimus|intimus|i|m.||intimate friends||||intimus
+Y2|
+PO|
+WW||||
+|invidus2
+LS|invidus|invĭdus|i|m.||an envious person, a hater|invidus|0
+GG|invidus|invĭdus|i|m.||envieux, jaloux|invidus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|malevolus2
+LS|malevolus|mălĕvŏlus|i|m.||an ill-disposed person, a foe, an enemy|malevolus|(
+GG|malevolus|mălĕvŏlus|i|m.||personne mal intentionnée, jaloux|malevolus|mălĕvŏlus
+GJ|
+Ge|
+FG|malevolus|malevolus (mali-) a um, mal disposé, envieux, malveillant ; substantif masculin, jaloux.
+Lw|malevolus|malevolus|i|m.||an ill-disposed person, foe, enemy||||malevolus
+Y2|
+PO|
+WW||||
+|martius2
+LS|Martius|Martĭus|i|m.||(sc. mensis) March, the month of March, the Ides of March|Martius|(
+GG|Martius|Martĭus|i|m.||Mars [mois]|Martius|Martĭus
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|medius2
+LS|medius|mĕdĭus|i|m.||one who stands or comes between, a mediator|medius1|0
+GG|medius|mĕdĭus|i|m.||intermédiaire, médiateur|medius|
+GJ|
+Ge|
+FG|
+Lw|medius|medius|i|m.||a mediator||||medius1
+Y2|
+PO|
+WW||||
+|misellus2
+LS|misellus|mĭsellus|i|m.||a wretch, miserable fellow|misellus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|naufragus2
+LS|naufragus|naufrăgus|i|m.||a shipwrecked person|naufragus|0
+GG|naufragus|naufrăgus|i|m.||naufragé|naufragus|
+GJ|
+Ge|
+FG|naufragus|naufragus a um (navifragus frango), qui a fait naufrage, naufragé ; substantif masculin, naufragé ; (figuré) qui a tout perdu.
+Lw|naufragus|naufragus|i|m.||a shipwrecked person||||naufragus
+Y2|
+PO|
+WW||||
+|nobilis3
+LS|nobilis|nōbĭlis|is|m.||a nobleman|nobilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y3|
+PO|
+WW||nobilis, nobilis||
+|nocens2
+LS|
+GG|nocens|nŏcens|tis|m.||un coupable|nocens|nŏcens
+GJ|
+Ge|
+FG|nocens|nocens ntis, participe-adjectif de noceo, nuisible, pernicieux, funeste (personnes et choses) ; criminel, coupable (substantif masculin) nocens, un coupable.
+Lw|
+Y2|
+PO|
+WW||nocens, nocentis||
+|nonanus2
+LS|nonanus|nōnānus|i|m.||a soldier of the ninth legion|nonanus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|nonanus|nōnānus|i|m.||a soldier of the ninth legion||||nonanus
+Y2|
+PO|
+WW||||
+|obvius2
+LS|
+GG|obvius|obvĭus|i|m.||une personne que l'on rencontre|obvius|obvĭus
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|officiosus2
+LS|officiosus|offĭcĭōsus|i|m.||an official or attendant at a bath|officiosus|0
+GG|officiosus|offĭcĭōsus|i|m.||surnom donné aux gens immoraux / esclave qui garde les vêtements des baigneurs|1 officiosus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|omnipotens2
+LS|Omnipotens|Omnĭpŏtens|ntis|m.||the Almighty|omnipotens|0
+GG|Omnipotens|Omnĭpŏtens|tis|m.||Jupiter, le Tout-Puissant|omnipotens|
+GJ|
+Ge|
+FG|omnipotens|omnipotens ntis (omnis potens), tout-puissant ; substantif masculin, Jupiter, le Tout-Puissant.
+Lw|Omnipotens|Omnipotēns|ntis|m.||the almighty||||omnipotens
+Y2|
+PO|
+WW||omnipotens, omnipotentis||
+|oppidanus2
+LS|oppidanus|oppĭdānus|i|m.||a townsman|oppidanus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|oppidanus|oppidānus|i|m.||a townsman, the besieged||||oppidanus
+Y2|
+PO|
+WW||||
+|palaestricus2
+LS|palaestricus|pălaestrĭcus|i|m.||a teacher of the art of wrestling|palaestricus|0
+GG|
+GJ|
+Ge|
+FG|palaestricus|palaestricus a um (palaestra), qui concerne la palestre, palestrique ; qui favorise la palestre ; palaestricus doctor ou magister, maître de palestre (ou encore palaestricus seul).
+Lw|
+Y2|
+PO|
+WW||||
+|plebeius2
+LS|plebeius|plēbēĭus|i|m.||a plebeian|plebeius|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|plebeius|plēbēius|i|m.||Plebeian||||plebeius
+Y2|
+PO|
+WW||||
+|praetextatus2
+LS|praetextatus|praetextātus|i|m.||one who wears the toga praetexta|praetextatus|0
+GG|
+GJ|
+Ge|
+FG|praetextatus|praetextatus a um (praetexta), vêtu de la prétexte (toge des enfants), encore enfant, dans l'adolescence ; praetextus i masculin, adolescent (jusqu'à seize ans).
+Lw|praetextatus|praetextātus|i|m.||a free-born youth||||praetextatus
+Y2|
+PO|
+WW||||
+|princeps2
+LS|princeps|princeps|cĭpis|m.||The first man, first person; the first, chief, principal, most distinguished person; A chief, head, author, originator, leader, contriver; A chief, superior, director; A prince, i. e. a ruler, sovereign, emperor|princeps1|0
+GG|princeps|princeps|cĭpis|m.||le premier / le prince du sénat [le premier inscrit sur la liste du sénat par les censeurs ou par un des censeurs tiré au sort à cet effet / à partir d'Auguste, désigne l'empereur, le prince, car Auguste, sous le nom de prince du sénat, avait concentré tout le pouvoir entre ses mains / à l'époque républicaine signifiait l'élite de la jeunesse, la fleur de la noblesse / à partir d'Auguste, titre donné aux princes de la maison impériale mis à la tête des escadrons de chevaliers / un centurion des principes|1 princeps|
+GJ|
+Ge|princeps|prīnceps|cipis, m.|der Erste - der Vornehmste, Angesehenste - das Haupt - oft - der Urheber - ( Schöpfer, Begründer - das Vorbild - der Ratgeber - der Gebieter - der Vorgesetzte - der Gebieter, Fürst, Regent - das erste Glied - das zweite Glied - ein Manipel - der Principes - ein Zenturio der Principes
+FG|princeps|princeps cipis (primus capio), adjectif et substantif, qui occupe la première place,
+Lw|princeps|prīnceps|cipis|m.||the first man, first person, &mdash;A chief, head, author, founder, originator, leader, contriver; A prince, ruler, sovereign, emperor. &mdash;A centurion of the principes, first captain of the principes, The office of centurion of the principes, captaincy of the principes, centurion of the first century of the first maniple||||princeps
+Y2|
+PO|princeps|pri_nceps, pri_ncipis : m/f
+WW||princeps, principis||
+|probus3
+LS|probus|prŏbus|i|m.||a good, worthy, upright man|probus1|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|prodigus2
+LS|prodigus|prōdĭgus|i|m.||a wasteful person, a spendthrift|prodigus|0
+GG|prodigus|prōdĭgus|i|m.||prodigue|prodigus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|rapax3
+LS|rapax|răpax|ācis|comm.||a beast of prey|rapax|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||rapax, rapacis||
+|refugi
+LS|refugi|rĕfŭgi|orum|m.||fugitives|refugus|0
+GG|
+GJ|
+Ge|
+FG|refugus|refugus a um (refugio), fuyard, fugitif ; substantif masculin, refugi, les fuyards.
+Lw|refugi|refugi|orum|m.||fugitives||||refugus
+Y2|
+PO|
+WW||||
+|ridiculus2
+LS|ridiculus|rīdĭcŭlus|i|m.||a jester, buffoon|ridiculus|0
+GG|ridiculus|rīdĭcŭlus|i|m.||bouffon|ridiculus|
+GJ|
+Ge|
+FG|
+Lw|ridiculus|rīdiculus|i|m.||a buffoon||||ridiculus
+Y2|
+PO|
+WW||||
+|sanctus2
+LS|sanctus|sanctus|i|m.||a saint, holy man|sancio|0
+GG|sanctus|sanctus|i|m.||un saint, des saints|1 sanctus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|sapiens3
+LS|Sapiens|Săpĭens|entis|m.||a surname|sapio|0
+GG|
+GJ|Sapiens|Săpiens|entis, m.|le Sage (surnom de plusieurs jurisconsultes).
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|spartanus2
+LS|Spartanus|Spartānus|i|m.||a Spartan|Spartanus|0
+GG|Spartanus|Spartānus|i|m.||Spartiate|Spartanus|
+GJ|
+Ge|
+FG|Spartanus|Spartanus a um, de Sparte ; substantif masculin, Spartiate.
+Lw|
+Y2|
+PO|
+WW||||
+|stoicus2
+LS|Stoicus|Stōĭcus|i|m.||a Stoic philosopher, a Stoic|Stoicus|0
+GG|Stoicus|Stōīcus|i|m.||un Stoïcien|Stoicus|Stōīcus
+GJ|
+Ge|
+FG|Stoicus|Stoicus a um, des Stoïciens, stoïcien ; substantif, masculin, un Stoïcien ; Stoica orum neutre, la philosophie des Stoïciens.
+Lw|
+Y2|
+PO|
+WW||||
+|stultus2
+LS|stultus|stultus|i|m.||a fool|stultus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|stultus|stultus|i|m.||a fool||||stultus
+Y2|
+PO|
+WW||||
+|summus2
+LS|summus|summus|i|m.||he who sits in the highest place, at the head of the table,|summus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|summus|summus|i|m.||he who sits in the highest place, the head of the table, by the head of the table||||summus
+Y2|
+PO|
+WW||||
+|tribunicius2
+LS|
+GG|tribunicius|trĭbūnīcĭus|i|m.||un ancien tribun|tribunicius|
+GJ|
+Ge|tribunicius|tribūnīcius|i, m.|der gewesene Volkstribun
+FG|
+Lw|tribunicius|tribūnīcius|i|m.||one who has been a tribune, an ex-tribune||||tribunicius
+Y2|
+PO|
+WW||||
+|tritonis3
+LS|Tritonis|Trītōnis|ĭdis or ĭdos||adj.|of or belonging to Lake Triton;, to Pallas, Palladian|Triton|0
+GG|
+GJ|Tritonis|Trītōnis|ĭdis|du Triton; de Minerve, de Pallas.
+Ge|
+FG|
+Lw|Tritonis|Trītōnis|idis or idos||adj.|of Lake Triton, of Pallas, Palladian||||Tritonis
+Y2|
+PO|
+WW||||
+|venetus4
+LS|Venetus|Vĕnĕtus|i|m.||one of the Blue faction|Veneti|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y3|
+PO|
+WW||||
+|vetulus2
+LS|vetulus|vĕtŭlus|i|m.||a little old man|vetulus|0
+GG|
+GJ|
+Ge|vetulus|vetulus|i, m.|der Alte - der Greis
+FG|
+Lw|vetulus|vetulus|i|m.||old fellow, an old hag||||vetulus
+Y2|
+PO|
+WW||||
+|viduus2
+LS|
+GG|viduus|vĭdŭus|i|m.||un veuf|1 viduus|
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||
+|adsiduus2=assiduus
+LS|adsiduus|adsĭdŭus|i|m.||a tributepayer|assiduus1|(
+GG|adsiduus|adsĭdŭus|i|m.||un assidu, un contribuable (citoyen inscrit dans l'une des classes du cens, opposé à proletarius)|adsiduus|adsĭdŭus
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|compar2=conpar
+LS|compar|compar|păris||adj.|like, equal to another|compar|(
+GG|compar|compār|păris|m. f.||compagnon, camarade / amant, amante / époux, épouse|compar|
+GJ|compar|compar|comparis, m. f.|compagnon, compagne, camarade; époux, épouse.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||compar, comparis||
+|obscenus2=opscenus
+LS|obscenus|obscēnus|i|m.||a lewd person|obscenus|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|obscenus|obscēnus|i|m.||a lewd person||||obscenus
+YO|
+PO|
+WW||||
+|illex3=inlex
+LS|
+GG|illex|illex|ĭcis|m.||appeau|2 illex|inl-
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||

@@ -1,0 +1,10 @@
+! Déclinaisons grecques
+as, ae, 100
+es, ae, 101
+e (ē), es, 102
+os, i, 103
+on, i, 104
+eus (ēus), i/eos, 105
+es, is/i, 106
+?, os/is, 107
+is, eos/is, 108
