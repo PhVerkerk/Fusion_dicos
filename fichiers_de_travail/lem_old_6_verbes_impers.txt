@@ -1,0 +1,700 @@
+|advesperascit|advespĕrascit|ādvēspĕrāscĭt
+LS|advesperascit|advespĕrascit|āvit, 3||v. impers. inch.|it approaches evening, it is getting to be evening, twilight is coming on|advesperascit|0
+GG|advesperascit|advespĕrascit|āvit, ascĕre|||impers., le soir vient, il se fait tard|advesperascit|
+GJ|advesperascit|advesperascit|ĕre, ravit, impers.|le soir approche.
+Ge|advesperascit|advesperāscit|āvit, ere|es beginnt Abend zu werden - es dämmert
+FG|advesperascit|advesperascit ascere avit, impersonnel, le soir vient, il se fait tard.
+Lw|advesperascit|ad-vesperāscit|&mdash;, ere|||al||||advesperascit
+YO|
+PO|advesperascit|advespera_scit, advespera_scere, advespera_vit : v3 impers
+WW||||
+|autumnascit|autumnascit|āutūmnāscĭt
+LS|
+GG|autumnascit|autumnascit|ēbat, ĕre||intr.|int., se changer en automne|autumnascit|
+GJ|autumnascit|autumnascit|ēbat, ĕre [autumno]|l'automne commence.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|commiseretur|commĭsĕrētur|cōmmĭsĕrētŭr
+LS|commiseretur|commĭsĕrētur|ĭtum est, ēri, 2||v. impers.|I, thou, he, have compassion upon, compassionate, commiserate|commiseretur|0
+GG|
+GJ|commiseretur|commiseretur|eri, eritum est (v. impers., avec acc. de la pers. et gén. de la ch.; cf. pudet)|avoir pitié de.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|compluit|complŭĭt|cōmplŭĭt
+LS|compluit|complŭit|ĕre||v. impers.||compluit|0
+GG|compluit|complŭĭt|ĕre||part.|imp., il pleut|compluit|complŭĭt
+GJ|compluit|compluit|ĕre (impers.)|il pleut.
+Ge|
+FG|compluit|compluit ere, impersonnel, il pleut.
+Lw|
+YO|
+PO|
+WW||||
+|condecet|condĕcet|cōndĕcĕt
+LS|condecet|condĕcet|ēre||v. impers.|it becomes, it is becoming, meet, seemly|condecet|0
+GG|condecet|condĕcet|ēre||tr.|[mêmes constr. que decet] convenir|condecet|
+GJ|condecet|condecet|ĕre|convenir, être convenable.
+Ge|condecet|condecet||es geziemt sich
+FG|condecet|condecet, ere (mêmes constructions que decet), convenir : me, te condecet aliquid, quelque chose me, te convient.
+Lw|
+YO|
+PO|
+WW||||
+|contonat|contŏnat|cōntŏnăt
+LS|contonat|contŏnat|||v. impers.|it thunders heavily|contonat|0
+GG|contonat|contŏnat||||imp., il tonne fort|contonat|
+GJ|contonat|contŏnat|impers.|il tonne fort.
+Ge|contonat|contonat|v. impers.|es donnert gewaltig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|degrandinat|dēgrandĭnat|dēgrāndĭnăt
+LS|degrandinat|dēgrandĭnat|||v. impers.|it hails violently, continues to hail, ceases to hail|degrandinat|0
+GG|degrandinat|dēgrandĭnat||||imp., la grêle persiste|degrandinat|
+GJ|degrandinat|degrandinat|(impers.)|la grêle continue à tomber.
+Ge|degrandinat|dēgrandinat|v. impers.|es hört auf zu schloßen
+FG|
+Lw|degrandinat|dē-grandinat||||it stops hailing||||degrandinat
+YO|
+PO|
+WW||||
+|depluit|dēplŭit|dēplŭĭt
+LS|
+GG|depluit|dēplŭit|ĕre||intr.|int., pleuvoir|depluit|
+GJ|depluit|depluit|ĕre|il pleut.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|depudet|dēpŭdet|dēpŭdĕt
+LS|depudet|dēpŭdet|ŭit, 2||v. impers.||depudet|0
+GG|depudet|dēpŭdet|ŭit, ēre|||ne plus rougir de, n'avoir plus de honte de / avoir honte de, rougir de|depudet|
+GJ|depudet|dēpudet|ēre, puduit|- intr. impers. - 1 - Ov. Sen. n'avoir plus honte de, ne plus rougir de. - 2 - Vell. avoir honte de, rougir de.
+Ge|depudet|dēpudet|puduit, Ere, v. impers. I)|sich sehr schämen - sich nicht mehr schämen, alle Scham abgelegt haben
+FG|
+Lw|depudet|dēpudet|uit, ēre|||to cease to shame||||depudet
+YO|
+PO|
+WW||||
+|diluculat|dīlūcŭlat|dīlūcŭlăt
+LS|diluculat|dīlūcŭlat|ābat, 1||v. impers.|it grows light, it dawns;|diluculat|0
+GG|diluculat|dīlūcŭlat||||impers., le jour commence à poindre|diluculat|
+GJ|diluculat|dīlūcŭlat|(impers.)|Gell. il commence à faire jour.
+Ge|diluculat|dīlūculat|impers.|der Tag dämmert herauf
+FG|diluculat|diluculat (diluculum), impersonnel, le jour commence à poindre.
+Lw|
+YO|
+PO|
+WW||||
+|distaedet|distaedet|dīstāedĕt
+LS|distaedet|distaedet|||v. impers.|to be very tired of, disgusted with, to loathe|distaedet|&Dagger; tisum (acc. to Paul. ex 
+GG|distaedet|distaedet|(me), taesum est|||imp., s'ennuyer beaucoup|distaedet|
+GJ|distaedet|distaedet|taesum est, impers.|s'ennuyer beaucoup.
+Ge|distaedet|distaedet|ēre, impers.|ich bin ganz überdrüssig
+FG|
+Lw|distaedet|dis-tāedet|&mdash;, &mdash;, ēre|||it is wearisome, is disgusting||||distaedet
+YO|
+PO|
+WW||||
+|effaris|effāris|ēffāris
+LS|
+GG|effaris|effāris|ātur, ātus sum, āri||tr.|de l'inusité effor, tr., parler, dire / raconter, annoncer, prédire / ] / [langue des augures] fixer, déterminer|effaris|
+GJ|effaris|effaris|āri, ātus sum (effor est inusité)|- tr. - 1 - parler, dire. - 2 - raconter, annoncer. - 3 - émettre (une proposition, une assertion, une pensée).
+Ge|
+FG|effaris|effaris ari atur atus sum, de l'inusité effor, transitif, parler, dire ; raconter, annoncer, prédire.
+Lw|
+YO|
+PO|
+WW||||
+|expallui|expallŭi|ēxpāllŭi
+LS|
+GG|expallui|expallŭi|||tr. intr.|int., devenir très pâle / tr., redouter|expallui|
+GJ|expallui|expallui|(parf. de expallesco)|devenir très pâle, redouter.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|indecet|indĕcet|īndĕcĕt
+LS|
+GG|indecet|indĕcet|ēre||intr.|int., être inconvenant|indecet|
+GJ|indecet|indĕcet|ēre, impers.|être inconvenant.
+Ge|
+FG|indecet|indecet ere (cf. decet), intransitif, être inconvenant.
+Lw|
+YO|
+PO|
+WW||||
+|infulgerat|infulgĕrat|īnfūlgĕrăt
+LS|infulgerat|infulgĕrat|1||v. impers.|it lightens|infulgerat|0
+GG|infulgerat|infulgĕrat|||impers.|imp., il fait des éclairs, il éclaire|infulgerat|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interfari|interfāri|īntērfāri
+LS|
+GG|interfari|interfāri|ātur, ātus sum|||interrompre, couper la parole / dire en interrompant|interfari|
+GJ|
+Ge|
+FG|interfari|interfari atur atus sum, transitif,
+Lw|
+YO|
+PO|
+WW||||
+|interfaris|interfāris|īntērfāris
+LS|interfaris|interfāris|||||interfaris|v. interfor.
+GG|
+GJ|interfaris|interfāris|fātur, fāri, fātus sum (interfor, inusité)|- 1 - interrompre, couper la parole. - 2 - parler entre, jeter quelques paroles.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|invesperascit|invespĕrascit|īnvēspĕrāscĭt
+LS|invesperascit|invespĕrascit|3||v. impers.|it becomes evening, evening is approaching|invesperascit|0
+GG|invesperascit|invespĕrascit|ĕre|||impers., il se fait tard, il commence à faire nuit|invesperascit|
+GJ|invesperascit|invesperascit|impers.|le soir commence à tomber, il se fait tard.
+Ge|invesperascit|invesperāscit|ere|der Abend kommt heran, - bricht herein
+FG|invesperascit|invesperascit ere, impersonnel, il se fait tard.
+Lw|invesperascit|in-vesperāscit|&mdash;, ere|||it becomes evening, evening is approaching||||invesperascit
+YO|
+PO|
+WW||||
+|lucet|lūcet|lūcĕt
+LS|lucet|lūcet|||v. impers.||lucet|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|lucet|lūcet||||ROFIT||||lucet
+YO|
+PO|
+WW||||
+|ningit|ningit|nīngĭt
+LS|ningit|ningit|ēbat, nxit, 3||v. n.|it snows|ningit|or 
+GG|ningit|ningit|ninxit, ĕre|||impers., il neige|ningit|ningit
+GJ|ningit|ningit|ĕre, ninxit (impers.)|il neige.
+Ge|
+FG|ningit|ningit (ninguit) ere ninxit, impersonnel, il neige.
+Lw|ningit|ningit (-guit)|&mdash;|||it snows||||ningit
+YO|
+PO|ningit|ningit, ningere, ninxit : v3 impers
+WW||||
+|ninguit|ninguit|nīngụĭt
+LS|ninguit|ninguit|ēbat, nxit, 3||v. n.|it snows|ninguit|and 
+GG|ninguit|ninguit|ninxit, ĕre|||impers., il neige|ningit|ninguit
+GJ|ninguit|ninguit|ĕre, ninxit (impers.)|il neige.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nivit|nĭvit|nĭvĭt
+LS|nivit|nĭvit|ĕre||v. impers.|it snows;|nivit|0
+GG|nivit|nīvit|ĕre|||impers., il neige|nivit|
+GJ|nivit|nĭvit|ĕre [nix], impers.|il neige.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oblucuviasse|oblūcŭvĭasse|ō̆blūcŭvĭāsse
+LS|oblucuviasse|oblucuviasse|dicebant antiqui mente errasse, quasi in luco deorum alicui occurrisse||||oblucuviasse|
+GG|oblucuviasse|oblūcŭvĭasse||||int., avoir perdu la raison|oblucuviasse|
+GJ|oblucuviasse|oblucuviasse|(= mente errasse)|- intr. - Fest. avoir perdu la raison.
+Ge|oblucuviasse|oblūcuviāsse||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oportet|ŏportet|ŏpōrtĕt
+LS|oportet|ŏportet|ŭit, 2||v. impers.|it is necessary, needful, proper, becoming, reasonable; it behooves; I, thou, he, must, ought, subject-clause, subj., absol.;, ut, subj., subj., ut, subj., Absol.|oportet|0
+GG|oportet|ŏportet|tŭit, ēre|||impers., il faut / [avec subj. seul] / [avec prop. inf.] / [avec inf., sans sujet déterminé] / [avec ut subj., décad.]|oportet|
+GJ|oportet|ŏportet|ĕre, ŏportŭit|il faut, il convient, il est nécessaire.
+Ge|oportet|oportet||
+FG|oportet|oportet ere tuit, impersonnel, il faut ; (avec subjonctif seul), (avec proposition infinitive) ; (avec infinitif sans sujet déterminé).
+Lw|oportet|oportet|uit, ēre|||it is necessary, is proper, is becoming, behooves, none of your, oughts, the punishment was to be, that was to be given, he ought to have stayed||||oportet
+YO|
+PO|oportet|oportet, oporte_re, oportuit : v2 impers
+WW||||
+|perlibet|perlĭbet|pērlĭbĕt
+LS|perlibet|perlĭbet|ēre||v. impers.|it is very pleasing, agreeable, I should very much like|perlibet|or 
+GG|perlibet|perlĭbet|ŭit, ēre||intr.|[suivi de l'infin.] il est très agréable [de]|perlibet|perlĭbet
+GJ|perlibet|perlĭbet|ēre, lĭbŭit, impers. + inf.|il est très agréable de.
+Ge|
+FG|perlibet|perlibet (-lubet) ere uit, intransitif, (suivi de l'infinitif) il est très agréable de.
+Lw|
+YO|
+PO|
+WW||||
+|perlicet|perlĭcet|pērlĭcĕt
+LS|perlicet|perlĭcet|ēre||v. impers.|it is perfectly allowable|perlicet|0
+GG|perlicet|perlĭcet|ēre|||c. licet.|perlicet|
+GJ|perlicet|perlĭcet|ēre|c. licet.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perlubet|perlŭbet|pērlŭbĕt
+LS|perlubet|perlŭbet|ēre||v. impers.|it is very pleasing, agreeable, I should very much like|perlibet|v. perlibet.
+GG|perlubet|perlŭbet|ŭit, ēre||intr.|[suivi de l'infin.] il est très agréable [de]|perlibet|-lŭbet
+GJ|perlubet|perlŭbet|ēre, lĭbŭit, impers. + inf.|il est très agréable de.
+Ge|perlubet|perlubet|uit, Ere|es beliebt sehr, ich habe große Lust
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perodi|pĕrōdi|pĕrōdi
+LS|perodi|pĕrōdi|ōsus, ōdisse||v. a.|to hate greatly, to detest|perodi|0
+GG|perodi|pĕrōdi|isse||tr.|tr., détester|perodi|
+GJ|perodi|perodi|odisse, osus sum|- tr. - détester fort, haïr extrêmement.
+Ge|perodi|perōdī|ōdisse|sehr hassen
+FG|
+Lw|perodi|(per-ōdī)|see perosus.|||||||perodi
+YO|
+PO|perodi|pero_di_, pero_disse, pero_sus sum : v5
+WW||||
+|pluit|plŭit|plŭĭt
+LS|pluit|plŭit|||||pluit|v. pluo.
+GG|pluit|plŭit|ĕre||tr.|pleuvoir / [avec acc. qualif. (leçon des mss)] / [fig.] tomber comme la pluie / tr., faire pleuvoir|pluit|
+GJ|pluit|plŭit|ĕre, plŭit (plūvit) |(employé seul. à la 3 ème pers. et à l'inf.) - intr. - 1 - pleuvoir. - 2 - tomber en pluie, tomber comme la pluie. - 3 - dégoutter, suinter. - 4 - tr. - faire pleuvoir.
+Ge|
+FG|pluit|pluit ere pluit, impersonnel, pleuvoir.
+Lw|
+YO|
+PO|
+WW||||
+|posthiemat|posthĭĕmat|pōsthĭĕmăt
+LS|
+GG|posthiemat|posthĭĕmat|āre||intr.|int., l'hiver est tardif|posthiemat|
+GJ|posthiemat|posthĭĕmat|āre, impers.|Plin. l'hiver est tardif.
+Ge|posthiemat|posthiemat|v. impers.|es wintert nach
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praecoepi|praecoepi|prāecōepi
+LS|praecoepi|praecoepi|pisse||v. a.|to begin before|praecoepi|0
+GG|praecoepi|praecoepi|isti, isse||tr.|tr., commencer avant|praecoepi|
+GJ|
+Ge|praecoepi|praecoepī|coepisse|vorher anfangen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praepossum|praepossum|prāepōssŭm
+LS|praepossum|praepossum|pŏtui, posse||v. n.|to be very powerful, more powerful, to have the superiority, get the upperhand|praepossum|0
+GG|praepossum|praepossum|potui, posse||intr.|int., avoir le dessus, l'emporter|praepossum|
+GJ|praepossum|praepossum|posse, pŏtŭi|- intr. - l'emporter, avoir la prééminence, primer.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW|||praepossum, praepotui|
+|praetersum|praetersum|prāetērsŭm
+LS|praetersum|praetersum|esse||v. n.|to be out of, not present at|praetersum|0
+GG|praetersum|praetersum|esse||intr.|int., être étranger à, ne pas s'intéresser à [dat.]|praetersum|
+GJ|praetersum|praetersum|esse|- intr. - être étranger à, ne pas s'intéresser à [dat.].
+Ge|praetersum|praetersum|fuī, esse|außerhalb-, nicht dabei sein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praevernat|praevernat|prāevērnăt
+LS|praevernat|praevernat|āre||v. impers.|to be spring too early, before the time|praevernat|0
+GG|praevernat|praevernat|āre|||impers., le printemps est précoce|praevernat|
+GJ|
+Ge|praevernat|praevērnat|āre, v. impers.|es wird zeitig Frühling
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pudescit|pŭdescit|pŭdēscĭt
+LS|pudescit|pŭdescit|ĕre||v. inch. n.|to be ashamed|pudescit|0
+GG|pudescit|pŭdescit|ĕre|||commencer à avoir honte|pudescit|
+GJ|
+Ge|pudescit|pudēscit|ere, impers.|sich schämen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|refert|rēfert|rēfērt
+LS|refert|rēfert|tŭlit, ferre||v. n. impers.|it is for one's interest, advantage, it profits;, it befits, matters, imports, concerns, it is of importance, consequence|refert|(or separately 
+GG|refert|rēfert|rētŭlit, rēferre||impers.|[avec sujet pron. n.] / [constr. diverses] / [avec sujet subst.] / [avec int. ind.] / avec inf. [ellipse de sujet indéterm.]|refert|
+GJ|refert|rēfert|(rē fert), ferre, rētulit [rē, abl. de res + fert]|1 - intr. - être important, importer, intéresser. 2 - impers. - il est important, il importe, il est de l'intérêt de.
+Ge|refert|rēfert|rētulit, rēferre, v. n.|es ist zuträglich von seiten des Interesses - es liegt daran, ist daran gelegen, es dient, verschlägt usw.
+FG|refert|refert referre retulit, intransitif et impersonnel,
+Lw|refert|rē-fert or rē fert|tulit, &mdash;, ferre, only 3|||it is of advantage, profits, befits, matters, imports, concerns, is of importance, is of consequence (often with||||refert
+YO|
+PO|refert|re_fert, re_ferre, re_tulit : v5 impers
+WW||||
+|rememini|rĕmĕmĭni|rĕmĕmĭni
+LS|rememini|rĕmĕmĭni|isse||v. n.|to recall to mind, to remember|rememini|0
+GG|rememini|rĕmĕmĭni|isti, isse|||se ressouvenir [gén.]|rememini|
+GJ|rememini|rĕmĕmĭni|isse|- intr. - Tert. se ressouvenir.
+Ge|rememini|rememinī|isse|sich wieder erinnern
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|significor|signĭfĭcor|sīgnĭfĭcŏr
+LS|significor|signĭfĭcor|||v. a.||significo|acc. to 
+GG|significor|signĭfĭcor||||v. significo|significor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subpudet|subpŭdet|sūbpŭdĕt
+LS|subpudet|subpŭdet|ēre||v. impers.|to be somewhat ashamed|suppudet|(
+GG|subpudet|subpŭdet|ēre|||imp., éprouver qq honte, rougir un peu|suppudet|subp-
+GJ|subpudet|subpŭdet|ēre, impers.|éprouver un peu de honte, rougir un peu.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suppoenitet|suppoenĭtet|sūppōenĭtĕt
+LS|suppoenitet|suppoenĭtet|ēre||v. n. impers.|to be somewhat sorry, to repent a little|suppoenitet|(
+GG|suppoenitet|suppoenĭtet||||v. suppaenitet.|suppoenitet|
+GJ|suppoenitet|suppoenĭtet|ēre, impers.|se repentir un peu, être un peu mécontent, avoir quelques remords.
+Ge|
+FG|
+Lw|suppoenitet|(suppoenitet)|see suppaenitet.|||o stamp||||suppoenitet
+YO|
+PO|
+WW||||
+|suppudet|suppŭdet|sūppŭdĕt
+LS|suppudet|suppŭdet|ēre||v. impers.|to be somewhat ashamed|suppudet|(
+GG|suppudet|suppŭdet|ēre|||imp., éprouver qq honte, rougir un peu|suppudet|suppŭdet
+GJ|suppudet|suppŭdet|ēre, impers.|éprouver un peu de honte, rougir un peu.
+Ge|suppudet|suppudet|impers., me alcis|ich schäme mich ein wenig - einigermaßen vor
+FG|suppudet|suppudet (subp-) ere, impersonnel, éprouver quelque honte, rougir un peu.
+Lw|suppudet|suppudet (subp-)|&mdash;, ēre|||to be somewhat ashamed||||suppudet
+YO|
+PO|
+WW||||
+|taedescit|taedescit|tāedēscĭt
+LS|taedescit|taedescit|ĕre||v. impers. inch.|it disgusts, who are disgusted|taedescit|0
+GG|taedescit|taedescit|ĕre|||impers., aliquem alicujus rei, commencer à s'ennuyer de qqch|taedescit|
+GJ|taedescit|taedescit|ĕre [taedet]|- intr. - commencer à s'ennuyer de.
+Ge|taedescit|taedēscit|ere, impers.|es ekelt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|usuvenit|ūsūvĕnit|ūsūvĕnĭt
+LS|
+GG|usuvenit|ūsūvĕnit|īre||intr.|int., venir à usage, à expérience ; arriver, se présenter / [avec séparation]|usuvenit|ūsūvĕnit
+GJ|usuvenit|ūsūvĕnit|īre|- int. - venir à usage, à expérience; arriver, se présenter.
+Ge|
+FG|usuvenit|usuvenit (ou usu venit) ire, intransitif, venir à usage, à expérience ; arriver, se présenter.
+Lw|
+YO|
+PO|
+WW||||
+|auctumnascit|auctumnascit|āuctūmnāscĭt
+LS|auctumnascit|auctumnascit|||v. inch. impers.|autumn approaches, is coming on|auctumnescit|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|auctumnescit|auctumnescit|āuctūmnēscĭt
+LS|auctumnescit|auctumnescit|||v. inch. impers.|autumn approaches, is coming on|auctumnescit|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|autumnescit|autumnescit|āutūmnēscĭt
+LS|autumnescit|autumnescit|||v. inch. impers.|autumn approaches, is coming on|auctumnescit|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|claudor|claudor|clāudŏr
+LS|
+GG|claudor|claudor|||intr.|int., boiter|claudeor|claudor
+GJ|claudor|claudor|ī|- intr. - boiter.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coadsum|cŏadsum|cŏādsŭm
+LS|
+GG|coadsum|cŏadsum|esse||intr.|int., être présent avec|coadsum|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|convehor|convehor|cōnvĕhŏr
+LS|
+GG|
+GJ|
+Ge|convehor|convehor|vexus sum, vehī|fahren
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dequeror|dēqueror|dēqụerŏr
+LS|
+GG|
+GJ|
+Ge|dequeror|dēqueror|questus sum, querī|heftig beklagen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ecfaris|ecfaris|ēcfaris
+LS|
+GG|
+GJ|ecfaris|ecfaris|āri, ātus sum (effor est inusité)|- tr. - 1 - parler, dire. - 2 - raconter, annoncer. - 3 - émettre (une proposition, une assertion, une pensée).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fulminat|fulminat|fūlminăt
+LS|
+GG|fulminat|fulminat|||tr.|imp., la foudre tombe / tr., foudroyer, frapper de la foudre|fulmino|fulminat
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|infendo|infendo|īnfēndo
+LS|
+GG|infendo|infendo|ēre||tr.|tr., accuser, attaquer|infendo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|manu|mănū|mănū
+LS|
+GG|manu|mănū mitto|mīsi, missum, ĕre||tr.|tr., affranchir [un esclave], lui donner la liberté|manumitto|mănū mitto
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nigrefacio|nī̆grefacĭo|nī̆grefacĭo
+LS|nigrefacio|nī̆grefacĭo|ēre||v. a.|to make black, to blacken, Pass.|nigrefacio|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|postsum|postsum|pōstsŭm
+LS|postsum|postsum|fui, esse||v. n.|to be after, future;|postsum|(also separate, 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praecaedit|praecaedit|prāecāedĭt
+LS|praecaedit|praecaedit|cīdi, cīsum, 3||v. a.|to cut off in front;, to cut off.|praecido|(old form 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praefulgurat|praefulgŭrat|prāefūlgŭrăt
+LS|
+GG|praefulgurat|praefulgŭrat|||tr. intr.|int. [n'est usité qu'à la 3e pers.], briller [comme l'éclair], étinceler / tr., remplir de clarté, éclairer, illuminer|praefulgurat|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praequeror|praequeror|prāeqụerŏr
+LS|
+GG|
+GJ|
+Ge|praequeror|praequeror|questus sum, querī|vorher klagen
+FG|
+Lw|praequeror|(prae-queror)|questus, ī|||to complain beforehand||||praequeror
+YO|
+PO|
+WW||||
+|praetaedescit|praetaedescit|prāetāedēscĭt
+LS|praetaedescit|praetaedescit|3||v. impers.|it disgusts beforehand|praetaedescit|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|resalvare|rĕsalvāre|rĕsālvāre
+LS|resalvare|rĕsalvāre|||v. a.|to save again, redeem|resalvare|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sciscor|sciscor|scīscŏr
+LS|sciscor|sciscor|||v. inch. a.|to seek to know; to search, inquire.|scisco|acc. to 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subpoenitet|subpoenĭtet|sūbpōenĭtĕt
+LS|subpoenitet|subpoenĭtet|ēre||v. n. impers.|to be somewhat sorry, to repent a little|suppoenitet|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|temperor|tempĕror|tēmpĕrŏr
+LS|temperor|tempĕror|||v. a. and n.||tempero|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|contrario|contrārĭo|cōntrārĭo
+LS|
+GG|contrario|contrārĭo|ăre||intr.|int., contredire [dat.]|2 contrario|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||contrario, contrariatum
+|magni|magnī|māgnī
+LS|
+GG|magni|magnī făcĭo|ĕre||tr.|tr., faire grand cas de|magnifacio|magnī făcĭo
+GJ|magni|magni|(s.-ent. pretii)|d'un grand prix.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|pervolo2|pervŏlo2|pērvŏlo
+LS|pervolo|pervŏlo|vŏlui, velle||v. n.|to wish greatly, to be very desirous|pervolo2|0
+GG|pervolo|pervŏlo|vŏlŭi, velle||tr.|tr., désirer vivement, avoir un vif désir|2 pervolo|
+GJ|pervolo|pervŏlo|velle, vŏlŭi|- tr. - vouloir absolument, désirer vivement.
+Ge|pervolo|pervolo|voluī, velle|gern wollen, sehr gern sehen, sehr wünschen
+FG|pervolo|pervolo velle volui, transitif, désirer vivement, avoir un vif désir.
+Lw|pervolo|per-volō|voluī, &mdash;, velle|||to wish greatly, be very desirous||||pervolo2
+Y§|
+PO|
+WW||||
+|collibet=conlibet|collĭbet|cōllĭbĕt
+LS|collibet|collĭbet|buit or bītum est, 2||v. impers.|it pleases, it is agreeable, act., pass.|collibet|(
+GG|collibet|collĭbet|ŭit et ĭtum est, ēre|||imp., il plaît, il vient à l'esprit|collibet|collĭbet
+GJ|
+Ge|collibet|collibet|libuit|es beliebt (gefällt), fällt ein - (wem?) - (wem?) - (wem?)
+FG|collibet|collibet (conl-) ou -lubet ere uit itum est, impersonnel, il plaît, il vient à l'esprit.
+Lw|conlibet|(con-libet, conlubet, or collibet)|buit or bitum est, ēre|||it pleases, is agreeable||||conlibet
+YO|
+PO|
+WW||||
+|collubet=conlubet|collŭbet|cōllŭbĕt
+LS|collubet|collŭbet|buit or bītum est, 2||v. impers.|it pleases, it is agreeable, act., pass.|collibet|v. collibet.
+GG|collubet|collŭbet|ŭit, ĭtum est, ēre||imp.|imp., il plaît, il vient à l'esprit|collibet|-lŭbet
+GJ|
+Ge|
+FG|
+Lw|conlubet|conlubet|see conlibet.|||||||conlubet
+YO|
+PO|
+WW||||
+|illimo=inlimo|illīmo|īllīmo
+LS|
+GG|illimo|illīmo|||tr.|souiller de limon|illimo|illīmo
+GJ|
+Ge|illimo|illīmo||bewerfen
+FG|
+Lw|
+YO|
+PO|
+WW||||

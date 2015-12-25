@@ -1,0 +1,440 @@
+|arefio|ārĕfīo|ārĕfīo|35||ārĕfāct|fĭĕri, factus sum (passif de arefacio)
+LS|
+GG|arefio|ārĕfīo|factus sum, fĭĕri|||se sécher, se dessécher|arefio|
+GJ|arefio|arefīo|fĭĕri, factus sum|se dessécher, se sécher.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calefio|călĕfīo|călĕfīo|35||călĕfāct|fĭĕri, factus sum (passif de calefacio)
+LS|calefio|călĕfīo|fĭĕri||||calefio|0
+GG|calefio|călĕfīo|factus sum, fĭĕri|||pass. de calefacio, devenir chaud|calefio|
+GJ|calefio|calefīo|fĭĕri, factus sum (passif de calefacio)|devenir chaud, être chauffé, s'échauffer.
+Ge|calefio|calefīo||
+FG|calefio|calefio fieri factus sum, passif de calefacio, devenir chaud, être chauffé.
+Lw|
+YO|
+PO|
+WW||||calefio, calefactum
+|calvefio|calvēfīo|cālvēfīo|35||cālvēfāct|fĭĕri, factus sum (passif de calvefacio)
+LS|
+GG|calvefio|calvēfīo|ĭĕri|||devenir chauve|calvefio|
+GJ|calvefio|calvefīo|fĭĕri|Varr. devenir chauve.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|candefio|candĕfīo|cāndĕfīo|35||cāndĕfāct|fĭĕri, factus sum (passif de candefacio)
+LS|candefio|candĕfīo|||||candefio|v. cande-facio, II.
+GG|candefio|candēfīo|factus sum, ĭĕri|||pass., devenir chaud, être chauffé|candefacio|candēfīo
+GJ|candefio|candefīo|fĭĕri, factus sum|- 1 - être chauffé à blanc. - 2 - devenir blanc.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||candefio, candefactum
+|commonefio|commŏnĕfīo|cōmmŏnĕfīo|35||cōmmŏnĕfāct|fĭĕri, factus sum (passif de commonefacio)
+LS|
+GG|commonefio|commŏnĕfīo|factus sum, fĭĕri|||être rappelé au souvenir de qqch|commonefio|
+GJ|commonefio|commonefīo|fĭĕri, factus sum, passif de commonefacio|être averti.
+Ge|
+FG|commonefio|commonefio fieri factus sum, passif de commonefacio : alicujus rei, être rappelé au souvenir de quelque chose.
+Lw|
+YO|
+PO|
+WW||||commonefio, commonefactum
+|concalefio|concălĕfīo|cōncălĕfīo|35||cōncălĕfāct|fĭĕri, factus sum (passif de concalefacio)
+LS|concalefio|concălĕfīo|fĭĕri||||concalefacio|v. concalefacio.
+GG|concalefio|concălĕfīo||||pass. de concalefacio.|concalefio|
+GJ|concalefio|concalefīo|fĭĕri, factus sum, passif de concalefacio|s'échauffer, devenir chaud, être échauffé.
+Ge|
+FG|concalefio|concalefio, passif de concalefacio.
+Lw|
+YO|
+PO|
+WW||||concalefio, concalefactum
+|confio|confīo|cōnfīo|35||cōnfāct|fĭĕri, factus sum (passif de conficio)
+LS|confio|confīo|fĭĕri||||confio|0
+GG|confio|confīo|fĭĕrī|||autre passif de conficio [employé rarement, et seult à l'inf. ou à la 3e pers. sing. et plur.] / être fait, se produire, avoir lieu / être épuisé, consumé / être constitué [somme d'argent]|confio|
+GJ|confio|confīo|fĭĕri|même sens que conficior, pass. de conficio [employé rarement, et seult. à l'inf. ou à la 3e pers. sing. et plur.]
+Ge|confio|cōnfīo|fierī|zustande gebracht-, zurechtgemacht-, vollendet-, ausgeführt werden, geschehen - verbraucht werden - der Zeit - nach vergehen - zusammengebracht-, aufgetrieben werden
+FG|confio|confio fieri, autre passif de conficio, employé seulement à l'infinitif ou à la troisième personne du singulier et du pluriel : être fait, se produire, avoir lieu.
+Lw|confio|cōn-fīō|&mdash;, fierī, collat. form for conficior|||to be brought together:||||confio
+YO|
+PO|
+WW||||confio, confactum
+|consuefio|consuēfīo|cōnsŭēfīo|35||cōnsŭēfāct|fĭĕri, factus sum (passif de consuefacio)
+LS|
+GG|consuefio|consuēfīo|fĭĕri|||pass. de consuefacio, s'accoutumer à|consuefio|
+GJ|consuefio|consuēfīo|fĭĕri, passif de consuefacio|J.-Val. s'accoutumer à.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||consuefio, consuefactum
+|defio|dēfīō|dēfīō|35||dēfāct|fĭĕri, factus sum (passif de deficio)
+LS|defio|dēfīo|ĕri||||defio|0
+GG|
+GJ|defio|dēfīo||v. defit.
+Ge|defio|dēfio|fierī|dahinschwinden, ausgehen, aufhören, abnehmen - ausgehen, abgehen, mangeln, fehlen - ( wem?) - nach nicht ausreichen, zu kurz sein
+FG|
+Lw|defio|(dēfīō)||||dēfit, etc., rare passive for deficior.||||defio
+YO|
+PO|defio|de_fi_o_, de_fieri_ : v5
+WW||||defio, defactum
+|desuefio|dēsŭēfīo|dēsŭēfīo|35||dēsŭēfāct|fĭĕri, factus sum (passif de desuefacio)
+LS|desuefio|dēsŭēfīo|||||desuefio|v. desuefacio.
+GG|desuefio|dēsuēfīo|factus sum, fĭĕri|||se déshabituer, perdre l'habitude|desuefio|
+GJ|desuefio|dēsuēfīo|fĭĕri, factus sum (passif de desuefacio)|se déshabituer, perdre l'habitude.
+Ge|
+FG|desuefio|desuefio fieri factus sum, se déshabituer, perdre l'habitude.
+Lw|
+YO|
+PO|
+WW||||desuefio, desuefactum
+|effio|effīo|ēffīo|35||ēffāct|fĭĕri, factus sum (passif de efficio)
+LS|effio|effīo|ĕri||||effio|0
+GG|effio|effīo|ĕri|||v. efficio|effio|
+GJ|effio|effīo|fĭĕri|passif de efficio.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||effio, effactum
+|exarefio|exārĕfīo|ēxārĕfīo|35||ēxārĕfāct|fĭĕri, factus sum (passif de exarefacio)
+LS|exarefio|exārĕfīo|ĕri||v. pass.|to dry up, become completely dry|exarefio|0
+GG|exarefio|exārĕfīo|ĭĕri|||pass., être séché entièrement|exarefio|
+GJ|exarefio|exarefīo|fĭĕri, passif|être desséché entièrement.
+Ge|exarefio|exārefīo|fierī|vollkommen trocken werden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|excalfio|excalfīo|ēxcālfīo|35||ēxcālfāct|fĭĕri, factus sum (passif de excalfacio)
+LS|excalfio|excalfīo||||pass.|excalfio|0
+GG|excalfio|excalfīo|factus, fĭĕri|||pass., être chauffé, s'échauffer|excalfacio|excalfīo
+GJ|excalfio|excalfīo|fĭĕri, factus sum|v. excalfacio.
+Ge|
+FG|excalfio|excalfio, cf. excalfacio.
+Lw|
+YO|
+PO|
+WW||||
+|expergefio|expergēfīo|ēxpērgēfīo|35||ēxpērgēfāct|fĭĕri, factus sum (passif de expergefacio)
+LS|expergefio|expergēfīo|factus||||expergefio|0
+GG|expergefio|expergēfīo|factus sum, ĭĕri|||pass. de expergefacio, être réveillé|expergefio|
+GJ|expergefio|expergēfīo|fĭĕri, factus sum|Suet. être éveillé, être réveillé.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||expergefio, expergefactum
+|fabrefio|fā̆brēfīo|fā̆brēfīo|35||fā̆brēfāct|fĭĕri, factus sum (passif de fabrefacio)
+LS|fabrefio|fā̆brēfīo|factus sum, fĭĕri|||to be made, fashioned skilfully|fabrefio|0
+GG|
+GJ|fabrefio|făbrēfīo|fĭĕri, passif de fabrefacio|être fait avec art.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||fabrefio, fabrefactum
+|interfio|interfīo|īntērfīo|35||īntērfāct|fĭĕri, factus sum (passif de interficio)
+LS|interfio|interfīo|fĭĕri||||interfio|0
+GG|interfio|interfīo|ĭĕri|||être détruit|interfio|
+GJ|interfio|interfīo|fĭĕri (passif de interficio)|- 1 - être détruit. - 2 - être consumé.
+Ge|interfio|interfīo|fierī|zugrunde gerichtet werden, umkommen, vergehen
+FG|
+Lw|
+YO|
+PO|
+WW||||interfio, interfactum
+|labefio|lăbĕfīo|lăbĕfīo|35||lăbĕfāct|fĭĕri, factus sum (passif de labefacio)
+LS|labefio|lăbĕfīo|factus, fieri|||-I. to cause to totter, to shake, loosen, to make ready to fall -II. pass.|labefacio|0
+GG|labefio|lăbĕfīo|ĭĕri|||pass. de labefacio|labefio|
+GJ|labefio|lăbĕfīo|fĭĕri, factus sum|passif de labefacio.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||labefio, labefactum
+|liquefio|lĭquĕfīo|lĭqụĕfīo|35||lĭqụĕfāct|fĭĕri, factus sum (passif de liquefacio)
+LS|liquefio|lĭquĕfīo||||e, to make liquid, to melt, dissolve, liquefy, act.|liquefacio|v. liquefacio 
+GG|liquefio|lĭquĕfīo|fīs, factus sum, ĭĕri|||se fondre, se liquéfier / [fig.] se miner|liquefio|
+GJ|liquefio|lĭquĕfīo|fĭĕri, factus sum|passif de liquefacio. - 1 - se liquéfier, fondre. - 2 - se miner.
+Ge|
+FG|liquefio|liquefio ieri fis factus sum, passif de liquefacio, se fondre, se liquéfier.
+Lw|
+YO|
+PO|
+WW||||liquefio, liquefactum
+|lucrifio|lū̆crĭfīo|lū̆crĭfīo|35||lū̆crĭfāct|fĭĕri, factus sum (passif de lucrifacio)
+LS|lucrifio|lū̆crĭfīo|factus, fieri||v. a.|to gain, win, acquire, get|lucrifacio|v. lucrifacio 
+GG|lucrifio|lŭcrĭfīo|||||lucrifio|lŭcrĭfīo
+GJ|lucrifio|lŭcrĭfīo|Err :509|voir lucrum.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||lucrifio, lucrifactum
+|lutefio|lŭtĕfīo|lŭtĕfīo|35||lŭtĕfāct|fĭĕri, factus sum (passif de lutefacio)
+LS|
+GG|lutefio|lŭtĕfīo|ĭĕri|||devenir boueux|lutefio|
+GJ|lutefio|lŭtĕfīo|fĭĕri [lutum]|devenir boueux.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|madefio|mădĕfīo|mădĕfīo|35||mădĕfāct|fĭĕri, factus sum (passif de madefacio)
+LS|madefio|mădĕfīo|factus, fĭĕri|||to make wet, to wet, moisten, to soak, drench, water|madefacio|0
+GG|madefio|mădĕfīo|factus sum, fĭĕri|||être mouillé|madefio|
+GJ|madefio|mădĕfīo|fĭĕri, factus sum|passif de madefacio.
+Ge|
+FG|madefio|madefio fieri factus sum, passif de madefacio.
+Lw|
+YO|
+PO|
+WW||||madefio, madefactum
+|mansuefio|mansŭēfīo|mānsŭēfīo|35||mānsŭēfāct|fĭĕri, factus sum (passif de mansuefacio)
+LS|mansuefio|mansŭēfīo|factus, fiĕri|||-I. to make tame, to tame -II. pass.|mansuefacio|0
+GG|mansuefio|mansuēfīo|factus sum, fĭĕri|||s'apprivoiser|mansuefio|
+GJ|mansuefio|mansŭēfīo|fĭĕri, factus sum [mansuetus + facio]|- 1 - s’apprivoiser. - 2 - s’adoucir (en parl. du caractère).
+Ge|
+FG|mansuefio|mansuefio fieri factus sum, passif de mansuefacio, s'apprivoiser ; s'adoucir : mansuefactus, adouci.
+Lw|
+YO|
+PO|
+WW||||mansuefio, mansuefactum
+|nigrefio|nĭgrĕfīo|nĭgrĕfīo|35||nĭgrĕfāct|fĭĕri, factus sum (passif de nigrefacio)
+LS|nigrefio|nigrĕfīo||||to become black|nigrefacio|0
+GG|nigrefio|nĭgrĕfīo|fĭĕri|||devenir noir|nigrefio|
+GJ|
+Ge|nigrefio|nigrefīo|fierī|schwarz werden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|obsolefio|obsŏlĕfīo|ōbsŏlĕfīo|35||ōbsŏlĕfāct|fĭĕri, factus sum (passif de obsolefacio)
+LS|obsolefio|obsŏlĕfīo|factus, fieri|||to wear out, spoil, injure, sully, degrade, lower, make common|obsolefacio|0
+GG|obsolefio|obsŏlĕfīo|factus sum, fĭĕri|||pass., s'avilir|obsolefio|
+GJ|obsolefio|obsolefīo|fĭĕri, factus sum|s'avilir, être dénaturé, être avili, être flétri.
+Ge|
+FG|obsolefio|obsolefio fieri factus sum, passif, s'avilir.
+Lw|obsolefio|obsolefiō|&mdash;, fierī|||to wear out, be spoiled, became worthless||||obsolefio
+YO|
+PO|
+WW||||obsolefio, obsolefactum
+|obstupefio|obstŭpĕfīo|ōbstŭpĕfīo|35||ōbstŭpĕfāct|fĭĕri, factus sum (passif de obstupefacio)
+LS|obstupefio|obstŭpĕfīo|factus, fieri|||to astonish, amaze, astound, stupefy; to render senseless, deprive of feeling, benumb, Pass.|obstupefacio|0
+GG|obstupefio|obstŭpĕfīo|factus sum, fĭĕri|||être paralysé, rendu insensible / [fig.] être frappé de stupeur|obstupefio|
+GJ|obstupefio|obstŭpĕfīo|fĭĕri, factus sum|passif de obstupefacio. - 1 - être paralysé, rendu insensible : V.-Max. 3, 8, 6; 5, 1, 1. - 2 - fig. être frappé de stupeur.
+Ge|
+FG|obstupefio|obstupefio fieri factus sum, passif,
+Lw|
+YO|
+PO|
+WW||||obstupefio, obstupefactum
+|percalefio|percălĕfīo|pērcălĕfīo|35||pērcălĕfāct|fĭĕri, factus sum (passif de percalefacio)
+LS|percalefio|percălĕfīo|factus, fieri|||to make very warm, to heat thoroughly|percalefacio|0
+GG|
+GJ|percalefio|percalefīo|fĭĕri, factus sum, passif de percalefacio|s'échauffer fortement.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perfervefio|perfervĕfīo|pērfērvĕfīo|35||pērfērvĕfāct|fĭĕri, factus sum (passif de perfervefacio)
+LS|perfervefio|perfervĕfīo|fĭĕri||v. n.|to become very hot|perfervefio|0
+GG|perfervefio|perfervĕfīo|ĭĕri|||devenir très chaud|perfervefio|
+GJ|perfervefio|perfervefīo|fĭĕri|devenir très chaud.
+Ge|perfervefio|perfervefīo|fierī|sehr heiß werden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|putrefio|pū̆trĕfīo|pū̆trĕfīo|35||pū̆trĕfāct|fĭĕri, factus sum (passif de putrefacio)
+LS|putrefio|pū̆trĕfīo|factus, fieri|||part. pass.|putrefacio|0
+GG|putrefio|pŭtrĕfīo|factus, fĭĕri|||pass. de putrefacio, se pourrir, se gâter, se corrompre, se dissoudre|putrefio|
+GJ|putrefio|pŭtrĕfīo|fĭĕri, factus sum, passif de putrefacio|se gâter, se corrompre, se décomposer, se désagréger.
+Ge|
+FG|putrefio|putrefio fieri factus sum, passif de putrefacio, se pourrir, se gâter, se corrompre, se dissoudre.
+Lw|
+YO|
+PO|
+WW||||putrefio, putrefactum
+|scarifio|scărīfīo|scărīfīo|35||scărīfāct|fĭĕri, factus sum (passif de scarifacio)
+LS|
+GG|scarifio|scărīfīo|fĭĕri|||pass., être scarifié|scarifio|
+GJ|scarifio|scărĭfīo|fĭĕri|être scarifié.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|stupefio|stŭpĕfīo|stŭpĕfīo|35||stŭpĕfāct|fĭĕri, factus sum (passif de stupefacio)
+LS|stupefio|stŭpĕfīo|factus||||stupefio|0
+GG|stupefio|stŭpĕfīo|factus sum, fĭĕri|||pass. de stupefacio), être interdit, stupéfié, étonné|stupefio|
+GJ|stupefio|stupefīo|fĭĕri, factus sum|être frappé d'étonnement, être stupéfié, être étonné.
+Ge|
+FG|
+Lw|
+YO|
+PO|stupefio|stupefi_o_, stupefieri_, stupefactus sum : v5
+WW||||stupefio, stupefactum
+|superfio|sŭperfīo|sŭpērfīo|35||sŭpērfāct|fĭĕri, factus sum (passif de superfacio)
+LS|superfio|sŭperfīo|fĭĕri||v. n.|to be over and above, to be left, to remain|superfio|0
+GG|superfio|sŭperfīo|fĭĕri||intr.|int., être de reste, rester|superfio|
+GJ|superfio|sŭperfīo|fĭĕri|rester, être de reste.
+Ge|superfio|superfīo|fierī|übrig sein
+FG|
+Lw|
+YO|
+PO|
+WW||||superfio, superfactum
+|vacefio|văcēfīo|văcēfīo|35||văcēfāct|fĭĕri, factus sum (passif de vacefacio)
+LS|vacefio|văcēfīo|fĭĕri||v. pass.|to become, be made empty|vacefio|0
+GG|vacefio|văcefīo|fĭĕri|||pass., devenir vide|vacefio|
+GJ|vacefio|văcēfīo|fĭĕri|devenir vide.
+Ge|
+FG|
+Lw|
+YO|
+PO|vacefio|vace_fi_o_, vace_fieri_ : v5
+WW||||vacefio, vacefactum
+|calfio|calfīo|cālfīo|35||cālfāct|fĭĕri, factus sum (passif de calfacio)
+LS|
+GG|calfio|calfīo|ĭĕri|||sync. pour calefio|calfio|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||calfio, calfactum
+|colliquefio|colliquefīo|cōlliqụefīo|35||cōlliqụefāct|fĭĕri, factus sum (passif de colliquefacio)
+LS|
+GG|
+GJ|
+Ge|colliquefio|colliquefīo|factus sum, fierī|ganz flüssig werden, völlig schmelzen
+FG|
+Lw|
+YO|
+PO|
+WW||||colliquefio, colliquefactum
+|malefio|mălĕfīo|mălĕfīo|35||mălĕfāct|fĭĕri, factus sum (passif de malefacio)
+LS|malefio|mălĕfīo|fĭĕri||v. n.|to be injured|malefio|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||malefio, malefactum
+|malfio|mălfīo|mălfīo|35||mălfāct|fĭĕri, factus sum (passif de malfacio)
+LS|malfio|mălfīo|fĭĕri||v. n.|to be injured|malefio|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|olfio|olfīo|ōlfīo|35||ōlfāct|fĭĕri, factus sum (passif de olfacio)
+LS|
+GG|olfio|olfīo|ĭĕri|||passif d'olfacio|olfio|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|recalefio|rĕcălĕfĭo|rĕcălĕfĭo|35||rĕcălĕfāct|fĭĕri, factus sum (passif de recalefacio)
+LS|
+GG|
+GJ|recalefio|rĕcălĕfĭo|fĭĕri, factus sum, passif de recalfacio|se réchauffer, être réchauffé.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|recalfio|rĕcalfīo|rĕcālfīo|35||rĕcālfāct|fĭĕri, factus sum (passif de recalfacio)
+LS|
+GG|
+GJ|recalfio|rĕcalfīo|fĭĕri, factus sum, passif de recalfacio|se réchauffer, être réchauffé.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sterilefio|stĕrĭlĕfīo|stĕrĭlĕfīo|35||stĕrĭlĕfāct|fĭĕri, factus sum (passif de sterilefacio)
+LS|sterilefio|stĕrĭlĕfīo|fĭĕri||v. n.|to become unfruitful, barren, sterile|sterilefio|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tabefio|tābĕfīo|tābĕfīo|35||tābĕfāct|fĭĕri, factus sum (passif de tabefacio)
+LS|tabefio|tābĕfīo|factus sum||v. dep. n. irreg.|to be melted, dissolved|tabefio|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||tabefio, tabefactum
+|tepefio|tĕpĕfīo|tĕpĕfīo|35||tĕpĕfāct|fĭĕri, factus sum (passif de tepefacio)
+LS|
+GG|
+GJ|tepefio|tĕpĕfīo|fĭĕri, factus sum, passif de tepefacio|s'échauffer, devenir tiède.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||tepefio, tepefactum
+|collabefio=conlabefio|collăbĕfīo|cōllăbĕfīo|35||cōllăbĕfāct|fĭĕri, factus sum (passif de collabefacio)
+LS|collabefio|collăbĕfīo|factus, fiĕri||v. pass.|to be made to reel, totter, to be brought to ruin|collabefio|(
+GG|collabefio|collăbĕfīo|factus sum, ĭĕri|||pass. de l'inus. collabefacio, s'effondrer / [fig.] être renversé, ruiné|collabefio|
+GJ|collabefio|collabefio|fieri, factus sum|être ébranlé, tomber en pièces, être fracassé, s'effondrer, être renversé, être ruiné.
+Ge|collabefio|collabefīo|factus sum, fierī|wankend gemacht-, zum Fallen gebracht werden, zusammensinken - gestürzt werden
+FG|collabefio|collabefio fieri factus sum, passif de l'inusité collabefacio, s'effondrer ; (figuré) être renversé, ruiné.
+Lw|conlabefio|con-labefīō (coll-)|factus, fierī|||to fall to pieces, collapse, be ruined:||||conlabefio
+YO|
+PO|collabefio|collabefi_o_, collabefieri_, collabefactus sum : v5
+WW||||collabefio, collabefactum
+|suffervefio=subfervefio|suffervēfīo|sūffērvēfīo|35||sūffērvēfāct|fĭĕri, factus sum (passif de suffervefacio)
+LS|suffervefio|suffervēfīo|fĭĕri||||suffervefio|0
+GG|
+GJ|suffervefio|suffervefio|fieri|bouillir un peu, bouillonner un peu.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||

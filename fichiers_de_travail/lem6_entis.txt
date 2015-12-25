@@ -1,0 +1,940 @@
+|accidens|accĭdens|āccĭdēns|8|āccĭdēnt||entis, n.
+LS|accidens|accĭdens|||P. a.||accidens|entis. 
+GG|accidens|accĭdens|entis|n.|part.|du part. prés. d'accido pris substt / accident [opposé à substance], manière d'être accidentelle, non essentielle, accessoire ; [employé au pluriel] / accident, cas fortuit / per accidens, par hasard ; ex accidenti, accidentellement / événement malheureux, accident fâcheux [au plur.]|accidens|
+GJ|accidens|accidens|entis, n. (surtout au plur.)|a - accident [opposé à substance], manière d'être accidentelle, non essentielle, accessoire. b - accident, cas fortuit. c - événement malheureux, accident fâcheux.
+Ge|accidens|accidēns|dentis, n.|das Zufällige, Unwesentliche, Äußere - ein zufälliger, unwesentlicher Umstand - der Zufall - ein Symptom - unglücklicher Zufall, unglückliches Ereignis, Unfall
+FG|accidens|accidens entis neutre du participe présent d'accido pris substantivement au pluriel, 1. manière d'être accidentelle ; 2. événement malheureux, accident fâcheux.
+Lw|
+YO|
+PO|
+WW||||
+|accolens|accŏlens|āccŏlēns|6|āccŏlēnt||entis, m.
+LS|
+GG|accolens|accŏlens|tis|m.||voisin|accolens|
+GJ|accolens|accŏlens|entis, m.|voisin.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aedituens|aedĭtŭens|āedĭtŭēns|6|āedĭtŭēnt||entis, m.
+LS|aedituens|aedĭtŭens|entis|m.||a keeper of a temple|aedituens|0
+GG|aedituens|aedĭtŭens|tis|m.||gardien d'un temple|aedituens|
+GJ|aedituens|aedĭtŭens|entis, m.|c. aedituus.
+Ge|aedituens|aedituēns|tis, m.|der Tempelhüter
+FG|aedituens|aedituens tis masculin (aedes tueor), gardien d'un temple.
+Lw|
+YO|
+PO|
+WW||||
+|ambidens|ambĭdens|āmbĭdēns|6|āmbĭdēnt||entis, 
+LS|ambidens|ambĭdens||||a sheep which has both upper and lower teeth|ambidens|0
+GG|ambidens|ambĭdens|tis|f.||brebis qui a les dents du haut et du bas|ambidens|
+GJ|ambidens|ambidens|entis f.|brebis qui a ses dents inférieures et supérieures.
+Ge|ambidens|ambidēns||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anguitenens|anguĭtĕnens|āngụĭtĕnēns|8|āngụĭtĕnēnt||entis, m
+LS|anguitenens|anguĭtĕnens|entis||adj.|serpent-holding;, subst., the constellation, Serpent-bearer|anguitenens|0
+GG|Anguitenens|Anguĭtĕnens|tis|m.||le Serpentaire [constellation]|Anguitenens|
+GJ|anguitenens|anguĭtĕnens|entis|qui tient un serpent.
+Ge|anguitenens|anguitenēns|tis, m.|der Schlangenträger
+FG|Anguitenens|Anguitenens tis masculin, le Serpentaire (constellation).
+Lw|Anguitenens|Anguitenēns|entis|m||serpent-holder, the constellation Serpent-bearer||||Anguitenens
+YO|
+PO|
+WW||anguitenens, anguitenentis||
+|arcitenens|Arcĭtĕnens|Ārcĭtĕnēns|6|Ārcĭtĕnēnt||entis, m.
+LS|Arcitenens|Arcĭtĕnens|like arquus for arcus, quur for cur||adj.|carrying a bow, bow-bearing|Arcitenens|(in MSS. also 
+GG|arcitenens|arcĭtĕnens|tis|m.|S.|porteur d'arc [surnom de Diane et d'Apollon] / Apollon / le Sagittaire [constellation]|arcitenens|arcĭtĕnens
+GJ|Arcitenens|Arcĭtĕnens|entis, m.|- 1 - qui porte un arc, l'Archer (épithète d'Apollon). - 2 - le Sagittaire (constellation).
+Ge|arcitenens|arcitenēns|entis|die Bogenführende - der Bogenschütze - die Bogenschützin
+FG|arcitenens|arcitenens (arqui-) tis masculin (arcus, teneo), porteur d'arc (surnom de Diane et d'Apollon) ; le Sagittaire (constellation).
+Lw|Arcitenens|Arcitenēns (Arquit-)|ntis||adj.|holding a bow, bow-bearing, Apollo, the Archer||||Arcitenens
+YO|
+PO|arcitenens|arcitene_ns, arcitenentis : a
+WW||arcitenens, arcitenentis||
+|arquitenens|Arquĭtĕnens|Ārqụĭtĕnēns|6|Ārqụĭtĕnēnt||entis, m.
+LS|Arquitenens|Arquĭtĕnens|entis||adj.|carrying a bow, bow-bearing|Arquitenens|0
+GG|arquitenens|arquĭtĕnens|tis|m.|S.|porteur d'arc [surnom de Diane et d'Apollon] / Apollon / le Sagittaire [constellation]|arcitenens|arquĭ-
+GJ|Arquitenens|Arquĭtĕnens|entis, m.|- 1 - qui porte un arc, l'Archer (épithète d'Apollon). - 2 - le Sagittaire (constellation).
+Ge|
+FG|
+Lw|arquitenens|arquitenēns|see arcitenens.|||arm||||arquitenens
+YO|
+PO|
+WW||arquitenens, arquitenentis||
+|blandiens|blandĭēns|blāndĭēns|6|blāndĭēnt||entis, m.
+LS|blandiens|blandĭens|entis|m.|||blandior|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|blandiens|blandiēns|entis|m||a flatterer||||blandiens
+YO|
+PO|
+WW||||
+|cluens|clŭens|clŭēns|6|clŭēnt||entis, m.
+LS|cluens|clŭens|entis|m.||gen. plur., one who hears, a client|cliens|or 
+GG|cluens|clŭens|tis||part.|part. de clueo.|1 cluens|
+GJ|cluens|cluens||c. cliens.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|colens|cŏlēns|cŏlēns|8|cŏlēnt||entis, PAdi.
+LS|colens|cŏlens|entis||P. a.||colo1|0
+GG|
+GJ|colens|colens|entis|part. prés. de colo. - 1 - qui habite. - 2 - qui pratique, qui honore.
+Ge|colens|colēns|entis, PAdi.|verehrend, Verehrer
+FG|
+Lw|colens|colēns|ntis|m||one who reveres, religious men||||colens
+YO|
+PO|
+WW||colens, colentis||
+|confluens|conflŭens|cōnflŭēns|6|cōnflŭēnt||entis, m.
+LS|confluens|conflŭens|entis|m.||the place where two rivers unite, the confluence|confluo|0
+GG|confluens|conflŭens|tis|m.|S.|confluent [de deux rivières]|confluens|conflŭens
+GJ|confluens|conflŭens|entis, m.|confluent [de deux rivières].
+Ge|
+FG|confluens|confluens ntis masculin, confluent (de deux rivières) ; ou confluentes ium, masculin pluriel.
+Lw|confluens|cōnfluēns|entis|m||a place of union, confluence, junction, forks||||confluens
+YO|
+PO|
+WW||||
+|consequens|consĕquens|cōnsĕqụēns|8|cōnsĕqụēnt||entis, n.
+LS|consequens|consĕquens|entis|n.|P. a.|-I. According to reason, correspondent, suitable, fit -II. a consequence|consequor|0
+GG|consequens|consĕquens|entis||part.|[gram.] bien construit / connexe / ce qui suit logiquement / consequens est avec ut subj., il est raisonnable, logique que|consequens|
+GJ|consequens|consequens|entis|- 1 - part. présent de consequor. - 2 - adj. conséquent, qui concorde, qui s'ensuit, logique.
+Ge|consequens|cōnsequēns|quentis, PAdi.|in richtiger Folge stehend - folgerecht - richtig konstruiert - folgerecht - folgerecht - notwendig - logisch folgend - es ist folgerecht, die - ( notwendige - Folge, folgt - die Folge, Folgerung - der Folgesatz
+FG|consequens|consequens ntis, participe présent de consequor ; pris adjectivement, ce qui suit ; pluriel neutre consequentia, les conséquences logiques ; consequens est avec proposition ininitive, il s'ensuit logiquement que ; consequens est, avec ut et subjonctif, il est raisonnable, logique que.
+Lw|consequens|cōnsequēns|entis||adj.|according to reason, correspondent, suitable, fit, fitting.&mdash;Following logically, consequent, n., a consequence, conclusion||||consequens
+YO|
+PO|consequens|co_nseque_ns, co_nsequentis : a
+WW||consequens, consequentis||
+|cortinipotens|Cortīnĭpŏtens|Cōrtīnĭpŏtēns|6|Cōrtīnĭpŏtēnt||entis, m. [cortina + potens]
+LS|Cortinipotens|Cortīnĭpŏtens|entis||adj.|powerful on the tripod|Cortinipotens|0
+GG|cortinipotens|cortīnĭpŏtens|tis|||maître de trépied (qui rend des oracles) [épith. d'Apollon]|cortinipotens|
+GJ|Cortinipotens|Cortīnĭpŏtens|entis, m. [cortina + potens]|le maître de trépied (qui rend des oracles) [épith. d'Apollon].
+Ge|cortinipotens|cortīnipotēns|potentis|der Dreifußmächtige
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cunctiparens|cunctĭpărens|cūnctĭpărēns|6|cūnctĭpărēnt||entis, m.
+LS|cunctiparens|cunctĭpărens|entis|m.||parent of all|cunctiparens|0
+GG|cunctiparens|cunctĭpărens|tis|m.||père de toutes choses|cunctiparens|
+GJ|cunctiparens|cunctĭpărens|entis, m.|- 1 - le père de tous les êtres. - 2 - Prud. Dieu, le Créateur.
+Ge|cunctiparens|cūnctiparēns||Allvater, Allmutter
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cunctipotens|cūnctĭpōtēns|cūnctĭpōtēns|6|cūnctĭpōtēnt||entis, m.
+LS|cunctipotens|cunctĭpŏtens|entis|m.|adj.|all-powerful, omnipotent|cunctipotens|0
+GG|cunctipotens|cunctĭpōtens|tis|||tout-puissant|cunctipotens|
+GJ|cunctipotens|cunctĭpōtens|entis, m.|Prud. tout-puissant.
+Ge|cunctipotens|cūnctipotēns|entis, c.|allvermögend, allmächtig
+FG|
+Lw|
+YO|
+PO|
+WW||cunctipotens, cunctipotentis||
+|debens|dēbēns|dēbēns|6|dēbēnt||entis, 
+LS|
+GG|debens|dēbens|tis|m.|part.|part. de debeo|debens|dēbens
+GJ|debens|dēbens|entis|part. présent de debeo.
+Ge|
+FG|debens|debens ntis participe présent de debeo ; substantif masculin, debentes ium, débiteurs.
+Lw|debens|(dēbēns|ntis|m||a debtor||||debens
+YO|
+PO|
+WW||||
+|demetiens|dēmētĭens|dēmētĭēns|6|dēmētĭēnt||entis, f.
+LS|
+GG|demetiens|dēmētĭens|entis|f.|S.|diamètre|demetiens linea|dēmētĭens
+GJ|demetiens|dēmētĭens|entis, f.|diamètre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|deponens|dēpōnens|dēpōnēns|8|dēpōnēnt||entis, n.
+LS|deponens|dēpōnens|entis||P. a.||deponens|0
+GG|deponens|dēpōnens|entis|n.||verbe, déponent|deponens|
+GJ|deponens|deponens|entis (s.-ent. verbum), n.|verbe déponent.
+Ge|deponens|dēpōnēns|entis, n.|das Deponens
+FG|
+Lw|
+YO|
+PO|
+WW||deponens, deponentis||
+|dimetiens|dīmētĭens|dīmētĭēns|6|dīmētĭēnt||entis, f.
+LS|dimetiens|dīmētĭens|entis|f.||the diameter, part., fut. pass. part.|dimetior|0
+GG|dimetiens|dīmētĭens|entis|f.||diamètre|dimetiens|
+GJ|dimetiens|dimetiens|entis, f.|le diamètre.
+Ge|dimetiens|dīmētiēns|entis, f.|der Durchmesser, Diameter
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duidens|duĭdens|dŭĭdēns|6|dŭĭdēnt||entis, f.
+LS|duidens|duidens|entis|f.|adj.|-I. with two teeth -II. an animal for sacrifice|bidens|(old form 
+GG|duidens|duĭdens||||c. bidens|duidens|
+GJ|duidens|duidens||c. bidens.
+Ge|duidens|duidēns||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ens|ens|ēns|8|ēnt||entis, n.
+LS|ens|ens|entis|n.||a thing;|ens|0
+GG|ens|ens|entis||part.|part. de sum|ens|
+GJ|ens|ens|entis|part. prés. de sum.
+Ge|Ens|Ens|entis, n.|das Ding
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exoriens|exŏrĭens|ēxŏrĭēns|6|ēxŏrĭēnt||entis, m.
+LS|exoriens|exŏrĭens|entis|m.|||exoriens|0
+GG|exoriens|exŏriens|tis|m.||le levant|exoriens|
+GJ|exoriens|exoriens|entis, m. (s.-ent. sol)|le soleil levant, le Levant, l'Orient, l'Est.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|falsiparens|falsĭpărens|fālsĭpărēns|6|fālsĭpărēnt||entis, m.
+LS|falsiparens|falsĭpărens|entis||adj.|that has a pretended father|falsiparens|0
+GG|falsiparens|falsĭpărens|tis|m.||dont le père est supposé|falsiparens|
+GJ|falsiparens|falsiparens|entis|qui a un parent supposé.
+Ge|falsiparens|falsiparēns|entis, m.|einen erdichteten Vater habend
+FG|
+Lw|falsiparens|falsiparēns|entis||adj.|having a pretended father||||falsiparens
+YO|
+PO|
+WW||||
+|finiens|fīnĭens|fīnĭēns|6|fīnĭēnt||entis, m.
+LS|finiens|fīnĭens|entis||||finiens|0
+GG|finiens|fīnĭens|tis|||l'horizon|finiens|
+GJ|finiens|fīniens|entis|part. prés. de finio.
+Ge|finiens|fīniēns|entis, m.|der Horizont
+FG|
+Lw|finiens|fīniēns|ntis|m||a boundary, horizon, plur||||finiens
+YO|
+PO|
+WW||||
+|flammipotens|flammĭpŏtens|flāmmĭpŏtēns|6|flāmmĭpŏtēnt||entis, m.
+LS|flammipotens|flammĭpŏtens|entis||adj.|powerful by fire|flammipotens|0
+GG|Flammipotens|Flammĭpŏtens|tis|m.||maître du feu|Flammipotens|
+GJ|flammipotens|flammĭpŏtens|entis, m.|maître du feu (en parl. de Vulcain).
+Ge|flammipotens|flammipotēns|potentis|feuermächtig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inciens|incĭens|īncĭēns|6|īncĭēnt||entis, f.
+LS|inciens|incĭens|entis||adj.|pregnant, with young|inciens|0
+GG|inciens|incĭens|tis|||pleine [en parl. d'une femelle]|inciens|
+GJ|inciens|incĭens|entis, f.|pleine (femelle), qui va mettre bas.
+Ge|inciens|inciēns|entis|trächtig
+FG|
+Lw|
+YO|
+PO|
+WW||inciens, incientis||
+|indigens|indĭgens|īndĭgēns|6|īndĭgēnt||entis, comm.
+LS|indigens|indĭgens|entis|comm.|P. a.|-I. in want of, needing any thing -II. a needy, indigent person|indigeo|0
+GG|indigens|indĭgens|tis|||v. indigeo.|indigens|
+GJ|indigens|indĭgens|entis|part. prés. de indigeo. - 1 - qui manque de. - 2 - qui a besoin.
+Ge|
+FG|
+Lw|indigens|indigēns|ntis||adj.|in want of, needing, the poor||||indigens
+YO|
+PO|indigens|indige_ns, indigentis : a
+WW||indigens, indigentis||
+|lactens|lactēns|lāctēns|6|lāctēnt||entis, 
+LS|
+GG|lactens|lactens|tis|f.|part.|part. de lacteo|lactens|lactens
+GJ|lactens|lactens|entis|(Lebaigue P. 688 et P. 689) part. prés. de lacteo. - 1 - qui tette. - 2 - d'enfant à la mamelle, tendre, délicat. - 3 - laiteux (en parl. des plantes).
+Ge|
+FG|
+Lw|lactens|lactēns|||adj.|taking milk, suckling, sucklings, Yielding milk, full of milk, Milky, sappy, juicy, tender, juicy||||lactens
+YO|
+PO|lactens|lacte_ns, lactentis : a
+WW||lactens, lactentis||
+|lanipendens|lānĭpendens|lānĭpēndēns|6|lānĭpēndēnt||entis, f. [lana + pendo]
+LS|lanipendens|lānĭpendens||||one who weighs out wool for spinning, a spinning-mistress|lanipendens|0
+GG|lanipendens|lānĭpendens|tis|f.||celle qui pèse la laine|lanipendens|
+GJ|lanipendens|lānĭpendens|entis, f. [lana + pendo]|Inscr. celle qui pèse la laine (et qui distribue la tâche - pensum - aux ouvrières dans les ateliers impériaux).
+Ge|lanipendens|lānipendēns|entis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laurens|Laurens|Lāurēns|8|Lāurēnt||entis, n.
+LS|Laurens|Laurens|entis|n.|adj.|an estate (of the younger Pliny) near Laurentum|Laurentum|0
+GG|Laurens|Laurens|entis|m., f., n.|S.|de Laurentum|1 Laurens|Laurens
+GJ|Laurens|Laurens|entis|1 - a - de Laurente. - b - du Latium. - c - romain. 2 - Laurens Lavinas, m. : habitant de Laurolavinium.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lauripotens|laurĭpŏtens|lāurĭpŏtēns|6|lāurĭpŏtēnt||entis, m.
+LS|lauripotens|laurĭpŏtens|entis|m.||lord of laurels, laurel-ruler|lauripotens|0
+GG|lauripotens|laurĭpŏtens|tis|||celui à qui le laurier est consacré, Apollon|lauripotens|
+GJ|
+Ge|lauripotens|lauripotēns|potentis|lorbeermächtig, Herr des Lorbeers
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|legens|lĕgens|lĕgēns|6|lĕgēnt||entis, m.
+LS|legens|lĕgens|entis|m.||a reader|lego2|0
+GG|legens|lĕgens|tis|m.||lecteur|legens|
+GJ|
+Ge|
+FG|legens|legens ntis substantif masculin, lecteur.
+Lw|legens|legēns|entis|m||a reader||||legens
+YO|
+PO|
+WW||||
+|luciparens|lūcĭpărens|lūcĭpărēns|6|lūcĭpărēnt||entis, 
+LS|luciparens|lūcĭpărens|entis||adj.|light-bearing, light-producing|luciparens|0
+GG|luciparens|lūcĭpărens|tis|m., f.||père ou mère du jour|luciparens|
+GJ|luciparens|lūcĭpărens|entis|Avien. qui produit le jour.
+Ge|luciparens|lūciparēns|entis|Licht gebärend, - bringend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|medens|mĕdens|mĕdēns|6|mĕdēnt||entis, m.
+LS|medens|mĕdens|entis|m.||a physician|medens|0
+GG|medens|mĕdens|tis|m.||médecin|medens|
+GJ|
+Ge|
+FG|medens|medens ntis, participe présent de medeor ; masculin pris substantivement, médecin.
+Lw|medens|medēns|ntis|m||a healer, physician||||medens
+YO|
+PO|medens|mede_ns, medentis : m
+WW||||
+|mentiens|mentĭens|mēntĭēns|6|mēntĭēnt||entis, m.
+LS|mentiens|mentĭens|entis|m.|||mentiens|0
+GG|mentiens|mentĭens|tis||part.|part. de mentior|mentiens|
+GJ|mentiens|mentĭens|entis|part. prés. de mentior.
+Ge|
+FG|mentiens|mentiens, participe présent de mentior.
+Lw|mentiens|mentiēns|entis|m||a fallacy, sophism||||mentiens
+YO|
+PO|
+WW||||
+|nariputens|nārĭpūtēns|nārĭpūtēns|6|nārĭpūtēnt||entis, m.
+LS|nariputens|nārĭpŭtens|entis|||offensive in the nose|nariputens|(
+GG|nariputens|nārĭpūtens|entis|m.||qui sent mauvais du nez|nariputens|
+GJ|
+Ge|nariputens|nāripūtēns|entis|aus der Nase stinkend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|occidens|occĭdens|ōccĭdēns|6|ōccĭdēnt||entis, m.
+LS|occidens|occĭdens|entis|m.||the quarter of the setting sun, the west, the occident|occidens|0
+GG|occidens|occĭdens|tis|m.||l'occident|occidens|
+GJ|occidens|occidens|entis, m.|part. prés. de occido [ob + cado]. - 1 - tombant, finissant, mourant. - 2 - se couchant (en parl. du soleil).
+Ge|occidens|occidēns|entis, m.|der Abend - der Westen - das Abendland - der Okzident
+FG|occidens|occidens ntis, participe présent de occido ; substantif masculin, l'occident.
+Lw|occidens|occidēns|entis|m||the sunset, west, occident||||occidens
+YO|
+PO|occidens|occide_ns, occidentis : m
+WW||occidens, occidentis||
+|peradulescens|pĕrădŭlescens|pĕrădŭlēscēns|6|pĕrădŭlēscēnt||entis, m.
+LS|peradulescens|pĕrădŭlescens|entis||adj.|very young|peradulescens|0
+GG|peradulescens|pĕrădŭlescens|tis|m.|S.|tout adolescent, tout jeune homme|peradulescens|pĕrădŭlescens
+GJ|peradulescens|peradulescens|entis, m.|un tout jeune homme.
+Ge|peradulescens|peradulēscēns|entis, m.|ganz jung
+FG|peradulescens|peradulescens ntis masculin, et -centulus i masculin, tout adolescent, tout jeune homme.
+Lw|peradulescens|per-adulēscēns|entis||adj.|very young||||peradulescens
+YO|
+PO|
+WW||peradulescens, peradulescentis||
+|picens|Pīcens|Pīcēns|6|Pīcēnt||entis, 
+LS|Picens|Pīcens|entis||adj.|of or belonging to Picenum, Picene, plur. subst.|Picenum|0
+GG|Picens|Pīcens|tis|m.|adj.|du Picénum / subst. m., un Picentin|Picenum|-cens
+GJ|Picens|Pīcens|entis|du Picénum.
+Ge|
+FG|
+Lw|Picens|Picēns|ntis||adj.|Picene, of Picenum (in Italy)||||Picens
+YO|
+PO|
+WW||||
+|praesidens|praesĭdens|prāesĭdēns|6|prāesĭdēnt||entis, m.
+LS|praesidens|praesĭdens|entis||||praesidens|0
+GG|praesidens|praesĭdens|entis|m.||celui qui a la préséance, gouverneur [de province] / président|praesidens|
+GJ|praesidens|praesidens|entis|part. prés. de praesideo. - praesidens, entis, m. : gouverneur (d'une province)
+Ge|
+FG|
+Lw|praesidens|praesidēns|entis|m||a president, ruler||||praesidens
+YO|
+PO|
+WW||||
+|pyroeis|Pўrŏeis|Pўrŏĕis|6|Pўrŏēnt||entis, m.
+LS|Pyroeis|Pўrŏeis|entis|m.||The planet Mars|Pyrois|and 
+GG|Pyroeis|Pўrŏeis||m.|S.|un des chevaux du soleil / Mars [planète]|Pyrois|Pўrŏeis
+GJ|Pyroeis|Pyrŏeis|entis, m.|Pyroïs. - 1 - la planète Mars. - 2 - un des chevaux du Soleil.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pyrois|Pўrŏīs|Pўrŏīs|6|Pўrŏēnt||entis, m.
+LS|Pyrois|Pўrŏis|entis|m.||The planet Mars|Pyrois|and 
+GG|Pyrois|Pўrŏīs||m.|S.|un des chevaux du soleil / Mars [planète]|Pyrois|Pўrŏīs
+GJ|Pyrois|Pyrŏīs|entis, m.|Pyroïs. - 1 - la planète Mars. - 2 - un des chevaux du Soleil.
+Ge|Pyrois|Pyrois|roentis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|regens|rĕgens|rĕgēns|6|rĕgēnt||entis, m.
+LS|regens|rĕgens|entis|m.|||rego|0
+GG|regens|rĕgens|tis|||v. rego.|regens|
+GJ|
+Ge|
+FG|
+Lw|regens|regēns|entis|m||a governor, ruler||||regens
+YO|
+PO|
+WW||||
+|sagittipotens|Săgittĭpŏtens|Săgīttĭpŏtēns|6|Săgīttĭpŏtēnt||entis, m.
+LS|Sagittipotens|Săgittĭpŏtens|entis|m.||the constellation of the Archer|Sagittipotens|0
+GG|Sagittipotens|Săgittĭpŏtens|tis|m.||le Sagittaire|Sagittipotens|
+GJ|Sagittipotens|Săgittĭpŏtens|entis, m.|le Sagittaire (constellation).
+Ge|sagittipotens|sagittipotēns|entis|pfeilmächtig - der Schütze
+FG|
+Lw|Sagittipotens|Sagittipotēns|entis|m||arrow-master, the constellation Sagittarius||||Sagittipotens
+YO|
+PO|
+WW||||
+|saliens|sălĭens|sălĭēns|6|sălĭēnt||entis, 
+LS|saliens|sălĭens|entis||||salio2|0
+GG|saliens|sălĭens|tis|m.|part.||saliens|sălĭens
+GJ|saliens|saliens|entis|part. prés. de salio, salire; qui saute, qui jaillit.
+Ge|
+FG|saliens|saliens ntis, participe de salio ; substantif masculin pluriel, salientes (sous-entendre fontes), eaux jaillissantes.
+Lw|
+YO|
+PO|saliens|salie_ns, salientis : f
+WW||||
+|salsipotens|Salsĭpŏtens|Sālsĭpŏtēns|6|Sālsĭpŏtēnt||entis, m.
+LS|Salsipotens|Salsĭpŏtens|entis, a false reading for salipotenti||||Salsipotens|0
+GG|salsipotens|salsĭpŏtens||m.||roi des mers [épithète de Neptune]|salsipotens|
+GJ|salsipotens|salsipotens|entis, m.|roi des mers (= Neptune).
+Ge|salsipotens|salsipotēns|entis|der Gebieter über die Salzflut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|silens|sĭlens|sĭlēns|6|sĭlēnt||entis, 
+LS|silens|sĭlens|entis||P. a.||silens|0
+GG|silens|sĭlens|tis um|m.|part.|adjt, silencieux / les ombres, les mânes|silens|
+GJ|silens|sĭlens|entis|part. prés. de sileo. - 1 - qui se tait, silencieux; où l'on se tait. - 2 - oisif, inerte, inactif.
+Ge|
+FG|silens|silens ntis,
+Lw|silens|silēns|entis||adj.|still, calm, quiet, silent, the dead, m, the dead||||silens
+YO|
+PO|silens|sile_ns, silentis : a
+WW||silens, silentis||
+|simois|Sĭmŏīs|Sĭmŏīs|6|Sĭmŏēnt||entis, m.
+LS|Simois|Sĭmŏīs|entis|m.||a small river in Troas that falls into the Scamander, Mendere Tchai|Simois|0
+GG|Simois|Sĭmŏīs|entis|m.||le Simoïs [rivière de la campagne de Troie]|Simois|
+GJ|Simois|Simois|entis (entos), m.|le Simoïs (fleuve de la Troade).
+Ge|Simois|Simoīs|entis|
+FG|Simois|Simois entis ou entos masculin, le Simoïs (rivière de la campagne de Troie).
+Lw|
+YO|
+PO|
+WW||||
+|taurois|Taurŏīs|Tāurŏīs|6|Tāurŏēnt||entis, m.
+LS|Taurois|Taurŏīs|entis|||a fortress belonging to Marseilles, situated on the seashore in, Tarento; acc.|Taurois|0
+GG|Taurois|Taurŏīs|ŏentis|m.||port fortifié de la Narbonnaise, c. Taurentus|Taurois|
+GJ|Taurois|Taurŏīs|entis, m.|port fortifié de la Narbonnaise, c. Taurentus.
+Ge|Taurois|Tauroīs|entis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tridentipotens|trĭdentĭpŏtens|trĭdēntĭpŏtēns|6|trĭdēntĭpŏtēnt||entis, m.
+LS|tridentipotens|trĭdentĭpŏtens|entis|m.||ruling with the trident|tridentipotens|0
+GG|tridentipotens|trĭdentĭpŏtens|tis|||c. tridentifer|tridentipotens|
+GJ|
+Ge|tridentipotens|tridentipotēns|entis|mächtig-, herrschend mit dem Dreizack
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ufens|Ūfens|Ūfēns|6|Ūfēnt||entis, m.
+LS|Ufens|Ūfens|entis|m.||A small river in Latium, that flows past Tarracina, Ufente|Ufens|(
+GG|Ufens|Ufens|tis|m.|S.|rivière du Latium|Ufens Ofens|Ufens Ofens
+GJ|Ufens|Ūfens|entis, m.|Ufens. - 1 - fleuve d'Italie, qui se jette dans les marais Pontins (auj. Ofanto). - 2 - nom d'homme.
+Ge|Ufens|Ufēns|entis, m.|ufentinisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|utis|Utīs|Utīs|6|Utēnt||entis, m.
+LS|Utis|Utīs|entis|m.||a river in Cisalpine Gaul, the Montone|Utens2|or 
+GG|
+GJ|
+Ge|Utis|Utis||Niemand
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|videns|vĭdens|vĭdēns|6|vĭdēnt||entis, m.
+LS|videns|vĭdens|entis|m.||a seer, prophet|videns|0
+GG|videns|vĭdens|tis|m.||un voyant, un prophète|videns|
+GJ|
+Ge|
+FG|videns|videns ntis, participe présent de video.
+Lw|
+YO|
+PO|
+WW||||
+|volens|vŏlens|vŏlēns|6|vŏlēnt||entis, m.
+LS|volens|vŏlens|entis|m.|P. a.|One who wishes|volens|0
+GG|volens|vŏlens|tis||part.|qui veut bien, de son plein gré / bénévole, animé de dispositions favorables, favorable, propice / bienveillant / pl. n. volentia alicui, des choses agréables à qqn, bien accueillies de qqn|volens|
+GJ|
+Ge|volens|volēns|entis, PAdi.|willig - begehrlich - wünschenswert, erwünsch - geneigt, günstig, huldvoll
+FG|volens|volens ntis,
+Lw|volens|volēns|entis||adj.|willing, with purpose, of choice, of their own accord, purposely, spontaneously, m, they who consent, they who are willing, to rule men with their consent, peaceably if they could, forcibly if they must, Willing, pleased, glad, eager, eagerly, purposely and gladly, welcome to the consul, that the soldiers were zealous when the general shared their labors, Wellwishing, favorable, kindly, propitious, liberality was always supposed to prove kind feeling, willing, voluntary, with the favor of the gods, with the favor and help of the gods||||volens
+YO|
+PO|volens|vole_ns, volentis : a
+WW||volens, volentis||
+|volscens|Volscens|Vōlscēns|6|Vōlscēnt||entis, m.
+LS|Volscens|Volscens|entis|m.||an officer of the Latins|Volscens|0
+GG|Volscens|Volscens|tis|m.||nom de guerrier|Volscens|
+GJ|Volscens|Volscens|entis, m.|Volscens (un guerrier).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|descendens|dēscendens|dēscēndēns|6|dēscēndēnt||entis, m.
+LS|descendens|dēscendens|entis|m.||To depart, deviate, differ from, passive|descendens|v. descendo, II. B. 3.
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lanipens|lānĭpens|lānĭpēns|6|lānĭpēnt||entis, f.
+LS|
+GG|lanipens|lānĭpens|entis|f.||c. lanipendens.|lanipens|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oufens|Oufens|Ŏufēns|6|Ŏufēnt||entis, m.
+LS|Oufens|Oufens|entis|m.||A small river in Latium, that flows past Tarracina, Ufente|Ufens|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|parturiens|partŭrĭens|pārtŭrĭēns|6|pārtŭrĭēnt||entis, f.
+LS|parturiens|partŭrĭens|entis|f.|||parturio|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praecipiens|praecĭpĭens|prāecĭpĭēns|6|prāecĭpĭēnt||entis, m.
+LS|praecipiens|praecĭpĭens|entis|m.||S.|praecipiens|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|respiciens|Rēspĭcĭens|Rēspĭcĭēns|6|Rēspĭcĭēnt||entis, m.
+LS|Respiciens|Rēspĭcĭens|entis|m.||the Provident, an epithet of Fortuna|respicio|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|stertens|stertens|stērtēns|6|stērtēnt||entis, m.
+LS|stertens|stertens|entis|m.||a snorer|sterto|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|studens|stŭdens|stŭdēns|6|stŭdēnt||entis, m.
+LS|studens|stŭdens|entis|m.|||studeo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tingens|tingens|tīngēns|6|tīngēnt||entis, m.
+LS|tingens|tingens|entis|m.|||tingo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tussiens|tussiens|tūssĭēns|6|tūssĭēnt||entis, m.
+LS|tussiens|tussiens|entis|m.||one who has a cough|tussiens|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|avens2|Avens2|Avēns|6|Avēnt||entis, m.
+LS|
+GG|Avens|Avens|tis|m.||rivière du Latium qui donna son nom à l'Aventin|2 Avens|
+GJ|Avens|Avens|entis, m.|Avens (fleuve du pays des Sabins).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|canens|Cănens|Cănēns|6|Cănēnt||entis, f.
+LS|Canens|Cănens|entis|f.||daughter of Janus, and wife of Picus|Canens3|0
+GG|Canens|Cănens|tis|f.||qui chante [surnom d'une nymphe]|2 Canens|
+GJ|Canens|Canens|entis, f.|Canens (fille de Janus).
+Ge|Canens|Canēns|entis, f.|die Sängerin
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|differens|diffĕrens|dīffĕrēns|6|dīffĕrēnt||entis, 
+LS|differens|diffĕrens|entis||||differo|0
+GG|differens|diffĕrens|tis|n.|part. adj.|adjt [décad.] / différence|differens|
+GJ|differens|differens|entis|part. prés. de differo; différent.
+Ge|
+FG|differens|differens ntis participe présent de differo.
+Lw|
+Y§|
+PO|
+WW||differens, differentis||
+|obsequens2|Obsĕquens2|Ōbsĕqụēns|6|Ōbsĕqụēnt||entis, m.
+LS|Obsequens|Obsĕquens|entis|m.||a Roman proper name|Obsequens2|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|valens|Vălens|Vălēns|6|Vălēnt||entis, m.
+LS|Valens|Vălens|entis|m.||the father of the third Mercury|Valens1|0
+GG|Valens|Vălens|tis|m.||père d'un des Mercures / empereur romain, frère de Valentinien|2 Valens|
+GJ|Valens|Vălens|entis, m.|Valens. - a - père d'un des Mercures. - b - empereur romain, frère de Valentinien.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|viripotens|vĭrĭpŏtens|vĭrĭpŏtēns|6|vĭrĭpŏtēnt||entis, adj. f.
+LS|viripotens|vĭrĭpŏtens|entis||adj.|fit for a husband, marriageable, nubile|viripotens2|0
+GG|viripotens|vĭrĭpŏtens|tis||adj.|nubile|1 viripotens|
+GJ|viripotens|viripotens|entis, adj. f.|nubile, en âge de se marier.
+Ge|viripotens|viripotēns|entis|mannbar
+FG|
+Lw|
+Y§|
+PO|
+WW||viripotens, viripotentis||
+|clemens2|Clēmens2|Clēmēns|6|Clēmēnt||entis, m.
+LS|Clemens|Clēmens|entis|m.||a proper name|Clemens2|0
+GG|Clemens|Clēmens|entis|m.||nom propre|2 Clemens|
+GJ|Clemens|Clēmens|entis, m.|nom propre.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|continens2|contĭnens2|cōntĭnēns|6|cōntĭnēnt||entis, f.
+LS|continens|contĭnens|entis|f.||the mainland, continent|contineo|0
+GG|continens|contĭnens|tis|f.|S.|continent / continent, sobre, tempérant|continens|contĭnens
+GJ|continens|continens||(Lebaigue P. 289 et P. 290)
+Ge|
+FG|continens|continens ntis féminin : le (un) continent.
+Lw|continens|continēns|ntis|f||a mainland, continent, the chief point||||continens2
+Y§|
+PO|continens|contine_ns, continentis : f
+WW||||
+|continens3|contĭnens3|cōntĭnēns|8|cōntĭnēnt||entis, n.
+LS|continens|contĭnens|entis|n.||that on which something rests or depends, the chief point, hinge|contineo|0
+GG|continens|contĭnens|tis|n.|S.|l'essentiel, le principal [dans une cause]|continens|contĭnens
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|florens2|Flōrens2|Flōrēns|6|Flōrēnt||entis, m.
+LS|
+GG|Florens|Flōrens|tis|m.||nom d'homme|2 Florens|
+GJ|Florens|Flōrens|entis, m.|Florent (nom d'homme).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|parens2|pārens2|pārēns|6|pārēnt||entis, comm.
+LS|parens|pārens|entis|comm.|P. a.|-I. obedient -II. a subject|pareo|0
+GG|parens|pārens|tis||part.|part. de pareo|2 parens|pārens
+GJ|parens|pārens|entis|part. présent de pareo; qui obéit, obéissant.
+Ge|parens|pārēns|entis, PAdi.|gehorsam - die Untertanen
+FG|parens|parens ntis, participe présent de pareo ; substantif masculin parentes ium, les sujets.
+Lw|parens|pārēns|entis||adj.|obedient, m, subjects||||parens1
+Y§|
+PO|
+WW||parens, parentis||
+|praesens2|praesens2|prāesēns|6|prāesēnt||entis, m.
+LS|praesens|praesens|||adv.|forthwith, immediately|praesum|(opp. in diem), 
+GG|Praesens|Praesens|tis|m.||surnom romain|2 Praesens|
+GJ|Praesens|Praesens|entis, m.|Présens (surnom romain).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|torrens2|torrens2|tōrrēns|6|tōrrēnt||entis, m.
+LS|
+GG|torrens|torrens|tis|m.||torrent / [fig.] torrent d'hommes / torrent de paroles|2 torrens|
+GJ|torrens|torrens|entis, m.|- a - torrent. - b - torrent, flots, impétuosité, abondance.
+Ge|
+FG|torrens|torrens ntis, masculin, torrent.
+Lw|
+Y§|
+PO|torrens|torre_ns, torrentis : m
+WW||||
+|tridens2|trĭdens2|trĭdēns|6|trĭdēnt||entis, m.
+LS|tridens|trĭdens|entis|m.|adj.|having three teeth, tines, three-tined, threepronged, tridented, trident.|tridens|0
+GG|tridens|trĭdens|tis||adj.|adjt, qui a trois pointes (dents)|1 tridens|
+GJ|tridens|tridens|entis|qui a trois pointes, trois dents.
+Ge|tridens|tridēns|entis|drei Zähne-, drei Zacken-, drei Spitzen habend - der Dreizack
+FG|tridens|tridens ntis, (tres dens), adjectif, qui a trois pointes (dents).
+Lw|tridens|tridēns|entis||adj.|with three teeth, three-tined, three-pronged, tridented, trident, m, a three-tined spear, trident||||tridens
+Y§|
+PO|tridens|tride_ns, tridentis : a
+WW||tridens, tridentis||
+|utens|Utens|Utēns|6|Utēnt||entis, m.
+LS|Utens|Utens|entis|m.||a river in Cisalpine Gaul, the Montone|Utens2|or 
+GG|Utens|Utens|tis|m.||rivière de la Gaule Cisalpine|2 Utens|
+GJ|Utens|Utens|entis, m.|Utens (rivière de la Gaule Cisalpine, auj. Monotone).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|utens3|ūtēns3|ūtēns|6|ūtēnt||entis, m.
+LS|utens|ūtens|ntis|m.|||utor|0
+GG|
+GJ|
+Ge|utens|utēns|entis, m.|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|agens2|ăgens2|ăgēns|6|ăgēnt||entis, m.
+LS|
+GG|agens|ăgens|entis|m.||le plaidant, le demandeur / arpenteur / agentes in rebus, agentes rerum, ou agentes seul, commissaires impériaux, surveillants|agens|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anguitenens2|Anguĭtĕnens2|Āngụĭtĕnēns|6|Āngụĭtĕnēnt||entis, m.
+LS|Anguitenens|Anguĭtĕnens|entis|m.||the constellation, Serpent-bearer|anguitenens|0
+GG|Anguitenens|Anguĭtĕnens|tis|m.||le Serpentaire [constellation]|Anguitenens|
+GJ|
+Ge|anguitenens|anguitenēns|tis, m.|der Schlangenträger
+FG|Anguitenens|Anguitenens tis masculin, le Serpentaire (constellation).
+Lw|Anguitenens|Anguitenēns|entis|m||the constellation Serpent-bearer||||Anguitenens
+YO|
+PO|
+WW||anguitenens, anguitenentis||
+|audiens2|audĭens2|āudĭēns|6|āudĭēnt||entis, m.
+LS|audiens|audĭens|entis|m.||A hearer, auditor, a catechumen|audiens|0
+GG|audiens|audĭens|entis|m.||auditeur|audiens|
+GJ|audiens|audĭens|entis|- 1 - auditeur. - 2 - catéchumène.
+Ge|audiens|audiēns|entis|der Zuhörer - der Katechumene
+FG|
+Lw|audiens|audiēns|ntis||adj.|a hearer, listener||||audiens
+YO|
+PO|
+WW||||
+|bellipotens2|Bellĭpŏtens2|Bēllĭpŏtēns|6|Bēllĭpŏtēnt||entis, m.
+LS|
+GG|Bellipotens|Bellĭpŏtens|entis|m.||le dieu des combats [Mars]|bellipotens|
+GJ|Bellipotens|Bellĭpŏtens|entis, m.|le dieu des combats (Mars).
+Ge|
+FG|bellipotens|bellipotens ntis (bellum potens), puissant dans la guerre ; substantif masculin, le dieu des combats (Mars).
+Lw|
+YO|
+PO|
+WW||||
+|intellegens2|intellĕgēns2|īntēllĕgēns|6|īntēllĕgēnt||entis, m.
+LS|
+GG|intellegens|intellĕgens|tis|m.||les connaisseurs|intellegens|
+GJ|
+Ge|intellegens|intellegēns|entis, m.|ein Kenner
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|malevolens2|mălĕvŏlens2|mălĕvŏlēns|6|mălĕvŏlēnt||entis, m.
+LS|malevolens|mălĕvŏlens|entis|m.||a spiteful person, an enemy|malevolens|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|profluens2|prōflŭens2|prōflŭēns|6|prōflŭēnt||entis, f.
+LS|profluens|prōflŭens|entis|f.||running water|profluo|0
+GG|profluens|prōflŭens|tis|f.||cours d'eau, eau courante, rivière / [fig., rhét.] au cours rapide / au cours ininterrompu|profluens|
+GJ|
+Ge|
+FG|
+Lw|profluens|prōfluēns||f||running water||||profluens
+YO|
+PO|
+WW||||
+|indifferens2|indiffĕrens2|īndīffĕrēns|8|īndīffĕrēnt||entis, n.
+LS|indifferens|indiffĕrens|entis|n.||a thing indifferent, neither good nor evil|indifferens|0
+GG|indifferens|indiffĕrens|tis|n.||chose indifférente|indifferens|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||indifferens, indifferentis||
+|immerens2=inmerens|immĕrens2|īmmĕrēns|6|īmmĕrēnt||entis, m.
+LS|immerens|immĕrens|entis|m.||one who is innocent, does not deserve|immerens|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|benevolens2|bĕnĕvŏlens2|bĕnĕvŏlēns|6|bĕnĕvŏlēnt||entis, comm.
+LS|benevolens|bĕnĕvŏlens|entis|comm.||a well-wisher, friend|benevolens|(in MSS. also 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bidens2|bĭdēns2|bĭdēns|6|bĭdēnt||entis, m. f.
+LS|
+GG|bidens|bĭdens|tis|m. f.||nom m., hoyau / subst. f., brebis de deux ans [propre à être sacrifiée] / toute victime âgée de deux ans / brebis [en gén.]|bidens|
+GJ|
+Ge|
+FG|
+Lw|bidens|bidēns|entis|m. f.||m., a heavy hoe, mattock with two iron teeth, agriculture, Fem., an animal for sacrifice, A sheep||||bidens
+YO|
+PO|bidens|bide_ns, bidentis : m
+WW||||
+|florens3|flōrens3|flōrēns|6|flōrēnt||entis, f.
+LS|florens|flōrens|entis|f.||a garland|florens|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y3|
+PO|
+WW||florens, florentis||
+|sapiens3|Săpĭens3|Săpĭēns|6|Săpĭēnt||entis, m.
+LS|Sapiens|Săpĭens|entis|m.||a surname|sapio|0
+GG|
+GJ|Sapiens|Săpiens|entis, m.|le Sage (surnom de plusieurs jurisconsultes).
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||

@@ -1,0 +1,2130 @@
+|abscedentia|abscēdentĭa|ābscēdēntĭa|8|ābscēdēnt||ium, n.
+LS|
+GG|abscedentia|abscēdentĭa|ĭum|pl. n.|part.|objets qui s'éloignent en perspective / abcès|abscedentia|
+GJ|abscedentia|abscēdentĭa|ĭum, n.|part. n. plur. de abscedo.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|accalia|Accālĭa|Āccālĭa|8|Āccāl||ium, n.
+LS|Accalia|Accālĭa|ĭum|n.|||Accalia|0
+GG|
+GJ|Accalia|Accālĭa|ĭum, n. (= Larentalia)|les Accalies ou les Larentalies (fêtes en l'honneur d'Acca Larentia).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|accubitalia|accŭbĭtālĭa|āccŭbĭtālĭa|8|āccŭbĭtāl||ium, n.
+LS|accubitalia|accŭbĭtālĭa|ĭum|n.||the coverings spread over the tablecouches|accubitalia|0
+GG|accubitalia|accŭbĭtālĭa|ĭum|n.||couvertures et coussins étendus sur les lits de table|accubitalia|
+GJ|accubitalia|accŭbĭtālĭa|ĭum, n.|couvertures et coussins étendus sur les lits de table.
+Ge|accubitalia|accubitālia|ium, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|agnalia|Agnālĭa|Āgnālĭa|8|Āgnāl||ium, n.
+LS|Agnalia|Agnālĭa|ium|n.||a Roman festival|Agnalia|(com. 
+GG|Agnalia|Agnālĭa|ĭum|n.||Agonalia|Agnalia|
+GJ|agnalia|agnalĭa|ĭum, n.|fêtes pour la tonte des agneaux.
+Ge|agnalia|agnālia|ium, n. pl. = Agonalia|
+FG|
+Lw|Agnalia|āgnālia|ium|n||see Agonalia.||||Agnalia
+YO|
+PO|
+WW||||
+|albesia|albēsĭa|ālbēsĭa|8|ālbēs||ium, n.
+LS|albesia|albēsia|ium|n.||a large shield used by the Albenses, a people of the Marsian race|albesia|(for albensia), 
+GG|
+GJ|albesia|albesĭa|ĭum, n.|boucliers albains.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|altaria|altārĭa|āltārĭa|8|āltār||ium, n.
+LS|altaria|altārĭa|jum|n.|||altaria|0
+GG|altaria|altārĭa||||autel où l'on sacrifie|altare|altārĭa
+GJ|altaria|altārĭa|ĭum, n.|v. altare.
+Ge|altaria|altāria|ium, n.|der Aufsatz auf dem Opfertische - der Opferherd - Hochaltar, Brandaltar
+FG|
+Lw|altaria|altāria|ium|n||a high altar, altar for sacrifice to the great gods, as high altars to Phoebus, sacrifices||||altaria
+YO|
+PO|altaria|alta_ria, alta_rium : npl
+WW||||
+|ambarvalia|Ambarvālĭa|Āmbārvālĭa|8|Āmbārvāl||ium, n.
+LS|
+GG|Ambarvalia|Ambarvālĭa|ĭum|n.||Ambarvales [fête en l'honneur de Cérès]|Ambarvalia|
+GJ|Ambarvalia|Ambarvālĭa|ĭum (ĭōrum), n.|les Ambarvales (processions autour des champs en l'honneur de Cérès).
+Ge|
+FG|Ambarvalia|Ambarvalia ium neutre, Ambarvales (fête en l'honneur de Cérès).
+Lw|
+YO|
+PO|
+WW||||
+|angeronalia|Angĕrōnālĭa|Āngĕrōnālĭa|8|Āngĕrōnāl||ium, n.
+LS|Angeronalia|Angĕrōnālĭa|ium|n.||her festival|Angerona|0
+GG|Angeronalia|Angĕrōnālĭa|ĭum|n.|S.|Angéronales, fêtes d'Angérone|Angerona|-rōnālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aquatilia|ăquātĭlĭa|ăqụātĭlĭa|8|ăqụātĭl||ium, n.
+LS|aquatilia|ăquātĭlĭa|ium|n.||aquatic animals|aquatilis|0
+GG|aquatilia|ăquātĭlĭa|ĭum|n.|S.|animaux aquatiques / tumeurs aqueuses [maladie du bétail]|aquatilis|-tĭlĭa
+GJ|aquatilia|aquatilĭa|ĭum, n.|animaux aquatiques.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|artificialia|artĭfĭcĭālĭa|ārtĭfĭcĭālĭa|8|ārtĭfĭcĭāl||ium, n.
+LS|artificialia|artĭfĭcĭālia|ium|n.||things conformable to the rules of art|artificialis|0
+GG|artificialia|artĭfĭcĭālĭa|ĭum|||principes de l'art / insidieux|artificialis|artĭfĭcĭālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|auctionalia|auctĭōnālĭa|āuctĭōnālĭa|8|āuctĭōnāl||ium, n.
+LS|auctionalia|auctĭōnālĭa|ium|n.||catalogues of auction sales, actionalia|auctionalis|0
+GG|auctionalia|auctĭōnālĭa|ĭum|n.||affiches de vente|auctionalia|
+GJ|auctionalia|auctionalĭa|ĭum, n.|affiches de vente.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|augustalia|Augustālĭa|Āugūstālĭa|8|Āugūstāl||ium, n.
+LS|
+GG|Augustalia|Augustālĭa|ĭum|n.||jeux institués en l'honneur d'Auguste|Augustalia|
+GJ|Augustalia|Augustālĭa|ĭum, n.|fêtes en l'honneur d'Auguste.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|brevia|brĕvĭa|brĕvĭa|8|brĕv||ium, n.
+LS|brevia|brĕvia|ium|n.||shallow places, shallows, shoals|brevis|0
+GG|brevia|brĕvĭa|ĭum|n.||pl. de brevis pris substt, bas-fonds|brevia|
+GJ|brevia|brevĭa|ĭum, n.|- 1 - bas-fonds, écueils, bancs de sable. - 2 - gué (rivière).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caelestia|caelestĭa|cāelēstĭa|8|cāelēst||ium, n.
+LS|caelestia|caelestĭa|ĭum|n.||-I. the heavenly bodies -II. heavenly objects, divine things|caelestis|0
+GG|caelestia|caelestĭa|ium|n.|S.|pl., choses célestes|caelestis|caelestĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|carmentalia|Carmentālĭa|Cārmēntālĭa|8|Cārmēntāl||ium, n.
+LS|Carmentalia|Carmentālĭa|ĭum|n.||the festival of Carmentis|Carmentis|0
+GG|Carmentalia|Carmentālĭa|ium|n.|S.|fêtes de Carmenta|Carmenta|-mentālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|casalia|căsālĭa|căsālĭa|8|căsāl||ium, n.
+LS|
+GG|casalia|căsālia|ium|n.|S.|limites de la propriété|casalis|căsālia
+GJ|casalia|căsālĭa|ĭum, n.|Grom. limites de la ferme, de la propriété.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cernualia|cernŭālĭa|cērnŭālĭa|8|cērnŭāl||ium, n.
+LS|cernualia|cernŭālĭa|||||cernualia|v. consualia.
+GG|cernualia|cernŭālĭa|ium|n.||v. consualia.|cernualia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coactilia|cŏactĭlĭa|cŏāctĭlĭa|8|cŏāctĭl||ium, n.
+LS|coactilia|cŏactĭlĭa|ium|n.||thick, fulled cloth, felt|coactilis|0
+GG|coactilia|cŏactĭlia|ium|n.|S.|vêtements de laine feutrée, feutre|coactilis|cŏactĭlia
+GJ|coactilia|cŏactilĭa|ĭum, n.|vêtements de laine feutrée, feutre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coctilia|coctĭlĭa|cōctĭlĭa|8|cōctĭl||ium, n.
+LS|coctilia|coctĭlĭa|ium|n.||very dry wood, that burns without smoke|coctilis|0
+GG|coctilia|coctĭlĭa|ium|n.|S.|bois séchés, secs|coctilis|coctĭlĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consimilia|consĭmĭlĭa|cōnsĭmĭlĭa|8|cōnsĭmĭl||ium, n.
+LS|consimilia|consĭmĭlĭa|ium|n.|||consimilis|0
+GG|consimilia|consĭmĭlĭa|ĭum|n.|S.|choses semblables|consimilis|consĭmĭlĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consualia|Consŭālĭa|Cōnsŭālĭa|8|Cōnsŭāl||ium, n.
+LS|Consualia|Consŭālĭa|ium|n.|||Consualia|0
+GG|Consualia|Consŭālĭa|ĭum ou ōrum|n.||les Consualia, fêtes en l'honneur de Consus|Consualia|
+GJ|Consualia|Consualĭa|ĭum, n.|fêtes de Consus (dieu du conseil chez les Romains).
+Ge|
+FG|
+Lw|Consualia|Cōnsuālia|ium|n||the festival of Consus||||Consualia
+YO|
+PO|
+WW||||
+|convallia|convallĭa|cōnvāllĭa|8|cōnvāll||ium, n.
+LS|convallia|convallĭa|ĭum|n.||a valley enclosed on all sides;|convallis|0
+GG|convallia|convallĭa|ĭum|n.||pl.  vallées|convallia|
+GJ|convallia|convallĭa|ĭum, n. (s.-ent. loca)|lieux creux, vallées encaissées.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|decennia|dĕcennĭa|dĕcēnnĭa|8|dĕcēnn||ium, n.
+LS|decennia|decennia|ium|n.||a festival under the emperors, held every ten years, no.|decennis|0
+GG|decennia|dĕcennĭa|ĭum|n.|S.|les jeux décennaux|decennis|dĕcennĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dentalia|dentālĭa|dēntālĭa|8|dēntāl||ium, n.
+LS|dentalia|dentālia|ium|n.||plural, no., the share-beam|dentale|0
+GG|dentalia|dentālĭa|ĭum|n.||pl.  partie de la charrue où s'enclave le soc, le sep / soc|dentalia|
+GJ|dentalia|dentalĭa|ĭum, n.|- 1 - sep (de la charrue). - 2 - charrue.
+Ge|dentalia|dentālia|ium, n.|der Scharbaum - das Pflughaupt - die Pflugsohle - die Pflugschar
+FG|dentalia|dentalia ium neutre pluriel (dens), sep.
+Lw|dentalia|dentālia|ium|n||the share-beam||||dentalia
+YO|
+PO|
+WW||||
+|dorsualia|dorsŭālĭa|dōrsŭālĭa|8|dōrsŭāl||ium, n.
+LS|dorsualia|dorsualia|ium|n.||a cover for the back|dorsualis|0
+GG|dorsualia|dorsŭālĭa|ium|n.||housses, couvertures d'animaux|dorsualia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|equestria|ĕquestrĭa|ĕqụēstrĭa|8|ĕqụēstr||ium, n.
+LS|equestria|equestria|ium|n.||the seats of the knights in the theatre|equester|Err :509
+GG|equestria|ĕquestrĭa|ĭum|n.||bancs de chevaliers au théâtre|equestria|
+GJ|equestria|ĕquestrĭa|ĭum, n. (s.-ent subsellia)|bancs des chevaliers au théâtre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exsequialia|exsĕquĭālĭa|ēxsĕqụĭālĭa|8|ēxsĕqụĭāl||ium, n.
+LS|exsequialia|exsĕquĭālĭa|ium|n.||funeral rites|exsequialis|0
+GG|exsequialia|exsequialia|ium|pl. n.|S.|cérémonies des funérailles|exsequialis|exsequialia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fabalia|făbālĭa|făbālĭa|8|făbāl||ium, n.
+LS|fabalia|făbālĭa|ium|n.||bean-stalks|fabalis|0
+GG|fabalia|fabalĭa|um|n. pl.|S.|tiges de fèves|fabalis|fabalĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fabrilia|făbrīlĭa|făbrīlĭa|8|făbrīl||ium, n.
+LS|fabrilia|fabrīlĭa|ium|n.||mechanical tools, implements|fabrilis|0
+GG|fabrilia|făbrīlĭa|ĭum|n.|S.|oeuvres d'artisan|fabrilis|-lĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|facelaria|făcēlārĭa|făcēlārĭa|8|făcēlār||ium, n.
+LS|facelaria|făcēlārĭa|ium|n.||a dish of pickled French beans|phaselaria|(
+GG|
+GJ|facelaria|făcēlārĭa||c. phaselaria.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|facialia|făcĭālĭa|făcĭālĭa|8|făcĭāl||ium, n.
+LS|
+GG|facialia|făciālĭa|ĭum|n.||linges pour essuyer le visage|facialia|
+GJ|facialia|făcĭalia|ium, n. (c. facitergium)|Diocl. linges pour s'essuyer le visage.
+Ge|facialia|faciālia|ium, n.|Schweißtücher
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|faenilia|faenīlĭa|fāenīlĭa|8|fāenīl||ium, n.
+LS|faenilia|faenīlĭa|ĭum|n.||a hay-loft|faenilia|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|faenilia|faenilia||n||a hay-loft||||faenilia
+YO|
+PO|faenilia|faeni_lia, faeni_lium : npl
+WW||||
+|faunalia|Faunālĭa|Fāunālĭa|8|Fāunāl||ium, n.
+LS|Faunalia|Faunālĭa|ium|n.||the festival celebrated on the nones of December, in honor of Faunus|Faunalia|0
+GG|Faunalia|Faunālĭa|ĭum ou ĭōrum|n.|S.|fêtes en l'honneur de Faunus|Faunus|-nālĭa
+GJ|Faunalia|Faunālĭa|ĭōrum (ĭum), n.|les Faunalies (fêtes en l'honneur de Faunus).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|feminalia|fĕmĭnālĭa|fĕmĭnālĭa|8|fĕmĭnāl||ium, n.
+LS|feminalia|fĕmĭnālĭa|ĭum|n.||bandages for the upper part of the thighs, thigh-bandages|feminalia|(
+GG|feminalia|fĕmĭnālĭa|ĭum|n.||bandes pour envelopper les cuisses|feminalia|
+GJ|feminalia|fēmĭnālĭa|ĭum, n. [femen]|bandes couvrant les cuisses.
+Ge|feminalia|feminālia|ium, n. plur.|Binden um die Oberschenkel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|feralia|Fērālĭa|Fērālĭa|8|Fērāl||ium, n.
+LS|Feralia|Fĕrālĭa|ĭum|n.|adv.|deadly, fatal, dangerous, Comp., Sup., neutr. adv.|feralis|0
+GG|Feralia|Fērālĭa|ĭum|n.||fêtes en l'honneur des dieux mânes|Feralia|
+GJ|Feralia|Fērālĭa|ĭum, n.|fêtes en l'honneur des dieux mânes. ---- Ov. F. 2, 569.
+Ge|
+FG|Feralia|Feralia ium neutre, fêtes en l'honneur des dieux mânes.
+Lw|
+YO|
+PO|
+WW||||
+|fetalia|fētālĭa|fētālĭa|8|fētāl||ium, n.
+LS|fetalia|fētālĭa|ĭum|n.||a birth-day|fetalia|0
+GG|fetalia|fētālĭa|ĭum|n.||fêtes de la naissance|fetalia|
+GJ|fetalia|fētalĭa|ĭum, n.|Aug. fétalies (fêtes après la naissance des agneaux).
+Ge|fetalia|fētālia|ium, n.|das Geburtsfest
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fiscalia|fiscālĭa|fīscālĭa|8|fīscāl||ium, n.
+LS|fiscalia|fiscālĭa|ium|n.||moneys for the treasury|fiscalis|0
+GG|fiscalia|fiscālia||n.|S.|droits du fisc|fiscalis|-lia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|foeminalia|foemĭnālĭa|fōemĭnālĭa|8|fōemĭnāl||ium, n.
+LS|foeminalia|foemĭnālĭa|ĭum|n.||bandages for the upper part of the thighs, thigh-bandages|feminalia|(
+GG|
+GJ|foeminalia|foeminālia|ĭum, n. [femen]|bandes couvrant les cuisses.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fornacalia|Fornācālĭa|Fōrnācālĭa|8|Fōrnācāl||ium, n.
+LS|Fornacalia|Fornācālĭa|ium|n.|||fornacalis|0
+GG|Fornacalia|Fornācālĭa|ĭum ou ĭōrum|n.||fêtes en l'honneur de Fornax [déesse des fours]|Fornacalia|
+GJ|Fornacalia|Fornacalia|ium (iorum), n.|les Fornacalies (fêtes en l'honneur de la déesse Fornax).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frontalia|frontālĭa|frōntālĭa|8|frōntāl||ium, n.
+LS|frontalia|frontālĭa|ĭum|n.||an ornament for the forehead, frontlet|frontalia|0
+GG|frontalia|frontālĭa|ĭum|n.||fronteau, têtière [pour les chevaux et les éléphants] / partie antérieure|frontalia|
+GJ|frontalia|frontālĭa|ĭum, n.|- 1 - têtière (pour les chevaux et les éléphants). - 2 - Amm. partie antérieure.
+Ge|
+FG|frontalia|frontalia ium neutre (frons 2), fronteau, têtière (pour les chevaux et les éléphants).
+Lw|
+YO|
+PO|
+WW||||
+|fugalia|fŭgālĭa|fŭgālĭa|8|fŭgāl||ium, n.
+LS|fugalia|fŭgālĭa|ium|n.||a festival celebrated on the, th of February, to commemorate the expulsion of the kings, the flight of the kings|fugalia|0
+GG|Fugalia|Fŭgālĭa|ĭum|n.||les Fugalies [fêtes à Rome en mémoire de l'expulsion des rois]|Fugalia|
+GJ|Fugalia|Fŭgālĭa|ĭum, n. [fuga]|Aug. les Fugalies (fête célébrée à Rome le 24 février pour commémorer l'expulsion des rois).
+Ge|Fugalia|Fugālia|ium, n.|das Fest der Vertreibung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|funebria|fūnē̆bria|fūnē̆brĭa|8|fūnē̆br||ium, n.
+LS|funebria|fūnē̆bria|ium|n.||funeral rites|funebris|0
+GG|funebria|funebria|um|n. pl.|S.|appareil funéraire, obsèques / funeste, mortel, pernicieux|funebris|funebria
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|furinalia|Fūrīnālĭa|Fūrīnālĭa|8|Fūrīnāl||ium, n.
+LS|Furinalia|Furīnālia|ium|n.||the festival of Furina|Furina|(
+GG|Furinalia|Fūrīnālĭa|ĭum|n.|S.|la fête de Furina|Furina|-nālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|genialia|gĕnĭālĭa|gĕnĭālĭa|8|gĕnĭāl||ium, n.
+LS|genialia|gĕnĭālĭa|ium|n.|adv.|of or belonging to enjoyment, jovial, pleasant, delightful, joyousfestive, genial|genialis|0
+GG|genialia|gĕnĭālĭa|ĭum|n.|S.|fécond / ]|genialis|gĕnĭālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|genualia|gĕnŭālĭa|gĕnŭālĭa|8|gĕnŭāl||ium, n.
+LS|genualia|gĕnŭālĭa|ĭum|n.||garters|genualia|0
+GG|genualia|gĕnŭālĭa|ĭum|n.||genouillères|genualia|
+GJ|genualia|gĕnŭālĭa|ĭum, n.|genouillères.
+Ge|
+FG|genualia|genualia ium neutre (genu), genouillères.
+Lw|genualia|genuālia|ium|n||garters||||genualia
+YO|
+PO|
+WW||||
+|gignentia|gignentĭa|gīgnēntĭa|8|gīgnēnt||ium, n.
+LS|gignentia|gignentĭa|ĭum|n.||organic bodies, things that grow, as plants, trees|gigno|0
+GG|gignentia|gignentĭa|ĭum|n. pl.|part.|pris substt, végétaux, plantes / corps organiques|gignentia|
+GJ|gignentia|gignentĭa||part. prés. au plur. n. de gigno.
+Ge|
+FG|gignentia|gignentia ium, neutre pluriel du participe de gigno, pris substantivement, végétaux, plantes.
+Lw|gignentia|gīgnentia|ium|n||productive things, plants, of vegetation||||gignentia
+YO|
+PO|
+WW||||
+|hordicalia|hordĭcālĭa|hōrdĭcālĭa|8|hōrdĭcāl||ium, n.
+LS|hordicalia|hordicālĭa|||||hordicalia|v. horda and fordus. 
+GG|Hordicalia|Hordĭcālĭa|ĭum|n.||fêtes où l'on sacrifiait des vaches pleines|Hordicalia|
+GJ|
+Ge|Hordicalia|Hordicālia|ium, n.|ein Fest
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hospitalia|hospĭtālĭa|hōspĭtālĭa|8|hōspĭtāl||ium, n.
+LS|hospitalia|hospĭtālia|ium|n.||Apartments for guests, guest-chambers; (Sc. jura.) The dues of hospitality|hospitalis|0
+GG|hospitalia|hospĭtālĭa|ĭum|n.||chambres pour les hôtes / chambres des étrangers sur la scène|hospitalia|
+GJ|hospitalia|hospĭtālĭa|ĭum, n.|chambres (pour les hôtes).
+Ge|
+FG|hospitalia|hospitalia ium, neutre (hospitalis), chambre pour les hôtes.
+Lw|hospitalia|hospitālia|ium|n.||the dues of hospitality||||hospitalis
+YO|
+PO|
+WW||||
+|immania|immānĭa|īmmānĭa|8|īmmān||ium, n.
+LS|immania|immānĭa|ium|n.|adv.||immanis|0
+GG|immania|immania||||des choses monstrueuses, prodigieuses|immanis|immania
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insilia|insĭlĭa|īnsĭlĭa|8|īnsĭl||ium, n.
+LS|insilia|insĭlĭa|ĭum|n.||the treadle|insilia|0
+GG|insilia|insĭlĭa|ĭum|n.||ensouples [d'un métier de tisserand]|insilia|
+GJ|insilia|insĭlĭa|ĭum, n.|ensouples (d'un métier à tisser).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interdigitalia|interdĭgĭtālĭa|īntērdĭgĭtālĭa|8|īntērdĭgĭtāl||ium, n.
+LS|interdigitalia|interdĭgĭtālĭa|ĭum|n.||excrescences, between the fingers|interdigitalia|0
+GG|interdigitalia|interdĭgĭtālĭa|ĭum|n.|S.|l'entre-deux des doigts|interdigitalia|interdĭgĭtālĭa
+GJ|interdigitalia|interdĭgĭtālĭa|ĭum|c. interdigitia.
+Ge|interdigitalia|interdigitālia|ium, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jocularia|jŏcŭlārĭa|jŏcŭlārĭa|8|jŏcŭlār||ium, n.
+LS|jocularia|jŏcŭlārĭa|ium|n.||plur., jests, jokes|jocularis|0
+GG|jocularia|jocularia|||adv.|plaisanteries, railleries|jocularis|jocularia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|juturnalia|Jūturnālĭa|Jūtūrnālĭa|8|Jūtūrnāl||ium, n.
+LS|Juturnalia|Jūturnālĭa|ium|n.||the festival of the nymph Juturna|Juturna|0
+GG|Juturnalia|Jūturnālĭa|ium ou iōrum|n.||Juturnales, fêtes de Juturna|Juturnalia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|juvenalia|jŭvĕnālĭa|jŭvĕnālĭa|8|jŭvĕnāl||ium, n.
+LS|juvenalia|jŭvĕnālĭa|ium|n.||youthful pursuits, games|juvenalis1|0
+GG|Juvenalia|Jŭvĕnālĭa|ĭum|n.||Juvénales, fêtes en l'honneur de la jeunesse|Juvenalia|
+GJ|juvenalia|jŭvĕnālĭa|ĭum, n.|les Juvénales (fêtes en l'honneur de la jeunesse).
+Ge|
+FG|Juvenalia|Juvenalia ium neutre (juvenalis), Juvénales, fêtes en l'honneur de la jeunesse.
+Lw|
+YO|
+PO|
+WW||||
+|lactentia|lactentĭa|lāctēntĭa|8|lāctēnt||ium, n.
+LS|lactentia|lactentĭa|ium|n.|||lacteo|0
+GG|lactentia|lactentĭa|ĭum|n.|S.|laitage|lactens|lactentĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laralia|Lărālĭa|Lărālĭa|8|Lărāl||ium, n.
+LS|Laralia|Lărālĭa|ĭum|n.||a festival in honor of the Lares, the festival of the Lares|Laralia|0
+GG|Laralia|Lărālĭa|ĭum|n.||fête des Lares|Laralia|
+GJ|
+Ge|Laralia|Larālia|ium, n.|das Larenfest
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|larentalia|Lārentālĭa|Lārēntālĭa|8|Lārēntāl||ium, n.
+LS|Larentalia|Lārentālia|ium|n.||the festival celebrated in honor of Larentia, on the 23d of December|Larentia|0
+GG|Larentalia|Lārentālĭa|ĭum|n.||Larentales, fêtes en l'honneur d'Acca Larentia|Larentalia|
+GJ|Larentalia|Lărentalia|ium (iorum), n.|les Larentalies (fête en l'honneur d'Acca Larentia).
+Ge|Larentalia|Lārentālia|ium, n.|
+FG|Larentalia|Larentalia ium neutre, Larentales, fêtes en l'honneur d'Acca Larentia.
+Lw|Larentalia|Lārentālia|ium|n||a festival celebrated Dec. 23d, in honor of Larentia, nurse of Romulus and Remus||||Larentalia
+YO|
+PO|
+WW||||
+|lateralia|lătĕrālĭa|lătĕrālĭa|8|lătĕrāl||ium, n.
+LS|lateralia|lătĕrālĭa|ĭum|n.||saddle-bags|lateralis|0
+GG|lateralia|lătĕrālĭa|ĭum|n.||sacoche|lateralia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|liberalia|Lībĕrālĭa|Lībĕrālĭa|8|Lībĕrāl||ium, n.
+LS|Liberalia|Lībĕrālĭa|ĭum|n.||a festival in honor of Liber, celebrated on the, th of March, the day on which youths received the manly toga|Liberalis2|0
+GG|Liberalia|Lībĕrālĭa|ĭum|n.||fêtes de Bacchus / ou ludi Liberalia|Liberalia|
+GJ|Liberalia|Lībĕrālĭa|ĭum, n. [Lībĕr]|les Libéralia, les fêtes de Bacchus.
+Ge|Liberalia|Līberālia|ium, n.|das Bacchusfest
+FG|Liberalia|Liberalia ium, neutre (Liber 2), fêtes de Bacchus.
+Lw|Liberalia|Līberālia|ium|n||a festival of Liber||||Liberalia
+YO|
+PO|
+WW||||
+|lugubria|lūgū̆brĭa|lūgū̆brĭa|8|lūgū̆br||ium, n.
+LS|lugubria|lūgū̆brĭa|ĭum|n.||mourning garments, sable weeds|lugubris|0
+GG|lugubria|lūgubrĭa|ĭum|n.||deuil, vêtements de deuil|lugubria|
+GJ|lugubria|lūgubrĭa|ĭum, n.|voir lugubris.
+Ge|
+FG|lugubria|lugubria ium, neutre (lugibris), deuil, vêtement de deuil.
+Lw|
+YO|
+PO|
+WW||||
+|magnalia|magnālĭa|māgnālĭa|8|māgnāl||ium, n.
+LS|magnalia|magnālĭa|ĭum|n.||great things, mighty works, words|magnalia|0
+GG|magnalia|magnālĭa|ĭum|n. pl.||choses surprenantes, merveilles|magnalia|
+GJ|magnalia|magnalĭa|ĭum, n.|merveilles (choses surprenantes).
+Ge|magnalia|māgnālia|ium, n.|große Dinge, -Werke
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|manumissalia|mănūmissālĭa|mănūmīssālĭa|8|mănūmīssāl||ium, n.
+LS|
+GG|manumissalia|mănūmissālĭa|ĭum|n.||formalités de l'affranchissement des esclaves|manumissalia|
+GJ|
+Ge|manumissalia|manūmissālia|ium, n.|die Gebräuche bei der
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mapalia|măpālĭa|măpālĭa|8|măpāl||ium, n.
+LS|mapalia|măpālĭa|ĭum|n.||huts, cottages|mapalia|0
+GG|mapalia|măpālĭa|ĭum|n.||cabane, hutte / vétilles, sornettes / sottises, niaiseries|mapalia|
+GJ|mapalia|mapalĭa|ĭum, n.|- 1 - cabanes, huttes. - 2 - réunion de huttes, hameaux, villages. - 3 - sornettes, niaiseries, chansonnettes.
+Ge|mapalia|mapālia|ium, n.|gewölbten Hütten - liederliche Häuser, Lumpen - unnütze Dinge, Possen
+FG|
+Lw|mapalia|mapālia|ium|n||huts, cottages, portable dwellings||||mapalia
+YO|
+PO|mapalia|mapa_lia, mapa_lium : npl
+WW||||
+|matralia|Mātrālĭa|Mātrālĭa|8|Mātrāl||ium, n.
+LS|
+GG|Matralia|Mātrālĭa|ĭum|n.||fête de la déesse Matuta|Matralia|
+GJ|
+Ge|Matralia|Mātrālia|ium, n.|
+FG|
+Lw|matralia|mātrālia|ium|n||the festival of Mater Matuta, held on the, th of June||||matralia
+YO|
+PO|
+WW||||
+|matronalia|Mātrōnālĭa|Mātrōnālĭa|8|Mātrōnāl||ium, n.
+LS|Matronalia|Mātrōnālĭa|ĭum|n.|adv.|a festival celebrated by matrons in honor of Mars, on the 1st of March, at which presents were given to matrons and brides|matronalis|0
+GG|Matronalia|Mātrōnālĭa|ĭum|n.|S.|et suiv.)|matronalis|Mātrōnālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|meditrinalia|Mĕdĭtrīnālĭa|Mĕdĭtrīnālĭa|8|Mĕdĭtrīnāl||ium, n.
+LS|Meditrinalia|Mĕdĭtrīnālĭa|ĭum|n.||a festival celebrated on the, th of October in honor of Meditrina|Meditrinalia|0
+GG|Meditrinalia|Mĕdĭtrīnālĭa|ĭum|n.||Méditrinales, fêtes en l'honneur de Méditrine|Meditrinalia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|megalensia|Mĕgălensĭa|Mĕgălēnsĭa|8|Mĕgălēns||ium, n.
+LS|Megalensia|Mĕgălensĭa|ĭum|n.||the festival in honor of the Magna Mater, celebrated annually on the 4th of April with processions and games|Megale|or 
+GG|Megalensia|Mĕgălensĭa|ĭum|n.|S.|Mégalésiennes, fêtes en l'honneur de Cybèle|Megalensia|Mĕgălensĭa
+GJ|
+Ge|
+FG|Megalensia|Megalensia et -iesia ium, neutre, Magalésiennes, fêtes en l'honneur de Cybèle.
+Lw|Megalensia|Megalēnsia||n||an annual festival in honor of Cybele||||Megalensia
+YO|
+PO|
+WW||||
+|megalesia|Mĕgălēsĭa|Mĕgălēsĭa|8|Mĕgălēs||ium, n.
+LS|Megalesia|Mĕgălēsĭa|ĭum|n.||the festival in honor of the Magna Mater, celebrated annually on the 4th of April with processions and games|Megale|0
+GG|Megalesia|Mĕgălēsĭa|ĭum|n.|S.|Mégalésiennes, fêtes en l'honneur de Cybèle|Megalensia|-lēsĭa
+GJ|Megalesia|Mĕgălēsĭa||v. Megalensis.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|melitensia|Mĕlĭtensĭa|Mĕlĭtēnsĭa|8|Mĕlĭtēns||ium, n.
+LS|Melitensia|Mĕlĭtensia|ĭum|||Melitan garments|Melitensis|0
+GG|Melitensia|Mĕlĭtensĭa|ĭum|n.|S.|étoffes de Malte|Melitensis|-sĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|minervalia|Mĭnervālĭa|Mĭnērvālĭa|8|Mĭnērvāl||ium, n.
+LS|Minervalia|Mĭnervālĭa|ĭum|n.||festivities in honor of Minerva|Minervalis|0
+GG|Minervalia|Mĭnervālĭa|ĭum|n.||les Minervales, fêtes de Minerve|Minervalia|
+GJ|Minervalia|Mĭnervālĭa|ĭum, n.|les Minervales, fêtes de Minerve.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|missibilia|mĭssĭbĭlia|mĭssĭbĭlĭa|8|mĭssĭbĭl||ium, n.
+LS|missibilia|mĭssĭbĭlia|ĭum|n.||for missilia|missibilia|0
+GG|missibilia|missibilia||n.|S.|traits, javelots|missibilis|missibilia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|missilia|missĭlĭa|mīssĭlĭa|8|mīssĭl||ium, n.
+LS|missilia|missĭlĭa|ĭum|n.||presents thrown by the emperors among the people|missilis|0
+GG|missilia|missĭlĭa|ĭum|n.|S.|cadeaux jetés au peuple sur ordre de l'empereur|missile|-lĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mollia|mollĭa|mōllĭa|8|mōll||ium, n.
+LS|mollia|mollia|ĭum|n.||a kind of fishes, mollusks|mollis|0
+GG|mollia|mollĭa|ĭum|n.||mollusques|mollia|
+GJ|mollia|mollĭa|ĭum, n.|mollusques.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mortalia|mortālĭa|mōrtālĭa|8|mōrtāl||ium, n.
+LS|mortalia|mortālĭa|ĭum|n.||human affairs|mortalis|0
+GG|mortalia|mortalia||n. pl.|S.|les affaires humaines|mortalis|mortalia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mortualia|mortŭālĭa|mōrtŭālĭa|8|mōrtŭāl||ium, n.
+LS|mortualia|mortŭālĭa|ĭum|n.||Grave - clothes, mourningweeds|mortualia|0
+GG|mortualia|mortŭālĭa|ĭum|n.||vêtements de deuil / chants funèbres|mortualia|
+GJ|mortualia|mortualĭa|ĭum, n.|- 1 - (s.-ent. carmina) chants funèbres. - 2 - (s.-ent. vestimenta) vêtements de deuil.
+Ge|mortualia|mortuālia|ium, n.|die Totenlieder - Leichenkleider, Trauerkleider
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|navalia|nāvālĭa|nāvālĭa|8|nāvāl||ium, n.
+LS|navalia|nāvālĭa|ium|n.|||navalis|0
+GG|navalia|nāvālĭa|ĭum|n. pl.|S.|bassin de construction, chantier de navires / arsenaux [à Rome] / matériel naval|navale|nāvālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|neptunalia|Neptūnālĭa|Nēptūnālĭa|8|Nēptūnāl||ium, n.
+LS|Neptunalia|Neptūnālĭa|ĭum|n.||games in honor of Neptune|Neptunalis|0
+GG|Neptunalia|Neptūnālĭa|ĭum ou iōrum|n.||Neptunales, fêtes de Neptune|Neptunalia|
+GJ|Neptunalia|Neptūnālĭa|ĭum (ĭōrum), n.|les Neptunales, les fêtes de Neptune.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nominalia|nōmĭnālĭa|nōmĭnālĭa|8|nōmĭnāl||ium, n.
+LS|nominalia|nōmĭnālĭa|ĭum|n.|adv.|the day on which a child received its name, the name-day|nominalis|0
+GG|nominalia|nōmĭnālĭa||n.|S.|les Nominales [jour où l'on donnait un nom à un enfant]|nominalis|-nālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nonalia|nōnālĭa|nōnālĭa|8|nōnāl||ium, n.
+LS|
+GG|nonalia|nōnālĭa sacra||n.||Nonalies [cérémonie religieuse qui avait lieu aux nones]|nonalia sacra|
+GJ|Nonalia|Nōnālĭa|ĭum, n.|les Nonalies (fêtes religieuses célébrées le jour des nones).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nudipedalia|nūdĭpĕdālĭa|nūdĭpĕdālĭa|8|nūdĭpĕdāl||ium, n.
+LS|nudipedalia|nūdĭpĕdālĭa|ĭum|n.||A religious procession of persons with bare feet, the barefoot festival|nudipedalia|0
+GG|nudipedalia|nūdĭpĕdālĭa|ĭum|n.||procession que l'on faisait pieds nus / marche pieds nus|nudipedalia|
+GJ|nudipedalia|nūdĭpĕdālĭa|ĭum, n. [nudus + pes]|- 1 - procession que l'on faisait pieds nus. - 2 - marche pieds nus.
+Ge|nudipedalia|nūdipedālia|ium, n.|das Barfüßerfest - das Barfußgehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|opalia|Ŏpālĭa|Ŏpālĭa|8|Ŏpāl||ium, n.
+LS|Opalia|Ŏpālĭa|ium|n.||a festival celebrated on the, th of December, in honor of the goddess Ops|Opalia|0
+GG|Opalia|Opālĭa|ĭum|n.|S.|les Opalies, fêtes de la déesse Ops|Opalis|Opālĭa
+GJ|Opalia|Opalĭa|ĭum, n.|les Opales (fêtes en l'honneur de la déesse Ops).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|paganalia|Pāgānālĭa|Pāgānālĭa|8|Pāgānāl||ium, n.
+LS|Paganalia|Pāgānālĭa|ĭum|n.||the festival of the, celebrated in January; the country festival, rural festival|Paganalia|0
+GG|paganalia|pāgānālĭa|ĭum ou ĭōrum|n.||paganalies, fêtes d'un village|paganalia|
+GJ|Paganalia|Pāgānālĭa|ĭum (ĭōrum), n.|les Paganalies (fête d'un village).
+Ge|paganalia|pāgānālia||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|palaria|pālārĭa|pālārĭa|8|pālār||ium, n.
+LS|palaria|pālārĭa|ĭum|n.||the exercise of tilting against a stake;, the place of this exercise|palaris|0
+GG|palaria|pālārĭa|ium|n.||exercice [des soldats] contre un poteau|palaria|
+GJ|palaria|palarĭa|ĭum, n.|exercice consistant à s'escrimer avec l'épée ou à lancer son javelot contre un poteau.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|palilia|Pălīlĭa|Pălīlĭa|8|Pălīl||ium, n.
+LS|Palilia|Pălīlĭa|ĭum||||Palilia|0
+GG|Palilia|Palilia|ium ou iorum|n. pl.|S.|Palilies ou Parilies, fêtes en l'honneur de Palès|Palilis|Palilia
+GJ|Palilia|Pălīlĭa|ĭum, n. |v. Palilis
+Ge|
+FG|
+Lw|
+YO|
+PO|palilia|Pali_lia, Pali_lium : npl
+WW||||
+|parentalia|părentālĭa|părēntālĭa|8|părēntāl||ium, n.
+LS|parentalia|părentālĭa|ĭum|n.||A festival in honor of dead relations, Gen.|parentalis|0
+GG|Parentalia|Părentālĭa|ĭum|n.||Parentales, fêtes annuelles en mémoire des morts, fêtes funèbres|Parentalia|
+GJ|Parentalia|Parentalĭa|ĭum (ĭōrum), n.|voir parentalis.
+Ge|
+FG|Parentalia|Parentalia ium neutre, Parentales, fêtes annuelles en mémoire des morts, fêtes funèbres.
+Lw|
+YO|
+PO|
+WW||||
+|parilia|Părīlĭa|Părīlĭa|8|Părīl||ium, n.
+LS|Parilia|Părīlĭa|ium|n.||the feast of Pales, the shepherd festival|Parilia|0
+GG|Parilia|Părīlĭa|ium ou iorum|n. pl.|S.|Palilies ou Parilies, fêtes en l'honneur de Palès|Palilis|Parilia
+GJ|Parilia|Părīlĭa|ĭum, n. |v. Palilis
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peremnia|pĕremnĭa|pĕrēmnĭa|8|pĕrēmn||ium, n.
+LS|
+GG|peremnia|pĕremnĭa|ĭum|||auspices pris avant d'effectuer le passage d'un fleuve|peremne|pĕremnĭa
+GJ|peremnia|peremnĭa|ĭum, n. plur.|(qqf. peremne, is, n.) auspices pris avant la traversée d'un fleuve.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|phaselaria|phăsēlārĭa|phăsēlārĭa|8|phăsēlār||ium, n.
+LS|phaselaria|phăsēlārĭa|ium|n.||a dish of pickled French beans|phaselaria|(
+GG|phaselaria|phăsēlārĭa|ĭum|n.||plat de Phaselus|phaselaria|
+GJ|phaselaria|phăsēlārĭa|ĭum, n.|Lampr. plat de fèves, purée de fèves.
+Ge|phaselaria|phasēlāria|ium, n.|ein Gericht von eingemachten Bohnen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|popularia|pŏpŭlārĭa|pŏpŭlārĭa|8|pŏpŭlār||ium, n.
+LS|popularia|pŏpŭlārĭa|ĭum|n.|||popularia|0
+GG|popularia|pŏpŭlārĭa|ĭum|n.||place des plébéiens dans l'amphithéâtre|popularia|
+GJ|popularia|pŏpŭlārĭa|ĭum, n.|(s.-ent. subsellia) place des plébéiens dans l'amphithéâtre.
+Ge|
+FG|popularia|popularia ium neutre (popularis), place des plébéiens dans l'amphithéâtre.
+Lw|
+YO|
+PO|
+WW||||
+|portunalia|Portūnālĭa|Pōrtūnālĭa|8|Pōrtūnāl||ium, n.
+LS|Portunalia|Portūnālĭa|ĭum|n.||the festival of Portunus, celebrated annually on the, th of August|Portunus|0
+GG|Portunalia|Portūnālĭa|ĭum|n.||Portunales, fêtes en l'honneur de Portunus|Portunalia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praecurrentia|praecurrentĭa|prāecūrrēntĭa|8|prāecūrrēnt||ium, n.
+LS|praecurrentia|praecurrentĭa|ĭum|n.|||praecurrentia|0
+GG|praecurrentia|praecurrentia|ium|n.|S.|en qq sorte les avant-coureurs = les antécédents [t. de rhét.]|praecurro|quasi praecurrentia
+GJ|
+Ge|
+FG|
+Lw|praecurrentia|praecurrentia|ium|n||antecedents||||praecurrentia
+YO|
+PO|
+WW||||
+|praedulcia|praedulcĭa|prāedūlcĭa|8|prāedūlc||ium, n.
+LS|praedulcia|praedulcĭa|ium|n.||over-sweet things|praedulcis|0
+GG|praedulcia|praedulcia|ium|n. n. pl.|S.|les douceurs / [fig.] très doux, très agréable|praedulcis|praedulcia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pugillaria|pŭgillārĭa|pŭgīllārĭa|8|pŭgīllār||ium, n.
+LS|pugillaria|pŭgillāria|ĭum|n.|||pugillaris|0
+GG|pugillaria|pŭgillārĭa|ĭum|n.||c. pugillares|pugillaria|
+GJ|
+Ge|
+FG|pugillaria|pugillaria ium neutre, cf. pugillares.
+Lw|
+YO|
+PO|
+WW||||
+|pugnantia|pūgnantĭa|pūgnāntĭa|8|pūgnānt||ium, n.
+LS|pugnantia|pugnantĭa|ĭum|n.|||pugnantia|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|pugnantia|pūgnantia|ium|n||contradictions, inconsistencies, things irreconcilable||||pugnantia
+YO|
+PO|
+WW||||
+|pulchralia|pulchrālĭa|pūlchrālĭa|8|pūlchrāl||ium, n.
+LS|pulchralia|pulchrālĭa|ĭum|n.||a dessert, fruits|pulchralia|(
+GG|pulchralia|pulchrālĭa|ĭum|n.||c. bellaria|pulchralia|
+GJ|pulchralia|pulchrālĭa|ĭum, n. [pulcher]|friandises, dessert.
+Ge|pulchralia|pulchrālia|ium, n.|Nachtisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pulcralia|pulcrālĭa|pūlcrālĭa|8|pūlcrāl||ium, n.
+LS|pulcralia|pulcrālĭa|ĭum|n.||a dessert, fruits|pulchralia|(
+GG|
+GJ|pulcralia|pulcrālĭa|ĭum, n. [pulcher]|friandises, dessert.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quinquatria|Quinquātrĭa|Qụīnqụātrĭa|8|Qụīnqụātr||ium, n.
+LS|Quinquatria|Quinquātrĭa|ōrum and ĭum|n.||a festival celebrated in honor of Minerva, the festival of Minerva|Quinquatrus|0
+GG|Quinquatria|Quinquātrĭa|ĭum|n.|S.|v. Quinquatrus.|Quinquatres|Quinquātrĭa
+GJ|Quinquatria|Quinquātrĭa|ĭum, n.|c. Quinquatrus.
+Ge|
+FG|
+Lw|quinquatria|quīnquātria||n||rare for quinquatrus||||quinquatria
+YO|
+PO|quinquatria|qui_nqua_tria, qui_nqua_trio_rum : npl
+WW||||
+|quinquennalia|quinquennālĭa|qụīnqụēnnālĭa|8|qụīnqụēnnāl||ium, n.
+LS|quinquennalia|quinquennālĭa|ĭum|n.||games celebrated every fifth year|quinquennalis|0
+GG|quinquennalia|quinquennālĭa|ĭum|n.|S.|quinquennales, jeux célébrés tous les cinq ans / qui dure cinq ans|quinquennalis|quinquennālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quirinalia|Quĭrīnālĭa|Qụĭrīnālĭa|8|Qụĭrīnāl||ium, n.
+LS|Quirinalia|Quĭrīnālĭa|ĭum|n.||the festival in honor of Romulus, celebrated annually on the, th of February, the Quirinal festival|Quirinalis|0
+GG|Quirinalia|Quĭrīnālĭa|ĭum ou ĭōrum|n.||Quirinales, fêtes en l'honneur de Romulus (Quirinus)|Quirinalia|
+GJ|
+Ge|
+FG|Quirinalia|Quirinalia ium ou iorum, neutre, Quirinales, fêtes en l'honneur de Romulus (Quirinus).
+Lw|
+YO|
+PO|quirinalia|Quiri_na_lia, Quiri_na_lium : npl
+WW||||
+|ramalia|rāmālia|rāmālĭa|8|rāmāl||ium, n.
+LS|ramalia|rāmālia|ium||||ramale|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|ramalia|rāmālia|ium|n||twigs, shoots, sticks, brushwood||||ramalia
+YO|
+PO|ramalia|ra_ma_lia, ra_ma_lium : npl
+WW||||
+|regalia|rēgālĭa|rēgālĭa|8|rēgāl||ium, n.
+LS|regalia|rēgālĭa|ĭum|||the residence of the king|regalis|0
+GG|regalia|rēgālĭa|ĭum|n.||résidence royale|regalia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ridicularia|rīdĭcŭlārĭa|rīdĭcŭlārĭa|8|rīdĭcŭlār||ium, n.
+LS|ridicularia|rīdĭcŭlārĭa|ĭum|n.||jests, drolleries|ridicularius|0
+GG|ridicularia|ridicularia||||plaisanteries, bouffonneries|ridicularius|ridicularia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|robigalia|Rōbīgālĭa|Rōbīgālĭa|8|Rōbīgāl||ium, n.
+LS|Robigalia|Rōbīgālĭa|ĭum|n.||a yearly festival held in honor of Robigus on the 25th of April|Robigalia|(
+GG|Robigalia|Rōbīgālĭa|ĭum|n.||fêtes en l'honneur de Robigo ou Robigus|Robigalia|
+GJ|Robigalia|Rōbīgālĭa|ĭum, n.|les Robigalia (fête en l'honneur de Robigo, déesse qui préserve le blé de la nielle).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rubigalia|Rūbīgālĭa|Rūbīgālĭa|8|Rūbīgāl||ium, n.
+LS|Rubigalia|Rūbīgālĭa|ĭum|n.||a yearly festival held in honor of Robigus on the 25th of April|Robigalia|(
+GG|
+GJ|Rubigalia|Rūbīgālĭa|ĭum, n.|les Robigalia (fête en l'honneur de Robigo, déesse qui préserve le blé de la nielle).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scalaria|scālārĭa|scālārĭa|8|scālār||ium, n.
+LS|scalaria|scālārĭa|ĭum|n.||a flight of stairs, steps, a staircase|scalaria|0
+GG|scalaria|scālārĭa||n. pl.|S.|escalier, degrés|scalare|scālārĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|serilia|sĕrīlĭa|sĕrīlĭa|8|sĕrīl||ium, n.
+LS|serilia|sĕrīlĭa|ĭum|n.||ropes, cordage|serilia|0
+GG|serilia|sĕrīlĭa|ĭum|n.||cordes de jonc|serilia|
+GJ|serilia|serilĭa|ĭum, n.|cordes de jonc.
+Ge|serilia|serilia|um, n.|Seile
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|solitaurilia|sōlĭtaurīlĭa|sōlĭtāurīlĭa|8|sōlĭtāurīl||ium, n.
+LS|solitaurilia|sōlĭtaurīlĭa|ĭum|n.||a sacrifice consisting of a swine, a sheep, and a bull|suovetaurilia|v. suovetaurilia.
+GG|solitaurilia|sōlĭtaurīlĭa|ĭum|n.||c. suovetaurilia|solitaurilia|
+GJ|solitaurilia|sōlĭtaurīlĭa|ĭum, n.|les suovétaurilies (sacrifice d'une truie, d'une brebis et d'un taureau dans les lustrations).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sponsalia|sponsālĭa|spōnsālĭa|8|spōnsāl||ium, n.
+LS|sponsalia|sponsālĭa|ĭum|n.||A betrothal, espousal|sponsalis|0
+GG|sponsalia|sponsālĭa|ĭum, ou ĭōrum|||fiançailles / fête de fiançailles, repas de noces / cadeaux de noces|sponsalis|sponsālĭa
+GJ|sponsalia|sponsālĭa|ĭum (ĭorum), n. [sponsus]|- 1 - fiançailles. - 2 - repas de noces, fête de fiançailles. - 3 - C. Just. cadeaux de noces.
+Ge|
+FG|
+Lw|sponsalia|spōnsālia|ium|n||a betrothal, espousal, wedding, a wedding-feast||||sponsalia
+YO|
+PO|sponsalia|spo_nsa_lia, spo_nsa_lio_rum : npl
+WW||||
+|stagnantia|stagnantĭa|stāgnāntĭa|8|stāgnānt||ium, n.
+LS|stagnantia|stagnantĭa|ium|n.||Act.|stagno1|0
+GG|stagnantia|stagnantia|ium|n.|S.|endroits inondés / rendre stagnant, immobiliser / inonder, submerger|1 stagno|stagnantia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|summanalia|Summānālĭa|Sūmmānālĭa|8|Sūmmānāl||ium, n.
+LS|Summanalia|Summānālĭa|ium||||Summanalia|0
+GG|summanalia|summānālĭa|ĭum|n.||sorte de gâteaux sacrés en forme de roue, offerts à Summanus|summanalia|
+GJ|summanalia|summānālĭa|ĭum, n.|P.-Fest. gâteaux en forme de roue (offerts à Summanus).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suovetaurilia|sŭŏvĕtaurīlĭa|sŭŏvĕtāurīlĭa|8|sŭŏvĕtāurīl||ium, n.
+LS|suovetaurilia|sŭŏvĕtaurīlĭa|ĭum|n.||a sacrifice consisting of a swine, a sheep, and a bull|suovetaurilia|or 
+GG|suovetaurilia|sŭŏvĕtaurīlĭa|ĭum|n.|S.|suovétaurilies, sacrifice d'une truie, d'une brebis et d'un taureau dans les lustrations|suovetaurilia|sŭŏvĕtaurīlĭa
+GJ|suovetaurilia|sŭŏvĕtaurīlĭa|ĭum, n.|les suovétaurilies (sacrifice d'une truie, d'une brebis et d'un taureau dans les lustrations).
+Ge|suovetaurilia|suovetaurīlia|ium, n.|das feierliche Opfer
+FG|suovetaurilia|suovetaurilia (suovi-)ium neutre (sus ovis taurus), suovétaurilies, sacrifice d'une truie, d'une brebis et d'un taureau dans les lustrations.
+Lw|suovetaurilia|suovetaurīlia|ium|n||a sacrifice of lustration, consisting of a swine, a sheep. and a bull.||||suovetaurilia
+YO|
+PO|suovetaurilia|suovetauri_lia, suovetauri_lium : npl
+WW||||
+|suovitaurilia|sŭŏvĭtaurīlĭa|sŭŏvĭtāurīlĭa|8|sŭŏvĭtāurīl||ium, n.
+LS|
+GG|suovitaurilia|sŭŏvĭtaurīlĭa|ĭum|n.|S.|suovétaurilies, sacrifice d'une truie, d'une brebis et d'un taureau dans les lustrations|suovetaurilia|sŭŏvĭ-
+GJ|suovitaurilia|sŭŏvĭtaurīlĭa|ĭum, n.|les suovétaurilies (sacrifice d'une truie, d'une brebis et d'un taureau dans les lustrations).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|synodalia|sўnŏdālĭa|sўnŏdālĭa|8|sўnŏdāl||ium, n.
+LS|synodalia|sўnŏdālĭa|ĭum|n.||constitutions of a synod, synodals|synodalis|0
+GG|synodalia|sўnŏdālĭa||n. pl.|S.|statuts synodaux|synodalis|-lĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|terminalia|Termĭnālĭa|Tērmĭnālĭa|8|Tērmĭnāl||ium, n.
+LS|Terminalia|Termĭnalĭa|ĭum|n.||the festival of Terminus|terminalis|0
+GG|Terminalia|Terminālĭa|ĭum ou ĭōrum|n.||Terminalies [fêtes en l'honneur du dieu Terme]|Terminalia|
+GJ|Terminalia|Termĭnālĭa|ĭum (ĭōrum), n.|les Terminalies (fêtes en l'honneur du dieu Terme).
+Ge|
+FG|Terminalia|Terminalia ium (iorum neutre (terminalis), Terminalies (fêtes en l'honneur du dieu Terme).
+Lw|Terminalia|Terminālia|ium|n||the festival of Terminus (god of boundaries, held Feb. 23)||||Terminalia
+YO|
+PO|terminalia|Termina_lia, Termina_lium : npl
+WW||||
+|tricennalia|trīcennālĭa|trīcēnnālĭa|8|trīcēnnāl||ium, n.
+LS|tricennalia|trīcennālia|ĭum|n.||a festival celebrated once in thirty years, a tricennial festival|tricennalis|0
+GG|tricennalia|trīcennālĭa|ĭum ou ĭōrum|n.||fête qui se célèbre tous les trente ans|tricennalia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tricliniaria|trīclīnĭārĭa|trīclīnĭārĭa|8|trīclīnĭār||ium, n.
+LS|tricliniaria|trīclīnĭārĭa|ĭum|n.||An eating-room, dining-room, supper-room|tricliniaris|0
+GG|tricliniaria|trīclīnĭārĭa|ĭum|n.||tapis des lits de tables / salles à manger|tricliniaria|
+GJ|tricliniaria|tricliniarĭa|ĭum, n.|- 1 - tapis detable. - 2 - salle à manger.
+Ge|
+FG|tricliniaria|tricliniaria ium neutre (tricliniaris),
+Lw|
+YO|
+PO|
+WW||||
+|triennia|trĭennĭa|trĭēnnĭa|8|trĭēnn||ium, n.
+LS|triennia|trĭennĭa|ĭum|n.||a festival celebrated every three years, a triennial festival|triennia|0
+GG|triennia|trĭennĭa|ĭum|n.||fêtes de Bacchus célébrées à Thèbes tous les trois ans, = trieterica sacra|triennia|
+GJ|triennia|triennĭa|ĭum, n.|les triennies (fêtes de Bacchus, célébrées à Thèbes tous les trois ans).
+Ge|triennia|triennia|ium, n.|
+FG|triennia|triennia ium neutre (tres annus), fêtes de Bacchus, célébrées à Thèbes tous les trois ans.
+Lw|triennia|triennia|ium|n||a festival held every three years, triennial festival||||triennia
+YO|
+PO|triennia|triennia, triennium : npl
+WW||||
+|trimestria|trĭmestrĭa|trĭmēstrĭa|8|trĭmēstr||ium, n.
+LS|trimestria|trĭmestrĭa|ĭum|n.|||trimestris|0
+GG|trimestria|trĭmestrĭa|ĭum|n.|S.|graines qui mûrissent trois mois après l'ensemencement|trimestris|-strĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|urnalia|urnālĭa|ūrnālĭa|8|ūrnāl||ium, n.
+LS|urnalia|urnālĭa|ĭum|n.||vessels of such capacity|urnalis|0
+GG|urnalia|urnalia||n. pl.|S.|vases qui contiennent une urne [mesure]|urnalis|urnalia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vallestria|vallestrĭa|vāllēstrĭa|8|vāllēstr||ium, n.
+LS|vallestria|vallestrĭa|ĭum|n.||valleys, vales|vallestria|0
+GG|
+GJ|
+Ge|vallestria|vallestria|ium, n.|Talgründe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vertumnalia|Vertumnālĭa|Vērtūmnālĭa|8|Vērtūmnāl||ium, n.
+LS|Vertumnalia|Vertumnālĭa|ĭum|n.||the festival of Vertumnus|Vertumnus|0
+GG|Vertumnalia|Vertumnālĭa|ĭum|n.||Vertumnales, fête en l'honneur de Vertumne|Vertumnalia|
+GJ|
+Ge|Vertumnalia|Vertumnālia|ium, n.|Erntedankfest
+FG|Vertumnalia|Vertumnalia ium neutre, Vertumnales, fête en l'honneur de Vertumne.
+Lw|
+YO|
+PO|
+WW||||
+|vestalia|Vestālĭa|Vēstālĭa|8|Vēstāl||ium, n.
+LS|Vestalia|Vestālĭa|ĭum|n.||the festival of Vesta|Vesta|0
+GG|Vestalia|Vestālĭa|ĭum|n.||les Vestalies, fête en l'honneur de Vesta|Vestalia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vicennalia|vīcennālĭa|vīcēnnālĭa|8|vīcēnnāl||ium, n.
+LS|vicennalia|vīcennālĭa|ĭum|n.|||vicennalis|0
+GG|vicennalia|vīcennālia||n.|S.|les Vicennales, fête célébrée après vingt ans de règne d'un empereur|vicennalis|-ālia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vicialia|vĭcĭālĭa|vĭcĭālĭa|8|vĭcĭāl||ium, n.
+LS|vicialia|vĭcĭālĭa|ĭum|n.||the stalks, haulm of vetches|vicialia|0
+GG|vicialia|vĭcĭālĭa|ium|n.||tige de la vesce|vicialia|
+GJ|
+Ge|vicialia|viciālia|ium, n.|die Halmeder Wicken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|victualia|victŭālia|vīctŭālĭa|8|vīctŭāl||ium, n.
+LS|victualia|victŭālia|ĭum|n.|||victualis|0
+GG|victualia|victŭālia||||vivres, victuailles, aliments|victualis|-ālia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|virentia|vĭrentĭa|vĭrēntĭa|8|vĭrēnt||ium, n.
+LS|virentia|vĭrentĭa|ĭum|n.||plants, herbage|virens|0
+GG|virentia|vĭrentia|ium|n. pl.||plantes, végétaux|virens|vireo
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|viridia|vĭrĭdĭa|vĭrĭdĭa|8|vĭrĭd||ium, n.
+LS|viridia|vĭrĭdĭa|ĭum|n.||green plants, herbs, trees|viridia|0
+GG|viridia|vĭrĭdĭa|ĭum ĭōrum|||arbustes (arbres) verts, verdure / jardin, bosquet|viridia|
+GJ|viridia|viridia|ium (iorum), n.|arbustes verts, verdure, bosquet, pelouse.
+Ge|
+FG|viridia|viridia ium neutre, arbustes (arbres) verts, verdure ; jardin, bosquet.
+Lw|
+YO|
+PO|
+WW||||
+|virilia|vĭrīlĭa|vĭrīlĭa|8|vĭrīl||ium, n.
+LS|virilia|vĭrīlia|ĭum|n.||of the masculine gender, masculine|virilis|0
+GG|virilia|vĭrīlĭa|ĭum|n.||parties sexuelles de l'homme // actes de courage, virils|virilia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|visualia|vīsŭālĭa|vīsŭālĭa|8|vīsŭāl||ium, n.
+LS|visualia|vīsŭālĭa|ĭum|n.||the power of vision|visualis|0
+GG|visualia|vīsŭālĭa|ĭum|n.||l'organe visuel|visualia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vitalia|vītālĭa|vītālĭa|8|vītāl||ium, n.
+LS|vitalia|vītālia|ĭum|n.|||vitalis|0
+GG|vitalia|vītālĭa|ĭum|n.||les organes essentiels à la vie, parties vitales / les vêtements d'un mort|vitalia|
+GJ|vitalia|vitalĭa|ĭum, n.|- 1 - organes essentiels à la vie, les parties vitales. - 2 - principes vitaux. - 3 - vêtements d'un mort (qui ont servi durant la vie), toilette funèbre.
+Ge|
+FG|vitalia|vitalia ium neutre (vitalis),
+Lw|
+YO|
+PO|
+WW||||
+|vitilia|vītĭlia|vītĭlĭa|8|vītĭl||ium, n.
+LS|vitilia|vītĭlia|ĭum|n.|||vitilis|0
+GG|vitilia|vītĭlia|ĭum|n.|S.|paniers d'osier|vitilis|-lia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|volcanalia|Volcānālĭa|Vōlcānālĭa|8|Vōlcānāl||ium, n.
+LS|Volcanalia|Volcānālĭa|ium|n.||the yearly festival of Vulcan, celebrated on the, d of August|Volcanus|0
+GG|Volcanalia|Volcānālĭa|ĭum ou ĭōrum|n.|S.|Vulcanales, fêtes en l'honneur de Vulcain|Vulcanalia|Volc-
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vulturnalia|Vulturnālĭa|Vūltūrnālĭa|8|Vūltūrnāl||ium, n.
+LS|Vulturnalia|Vulturnālia|ĭum|n.|||Vulturnalis|0
+GG|Vulturnalia|Vulturnālĭa|ĭum|n.|S.|fêtes de Vulturne|Vulturnalis|-lĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|annalia|annālia|ānnālĭa|8|ānnāl||ium, n.
+LS|annalia|annālia|ium|n.|||annalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|arvalia|Arvalĭa|Ārvalĭa|8|Ārval||ium, n.
+LS|
+GG|
+GJ|Arvalia|Arvalĭa|ĭum, n. [arva]|Arvalia (sacrifice pour la prospérité des biens de la terre).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|brutalia|brutalĭa|brutalĭa|8|brutal||ium, n.
+LS|
+GG|
+GJ|brutalia|brutalĭa|ĭum, n.|les animaux (dépourvus de raison).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cerialia|Cĕrĭālia|Cĕrĭālĭa|8|Cĕrĭāl||ium, n.
+LS|
+GG|Cerialia|Cĕrĭālia|ium|n.|S.|fêtes de Cérès|1 Cerealia|Cĕrĭālia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circumjacentia|circumjăcentĭa|cīrcūmjăcēntĭa|8|cīrcūmjăcēnt||ium, n.
+LS|circumjacentia|circumjăcentĭa|ĭum|n.|||circumjaceo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|conjecturalia|conjectūrālĭa|cōnjēctūrālĭa|8|cōnjēctūrāl||ium, n.
+LS|conjecturalia|conjectūrālĭa|ium|n.||conjectures|conjecturalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|decennalia|dĕcennālĭa|dĕcēnnālĭa|8|dĕcēnnāl||ium, n.
+LS|
+GG|decennalia|dĕcennālĭa|ĭum|n.|S.|les jeux décennaux|decennalis|dĕcennālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|faselaria|făsēlārĭa|făsēlārĭa|8|făsēlār||ium, n.
+LS|faselaria|făsēlārĭa|ium|n.||a dish of pickled French beans|phaselaria|v. phaselaria
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|femoralia|femorālia|femorālĭa|8|femorāl||ium, n.
+LS|
+GG|
+GJ|
+Ge|femoralia|femorālia|ium, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fenilia|fēnīlĭa|fēnīlĭa|8|fēnīl||ium, n.
+LS|fenilia|fēnīlĭa|ĭum|n.||a hay-loft|faenilia|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fictilia|fictĭlĭa|fīctĭlĭa|8|fīctĭl||ium, n.
+LS|fictilia|fictĭlĭa|ĭum|n.||An earthen vessel|fictilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|foenilia|foenīlĭa|fōenīlĭa|8|fōenīl||ium, n.
+LS|foenilia|foenīlĭa|ĭum|n.||a hay-loft|faenilia|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|foenilia|foeni_lia, foeni_lium : npl
+WW||||
+|fontanalia|Fontānālĭa|Fōntānālĭa|8|Fōntānāl||ium, n.
+LS|
+GG|Fontanalia|Fontānālĭa|ĭum|n.|S.|fête en l'honneur des sources|Fontanalia|Fontānālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fontantinalia|Fontāntĭnālĭa|Fōntāntĭnālĭa|8|Fōntāntĭnāl||ium, n.
+LS|Fontantinalia|Fontāntĭnālĭa|ium|n.|||fontinalis|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|forensia|forensia|forēnsĭa|8|forēns||ium, n.
+LS|forensia|forensia|ium|n.||dress of state|forensis|
+GG|forensia|forensia|ium|n.||costume de cérémonie|forensis|forensia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|furrinalia|Furrīnālia|Fūrrīnālĭa|8|Fūrrīnāl||ium, n.
+LS|Furrinalia|Furrīnālia|ium|n.||the festival of Furina|Furina|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hebetia|hĕbĕtĭa|hĕbĕtĭa|8|hĕbĕt||ium, n.
+LS|hebetia|hĕbĕtĭa|ium|n.||blunt tools|hebes|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hiemalia|hĭĕmālia|hĭĕmālĭa|8|hĭĕmāl||ium, n.
+LS|hiemalia|hĭĕmālia|ium|n.||winter-quarters|hiemalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|immitia|immītĭa|īmmītĭa|8|īmmīt||ium, n.
+LS|immitia|immītĭa|ium|n.||barbarous acts|immitis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incivilia|incīvīlĭa|īncīvīlĭa|8|īncīvīl||ium, n.
+LS|incivilia|incīvīlĭa|ĭum|n.||impolite acts, rudeness|incivilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incoctilia|incoctĭlĭa|īncōctĭlĭa|8|īncōctĭl||ium, n.
+LS|incoctilia|incoctĭlĭa|ium|n.||vessels overlaid, washed with metal, tinned vessels|incoctilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|initalia|ĭnĭtālĭa|ĭnĭtālĭa|8|ĭnĭtāl||ium, n.
+LS|initalia|ĭnĭtālĭa|ĭum|n.||opening, initial ceremonies|initalia|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|initialia|ĭnĭtĭālĭa|ĭnĭtĭālĭa|8|ĭnĭtĭāl||ium, n.
+LS|
+GG|initialia|ĭnĭtĭālĭa|ĭum|n.||initiation aux mystères [de Cérès]|initialia|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insensibilia|insensĭbĭlĭa|īnsēnsĭbĭlĭa|8|īnsēnsĭbĭl||ium, n.
+LS|insensibilia|insensĭbĭlĭa|ium|n.||things of no account|insensibilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insuspicabilia|insuspĭcābĭlĭa|īnsūspĭcābĭlĭa|8|īnsūspĭcābĭl||ium, n.
+LS|insuspicabilia|insuspĭcābĭlĭa|ĭum|n.||fancies, imaginations|insuspicabilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|irrationabilia|irrătĭōnābĭlĭa|īrrătĭōnābĭlĭa|8|īrrătĭōnābĭl||ium, n.
+LS|irrationabilia|irrătĭōnābĭlĭa|ĭum|n.||unreasoning creatures|irrationabilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|irrationalia|irrătĭōnālĭa|īrrătĭōnālĭa|8|īrrătĭōnāl||ium, n.
+LS|irrationalia|irrătĭōnālĭa|ĭum|n.||things, creatures without reason|irrationalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lactantia|lactantia|lāctāntĭa|8|lāctānt||ium, n.
+LS|lactantia|lactantia|ium|n.||Act., to give suck to, Pass.|lacto1|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|letalia|lētālĭa|lētālĭa|8|lētāl||ium, n.
+LS|letalia|lētālĭa|ium|n.||means of death|letalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|letalia|lētālia|ium|n.||means of death||||letalis
+YO|
+PO|
+WW||||
+|magaria|Māgārĭa|Māgārĭa|8|Māgār||ium, n.
+LS|
+GG|Magaria|Māgārĭa|ĭum|n.||v. Magalia.|Magaria|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|memorialia|mĕmŏrĭālia|mĕmŏrĭālĭa|8|mĕmŏrĭāl||ium, n.
+LS|memorialia|mĕmŏrĭālia|ĭum|n.||plur., memoirs|memorialis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mensuralia|mensūrālia|mēnsūrālĭa|8|mēnsūrāl||ium, n.
+LS|mensuralia|mensūrālia|ium|n.|adv.|the title of a work by Varro|mensuralis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mobilia|mōbĭlĭa|mōbĭlĭa|8|mōbĭl||ium, n.
+LS|mobilia|mōbĭlĭa|ium|n.|||mobilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mulgaria|mulgārĭa|mūlgārĭa|8|mūlgār||ium, n.
+LS|
+GG|
+GJ|mulgaria|mulgārĭa|ĭum, n.|vases à traire.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|muliebria|mŭlĭĕbrĭa|mŭlĭĕbrĭa|8|mŭlĭĕbr||ium, n.
+LS|muliebria|mŭlĭĕbrĭa|ĭum|n.|||muliebris|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|naturalia|nātūrālĭa|nātūrālĭa|8|nātūrāl||ium, n.
+LS|naturalia|nātūrālĭa|ĭum|n.||Of, concerning nature, natural|naturalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|novendialia|nŏvendĭālĭa|nŏvēndĭālĭa|8|nŏvēndĭāl||ium, n.
+LS|
+GG|novendialia|nŏvendĭālĭa|ĭum|n.|S.||novendial|-dĭālĭa
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nutribilia|nūtrībĭlia|nūtrībĭlĭa|8|nūtrībĭl||ium, n.
+LS|nutribilia|nūtrībĭlia|ium|n.|adv.|nourishing food|nutribilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|palustria|pălustrĭa|pălūstrĭa|8|pălūstr||ium, n.
+LS|palustria|pălustrĭa|ĭum|n.||swampy places|paluster|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pensilia|pensĭlĭa|pēnsĭlĭa|8|pēnsĭl||ium, n.
+LS|pensilia|pensĭlĭa|ĭum|n.|||pensilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praecocia|praecŏcĭa|prāecŏcĭa|8|prāecŏc||ium, n.
+LS|praecocia|praecŏcĭa|ĭum|n.||over-hasty, premature, precocious, untimely|praecox|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ritualia|rītŭālĭa|rītŭālĭa|8|rītŭāl||ium, n.
+LS|ritualia|rītŭālĭa|ium|n.|adv.|ceremonial rites|ritualis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|saecularia|saecŭlārĭa|sāecŭlārĭa|8|sāecŭlār||ium, n.
+LS|saecularia|saecŭlārĭa|ium|n.|adv.|-I. the secular games -II. worldly matters|saecularis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|semestria|sēmestrĭa|sēmēstrĭa|8|sēmēstr||ium, n.
+LS|semestria|sēmestrĭa|ium|n.||the semi-annual collection of imperial ordinances|semestris1|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|seminalia|sēmĭnālia|sēmĭnālĭa|8|sēmĭnāl||ium, n.
+LS|seminalia|sēmĭnālia|ium|n.||standing crops|seminalis|0
+GG|seminalia|sēmĭnālia|ium|n.||terres ensemencées, moissons|seminalis|
+GJ|seminalia|seminālia|ium, n.|terres ensemencées, moissons.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|septentrionalia|septentrĭōnālĭa|sēptēntrĭōnālĭa|8|sēptēntrĭōnāl||ium, n.
+LS|septentrionalia|septentrĭōnālĭa|ĭum|n.||the northern regions|septentrionalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|spurcalia|spurcālĭa|spūrcālĭa|8|spūrcāl||ium, n.
+LS|spurcalia|spurcālĭa|ĭum|n.||pollutions|spurcalia|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subdialia|subdĭālĭa|sūbdĭālĭa|8|sūbdĭāl||ium, n.
+LS|subdialia|subdĭālĭa|ĭum|n.||open galleries, terraces;|subdialis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subtilia|subtīlĭa|sūbtīlĭa|8|sūbtīl||ium, n.
+LS|subtilia|subtīlĭa|ĭum|n.||fine goods, stuffs, Comp., Sup.|subtilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suppurantia|suppŭrantĭa|sūppŭrāntĭa|8|sūppŭrānt||ium, n.
+LS|suppurantia|suppŭrantĭa|ĭum|n.|||suppuro|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|terrestria|terrestrĭa|tērrēstrĭa|8|tērrēstr||ium, n.
+LS|terrestria|terrestrĭa|ium|n.||land-animals|terrestris|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vacantia|văcantia|văcāntĭa|8|văcānt||ium, n.
+LS|vacantia|văcantia|ĭum|n.||vacant estates, property without an owner|vaco|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|versicoloria|versĭcŏlōrĭa|vērsĭcŏlōrĭa|8|vērsĭcŏlōr||ium, n.
+LS|versicoloria|versĭcŏlōrĭa|ium|n.||dyed stuffs, colored woolens., party-colored sails|versicolor|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vindemialia|vindēmĭālia|vīndēmĭālĭa|8|vīndēmĭāl||ium, n.
+LS|
+GG|vindemialia|vindēmĭālia|ĭum|n.|S.|fêtes de la vendange|vindemialis|-lia
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|balnearia|balnĕārĭa|bālnĕārĭa|8|bālnĕār||ium, n.
+LS|balnearia|balnĕārĭa|ĭum|n.||bathing utensils|balnearis|0
+GG|balnearia|balnĕārĭa|ĭum|n.|S.|ustensiles de bain|balnearis|-rĭa
+GJ|balnearia|balnĕārĭa|ĭum, n.|ustensiles de bain.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|campestria|campestrĭa|cāmpēstrĭa|8|cāmpēstr||ium, n.
+LS|campestria|campestrĭa|ĭum|n.||a plain, flat land, level ground|campester|0
+GG|campestria|campestrĭa|ĭum|n.||lieux plats, plaines|campestria|
+GJ|campestria|campestrĭa|ĭum, n.|plaines, pays de plaines.
+Ge|
+FG|campestria|campestria ium neutre, lieux plas, plaines.
+Lw|
+Y§|
+PO|
+WW||||
+|cerealia|cĕrĕālĭa|cĕrĕālĭa|8|cĕrĕāl||ium, n.
+LS|
+GG|cerealia|cĕrĕālĭa|ium|n.||céréales|2 cerealia|
+GJ|cerealia|cerealĭa|ĭum, n.|les céréales.
+Ge|
+FG|cerealia|cerealia ium neutre, céréales.
+Lw|
+Y§|
+PO|
+WW||||
+|cerealia2|Cĕrĕālĭa2|Cĕrĕālĭa|8|Cĕrĕāl||ium, n.
+LS|Cerealia|Cĕrĕālĭa|ium|n.||the festival of Ceres, celebrated on the, th of April|Cerealis|0
+GG|Cerealia|Cĕrĕālĭa|ium|n.|S.|fêtes de Cérès|1 Cerealia|Cĕrĕālĭa
+GJ|Cerealia|Cerealia|(Cerialia), ĭum, n.|fêtes de Cérès.
+Ge|
+FG|Cerealia|Cerealia (Cerialia) ium neutre, fêtes de Cérès.
+Lw|
+Y§|
+PO|
+WW||||
+|circumstantia2|circumstantĭa2|cīrcūmstāntĭa|8|cīrcūmstānt||ium, n.
+LS|circumstantia|circumstantĭa|ium|n.||details, circumstances|circumsto|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|eminentia2|ēmĭnentĭa2|ēmĭnēntĭa|8|ēmĭnēnt||ium, n.
+LS|eminentia|ēmĭnentĭa|ĭum|n.||Admirable passages in an oration; Greatness, distinction|emineo|0
+GG|eminentia|eminentia|ium|m.|S.|passages remarquables [dans un discours]|eminens|eminentia
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|excrescentia2|excrescentĭa2|ēxcrēscēntĭa|8|ēxcrēscēnt||ium, n.
+LS|excrescentia|excrescentĭa|ium|n.||morbid excrescences on the body|excrescentia|0
+GG|excrescentia|excrescentĭa|ĭum|n.||excroissance|2 excrescentia|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|floralia|flōrālĭa|flōrālĭa|8|flōrāl||ium, n.
+LS|floralia|flōrālĭa|ium|n.||a flowergarden|Flora|0
+GG|
+GJ|
+Ge|floralia|flōrālia|ium, n.|der Blumengarten
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|fontinalia|Fontĭnālĭa|Fōntĭnālĭa|8|Fōntĭnāl||ium, n.
+LS|Fontinalia|Fontĭnālĭa|ium|n.||the festival of springs or fountains, celebrated on the 13th of October|fontinalis|(
+GG|Fontinalia|Fontĭnālĭa||||fête en l'honneur des sources|Fontanalia|-tĭnālĭa
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|ilia2|īlĭa2|īlĭa|8|īl||ium, n.
+LS|ilia|īlĭa|ĭum|n.||that part of the abdomen which extends from the lowest ribs to the pubes, the groin, flank.|ile|0
+GG|ilia|īlĭa|ĭum|n.||flancs, ventre / entrailles / flanc [d'un navire]|2 ilia|
+GJ|ilia|īlĭa|īlĭum, n.|a - flancs, ventre. b - entrailles.
+Ge|
+FG|ilia|ilia ium, neutre, flancs, ventre : ilia ducere, trahere, haleter, être essoufflé ; entrailles.
+Lw|ilia|īlia|ium|n||the abdomen below the ribs, groin, flanks||||ilia
+Y§|
+PO|ilia|i_lia, i_lium : npl
+WW||||
+|magalia|māgālĭa|māgālĭa|8|māgāl||ium, n.
+LS|magalia|māgālĭa|ĭum|n.||little dwellings, huts, tents|magalia|0
+GG|magalia|māgālia|ĭum|n.||cases, huttes de nomades|1 magalia|
+GJ|magalia|māgālĭa|(māgārĭa), ĭum, n.|huttes, cases (des nomades).
+Ge|magalia|māgālia|ium, n.|
+FG|magalia|magalia ium, neutre, cases, huttes de nomades.
+Lw|magalia|māgālia|ium|n||little dwellings, huts, tents||||magalia
+Y§|
+PO|magalia|ma_ga_lia, ma_ga_lium : npl
+WW||||
+|magalia2|Māgālĭa2|Māgālĭa|8|Māgāl||ium, n.
+LS|Magalia|Māgālĭa|ĭum|n.||the suburbs of Carthage|magalia|0
+GG|Magalia|Māgālĭa|ĭum|n.||quartier de Carthage|2 Magalia|
+GJ|Magalia|Māgālĭa|(Māgārĭa), ĭum, n.|Plaut. Mégara (faubourg de Carthage).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|nascentia2|nascentĭa2|nāscēntĭa|8|nāscēnt||ium, n.
+LS|nascentia|nascentĭa|ĭum|n.|P. a.|organic bodies, plants|nascentia2|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|obstantia2|obstantĭa2|ōbstāntĭa|8|ōbstānt||ium, n.
+LS|obstantia|obstantĭa|ĭum|n.|||obstantia1|0
+GG|obstantia|obstantĭa|ĭum|pl. n.||c. obstaculum|2 obstantia|
+GJ|obstantia|obstantĭa|ĭum, n.|les choses qui font obstacle.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|omnia|omnĭa|ōmnĭa|8|ōmn||ium, n.
+LS|omnia|omnĭa|ĭum|n.||all things|omnis|0
+GG|omnia|omnĭa|um|n. pl.||toutes choses, tout|omnia|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|privantia2|prīvantĭa2|prīvāntĭa|8|prīvānt||ium, n.
+LS|privantia|prīvantĭa|ĭum|n.|||privantia|0
+GG|privantia|prīvantĭa|ĭum|n.||privatifs [gram.]|2 privantia|
+GJ|privantia|prīvantĭa|ĭum, n.|privatifs [gram.]
+Ge|
+FG|
+Lw|privantia|prīvantia|ium|n||compounds reversing the meaning of simple words, privatives||||privantia
+Y§|
+PO|
+WW||||
+|procidentia2|prōcĭdentĭa2|prōcĭdēntĭa|8|prōcĭdēnt||ium, n.
+LS|procidentia|prōcĭdentĭa|ĭum|n.|P. a.|parts of the body that fall out of their place|procidentia1|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|repugnantia2|rĕpugnantĭa2|rĕpūgnāntĭa|8|rĕpūgnānt||ium, n.
+LS|repugnantia|rĕpugnantĭa|ĭum|n.|P. a.||repugnantia2|0
+GG|repugnantia|rĕpugnantĭa|ium|n.||choses contradictoires|repugno|repugnantia
+GJ|repugnantia|repugnantĭa|ĭum, n.|choses contradictoires, les contraires, les incompatibilités.
+Ge|
+FG|repugnantia|repugnantia ium, neutre, cf. repugno, fin.
+Lw|
+Y§|
+PO|
+WW||||
+|saturnalia|Sāturnālĭa|Sātūrnālĭa|8|Sātūrnāl||ium, n.
+LS|Saturnalia|Sāturnālĭa|ium|||a general festival in honor of Saturn, beginning on the 17th of December and lasting several days; the Saturnalia|Saturnus|0
+GG|Saturnalia|Sāturnālĭa|ĭum|n.||ce ne sera pas toujours fête|Saturnalia|
+GJ|Saturnalia|Sāturnālĭa|ĭōrum (ĭum), n.|les Saturnales, les fêtes de Saturne (période de jeux et de licence, où les maîtres servaient les esclaves).
+Ge|
+FG|Saturnalia|Saturnalia ium, neutre, Saturnales, fêtes en l'honneur de Saturne (à partir du 17 décembre ; jours de réjouissances, de liberté absolue, où l'on échange des cadeaux et où notamment les esclaves sont traités sur le pied d'égalité par les maîtres).
+Lw|Saturnalia|Sāturnālia|iōrum|n||the festival of the Saturnalia, the first day of the Saturnalia||||Saturnalia
+Y§|
+PO|saturnalia|Sa_turna_lia, Sa_turna_lium : npl
+WW||||
+|tabularia2|tăbŭlārĭa2|tăbŭlārĭa|8|tăbŭlār||ium, n.
+LS|tabularia|tăbŭlārĭa|ĭum|n.||plates; (palati) the roof of the mouth|tabularis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|vinalia|Vīnālĭa|Vīnālĭa|8|Vīnāl||ium, n.
+LS|Vinalia|Vīnālia|ĭum|n.||the wine-festival, celebrated annually on the 22d of April and the 19th of August, in which an offering of new wine was made to Jupiter|vinalis|0
+GG|Vinalia|Vīnālĭa|ĭum|||les Vinalies, deux fêtes où l'on célébrait et la floraison de la vigne et la vendange|Vinalia|
+GJ|Vinalia|Vīnalia|ium (orum), n.|les Vinales (fêtes du vin).
+Ge|
+FG|Vinalia|Vinalia ium neutre (vinum), les Vinalies, deux fêtes où l'on célébrait et la floraison de la vigne et la vendange.
+Lw|Vinalia|Vīnālia|ium|n||the wine-festival (April 22 and Aug. 19, when new wine was offered to Jupiter)||||Vinalia
+Y§|
+PO|vinalia|Vi_na_lia, Vi_na_lium : npl
+WW||||
+|adjacentia2|adjăcentĭa2|ādjăcēntĭa|8|ādjăcēnt||ium, n.
+LS|adjacentia|adjăcentĭa|ium|n.||the adjoining country|adjacentia|0
+GG|adjacentia|adjăcentĭa|ium|n.||environs|adjaceo|
+GJ|adjacentia|adjăcentĭa|ium, n. [adjacens]|les environs.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|continentia2|contĭnentĭa2|cōntĭnēntĭa|8|cōntĭnēnt||ium, n.
+LS|continentia|contĭnentĭa|ĭum|n.|P. a.|following, next|continentia2|0
+GG|continentia|continentia|tium|pl. n.|S.|lieux avoisinants / qui se tient, continu|continens|continentia
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|praesentia2|praesentĭa2|prāesēntĭa|8|prāesēnt||ium, n.
+LS|praesentia|praesentĭa|ĭum|n.||present circumstances, the present state of affairs, for the present, at this time, under present circumstances, at hand, on hand, on the spot, to go to the place itself, go to the very spot, to transport one's hearers to the, very spot, in the place itself, on the spot, sup., comp.|praesentia2|0
+GG|praesentia|praesentia|ium|||circonstances présentes, situation présente / le présent / immédiat, sous les yeux / pressant / qui agit immédiatement, efficace / [en parl. des dieux] propice, favorable / [surtout avec animus] maître de soi, ferme, imperturbable, intrépide|1 praesens|praesentia
+GJ|praesentia|praesentia|ōrum|plur. neutre de praesens.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|impilia=inpilia|impĭlĭa|īmpĭlĭa|8|īmpĭl||ium, n.
+LS|impilia|impĭlĭa|ĭum|n.||felt shoes|impilia|(
+GG|impilia|impĭlĭa|ĭum|n.||sorte de chaussons|impilia|
+GJ|impilia|impĭlĭa|ĭum, n. [in + pĭlus]|chausson de feutre.
+Ge|impilia|impilia|ium, n.|Socken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|congruentia2|congrŭentia2|cōngrŭēntĭa|8|cōngrŭēnt||ium, n.
+LS|
+GG|congruentia|congrŭentia|ium|n.||des choses concordantes / dont les parties sont en accord|congruens|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||

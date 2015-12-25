@@ -1,0 +1,490 @@
+|amploctor|amploctor|āmplōctŏr|26||āmplēx|exus, 3
+LS|amploctor|amploctor|exus, 3||v. dep.||amplector|v. amplector 
+GG|amploctor|amploctor||||v. amplector|amploctor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|antegredior|antĕgrĕdĭor|āntĕgrĕdĭŏr|27||āntĕgrēss|gressus, 3
+LS|antegredior|antĕgrĕdĭor|gressus, 3||v. dep.|to go before, to precede|antegredior|0
+GG|antegredior|antĕgrĕdior|gressus sum, grĕdi||tr.|et gradior) tr., marcher devant, devancer, précéder [au pr. et au fig.]|antegredior|
+GJ|antegredior|antĕgredior|gredi, gressus sum|marcher devant, devancer, précéder.
+Ge|antegredior|antegredior|gressus sum, gredī|vorangehen, vorausgehen
+FG|antegredior|antegredior gredi gressus sum (ante, gradior), transitif, marcher devant, devancer, précéder.
+Lw|antegredior|antegredior|essus, ī||dep.|to go before, precede||||antegredior
+YO|
+PO|antegredior|antegredior, antegredi_, antegressus sum : v3 dep
+WW||||
+|apiscor|ăpiscor|ăpīscŏr|26||āpt|aptus, 3
+LS|apiscor|ăpiscor|aptus, 3||v. dep.|to reach after, in order to take, seize, get possession of|apiscor|0
+GG|apiscor|ăpiscor|aptus sum, sci|||atteindre / saisir [en parl. de maladies] / saisir par l'intelligence / gagner, obtenir / sens passif|apiscor|
+GJ|apiscor|ăpiscor|apisci, aptus sum [apio]|- tr. - 1 - tendre vers, rattraper, rejoindre, atteindre, saisir. - 2 - au fig. poursuivre, obtenir, acquérir, gagner. - 3 - saisir par la pensée, concevoir, comprendre. - 4 - sens passif : être acquis.
+Ge|apiscor|apiscor|aptus sum, apiscī|habhaft werden - räumlich erreichen, einholen - erfassen, ergreifen - geistig erreichen, erfassen, sich aneignen - Strebens erreichen, erlangen - erringen
+FG|apiscor|apiscor sci aptus sum, transitif, 1. atteindre ; 2. (figuré) saisir par l'intelligence ; 3. gagner, obtenir.
+Lw|apiscor|apīscor|aptus, ī|||to reach, attain to, get, gain||||apiscor
+YO|
+PO|apiscor|api_scor, api_sci_, aptus sum : v3 dep
+WW||||
+|circumamplector|circumamplector|cīrcumāmplēctŏr|26||cīrcumāmplēx|exus sum, ecti
+LS|
+GG|circumamplector|circumamplector|exus sum, ecti||tr.|tr., embrasser, entourer|circumamplector|
+GJ|circumamplector|circumamplector|ecti, exus sum|- tr. - embrasser, entourer.
+Ge|circumamplector|circumamplector|ī|rings umfassen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circumloquor|circumlŏquor|cīrcūmlŏqụŏr|26||cīrcūmlŏcūt|lŏcūtus, lŏqui, intr.
+LS|circumloquor|circumlŏquor|lŏcūtus, lŏqui||v. n.|to make use of circumlocution, periphrasis|circumloquor|0
+GG|circumloquor|circumlŏquor|locūtus sum, lŏqui||intr.|int., user de périphrases|circumloquor|
+GJ|circumloquor|circumlŏquor|lŏqui, lŏcūtus sum|- intr. - employer des périphrases.
+Ge|circumloquor|circumloquor|locūtus sum, loquī|umschreiben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circumplector|circumplector|cīrcūmplēctŏr|26||cīrcūmplēx|plexus, 3
+LS|circumplector|circumplector|plexus, 3||v. dep. a.|to clasp around, embrace, to surround, encompass|circumplector|0
+GG|circumplector|circumplector|exus sum, ecti|||embrasser / ceindre, entourer / [fig.] saisir, étreindre (l'esprit)|circumplector|
+GJ|circumplector|circumplector|plecti, plexus sum|- tr. - 1 - embrasser. - 2 - entourer, ceindre. - 3 - envelopper, investir.
+Ge|circumplector|circumplector|plexus sum, plectī|umfassen - umschlingen, umgeben
+FG|circumplector|circumplector plecti plexus sum, transitif, embrasser ; ceindre, entourer.
+Lw|circumplector|circumplector|&mdash;, ī||dep.|to clasp, embrace, surround, encompass||||circumplector
+YO|
+PO|circumplector|circumplector, circumplecti_, circumplexus sum : v3 dep
+WW||||
+|compatior|compătĭor|cōmpătĭŏr|27||cōmpāss|passus, 3, intr.
+LS|compatior|compătĭor|passus, 3||v. dep.|To suffer with one|compatior|0
+GG|compatior|compătĭor|passus sum, păti|||souffrir avec / compatir [av. dat.]|compatior|
+GJ|compatior|compatior|pati, passus sum|- intr. avec dat. - 1 - souffrir avec. - 2 - compatir.
+Ge|compatior|compatior|passus sum, I|zugleich leiden, mit leiden - Mitleid haben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|compeciscor|compĕciscor|cōmpĕcīscŏr|26||cōmpāct|pactus or pectus, 3
+LS|compeciscor|compĕciscor|pactus or pectus, 3||v. dep.|to make an agreement, form a compact with one, temp. perf., partic.|compaciscor|v. compaciscor.
+GG|compeciscor|compĕciscor||||v. compaciscor.|compeciscor|
+GJ|compeciscor|compeciscor|pacisci, pactus (pectus) sum|conclure un accord.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|connitor|connītor|cōnnītŏr|26||cōnīx,cōnīs|cōnīti, cōnīsus (cōnixus) sum, intr.
+LS|connitor|connītor|3||v. dep.|to put forth all one's strength, strive, struggle, endeavor|connitor|(less correctly 
+GG|
+GJ|connitor|connītor|cōnīti, cōnīsus (cōnixus) sum|- intr. - 1 - faire des efforts ensemble. 2 - faire un effort total, tendre tous ses ressorts. 3 - tendre tous les ressorts, se raidir [pour monter, s'élever]. 4 - poét. se raidir pour mettre bas.
+Ge|
+FG|
+Lw|
+YO|
+PO|connitor|conni_tor, conni_ti_, conni_xus/conni_sus sum : v3 dep
+WW||||
+|defatiscor|dēfătiscor|dēfătīscŏr|26||dēfēss|fessus sum, fĕtisci
+LS|defatiscor|dēfătiscor|||||defatiscor|v. defetiscor.
+GG|defatiscor|dēfătiscor|fessus sum, fĕtisci|||se fatiguer / [surt. employé aux temps du pf.] être las, fatigué, épuisé ; [avec inf.] ne plus pouvoir / [avec abl. du gér.] / [avec abl. d'un subst.] aliqua re, fatigué d'une chose, par une chose|defetiscor|dēfătiscor
+GJ|defatiscor|dēfatiscor|isci, fessus sum|se fatiguer.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|defetiscor|dēfĕtiscor|dēfĕtīscŏr|26||dēfēss|fessus, 3, intr.
+LS|defetiscor|dēfĕtiscor|fessus, 3||v. dep. n.|to become tired, wearied; to grow weary, faint; to be exhausted, verb. part. perf., inf., abl. gerund., abl. nominis, or|defetiscor|(in MSS. sometimes defatiscor), fessus, 3, 
+GG|defetiscor|dēfĕtiscor|fessus sum, fĕtisci|||se fatiguer / [surt. employé aux temps du pf.] être las, fatigué, épuisé ; [avec inf.] ne plus pouvoir / [avec abl. du gér.] / [avec abl. d'un subst.] aliqua re, fatigué d'une chose, par une chose|defetiscor|dēfĕtiscor
+GJ|defetiscor|dēfetiscor|isci, fessus sum|se fatiguer.
+Ge|defetiscor|dēfetīscor|fessus sum, fetīsci|Erschöpfung abgespannt werden, erschöpft werden, ermatten, ermüden - Erschöpfung abgespannt, ganz erschöpft, ermattet, ermüdet - wodurch? - wo?
+FG|defetiscor|defetiscor ou defatiscor fetisci fessus sum, intransitif (de fatiscor),
+Lw|defetiscor|dē-fetīscor|fessus, ī||dep.|to become tired, grow weary, faint||||defetiscor
+YO|
+PO|defetiscor|de_feti_scor, de_feti_sci_, defessus sum : v3 dep
+WW||||
+|demorior|dēmŏrĭor|dēmŏrĭŏr|27||dēmōrtŭ|mortuus, 3
+LS|demorior|dēmŏrĭor|mortuus, 3||v. dep. n.|to die off, to die, depart, decease|demorior|0
+GG|demorior|dēmŏrĭor|mortŭus sum, mŏrī|||s'en aller [d'un groupe] par la mort, faire un vide en mourant / aller mourant, dépérir|demorior|
+GJ|demorior|dēmŏrĭor|mŏri, mortuus sum|- 1 - intr. - faire un vide en mourant, mourir. - 2 - tr. - mourir éperdument pour, dépérir.
+Ge|demorior|dēmorior|mortuus sum, morī|wegsterben - ihm absterben - absterben, abfahren - zum Sterben - verliebt sein
+FG|demorior|demorior mori mortuus sum, intransitif,
+Lw|demorior|(dē-morior)|mortuus, ī|||to die off, die (out of a number)||||demorior
+YO|
+PO|demorior|de_morior, de_mori_, de_mortuus sum : v3 dep
+WW||||
+|depaciscor|dēpăciscor|dēpăcīscŏr|26||dēpāct|pactus, 3
+LS|depaciscor|dēpăciscor|pactus, 3||v. dep. a.|to bargain for, agree upon;, absol., to make an agreement|depeciscor|
+GG|depaciscor|dēpăciscor|pectus et pactus sum, cisci|||[abst] stipuler, faire un accord / [en mauv. part, t. de jurisprudence] faire un pacte honteux / [avec acc.] stipuler|depeciscor|dēpăciscor
+GJ|depaciscor|depaciscor|depacisci (depecesci), depactus sum (depectus sum)|faire un pacte, faire une convention, passer un accord, s'accomoder, transiger.
+Ge|
+FG|depaciscor|depaciscor, cf. depec-.
+Lw|depaciscor|dēpacīscor|see depeciscor.|||isburden||||depaciscor
+YO|
+PO|depaciscor|de_paci_scor, de_paci_sci_, de_pactus sum : v3 dep
+WW||||
+|depascor|dēpascor|dēpāscŏr|26||dēpāst|pastus sum, pasci
+LS|depascor|dēpascor|ci, 3||v. dep.|to feed down, feed off|depasco|0
+GG|depascor|dēpascor|pastus sum, pasci||tr.|tr., manger, dévorer|depascor|
+GJ|depascor|depascor|depasci, depastus sum|- 1 - brouter, manger, se nourrir, se repaître de. - 2 - consommer, dévorer. - 3 - retrancher, réduire, détruire.
+Ge|depascor|dēpāscor|pāstus sum, pāscī|abweiden, abfressen, verzehren
+FG|depascor|depascor pasci pastus sum, transitif, manger, dévorer.
+Lw|depascor|dē-pāscor|pāstus, ī||dep.|to eat up, feed on, consume||||depascor
+YO|
+PO|
+WW||||
+|depeciscor|dēpĕciscor|dēpĕcīscŏr|26||dēpēct|pectus, 3
+LS|depeciscor|dēpĕciscor|pectus, 3||v. dep. a.|to bargain for, agree upon;, absol., to make an agreement|depeciscor|-pectus, or 
+GG|depeciscor|dēpĕciscor|pectus et pactus sum, cisci|||[abst] stipuler, faire un accord / [en mauv. part, t. de jurisprudence] faire un pacte honteux / [avec acc.] stipuler|depeciscor|dēpĕciscor
+GJ|depeciscor|depeciscor|depacisci (depecesci), depactus sum (depectus sum)|faire un pacte, faire une convention, passer un accord, s'accomoder, transiger.
+Ge|depeciscor|dēpecīscor|pectus sum, pecīscī|sich ausbedingen - einen Vertrag, Vergleich abschließen
+FG|depeciscor|depeciscor ou depaciscor, isci pectus et pactus sum, transitif,
+Lw|
+YO|
+PO|
+WW||||
+|deutor|dĕūtor|dĕūtŏr|26||dĕūs|ūsus sum, ūti, intr.
+LS|deutor|dĕūtor|ūti||v. dep.|to use wrongfully, abuse;|deutor|0
+GG|deutor|dĕūtor|ūsus sum, ūti||intr.|int., en user mal avec qqn [abl.]|deutor|
+GJ|deutor|dĕūtor|ūti, ūsus sum [de + utor]|- intr. avec abl. - en user mal avec qqn.
+Ge|deutor|deūtor|Usus sum, Utī|übel mitspielen - übel umgehen
+FG|deutor|deutor uti usus sum, intransitif, en user mal avec quelqu'un (ablatif).
+Lw|deutor|de-ūtor|&mdash;, ūtī||dep.|to maltreat||||deutor
+YO|
+PO|
+WW||||
+|eminiscor|ēmĭniscor|ēmĭnīscŏr|26||ēmēnt|mentus, 3
+LS|eminiscor|ēmĭniscor|mentus, 3||v. dep. a.|to devise, contrive|eminiscor|0
+GG|eminiscor|ēmĭniscor|mentus sum, sci||tr.|tr., imaginer / se rappeler|eminiscor|
+GJ|eminiscor|ēmĭniscor|ēmĭnisci, ementus sum|- 1 - imaginer. - 2 - se rappeler.
+Ge|Eminiscor|Eminīscor|mentus sum, minīscī|aussinnen, erdenken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fruniscor|frūniscor|frūnīscŏr|26||frūnīt|frūnītus, 3, intr.
+LS|fruniscor|frūniscor|frūnītus, 3||v. dep. n.|to enjoy, acc.;|fruniscor|0
+GG|fruniscor|frūniscor|nītus sum, nisci|||c. fruor|fruniscor|
+GJ|fruniscor|frūniscor|nisci, nītus sum (Cato. Gell. Inscr.)|c. .
+Ge|fruniscor|frūnīscor|nītus sum, nīscī|genießen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gradior|grădĭor|grădĭŏr|27||grēss|gressus, 3, intr.
+LS|gradior|grădĭor|gressus, 3||v. dep. n.|to take steps, to step, walk, go|gradior|0
+GG|gradior|grădĭor|gressus sum, gradi||intr.|int., marcher, s'avancer / [en parl. de choses] / [av. acc. de l'objet intér.] parcourir (viam, une route)|gradior|
+GJ|gradior|grădĭor|gressus sum (inf. inusité)|- intr. - marcher, s'avancer, aller.
+Ge|gradior|gradior|gressus sum, gradī|Schritte machen, schreiten, einherschreiten - wohin?
+FG|gradior|gradior gradi gressus sum, intransitif, marcher, s'avancer.
+Lw|gradior|gradior|gressus, ī||dep.|to take steps, step, walk, go, advance||||gradior
+YO|
+PO|gradior|gradior, gradi_, gressus sum : v3 dep
+WW||||
+|indipiscor|indĭpiscor|īndĭpīscŏr|26||īndēpt|deptus, 3
+LS|indipiscor|indĭpiscor|deptus, 3||v. dep. a.|to obtain, attain, reach.|indipiscor|0
+GG|indipiscor|indĭpiscor|deptus sum, dĭpisci|||saisir, atteindre / acquérir / saisir par la pensée / commencer, entamer [un combat]|indipiscor|
+GJ|indipiscor|indĭpiscor|isci, indeptus sum [indu + apiscor]|- 1 - saisir, atteindre, attraper. - 2 - prendre, saisir, recevoir, obtenir, gagner, acquérir. - 3 - Gell. commencer, entamer.
+Ge|indipiscor|indipīscor|deptus sum, dipīscī|habhaft werden - erfassen, ergreifen, erreichen - erreichen - erlangen - politisch erlangen, überkommen - geistig erfassen, erreichen - beginnen, anfangen
+FG|indipiscor|indipiscor dipisci deptus sum, transitif,
+Lw|indipiscor|indipīscor|eptus, ī||dep.|to obtain, attain, reach, seize||||indipiscor
+YO|
+PO|indipiscor|indipi_scor, indipi_sci_, indeptus sum : v3 dep
+WW||||
+|inemorior|ĭnēmŏrĭor|ĭnēmŏrĭŏr|27||ĭnēmōrtŭ|tuus, 3, intr.
+LS|inemorior|inēmŏrĭor|tuus, 3||v. dep.|to die in, at, dat.|inemorior|0
+GG|inemorior|ĭnēmŏrior|mortuus sum, mŏri||intr.|int., mourir dans ou à [avec dat.]|inemorior|
+GJ|inemorior|ĭnēmŏrĭor|mŏri, mortuus sum [in + e + morior]|mourir dans, mourir à.
+Ge|inemorior|inēmorior|Emorī|sterben
+FG|
+Lw|inemorior|in-ēmorior|&mdash;, ī|||to die upon||||inemorior
+YO|
+PO|
+WW||||
+|interlabor|interlābor|īntērlābŏr|26||īntērlāps|lapsus sum, 3
+LS|interlabor|interlābor|lapsus sum, 3||v. dep. n. and a.|to fall, slip, slide, glide, flow between, acc.|interlabor|0
+GG|interlabor|interlābor|lapsus sum, lābi||tr. intr.|int., se glisser entre, couler entre / tr., traverser en coulant|interlabor|
+GJ|interlabor|interlābor|lābi, lapsus sum|- 1 - se glisser entre. - 2 - couler entre. - 3 - s'affaiblir.
+Ge|interlabor|interlābor|lābī|dazwischengleiten, -fallen, - schlüpfen, -fliegen, -fließen - nach dazwischen verstreichen - verfließen
+FG|interlabor|interlabor labi lapsus sum,
+Lw|interlabor|inter-lābor|&mdash;, ī||dep.|to flow between||||interlabor
+YO|
+PO|
+WW||||
+|interloquor|interlŏquor|īntērlŏqụŏr|26||īntērlŏcūt|lŏcūtus or lŏquūtus, 3
+LS|interloquor|interlŏquor|lŏcūtus or lŏquūtus, 3||v. dep.|to speak between, interrupt in speaking.|interloquor|0
+GG|interloquor|interlŏquor|cūtus sum, lŏqui||tr. intr.|int., couper la parole à qqn [alicui], interrompre / intervenir dans une discussion / tr., dire qqch en intervenant, en interrompant / rendre une sentence interlocutoire|interloquor|
+GJ|interloquor|interlŏquor|lŏqui, lŏcūtus sum|interrompre (qqn, alicui), couper la parole, intervenir (dans une discussion).
+Ge|interloquor|interloquor|locūtus sum, loquī|dazwischenreden - eine Einrede (einen Einwurf) machen - Prozesses einen Zwischenbescheid geben, ein Zwischenurteil ergehen lassen
+FG|interloquor|interloquor loqui cutus sum,
+Lw|interloquor|inter-loquor|locūtus, ī||dep.|to interrupt in speaking||||interloquor
+YO|
+PO|
+WW||||
+|intermorior|intermŏrĭor|īntērmŏrĭŏr|27||īntērmōrtŭ|mortuus sum, 3, intr.
+LS|intermorior|intermŏrĭor|mortuus sum, 3||v. dep.|To die in secret, perish unobserved, to die off, fall to decay|intermorior|0
+GG|intermorior|intermŏrĭor|mortŭus sum, mŏri a, um||intr.|int., mourir dans l'intervalle, pendant ce temps-là / mort dans l'intervalle, mort pendant un laps de temps [pr. et fig.]|intermorior|
+GJ|intermorior|intermorior|mori, mortuus sum|- 1 - mourir lentement, mourir peu à peu, mourir discrètement, s'éterindre. - 2 - dépérir, se perdre. - 3 - perdre connaissance, s'évanouir.
+Ge|intermorior|intermorior|mortuus sum, morī|unvermerkt hinsterben, absterben - absterben, zugrunde gehen, hinschwinden - fast hinsterben, in Ohnmacht fallen
+FG|intermorior|intermorior mori mortuus sum, intransitif, mourir dans l'intervalle, pendant ce temps-là ; participe intermortuus a um, mort dans l'intervalle.
+Lw|intermorior|inter-morior|mortuus, ī||dep.|to die off, die out||||intermorior
+YO|
+PO|intermorior|intermorior, intermori_, intermortuus sum : v3 dep
+WW||||
+|oetor|oetor|ōetŏr|26||ōes|oesus, 3
+LS|oetor|oetor|oesus, 3||v. dep.|To use, make use of, employ|utor|(old form 
+GG|oetor|oetor|oeti|||v. utor|oetor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pascor|pascor|pāscŏr|26||pāst|pastus sum, 3
+LS|pascor|pascor|pastus sum, 3||v. dep.||pascor|0
+GG|pascor|pascor|pastus sum, pasci|||paître, brouter, manger / manger [en parl. des poulets qui servent aux augures]|pascor|
+GJ|
+Ge|pascor|pāscor|pāstus sum, pāscī|fressen, äsen, weiden - fressen - abweiden - sich weiden, sich ergötzen
+FG|pascor|pascor pasci pastus sum, transitif,
+Lw|pascor|pāscor|pāstus sum, ī||dep.|see pasco||||pascor
+YO|
+PO|
+WW||||
+|perlabor|perlābor|pērlābŏr|26||pērlāps|lapsus, 3
+LS|perlabor|perlābor|lapsus, 3||v. dep. n.|to slip, glide through|perlabor|0
+GG|perlabor|perlābor|psus sum, i||tr. intr.|int., glisser à travers, dans / glisser (arriver) jusqu'à [av. ad] / tr., traverser / glisser à la surface de|perlabor|
+GJ|perlabor|perlābor|lābi, lapsus sum|- intr. - glisser à travers, glisser sur.
+Ge|perlabor|perlābor|lāpsus sum, lābi|durchschlüpfen, durchdringen - durchdringen bis - schnell gelangen bis - hinein- - hinüberschlüpfen, hinübergleiten
+FG|perlabor|perlabor i lapsus sum,
+Lw|perlabor|per-lābor|lapsus, ī||dep.|to slip through, glide over||||perlabor
+YO|
+PO|perlabor|perla_bor, perla_bi_, perla_psus sum : v3 dep
+WW||||
+|praelabor|praelābor|prāelābŏr|26||prāelāps|lapsus, 3
+LS|praelabor|praelābor|lapsus, 3||v. dep. n. and a.|to glide onwards, to flow, swim, before, along; to move, glide, quickly by, past|praelabor|0
+GG|praelabor|praelābor|lapsus sum, lābi|||glisser devant, passer rapidement devant ou le long de, raser / couler devant, baigner / [fig.] s'écouler, s'enfuir [en parl. du temps] / devancer en se glissant, chercher à arriver le premier|praelabor|
+GJ|praelabor|praelābor|lābi, lapsus sum|- tr. - 1 - se glisser en prenant les devants. - 2 - glisser devant, couler auprès, longer, côtoyer.
+Ge|praelabor|praelābor|lāpsus sum, lābī|schnell sich vorbeibewegen, vorbeischlüpfen, -fließen, -fliegen, - schwimmen - voranschlüpfen, -fliegen
+FG|praelabor|praelabor labi lapsus su, transitif,
+Lw|praelabor|prae-lābor|lapsus, ī||dep.|to glide before, move by, float past||||praelabor
+YO|
+PO|praelabor|praela_bor, praela_bi_, praela_psus sum : v3 dep
+WW||||
+|praeloquor|praelŏquor|prāelŏqụŏr|26||prāelŏcūt|cūtus, 3
+LS|praeloquor|praelŏquor|cūtus, 3||v. dep. a. and n.|I. To speak beforehand or first, to speak before another, to forestall in speaking II. To say beforehand|praeloquor|0
+GG|praeloquor|praelŏquor|lŏcūtus (lŏquūtus), sum, i||tr. intr.|int., parler le premier / faire un préambule / tr., dire en préambule|praeloquor|
+GJ|praeloquor|praelŏquor|lŏqui, lŏcūtus sum (lŏquūtus sum)|- 1 - parler le premier. - 2 - faire un préambule, dire en préambule.
+Ge|praeloquor|praeloquor|locūtus sum, loquī|als Vorwort vorausschicken - einige einführende Worte-, eine Vorrede-, ein Vorwort vorausschicken - im voraus aussprechen - vorher-, zuerst sprechen - im voraus-, vorherverkündigen
+FG|praeloquor|praeloquor i sum locutus (loquutus),
+Lw|
+YO|
+PO|
+WW||||
+|praemorior|praemŏrĭor|prāemŏrĭŏr|27||prāemōrtŭ|tuus, 3
+LS|praemorior|praemŏrĭor|tuus, 3||v. dep.|to die early, prematurely, to die|praemorior|0
+GG|praemorior|praemŏrĭor|mortŭus sum, mŏri|||mourir prématurément / [fig.] se perdre, baisser|praemorior|
+GJ|praemorior|praemorior|mori, mortuus sum|mourir prématurément.
+Ge|praemorior|praemorior|mortuus sum, morī|vor der Zeit-, frühzeitig sterben, absterben
+FG|
+Lw|praemorior|prae-morior|tuus, ī||dep.|to die prematurely||||praemorior
+YO|
+PO|praemorior|praemorior, praemori_, praemortuus sum : v3 dep
+WW||||
+|praetergredior|praetergrĕdĭor|prāetērgrĕdĭŏr|27||prāetērgrēss|gressus, 3
+LS|praetergredior|praetergrĕdĭor|gressus, 3||v. dep. n. and a.|to walk, march by, to go, pass by|praetergredior|0
+GG|praetergredior|praetergrĕdĭor|gressus sum, grĕdi||tr.|tr., dépasser / [abst] passer outre|praetergredior|
+GJ|praetergredior|praetergrĕdĭor|grĕdi, gressus sum [praeter + gradior]|- tr. - dépasser.
+Ge|praetergredior|praetergredior|gressus sum, gredī|vorbeigehen, -ziehen
+FG|praetergredior|praetergredior gredi gressus sum (praeter gradior), transitif, dépasser.
+Lw|praetergredior|praetergredior|gressus, ī||dep.|to walk by, march by, pass by, pass||||praetergredior
+YO|
+PO|praetergredior|praetergredior, praetergredi_, praetergressus sum : v3 dep
+WW||||
+|praeterlabor|praeterlābor|prāetērlābŏr|26||prāetērlāps|lapsus, 3
+LS|praeterlabor|praeterlābor|lapsus, 3||v. dep. n. and a.||praeterlabor|0
+GG|praeterlabor|praeterlābor|lapsus sum, i|||côtoyer / [abst] couler auprès / [fig.] échapper|praeterlabor|
+GJ|praeterlabor|praeterlābor|lābi, lapsus sum|- tr. - 1 - côtoyer. - 2 - absol. couler auprès. - 3 - fig. échapper.
+Ge|praeterlabor|praeterlābor|lāpsus sum, lābī|vorbeischlüpfen, -fließen, -fliegen, -laufen - vorbeischlüpfen
+FG|praeterlabor|praeterlabor i lapsus sum, transitif,
+Lw|praeterlabor|praeter-lābor|lapsus, ī||dep.|to glide by, flow by, run past, Fig., to slip away||||praeterlabor
+YO|
+PO|praeterlabor|praeterla_bor, praeterla_bi_, praeterla_psus sum : v3 dep
+WW||||
+|praetervehor|praetervĕhor|prāetērvĕhŏr|26||prāetērvēct|vectus sum, 3
+LS|praetervehor|praetervĕhor|vectus sum, 3||v. dep. n. and a.|to be borne past, to drive, ride, sail by|praetervehor|0
+GG|praetervehor|praetervĕhor|vectus sum, i|||naviguer devant, passer outre en naviguant / passer devant, côtoyer / passer, dépasser, doubler / dépasser [à pied] / [fig.] passer outre|praetervehor|
+GJ|praetervehor|praetervĕhor|vĕhi, vectus sum|- tr. - 1 - passer devant (en bateau, en voiture, à cheval). 2 - passer, dépasser, doubler. 3 - passer outre.
+Ge|praetervehor|praetervehor|vectus sum, vehī|vorbeifahren, zu Schiffe = vorbeisegeln - Fuße vorbeiziehen
+FG|praetervehor|praetervehor i vectus sum, transitif,
+Lw|praetervehor|praeter-vehor|vectus, ī||dep.|to be borne past, drive by||||praetervehor
+YO|
+PO|praetervehor|praetervehor, praetervehi_, praetervectus sum : v3 dep
+WW||||
+|proloquor|prōlŏquor|prōlŏqụŏr|26||prōlŏcūt|cūtus, 3
+LS|proloquor|prōlŏquor|cūtus, 3||v. dep. n. and a.||proloquor|0
+GG|proloquor|prōlŏquor|cŭtus sum, qui||tr. intr.|int., parler hautement / tr., exposer à haute voix / prédire|proloquor|
+GJ|proloquor|prōlŏquor|lŏqui, lŏcūtus sum|- 1 - parler à haute voix, exposer à haute voix, déclarer. - 2 - Prop. prédire.
+Ge|proloquor|prōloquor|locūtus sum, loquī|heraussagen, aussprechen, sich auslassen, äußern - weissagend verkünden
+FG|proloquor|proloquor qui cutus sum,
+Lw|proloquor|prō-loquor|cūtus, ī||dep.|to speak out, utter, express, declare, announce||||proloquor
+YO|
+PO|proloquor|pro_loquor, pro_loqui_, pro_locu_tus sum : v3 dep
+WW||||
+|renitor|rĕnītor|rĕnītŏr|26||rĕnīs|nīsus sum, nīti, intr.
+LS|renitor|rĕnītor|nīti||v. dep. n.|to strive, struggle against, to withstand, resist|renitor|0
+GG|renitor|rĕnītor|nīsus sum, nīti||intr.|int., faire effort contre, résister, s'opposer|renitor|
+GJ|renitor|rĕnītor|nīti, nīsus (nixus) sum|résister, s'opposer, faire effort contre.
+Ge|renitor|renītor|nīsus sum, nītī|sich entgegenstemmen - sich widersetzen, widerstehen
+FG|renitor|renitor niti nisus sum, intransitif, faire effort contre, résister, s'opposer.
+Lw|renitor|re-nītor|&mdash;, ī||dep.|to strive against, withstand, resist||||renitor
+YO|
+PO|
+WW||||
+|resequor|rĕsĕquor|rĕsĕqụŏr|26||rĕsĕcūt|sĕcūtus, 3
+LS|resequor|rĕsĕquor|sĕcūtus, 3||v. dep. a.|to follow, to answer, reply to|resequor|0
+GG|resequor|rĕsĕquor|sĕcūtus, i||tr.|tr., répondre immédiatement (aliquem, à qqn)|resequor|
+GJ|resequor|rĕsequor|sequi, secutus sum|- 1 - répondre immédiatement. - 2 - répéter les paroles.
+Ge|resequor|resequor|secūtus sum, sequī|nachfolgen
+FG|resequor|resequor i secutus, transitif, répondre immédiatement (aliquem, à quelqu'un).
+Lw|resequor|(re-sequor)|secūtus, ī||dep.|to follow, answer, reply||||resequor
+YO|
+PO|resequor|resequor, resequi_, resecu_tus sum : v3 dep
+WW||||
+|retrogradior|rē̆trōgrădĭor|rē̆trōgrădĭŏr|27||rē̆trōgrēss|gressus sum, gradi, intr.
+LS|retrogradior|rē̆trōgrădĭor|di||v. dep. n.||retrogradior|0
+GG|retrogradior|rĕtrōgrădĭor|gressus sum, gradi||intr.|rétrograder|retrogradior|rĕtrōgrădĭor
+GJ|retrogradior|retrogradior|gradi, gressus sum|Plin. rétrograder, reculer.
+Ge|retrogradior|retrōgradior|gressus sum, gradī|rückwärts-, zurückgeben
+FG|retrogradior|retrogradior (retro gradior) gradi gressus sum, intransitif, rétrograder.
+Lw|
+YO|
+PO|
+WW||||
+|revortor|rĕvortor|rĕvōrtŏr|26||rĕvōrs|sus sum, ti
+LS|revortor|rĕvortor|||||revorto|and 
+GG|revortor|rĕvortor|sus sum, ti||part.|retourner sur ses pas, rebrousser chemin, revenir / [poét.] / revenir à = appartenir à / se reporter à, s'adresser à [à titre de renseignement] / le part. déponent reversus est assez rare|reverto|rĕvortor
+GJ|revortor|rĕvortor|verti, versus sum|- 1 - revenir, retourner. - 2 - retomber sur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ringor|ringor|rīngŏr|26||rīct|rictus, 3, intr.
+LS|ringor|ringor|rictus, 3||v. dep. n.|to open wide the mouth, to show the teeth|ringor|0
+GG|ringor|ringor|ringi||intr.|int., grogner en montrant les dents [en parl. des chiens irrités] / [fig.] enrager, ronger son frein, être furieux|ringor|
+GJ|ringor|ringor|ringi|- 1 - grogner en montrant les dents. - 2 - enrager, être furieux, ronger son frein.
+Ge|ringor|ringor|gī|den Mund weit aufsperren, die Zähne fletschen - grollen, unwillig sein, sich heimlich ärgern
+FG|ringor|ringor ringi,intransitif, grogner en montrant les dents ; enrager, être furieux.
+Lw|ringor|ringor|rictus, ī||dep.|to open the mouth wide, be vexed, chafe, snarl||||ringor
+YO|
+PO|
+WW||||
+|sevehor|sēvĕhŏr|sēvĕhŏr|26||sēvēct|vectus sum, i, intr.
+LS|
+GG|sevehor|sēvĕhŏr|vectus sum, i||intr.|int., [fig.] s'en aller loin de|sevehor|
+GJ|
+Ge|sevehor|sēvehor|vectus sum, vehī|beiseite fahren
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subirascor|sŭbīrascor|sŭbīrāscŏr|26||sŭbīrāt|ātus, 3, intr.
+LS|subirascor|sŭbīrascor|ātus, 3||v. dep. n.|to be somewhat angry|subirascor|0
+GG|subirascor|sŭbīrascor|i||intr.|int., s'irriter un peu, se fâcher|subirascor|
+GJ|subirascor|sŭbīrascor|īrasci|- intr. - se fâcher (un peu), avoir un mouvement d'humeur.
+Ge|subirascor|subīrāscor|Irāscī|etwas zürnen, ungehalten werden, ein wenig böse werden, empfindlich werden
+FG|subirascor|subirascor i, intransitif, s'irriter un peu, se fâcher ; (avec quod, de ce que).
+Lw|subirascor|sub-īrāscor|ātus, ī||dep.|to be out of temper, be somewhat provoked, be touched||||subirascor
+YO|
+PO|
+WW||||
+|subterlabor|subterlābor|sūbtērlābŏr|26||sūbtērlāps|labi, lapsus sum
+LS|subterlabor|subterlābor|lābi||v. dep. n.||subterlabor|0
+GG|subterlabor|subterlābor|lābi||tr.|tr., couler sous, au pied de [avec acc.] / glisser sous la main, s'esquiver|subterlabor|
+GJ|subterlabor|subterlabor|labi, lapsus sum|- 1 - couler sous, couler par dessous. - 2 - couler au pied de. - 3 - s'échapper, s'esquiver.
+Ge|subterlabor|subterlābor|lāpsus sum, lābī|unten - unter - hinschlüpfen, -fließen - unter der Hand entschlüpfen, -entwischen - unten bestreichen
+FG|subterlabor|subterlabor labi, transitif, couler sous, au pied de (avec accusatif) ; glisser, s'esquiver.
+Lw|subterlabor|subter-lābor|&mdash;, ī||dep.|to glide below, float under||||subterlabor
+YO|
+PO|subterlabor|subterla_bor, subterla_bi_ : v3 dep
+WW||||
+|supergredior|sŭpergrĕdĭor|sŭpērgrĕdĭŏr|27||sŭpērgrēss|gressus sum, grĕdi
+LS|supergredior|sŭpergrĕdĭor|di||v. dep. a. and n.|to step, walk, go over|supergredior|(
+GG|supergredior|sŭpergrĕdior|gressus sum, grĕdi||part.|passer au-delà, dépasser / surpasser / surmonter / part. supergressus, au sens passif, dépassé, surpassé|supergredior|
+GJ|supergredior|sŭpergrĕdĭor|grĕdi, gressus sum|- dép. tr. - 1 - marcher sur. - 2 - marcher au-delà, franchir, dépasser; outrepasser, excéder. - 3 - être au-dessus de, surpasser, surmonter, l'emporter sur, triompher.
+Ge|supergredior|supergredior|gressus sum, gredī|überschreiten - überschreiten - Zeit überschritten haben - Zeit hinaussein - Zustand überstehen - übertreffen
+FG|supergredior|supergredior gredi gressus sum (super gradior), transitif,
+Lw|supergredior|supergredior|gressus, ī|||to surmount, pass over, to surpass||||supergredior
+YO|
+PO|supergredior|supergredior, supergredi_, supergressus sum : v3 dep
+WW||||
+|supervehor|sŭpervĕhor|sŭpērvĕhŏr|26||sŭpērvēct|vectus, 3, intr.
+LS|supervehor|sŭpervĕhor|vectus, 3||v. dep. n.|to go, ride, sail, over, past|supervehor|0
+GG|supervehor|sŭpervĕhor|vectus sum, vehi|||pass., être transporté au-delà de, franchir / doubler un cap|supervehor|
+GJ|supervehor|sŭpervĕhor|vĕhi, vectus sum|- dép. - 1 - avec acc. être transporté au-delà de, être élevé sur, passer sur, franchir. - 2 - Liv. dépasser, doubler (un cap). - 3 - être monté sur (un âne).
+Ge|supervehor|supervehor|vectus sum, vehī|über - etwas hinfahren - hinausfahren - übertreffen - auf - einem Tiere reiten
+FG|supervehor|supervehor vehi vectus sum, passif, être transporté au-delà de, franchir ; doubler un cap.
+Lw|supervehor|super-vehor|vectus, ī||dep.|to pass by, sail by, turn||||supervehor
+YO|
+PO|supervehor|supervehor, supervehi_, supervectus sum : v3 dep
+WW||||
+|translabor|trānslābor|trānslābŏr|26||trānslāps|lapsus sum, lābi
+LS|
+GG|translabor|translābor|lapsus sum, lābi||tr.|tr., franchir [d'un glissement d'ailes]|translabor|
+GJ|
+Ge|translabor|trānslābor|lāpsus sum, lābī|vorbeischlüpfen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interqueror|interquĕror|īntērqụĕrŏr|26||īntērqụēst|questus sum, 3
+LS|interqueror|interquĕror|questus sum, 3||v. dep.||interqueror|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|commorior=conmorior|commŏrĭor|cōmmŏrĭŏr|27||cōmmōrtŭ|mortuus, 3, intr.
+LS|commorior|commŏrĭor|mortuus, 3||v. dep. n.|to die with, at the same time with one, cum, absol.|commorior|(
+GG|commorior|commŏrĭor|mortŭus sum, mŏri||intr.|mourir avec / [fig.] mourir ensemble, se neutraliser [en parl. de deux poisons]|commorior|
+GJ|commorior|commorior|mori, mortuus sum|(Lebaigue P. 242) mourir en même temps.
+Ge|commorior|commorior|mortuus sum, morī|zugleich sterben, mitsterben
+FG|commorior|commorior mori mortuus sum, intransitif, mourir avec (alicui).
+Lw|
+YO|
+PO|commorior|commorior, commori_, commortuus sum : v3 dep
+WW||||
+|compaciscor=conpaciscor|compăciscor|cōmpăcīscŏr|26||cōmpāct|pactus or pectus, 3, intr.
+LS|compaciscor|compăciscor|pactus or pectus, 3||v. dep.|to make an agreement, form a compact with one, temp. perf., partic.|compaciscor|(
+GG|compaciscor|compăciscor|pactus ou pectus sum, pacisci||intr.|int., faire un pacte, convenir de|compaciscor|
+GJ|compaciscor|compaciscor|pacisci, pactus (pectus) sum|conclure un accord.
+Ge|compaciscor|compacīscor|pactus|durch gegenseitigen Vertrag übereinkommen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|immorior=inmorior|immŏrĭor|īmmŏrĭŏr|27||īmmōrtŭ|mortuus, 3, intr.
+LS|immorior|immŏrĭor|mortuus, 3||v. dep. n.|to die in, upon, in aliqua re.|immorior|(
+GG|immorior|immŏrĭor|mortuus sum, mŏrī||intr.|int., mourir dans, sur, auprès|immorior|
+GJ|immorior|immŏrĭor|mŏri, mortuus sum|mourir dans, mourir à côté de.
+Ge|immorior|immorior|mortuus sum, moritūrus, morī|auf - über - bei - sterben - für - sterben (bleiben); bei - sich halb zu Tode arbeiten = sich abquälen
+FG|immorior|immorior mori mortuus sum, intransitif, mourir dans, sur, auprès ; (figuré) se tuer à.
+Lw|immorior|immorior (in-m-)|mortuus, ī|||to die in, die upon, fall upon in death||||immorior
+YO|
+PO|immorior|immorior, immori_, immortuus sum : v3 dep
+WW||||

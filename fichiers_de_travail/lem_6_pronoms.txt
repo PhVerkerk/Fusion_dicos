@@ -1,0 +1,90 @@
+|aliquisvis|ălĭquisvīs|ălĭqụīsvīs|29|||-quăvis
+LS|
+GG|aliquisvis|ălĭquisvis|-quăvis, -quidvis|||n'importe quel ou quelle, n'importe quoi|aliquisvis|
+GJ|aliquisvis|ălĭquisvis|-quăvis, -quidvis [aliquis, volo]|n'importe quel ou quelle, n'importe quoi. ---- Cass. Var. 1, 4.
+Ge|aliquisvis|aliquisvīs|aliqua-vīs, aliquid-vīs|irgend ein beliebiger
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aliusvis|ălĭusvīs|ălĭūsvīs|29|||ălĭavis
+LS|aliusvis|ălĭusvīs|||||aliusvis|a false read. for alium iis, 
+GG|
+GJ|aliusvis|ălĭusvīs|ălĭavis, ălĭudvis|tout autre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quantusvis|quantusvīs|qụāntūsvīs|29|||tăvis, tumvis
+LS|quantusvis|quantusvīs|tăvis, tumvis||adj.|as much as you will, as great as you please, however great, ever so great, Neutr. subst.|quantusvis|0
+GG|quantusvis|quantusvīs|-ăvīs, -umvīs|||aussi grand qu'on voudra / gén. de prix|quantusvis|
+GJ|quantusvis|quantusvis|avis, umvis|aussi grand qu'on voudra.
+Ge|quantusvis|quantusvīs|quantavīs, quantumvīs|beliebig groß, - viel, noch so groß, -viel - noch so viel
+FG|quantusvis|quantusvis, -avis, -umvis, aussi grand qu'on voudra, de n'importe quelle grandeur.
+Lw|quantusvis|quantus-vīs|tavīs, tumvīs||adj.|as much as you will, as great as you please, however great||||quantusvis
+YO|
+PO|quantusvis|quantusvi_s, quantavi_s, quantumvi_s : a
+WW||||
+|quiviscumque|quīviscumquĕ|qụīvīscūmqụĕ|29|||quaeviscumque, quodviscumque, pron.
+LS|quiviscumque|quīviscumque|quaeviscumque, quodviscumque||pron. indef.|who, what you please, any whatsoever you will, each, every|quiviscumque|0
+GG|quiviscumque|quīviscumquĕ|quaeviscumquĕ, quodvisc-|||c. quivis|quiviscumque|
+GJ|quiviscumque|quīviscumque|quaeviscumque, quodviscumque|c. quivis.
+Ge|quiviscumque|quīviscumque|quaevīscumque, quodvīscumque|wer es auch nur sei, jeder, jede, jedes
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|utervis|ŭtervīs|ŭtērvīs|29|||utrăvis, utrumvis, pron.
+LS|utervis|ŭtervīs|utrăvis, utrumvis||pron. indef.|which of the two you will, either one of the two, either, of the two|utervis|0
+GG|utervis|ŭtervis|ŭtrăvis, ŭtrumvis|||pron. indéf., celui des deux que tu voudras, n'importe lequel des deux|utervis|
+GJ|utervis|ŭtervis|ŭtrăvis, ŭtrumvis [uter + vis|tu veux] : celui des deux qu'on voudra, n'importe lequel des deux.
+Ge|utervis|utervīs|utra-vīs, utrum-vīs|einer von beiden, es sei, wer es wolle - beide
+FG|utervis|utervis utravis utrumvis, pronom indéfini, celui des deux que tu voudras, n'importe lequel des deux.
+Lw|utervis|uter-vīs|utravīs, utrumvīs|||which you will, either of the two, either at will||||utervis
+YO|
+PO|
+WW||||
+|utercumque|ŭtercumquĕ|ŭtērcūmqụĕ|30|||pron.
+LS|utercumque|ŭtercumque|utrăcumque, utrumcumque||pron.||utercumque|(
+GG|utercumque|ŭtercumquĕ||||[pron. rel. indét.] quel que soit celui des deux qui / [indéfini]|utercumque|ŭtercumquĕ
+GJ|utercumque|ŭtercumquĕ|utrăcumquĕ, utrumcumquĕ, pron.-adj. indéf.|quel que soit celui des deux qui, qui que ce soit des deux qui, n'importe lequel des deux.
+Ge|utercumque|utercumque|utra-cumque, utrum-cumque|wer auch immer von beiden
+FG|utercumque|utercumque (-cunque) utracumque utrumcumque,
+Lw|utercumque|uter-cumque (-cunq-)|utracumque, utrumcumque|||whichever of the two, whichsoever one, whichever||||utercumque
+YO|
+PO|
+WW||||
+|utercunque|ŭtercunquĕ|ŭtērcūnqụĕ|30|||pron.
+LS|
+GG|utercunque|ŭtercunquĕ||||[pron. rel. indét.] quel que soit celui des deux qui / [indéfini]|utercumque|-cunquĕ
+GJ|utercunque|ŭtercunquĕ|utrăcumquĕ, utrumcumquĕ, pron.-adj. indéf.|quel que soit celui des deux qui, qui que ce soit des deux qui, n'importe lequel des deux.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|uterlibet|ŭterlĭbĕt|ŭtērlĭbĕt|29|||utrălĭbet, utrumlĭbet, pron.
+LS|uterlibet|ŭterlĭbet|utrălĭbet, utrumlĭbet||pron.||uterlibet|0
+GG|uterlibet|ŭterlĭbĕt|ŭtrălĭbĕt, ŭtrumlĭbĕt|||pron. indéf., n'importe lequel des deux|uterlibet|
+GJ|uterlibet|ŭterlĭbĕt|ŭtrălĭbĕt, ŭtrumlĭbĕt|n'importe lequel des deux.
+Ge|uterlibet|uterlibet|utra-libet, utrum-libet|wer von beiden beliebt, wer es von beiden sei, es sei von beiden, wer - was es wolle, einer von beiden
+FG|uterlibet|uterlibet utralibet utrumlibet, pronom indéfini, n'importe lequel des deux.
+Lw|uterlibet|uter-libet|utralibet, utrumlibet|||which of the two you please, either at will, either one||||uterlibet
+YO|
+PO|
+WW||||
+|cujusvis|cūjusvis|cūjūsvis|29|||cujavis, cujumvis
+LS|cujusvis|cūjusvis|cujavis, cujumvis|||to whomever pertaining, whosesoever, of any one|cujusvis|0
+GG|cujusvis|cūjusvis|cujavis, cujumvis|||de qui que ce soit|cujusvis|
+GJ|cujusvis|cūjusvis|cūjăvis, cūjumvis|de qui que ce soit, de n'importe qui.
+Ge|cuiusvis|cūiusvīs|cūiavīs, cūiumvīs|wem immer angehörend, wessen immer, eines jeden
+FG|
+Lw|
+YO|
+PO|
+WW||||

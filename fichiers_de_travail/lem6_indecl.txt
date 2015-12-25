@@ -1,0 +1,3810 @@
+|abacuc|Abăcūc|Abăcūc|30|||indecl. m.
+LS|
+GG|Abacuc|Abăcūc|indecl.|m.||indécl., prophète des Hébreux|Abacuc|
+GJ|Abacuc|Abacuc|indecl. m.|Habacuc (prophète juif).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abdenago|Abdĕnăgo|Ābdĕnăgo|30|||indecl. m.
+LS|
+GG|Abdenago|Abdenago|indecl.|||indécl., nom d'homme|Abdenago|
+GJ|Abdenago|Abdĕnăgo|indecl. m.|Abdénago (= Azarias).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abner|Abner|Ābnĕr|30|||indecl. m.
+LS|
+GG|Abner|Abner|indecl.|m.||ind., général de l'armée de Saül|Abner|
+GJ|Abner|Abner|m. (indécl.)|Abner (général de Saül, puis de David).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|absalom|Absālōm|Ābsālōm|30|||indecl. m.
+LS|
+GG|Absalom|Absalom|indecl.|m.|S.|Absalon [fils de David]|Absalom|Absalom
+GJ|Absalom|Absālōm|m. indecl.|Absalon (fils de David).
+Ge|absalom|absalom|m. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|achab|Achab|Achăb|30|||indecl. m.
+LS|
+GG|Achab|Achab||m.||roi d'Israël|Achab|
+GJ|Achab|Achab|indecl. m.|Achab (roi d'Israël).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adad|Adad|Adăd|30|||indecl. m.
+LS|Adad|Adad|i|m.||name of the supreme god of the Assyrians|Adad|or 
+GG|Adad|Adad|i|m.|S.|le premier des dieux chez les Assyriens / nom de rois|Adad|Adad
+GJ|Adad|Adad|indecl.|1 - Bibl. Adad (nom de rois). 2 - Macr. Adad (dieu des Assyriens).
+Ge|adad|adad||Adad
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|agar|Agar|Agăr|30|||indecl. f.
+LS|
+GG|Agar|Agar|indecl.|f.||[indécl.], servante d'Abraham|Agar|
+GJ|Agar|Agar|indecl. f.|- a - Agar (femme d'Abraham). - b - Agar (ville de la Byzacène).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|alecto|Ālectō|Ālēctō|30|||indecl. f.
+LS|Alecto|Ālecto|ūs|f.||the name of one of the three furies|Alecto|0
+GG|Alecto|Alectō|indecl.|f.|S.|Alecto [une des trois Furies]|1 Allecto|Alectō
+GJ|Alecto|Alecto|indecl.|Alecto (une des Furies, l'Incessante, l'Implacable).
+Ge|
+FG|Alecto|Alecto ou Allecto féminin indéclinable, une des Furies.
+Lw|Alecto|ālectō (All-)|&mdash;|f||one of the three furies||||Alecto
+YO|
+PO|
+WW||||
+|alpha|alphă|ālphă|30|||indecl. n.
+LS|alpha|alpha|indecl.|n.||the Greek name of the first letter of the alphabet, the first in any thing|alpha|0
+GG|alpha|alphă|indecl.|n.||ind., lettre α grecque|alpha|
+GJ|alpha|alphă|indecl. n.|lettre &alpha; grecque.
+Ge|alpha|alpha|n. indecl.|das Alpha
+FG|
+Lw|alpha|alpha||n||the first letter of the Greek alphabet:||||alpha
+YO|
+PO|
+WW||||
+|amen|āmēn|āmēn|30|||indecl.
+LS|amen|āmēn|||Adj.|true, faithful|amen|
+GG|amen|āmēn|indecl.|||], ainsi soit-il|amen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ami|āmi|āmi|30|||indecl. n.
+LS|ami|ami|ii|n.||ammi, an umbelliferous plant, ammium, ext.|ammi|(
+GG|ami|āmi|indecl.|n.|S.|ammi, sorte de cumin|ami|āmi
+GJ|
+Ge|Ami|Ami||der Ammei
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ammi|ammi|āmmi|30|||indecl. n.
+LS|ammi|ammi|ii|n.||ammi, an umbelliferous plant, ammium, ext.|ammi|(
+GG|ammi|ammi|indecl.|n.|S.|ammi, sorte de cumin|ami|ammi
+GJ|ammi|ammi|indecl. (ammĭum, ĭi, n.)|ammi (plante ombellifère).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amnon|Amnon|Āmnon|30|||indecl. m.
+LS|Amnon|Amnon||||a river in Arabia Felix|Amnon|0
+GG|
+GJ|Amnon|Amnon|indecl. m.|Amnon (un des fils de David, tué par son frère Absalon).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|antecanem|Antĕcănem|Āntĕcănĕm|30|||indecl.
+LS|
+GG|Antecanem|Antĕcănem|indecl.|||Procyon [astre]|Antecanem|
+GJ|
+Ge|antecanem|antecanem|indecl.|der kleine Hund
+FG|
+Lw|Antecanem|Ante-canem||m||transl. of||||Antecanem
+YO|
+PO|
+WW||||
+|ararat|Ararat|Ararăt|30|||indecl. m.
+LS|
+GG|Ararat|Ararat|indecl.|m.|S.|montagne d'Arménie|Ararath|Ararat
+GJ|Ararat|Ararat|indecl. m.|Ararat (mont d'Arménie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ararath|Ararath|Ararath|30|||indecl. m.
+LS|
+GG|Ararath|Ararath|indecl.|m.|S.|montagne d'Arménie|Ararath|Ararath
+GJ|Ararath|Ararath|indecl. m.|Ararat (mont d'Arménie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|assur|Assur|Āssŭr|30|||indecl. m.
+LS|
+GG|Assur|Assur|indecl.|m.||ind., fils de Sem / les Assyriens, les Babyloniens|Assur|
+GJ|Assur|Assur|indecl. m.|- 1 - Assur (roi d'Assyrie). - 2 - l'Assyrie, la Babylonie.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|astu|astu|āstu|30|||indecl. n.
+LS|astu|astu||n.||a city, Athens|astu|(
+GG|astu|astu||n.|S.|la ville par excellence chez les Grecs, Athènes|1 astu|astu
+GJ|astu|astu|indecl. n.|la ville; Athènes.
+Ge|astu|astu||die Stadt
+FG|astu|astu, neutre indéclinable, la ville par excellence chez les Grecs, Athènes.
+Lw|astu|astū||n||||||astu1
+YO|
+PO|
+WW||||
+|b|b|b|30|||indecl. f. n.
+LS|
+GG|b|b|indecl.|f., n.||indécl. deuxième lettre de l'alphabet romain|b|
+GJ|
+Ge|
+FG|B|B, b, féminin, nom indéclinable, deuxième lettre de l'alphabet romain.
+Lw|
+YO|
+PO|
+WW||||
+|baruch|Baruch|Baruch|30|||indecl. m.
+LS|
+GG|Baruch|Baruch|indecl.|m.||ind., prophète / autres du même nom|Baruch|
+GJ|Baruch|Baruch|indecl. m.|Baruch. - 1 - prophète, compagnon de Jérémie. - 2 - autres personnages.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bee|bee|bĕe|30|||indecl.
+LS|bee|bee||||the sound made by a sheep|bee|0
+GG|bee|bee|indecl.|||onomatopée reproduisant le bêlement des moutons|bee|
+GJ|bee|bee|invar.|bê (onomatopée reproduisant le bêlement des moutons).
+Ge|bee|bee||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|beelphegor|Beelphegor|Bĕēlphegŏr|30|||indecl. m.
+LS|
+GG|Beelphegor|Beelphegor|indecl.|m.||ind., Béelphégor ou Belphégor [dieu des Moabites]|Beelphegor|
+GJ|Beelphegor|Beelphegor|m. indecl.|Béelphégor ou Belphégor [dieu des Moabites].
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|belial|Bēlĭal|Bēlĭăl|30|||indecl. m.
+LS|Belial|Belĭal|indecl.|m.||Belial, a chief of the evil spirits|Belial|0
+GG|Belial|Bēlĭal|indecl.|m.|S.|Bélial [idole des Ninivites]|Belial|Bēlĭal
+GJ|Belial|Belial|indecl. (Beliās, ae, m.)|Bélial [idole des Ninivites].
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|benjamin|Benjămin|Bēnjămin|30|||indecl. m.
+LS|Benjamin|Benjămin|indecl.|m.||The young est son of the Hebrew patriarch Jacob|Benjamin|0
+GG|Benjamin|Benjamin|indecl.|m.||ind., le plus jeune fils du patriarche Jacob|Benjamin|
+GJ|Benjamin|Benjamin|indecl. m.|Benjamin (dernier fils de Jacob).
+Ge|Beniamin|Beniamin|m. indecl.|jüdische Stamm Benjamin - die Benjamiten - benjamitisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bethleem|Bē̆thlĕĕm|Bē̆thlĕĕm|30|||indecl. f. n.
+LS|Bethleem|Bē̆thlĕĕm|indecl.|n.|||Bethlehem|0
+GG|Bethleem|Bethlĕĕm|indecl.|n.|S.|ville de la tribu de Juda, ville natale de David et du Christ|Bethleem|Bethlĕĕm
+GJ|Bethleem|Bethleem|invar. f. ou Bethleemum, i, n.|Bethléem.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bethlehem|Bē̆thlĕhem|Bē̆thlĕhĕm|30|||indecl. f. n.
+LS|Bethlehem|Bē̆thlĕhem|indecl.|n.|||Bethlehem|0
+GG|Bethlehem|Bethlĕhem|indecl.|n.|S.|ville de la tribu de Juda, ville natale de David et du Christ|Bethleem|Bethlĕhem
+GJ|Bethlehem|Bethlehem|invar. f. ou Bethleemum, i, n.|Bethléem.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bethlem|Bē̆thlem|Bē̆thlĕm|30|||indecl. f. n.
+LS|Bethlem|Bē̆thlem|indecl.|n.|||Bethlehem|0
+GG|Bethlem|Bethlem|indecl.|n.|S.|ville de la tribu de Juda, ville natale de David et du Christ|Bethleem|Bethlem
+GJ|Bethlem|Bethlem|invar. f. ou Bethleemum, i, n.|Bethléem.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|booz|Booz|Bŏoz|30|||indecl. m.
+LS|
+GG|Booz|Booz|indecl.|m.||indéc., époux de Ruth et bisaïeul de David|Booz|
+GJ|Booz|Booz|indecl. m.|Booz (mari de Ruth).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|borith|bōrīth|bōrīth|30|||indecl. n.
+LS|borith|bōrith||||a plant purifying like soap, soapwort|borith|Err :520
+GG|borith|bŏrīth|indecl.|n.||saponaire [plante]|borith|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bosra|Bosra|Bōsra|30|||indecl.
+LS|Bosra|Bosra|a, um||adj.|of Bozra.|Bostra|0
+GG|Bosra|Bosra|indecl.|||nom de plusieurs villes de Judée et d'Idumée|Bosra|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bu|bū|bū|30|||indecl. f.
+LS|bu|bu||||a Greek prefix, which, in composition, expresses the idea of greatness|bu1|v. bua.
+GG|bu|bū||||en comp.) élément senti comme augmentatif (= de boeuf)|1 bu|
+GJ|bu|bu|indecl. (bua, ae, f.)|cri des enfants pour demander à manger ou à boire.
+Ge|bu|bu|Silbe aus der Kindersprache|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caere|Caerĕ|Cāerĕ|30|||indecl. n.
+LS|Caere|Caere|indecl.|n.||gen., a very ancient city of Etruria, one of the twelve;, Cervetri|Caere|0
+GG|Caere|Caerĕ|indecl.|n.|S.|Céré [ville d'Étrurie, antérieurement nommée Agylla, auj. Cerveteri]|Caere|Caerĕ
+GJ|Caere|Caere|indecl. n.|c. Caeres.
+Ge|Caere|Caere|n. indecl.|zu Cäre gehörig, cäretisch - die Cäriten - cäretanisch - cäretanische Weine - Besitzungen bei Cäre - die Cäretaner
+FG|Caere|Caere, neutre indéclinable et Caeres itis (-etis) féminin, Céré (ville d'Étrurie, antérieurement nommée Agylla, aujourd'hui Cervetri).
+Lw|
+YO|
+PO|
+WW||||
+|cain|Cain|Căin|30|||indecl. m.
+LS|
+GG|Cain|Cain|indecl.|m.|S.|fils aîné d'Adam|Cain|Cain
+GJ|Cain|Cain|indecl. m. (Cainus, i, m.)|Caïn (frère d'Abel).
+Ge|Cain|Cain|m., indecl.|Kain
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cappari|cappări|cāppări|30|||indecl. n.
+LS|cappari|cappări|indecl.|n.||the caper-bush|capparis|0
+GG|
+GJ|cappari|cappari|indecl. n.|câpre.
+Ge|cappari|cappari|n. indecl.|die Kaper
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|carmel|Carmēl|Cārmēl|30|||indecl. m.
+LS|Carmel|Carmel||||A small town in Jud&oelig;a, with a mountain of the same name, near the Dead Sea|Carmelus|0
+GG|Carmel|Carmēl|i|m.|S.|ind|Carmel|Carmēl
+GJ|Carmel|Carmēl|indecl. (Carmēlus, i), m.|- 1 - chaîne du mont Carmel [en Judée]. - 2 - ville de Judée.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cedar|Cedar|Cedăr|30|||indecl. m.
+LS|
+GG|Cedar|Cedar||m.||second fils d'Ismaël / ville de l'Arabie Pétrée|Cedar|
+GJ|Cedar|Cedar|indecl. m.|Cédar. - 1 - Vulg. second fils d'Ismaël. - 2 - Vulg. ville de l'Arabie Pétrée.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cedron|Cedron|Cē̆dron|30|||indecl. m.
+LS|
+GG|Cedron|Cedron|indecl.|m.||ind., Cédron [torrent et vallée près de Jérusalem]|Cedron|
+GJ|Cedron|Cedron|m. invar.|le Cédron (près de Jérusalem).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cham|Cham|Chăm|30|||indecl. m.
+LS|Cham|Cham|indecl.|m.||a son of Noah, Ham|Cham|0
+GG|Cham|Cham|indecl.|m.||ind., fils de Noé|Cham|
+GJ|Cham|Cham|indecl. m.|(Lebaigue P. 196) Cham (le second fils de Noé).
+Ge|Cham|Cham|m. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chanaan|Chănăān|Chănăān|30|||indecl. m. f.
+LS|Chanaan|Chănăān|indecl.|f.||the land of Canaan, Paiestine|Chanaan|contr. 
+GG|Chanaan|Chănăān|indecl.|f.|S.|le pays de Chanaan en Palestine|Chanaan|Chănăān
+GJ|Chanaan|Chănăān|(Chănān), indecl.|- 1 - m. Canaan (fils de Sam). - 2 - f. la terre de Canaan (en Palestine).
+Ge|Chanaan|Chanaan|f. indecl.|Landschaft Kanaan - kananäisch, aus Kanaan - die Kananäerin - der Kananäer - die Kananäer - kananitisch - eine Kananiterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cherub|Chĕrub|Chĕrŭb|30|||indecl. m.
+LS|Cherub|Chĕrub||m.||the name of a rank of angels mentioned in the Old Testament|Cherub|0
+GG|cherub|chĕrub|indecl.|||chérubin, esprit céleste|cherub|chĕrub
+GJ|cherub|cherub|indecl. m. (mot hébreu)|chérubin.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cici|cīci|cīci|30|||indecl. n.
+LS|cici|cīci|indecl.|n.||an Egyptian tree, castor-oil tree, also called|cici|0
+GG|cici|cĭci|indecl.|n.||indécl., ricinier [arbre]|cici|
+GJ|cici|cīci|indecl. n.|Plin. ricinier (arbrisseau).
+Ge|cici|cici|n. indecl.|der Wunderbaum
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cim|Cim|Cĭm|30|||indecl. n.
+LS|Cim|Cim|indecl.|n.||nomen|Cim|0
+GG|
+GJ|Cim|Cim|invar. n.|Cim (nom d'un bourg).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|commi|commi|cōmmi|30|||indecl. n.
+LS|
+GG|commi|commi|indecl.|n.|S.|gomme|cummi|commi
+GJ|commi|commi|n. indecl.|gomme.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coppa|Coppa|Cōppa|30|||indecl. n.
+LS|Coppa|Coppa|indecl.|n.||a letter of the original Greek alphabet, koph, q.|Koppa|(
+GG|coppa|coppa|indecl.|n.||ind., signe numérique grec = 90|coppa|
+GJ|coppa|coppa|indecl. n.|signe numérique grec (= 50).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cuci|cūci|cūci|30|||indecl. n.
+LS|cuci|cūci|indecl.|n.||a tree similar to the palm;|cuci|0
+GG|cuci|cūci|indecl.|n.||indécl. [mot égyptien], espèce de palmier|cuci|
+GJ|cuci|cūci|n. indecl. [mot égyptien]|espèce de palmier.
+Ge|cuci|cuci|indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cuiculi|Cuiculi|Cŭiculi|30|||indecl. n.
+LS|
+GG|Cuiculi|Cuiculi||n.||ville de Numidie|Cuiculi|
+GJ|Cuiculi|Cuiculi|indecl. n.|Cuiculi (ville de Numidie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cummi|cummi|cūmmi|30|||indecl. n.
+LS|cummi|cummi|indecl.|n.|||cummis|or 
+GG|cummi|cummi|indecl.|n.|S.|gomme|cummi|cummi
+GJ|cummi|cummi|n. indecl.|gomme.
+Ge|cummi|cummi|gummi), n. indecl.|Gummi - (nicht Harz)
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|curmi|curmi|cūrmi|30|||indecl. n.
+LS|
+GG|curmi|curmi|indecl.|n.||indécl., sorte de cervoise, de bière|curmi|
+GJ|curmi|curmi|indecl. n.|la cervoise (boisson fermentée).
+Ge|curmi|curmi|n. indecl.|Art Getränk aus Getreide
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|damnas|damnās|dāmnās|30|||indecl.
+LS|damnas|damnas|indecl.|||bound to make a gift, contribution, condemned, sentenced|damnas|0
+GG|damnas|damnās|indecl.|||indécl. [arch.], obligé à, condamné à|damnas|
+GJ|damnas|damnas|(indécl. et arch.)|condamné à, obligé de.
+Ge|damnas|damnās|Indecl.|verurteilt, verpflichtet
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dan|dan|dan|30|||indecl. m.
+LS|
+GG|dan|dan||||pour dasne|dan|
+GJ|Dan|Dan|indecl. m.|- 1 - Dan (fils de Jacob). - 2 - Dan (ville de Judée).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dasibari|Dasibari|Dasibari|30|||indecl. n.
+LS|
+GG|Dasibari|Dasibari||n.||fleuve de la Cyrénaïque|Dasibari|
+GJ|Dasibari|Dasibari|indecl. n.|Dasibari (fleuve d'Afrique).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diabotanon|dĭăbŏtănōn|dĭăbŏtănōn|30|||indecl.
+LS|
+GG|diabotanon|dĭăbŏtănōn||||bouillon d'herbes|diabotanon|
+GJ|diabotanon|dĭăbotanōn|indecl.|Apic. bouillon d'herbes.
+Ge|diabotanon|diabotanon||eine Pflanzenbrühe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diacalaminthes|dĭăcălăminthēs|dĭăcălămīnthēs|30|||indecl.
+LS|
+GG|diacalaminthes|dĭăcălăminthēs||||sorte d'andidote|diacalaminthes|
+GJ|diacalaminthes|dĭăcălăminthēs|indecl.|contrepoison à base de calament (plante aromatique).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diacerason|dĭăcĕrăsōn|dĭăcĕrăsōn|30|||indecl. n.
+LS|
+GG|diacerason|dĭăcĕrăsōn||n.||remède à base de cerises|diacerason|
+GJ|diacerason|dĭăcĕrăsōn|indecl.|extrait de cerises.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diacholes|dĭăchŏlēs|dĭăchŏlēs|30|||indecl. n.
+LS|
+GG|diacholes|dĭăchŏlēs||n.||collyre à base de fiel [pour les yeux]|diacholes|
+GJ|diacholes|dĭăcholēs|indecl.|Inscr. collyre à base de fiel (contre les cicatrices).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diacochlecon|dĭăcŏchlēcōn|dĭăcŏchlēcōn|30|||indecl. n.
+LS|
+GG|diacochlecon|dĭăcŏchlēcōn||n.||potion consistant en colimaçons bouillis dans du lait|diacochlecon|
+GJ|diacochlecon|dĭăcŏchlēcōn|indecl.|potion consistant en colimaçons bouillis dans du lait.
+Ge|diacochlecon|diacochlēcon||Milch, in der heiß gemachte Kieselsteine
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diacopraegias|dĭăcŏpraegīās|dĭăcŏprāegīās|30|||indecl.
+LS|
+GG|diacopraegias|dĭăcŏpraegīās||||emplâtre fait avec des crottes de chèvre|diacopraegias|
+GJ|diacopraegias|dĭăcopraegias|indecl.|emplâtre fait avec les crottes de chèvres.
+Ge|diacopraegiAs|diacopraegīAs||ein Heilmittel aus Ziegenmist
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dialepidos|dĭălĕpĭdŏs|dĭălĕpĭdŏs|30|||indecl. n.
+LS|dialepidos|dĭălĕpĭdos||||an unguent made with the scales that fly from metal in hammering|dialepidos|Err :520
+GG|dialepidos|dĭălĕpĭdŏs||n.||médicament où il entre des parcelles de cuivre|dialepidos|
+GJ|dialepidos|dĭălĕpĭdŏs|indecl.|médicament à base de limaille de cuivre.
+Ge|dialepidos|dialepidos|Err :509|eine mit Hammerschlag bereitete Salbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dialibanon|dĭălĭbănōn|dĭălĭbănōn|30|||indecl.
+LS|
+GG|dialibanon|dĭălĭbănōn||||médicament où il entre de l'encens|dialibanon|
+GJ|dialibanon|dialibanōn|indecl.|médicament à base d'encens.
+Ge|dialibanon|dialibanon||Weihrauchsalbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dialoes|dĭălŏēs|dĭălŏēs|30|||indecl. n.
+LS|
+GG|dialoes|dĭălŏēs||n.||collyre à base d'aloès|dialoes|
+GJ|dialoes|dialoēs|indecl.|collyre à base d'aloès.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dialthaeon|dĭalthaeōn|dĭālthāeōn|30|||indecl. n.
+LS|
+GG|dialthaeon|dĭalthaeōn||n.||potion de guimauve|dialthaeon|
+GJ|dialthaeon|dialthaeōn|indecl.|topique à base de guimauve.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diamannae|dĭămannae|dĭămānnāe|30|||indecl.
+LS|
+GG|diamannae|dĭămannae||||breuvage où il entre de la manne ou de l'encens|diamannae|
+GJ|diamannae|diamannae|indecl.|breuvage à base de manne et d'encens.
+Ge|diamannae|diamannae||Weihrauchsalbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diameliloton|dĭămĕlĭlōtōn|dĭămĕlĭlōtōn|30|||indecl. n.
+LS|diameliloton|dĭămĕlĭlōtōn||||a salve made of meliloton|diameliloton|Err :520
+GG|diameliloton|diameliloton||n.||onguent de mélilot|diameliloton|
+GJ|diameliloton|dĭămĕlĭlōtōn|indecl.|médicament à base de mellite.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diameliton|dĭămĕlĭtōn|dĭămĕlĭtōn|30|||indecl. n.
+LS|diameliton|dĭămĕlĭtōn||||a salve made of honey|diameliton|Err :520
+GG|diameliton|dĭămĕlĭtōn||n.||onguent à base de miel|diameliton|
+GJ|diameliton|dĭămelitōn|indecl.|médicament à base de miel.
+Ge|diameliton|diameliton||Honigsalbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diapason|dĭăpāsōn|dĭăpāsōn|30|||indecl. n.
+LS|diapason|dĭăpāsōn||||the whole octave|diapason|Err :520
+GG|diapason|dĭăpāsōn||n.||octave [t. de musique]|diapason|
+GJ|diapason|diapasōn|indecl. n.|octave (t. de musique).
+Ge|diapason|diapāsōn|sc. χορδῶν)|die Oktave
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diapente|dĭăpentĕ|dĭăpēntĕ|30|||indecl. n.
+LS|diapente|dĭăpentĕ|indecl.|n.||a fifth|diapason|Err :520
+GG|diapente|dĭăpentĕ||n.||quinte [t. de musique] / médicament constitué de cinq éléments|diapente|
+GJ|diapente|diapente|indecl.|- 1 - quinte (t. de musique). - 2 - Pelag. médicament où entrent cinq ingrédients.
+Ge|diapente|diapente|I)|die Quinte - ein Heilmittel aus fünf Bestandteilen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diasmyrnes|dĭasmyrnēs|dĭāsmȳrnēs|30|||indecl. n.
+LS|
+GG|diasmyrnes|dĭasmyrnēs|indecl.|||ind., médicament où il entre de la myrrhe|diasmyrnes|dĭasmyrnēs
+GJ|diasmyrnes|diasmyrnes|indecl. n. (diasmyrnum, i, n.)|médicament fait avec de la myrrhe.
+Ge|diasmyrnes|diasmyrnes||Myrrhensalbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diatessaron|dĭătessărōn|dĭătēssărōn|30|||indecl. n.
+LS|diatessaron|dĭătessărōn|indecl.|n.||a fourth|diatessaron|Err :520
+GG|diatessaron|dĭătessărōn||n.||quarte [t. de musique] / remède composé de quatre éléments|diatessaron|
+GJ|diatessaron|diatessarōn|indecl. n.|- 1 - quarte (t. de musique). - 2 - remède composé de quatre éléments.
+Ge|diatessaron|diatessaron|a) t. t.|die Quarte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|disdiapason|disdĭăpāsōn|dīsdĭăpāsōn|30|||indecl.
+LS|disdiapason|disdĭăpāsōn|indecl.|||a double octave|disdiapason|Err :520
+GG|disdiapason|disdĭăpāsōn||||double octave [t. de musique]|disdiapason|
+GJ|disdiapason|disdiapason|indecl.|double octave (t. de musique).
+Ge|disdiapason|disdiapāsōn||die Doppeloktave
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duapondo|dŭăpondō|dŭăpōndō|30|||indecl. n.
+LS|
+GG|duapondo|dŭăpondō||n.||pl. ind., deux livres [pesant]|duapondo|
+GJ|duapondo|duapondo|indecl. n. plur.|deux livres (pesant).
+Ge|duapondo|duapondō|neutr. indecl.|zwei Pfund
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ducentum|dŭcentum|dŭcēntŭm|30|||indecl. n.
+LS|ducentum|dŭcentum|||||ducentum|v. ducenti.
+GG|ducentum|dŭcentum|indecl.|||ind., deux cents|ducentum|
+GJ|ducentum|dŭcentum|indecl. n.|c. ducenti.
+Ge|ducentum|ducentum|neutr. indecl.|zweihundert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duodenonaginta|dŭŏdēnōnāgintā|dŭŏdēnōnāgīntā|30|||indecl.
+LS|duodenonaginta|dŭŏdēnōnāginta|||card. num.|eighty-eight|duodenonaginta|(written LXXXVIII.), 
+GG|duodenonaginta|dŭŏdēnōnāgintā|indecl.|||ind., quatre-vingt-huit|duodenonaginta|
+GJ|duodenonaginta|dŭŏdenonaginta|inv.|Plin. quatre-vingt-huit.
+Ge|duodenonaginta|duodēnōnāgintā||achtundachtzig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duodeoctoginta|dŭŏdēoctōgintā|dŭŏdēōctōgīntā|30|||indecl.
+LS|duodeoctoginta|dŭŏdēoctōginta|||card. num.|seventy-eight|duodeoctoginta|0
+GG|duodeoctoginta|dŭŏdēoctōgintā|indecl.|||ind., soixante-dix-huit|duodeoctoginta|
+GJ|duodeoctoginta|dŭŏdeoctoginta|inv.|Plin. soixante-dix-huit.
+Ge|duodeoctoginta|duodēoctōgintā||achtundsiebzig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duodequinquaginta|dŭŏdēquinquāgintā|dŭŏdēqụīnqụāgīntā|30|||indecl.
+LS|duodequinquaginta|dŭŏdēquinquāginta|||card. num.|forty-eight|duodequinquaginta|0
+GG|duodequinquaginta|dŭŏdēquinquāgintā|indecl.|||ind., quarante-huit|duodequinquaginta|
+GJ|duodequinquaginta|dŭŏdequinquaginta|inv.|quarante-huit.
+Ge|duodequinquaginta|duodēquinquāgintā||achtundvierzig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duodesexaginta|dŭŏdēsexāgintā|dŭŏdēsēxāgīntā|30|||indecl.
+LS|duodesexaginta|dŭŏdēsexāginta|||card. num.|fiftyeight|duodesexaginta|0
+GG|duodesexaginta|dŭŏdēsexāgintā|indecl.|||ind., cinquante-huit|duodesexaginta|
+GJ|duodesexaginta|dŭŏdesexaginta|inv.|cinquante-huit.
+Ge|duodesexaginta|duodēsēxāgīntā||achtundfünfzig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duodetriginta|dŭŏdētrīgintā|dŭŏdētrīgīntā|30|||indecl.
+LS|duodetriginta|dŭŏdētrīginta|||card. num.|twentyeight|duodetriginta|0
+GG|duodetriginta|dŭŏdētrīgintā|indecl.|||ind., vingt-huit|duodetriginta|
+GJ|duodetriginta|dŭŏdetriginta|inv.|vingt-huit.
+Ge|
+FG|
+Lw|duodetriginta|duo-dē-trīgintā or duo dē xxx|||adj.|twenty-eight||||duodetriginta
+YO|
+PO|
+WW||||
+|elaeomeli|ĕlaeŏmĕli|ĕlāeŏmĕli|30|||indecl. n.
+LS|elaeomeli|ĕlaeŏmĕli|indecl.|n.||a sort of manna which exudes from the branches of the olive-tree|elaeomeli|0
+GG|elaeomeli|ĕlaeŏmĕli||n.||gomme qui découle de l'olivier|elaeomeli|
+GJ|elaeomeli|ĕlaeŏmĕli|indecl. n.|éléomel, gomme de l'olivier.
+Ge|elaeomeli|elaeomeli|n.|Ölhonig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eliezer|Elĭĕzer|Elĭĕzĕr|30|||indecl. m.
+LS|
+GG|Eliezer|Elĭĕzer|indecl.|m.||ind., nom de divers personnages dans l'histoire du peuple juif|Eliezer|
+GJ|Eliezer|Eliezer|indecl. m.|Eliézer (nom de plusieurs personnages chez le peuple juif).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|emmanuel|Emmănŭēl|Ēmmănŭēl|30|||indecl. m.
+LS|
+GG|Emmanuel|Emmănŭēl|indecl.|m.||ind., Emmanuel, nom du Messie|Emmanuel|
+GJ|Emmanuel|Emmanuel|indecl. m.|Emmanuel (nom du Messie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|engonasi|Engŏnăsi|Ēngŏnăsi|30|||indecl.
+LS|Engonasi|Engŏnăsi||||the Kneeler, the constellation Hercules;|Engonasi|or 
+GG|Engonasi|Engŏnăsi|indecl.|||l'Agenouillé ou Hercule [constellation], v. Ingeniculus|Engonasi|Engŏnăsi
+GJ|Engonasi|Engonasi|indecl.|l'Agenouillé ou Hercule, constellation.
+Ge|engonasi|engonasi|εν γόνασι|der Kniende - heute Herkules
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|engonasin|Engŏnăsin|Ēngŏnăsin|30|||indecl.
+LS|Engonasin|Engŏnăsin||||the Kneeler, the constellation Hercules;|Engonasi|or 
+GG|Engonasin|Engŏnăsin|indecl.|||l'Agenouillé ou Hercule [constellation], v. Ingeniculus|Engonasi|-sin
+GJ|Engonasin|Engonasin|indecl.|l'Agenouillé ou Hercule, constellation.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enoch|Ēnōch|Ēnōch|30|||indecl. m.
+LS|Enoch|Ēnōch|indecl.|m.||a Hebrew patriarch, son of Seth|Enoch|0
+GG|Enoch|Enōch|indecl.|m.||ind., patriarche qui fut enlevé au ciel|Enoch|
+GJ|Enoch|Enōch|indecl. m.|Enoch (patriarche, père de Mathusalem).
+Ge|enoch|enōch|m. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ephi|ephi|ephi|30|||indecl. n.
+LS|ephi|ephi|indecl.|n.||a Hebrew measure, used for grain, oil, an ephah|ephi|0
+GG|ephi|ephi|indecl.|n.||indécl., mesure [chez les Hébreux, pour l'huile, le grain, etc.]|ephi|
+GJ|ephi|ephi|indecl. n.|un éphah (mesure des Hébreux pour le grain et l'huile).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ephod|ephod|ephŏd|30|||indecl. n.
+LS|ephod|ephod|indecl.|n.||part of the clothing of the Hebrew priest|ephod|0
+GG|
+GJ|ephod|ephod|indecl. n.|éphod (vêtement du grand prêtre).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ephraim|Ephraim|Ephrăĭm|30|||indecl. m.
+LS|
+GG|Ephraim|Ephraim|indecl.|m.|S.|Éphraïm [fils de Joseph, chef d'une des douze tribus d'Israël]|Ephraim|Ephraim
+GJ|Ephraim|Ephraim|indecl. m. (Ephraimus, i, m. )|Ephraïm. - 1 - le fils de Joseph, mais aussi le chef d’une des douze tribus d’Israël qui se sont formées à la mort de Jacob. - 2 - une des douze tribus d'Israël.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|esau|Esāū|Esāū|30|||indecl. m.
+LS|
+GG|Esau|Esāū|indecl.|m.|S.|Ésaü [fils d'Isaac]|Esau|Esāū
+GJ|Esau|Esāū|indecl. m. (Esāus, i, m.)|Esaü (fils d'Isaac).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|esther|Esthēr|Ēsthēr|30|||indecl. f.
+LS|
+GG|Esther|Esthēr|indecl.|f.||ind., épouse d'Assuérus|Esther|
+GJ|Esther|Esther|f. inv.|Esther (épouse juive d'Assuérus, roi des Perses, qui rendit un édit favorable aux Juifs).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eta|ēta|ēta|30|||indecl. n.
+LS|eta|ēta||n.||the seventh letter of the Greek alphabet|eta|0
+GG|eta|ēta||n.||lettre de l'alphabet grec|eta|
+GJ|eta|ēta|invar. n. [gr. η]|une lettre de l'alphabet grec.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|euan|Euān|Ēuān|30|||indecl. m.
+LS|Euan|Euan||m.||a surname of Bacchus|Euhan|(cf. Lach. ad 
+GG|euan|eūān||||cri des bacchantes / le dieu Bacchus|Euhan|eūān
+GJ|Euan|Euān|indecl. m.|- 1 - Euhan (surnom de Bacchus). - 2 - Euhan (cri des Bacchantes).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|evan2|Ēvan2|Ēvan|30|||indecl. m.
+LS|Evan|Ēvan||m.||a surname of Bacchus|Euhan|(cf. Lach. ad 
+GG|evan|evan||||v. euhan.|evan|
+GJ|Evan|Evān|indecl. m.|- 1 - Euhan (surnom de Bacchus). - 2 - Euhan (cri des Bacchantes).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|forath|Forath|Forath|30|||indecl. n.
+LS|
+GG|Forath|Forath|indecl.|n.||ind., ville de la Susiane|Forath|
+GJ|Forath|Forath|indecl.|Forath (ville de Phrygie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frit|frit|frĭt|30|||indecl. n.
+LS|frit|frit|indecl.|n.|||frit|(
+GG|frit|frit|indecl.|n.||ind., pointe de l'épi|frit|
+GJ|frit|frit|indecl.|pointe de l'épi.
+Ge|frit|frit||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gadir|Gādir|Gādĭr|30|||indecl. n.
+LS|Gadir|Gadir||||a famous colony of the Ph&oelig;nicians established on an island of the same name in, Cadiz|Gades|or 
+GG|Gadir|Gādir||n.|S.|nom phénicien de Gadès|Gadir|Gādir
+GJ|Gadir|Gādir|indecl.|nom phénicien de Gadès.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|garizim|Garizim|Garīzĭm|30|||indecl. m.
+LS|
+GG|Garizim|Garizim|indecl.|m.|S.|montagne de Samarie|Garizim|Garizim
+GJ|Garizim|Garizim|indecl. m.|le mont Garizim (en Samarie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|geth|Geth|Geth|30|||indecl. f.
+LS|
+GG|Geth|Geth|indecl.|f.|S.|ville de Palestine|Geth|Geth
+GJ|Geth|Geth|f., indecl.|ville de Palestine.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|git|git|gĭt|30|||indecl. n.
+LS|git|git|indecl.|n.||a planc, called also, and, Roman coriander|git|(also 
+GG|git|git||n.||nigelle [plante]|git|
+GJ|git|git|indecl.|nielle (plante).
+Ge|git|git|indecl. = µελάνθιον|römischer Schwarzkümmel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|glutglut|glutglut|glūtglŭt|30|||indecl.
+LS|glutglut|glutglut|||||glut glut|an onomatop. word imitating the sound of water falling through a narrow aperture, Po&euml;t. ap. 
+GG|glutglut|glut-glut|indecl.|||ind., le glou-glou [de la bouteille]|glut-glut|
+GJ|glutglut|glutglut|(invar.)|le glou-glou [de la bouteille].
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|golgotha|Golgŏtha|Gōlgŏtha|30|||indecl. m.
+LS|
+GG|Golgotha|Golgŏtha|indecl.|m.||ind., lieu près de Jérusalem où J.-C. fut crucifié|Golgotha|
+GJ|Golgotha|Golgotha|indecl. m.|le Golgotha, le Calvaire (montagne voisine de Jérusalem, où Jésus a été crucifié).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|goliath|Goliath|Golĭath|30|||indecl. m.
+LS|
+GG|Goliath|Goliath|indecl.|m.||ind., Goliath [géant philistin tué par David]|Golias|Goliath
+GJ|Goliath|Goliath|indecl. m. (Gŏlīās, ae, m.)|Goliath (géant philistin tué par David).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gomor|gŏmor|gŏmŏr|30|||indecl. n.
+LS|
+GG|gomor|gŏmor|indecl.|n.||ind., gomor [mesure de capacité des Hébreux]|gomor|
+GJ|gomor|gŏmor|indecl. n.|gomor [mesure de capacité des Hébreux].
+Ge|gomor|gomor|n. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gordiutichos|Gordĭūtīchŏs|Gōrdĭūtīchŏs|30|||indecl. n.
+LS|Gordiutichos|Gordiūtīchos||n.||a town of Phrygia Major|Gordiutichos|0
+GG|Gordiutichos|Gordĭūtīchŏs||n.||nom d'une bourgade en Carie|Gordiutichos|
+GJ|Gordiutichos|Gordiutichos|n. indecl.|Gordiutichos (nom d'une bourgade en Carie).
+Ge|Gordiutichos|Gordiūtīchos|n. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|habacuc|Habacuc|Habacuc|30|||indecl. m.
+LS|
+GG|Habacuc|Habacuc||||v. Abacuc.|Habacuc|
+GJ|Habacuc|Habacuc|indecl. m.|Habacuc (prophète juif).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hebron|Hebrōn|Hē̆brōn|30|||indecl. m.
+LS|
+GG|Hebron|Hebrōn||m.||fils de Caath, et petit-fils de Lévi / ville de la tribu de Juda, où naquit saint Jean Baptiste|Hebron|
+GJ|Hebron|Hebrōn|indecl. m.|Hébron. - 1 - fils de Caath, et petit-fils de Lévi. - 2 - ville de la tribu de Juda, où naquit saint Jean-Baptiste.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|heli|Heli|Heli|30|||indecl. m.
+LS|
+GG|Heli|Heli|indecl.|m.||ind., juge et grand sacrificateur des Juifs|Heli|
+GJ|Heli|Heli|indecl. m.|Héli (juge et grand-prêtre des Juifs).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|heth|Heth|Heth|30|||indecl. m. f.
+LS|
+GG|Heth|Heth|indecl.|m.|S.|ind., fils de Chanaan|Heth|Heth
+GJ|Heth|Heth|indecl. f.|Heth (ville des Philistins).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hin|hin|hin|30|||indecl.
+LS|
+GG|hin|hin|indecl.|||ind. [mot hébreu], hin [mesure pour les liquides]|hin|
+GJ|hin|hin|indecl. [mot hébreu]|hin [mesure pour les liquides].
+Ge|hin|hin|neutr. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hosanna|hōsanna|hōsānna|30|||indecl.
+LS|
+GG|hosanna|hōsanna|indecl.|||ind. (mot hébreu), louange, bénédiction|hosanna|
+GJ|hosanna|hosanna|indecl. (mot hébreu)|salut et gloire.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hyphen|hўphĕn|hўphĕn|30|||indecl. n.
+LS|hyphen|hўphen|indecl.|n.||a rhetorical figure|hyphen|0
+GG|hyphen|hўphĕn||n.||prononciation de deux mots en un son unique|hyphen|
+GJ|
+Ge|hyphen|hyphen|n. indecl.|das Hyphen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|iacob2|Iācōb2|Ĭācōb|30|||indecl. m.
+LS|
+GG|Iacob|Iācōb|indecl.|m.|S.|Jacob [troisième patriarche]|Iacob|Iācōb
+GJ|Iacob|Iācob|indecl. m.|Jacob (fils d'Isaac).
+Ge|iacob|iācōb|m. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|idos|īdŏs|īdŏs|30|||indecl. n.
+LS|idos|īdos||n.||a form, shape|idos|0
+GG|idos|īdŏs||n.||apparence, forme|idos|
+GJ|idos|īdŏs|indecl. n. (mot grec)|forme, image.
+Ge|Idos|Idos|n.|das Ansehen - die Gestalt - dann Bild
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|iericho2|Ierichō2|Ĭerichō|30|||indecl. f.
+LS|
+GG|Iericho|Iericho||||v. Hiericho.|Iericho|
+GJ|Iericho|Iericho|indecl. f.|Jéricho (ville de Palestine).
+Ge|iericho|ierichō|fem. indecl.|Stadt Jericho - in - aus Jericho
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|illiberri|Illiberri|Īllibērri|30|||indecl. n.
+LS|Illiberri|Illiberri|indecl.|n.||a city of Hispania B&oelig;tica, between the B&oelig;tis and the coast, Granada|Illiberi|(
+GG|Illiberri|Illiberri|is|n.|S.|ville de la Narbonnaise|2 Illiberi|-berri
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|iol|Iol|Ĭŏl|30|||indecl. f.
+LS|Iol|Iol|is|f.||the former name of the city of C&aelig;sarea in Numidia, Ser-Sel|Iol|0
+GG|Iol|Iol|indecl.|f.||ind., = Césarée [ville de Mauritanie]|Iol|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ioseph2|Ĭōsēph2|Ĭōsēph|30|||indecl. m.
+LS|Ioseph|Ĭōsēph|indecl.|m.||Son of the patriarch Jacob|Ioseph|v. Joseph.
+GG|Ioseph|Iōsēph|indecl.|m.|S.|fils de Jacob / époux de la sainte Vierge|Joseph|Iōsēph
+GJ|
+Ge|ioseph|iōsēph|m. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|isac|Isāc|Isāc|30|||indecl. m.
+LS|Isac|Isac|indecl.|m.|||Isaac|(
+GG|Isac|Isāc||||c. Isaac.|Isac|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jacob|Jācōb|Jācōb|30|||indecl. m.
+LS|
+GG|Jacob|Jācōb|indecl.|m.|S.|Jacob [troisième patriarche]|Iacob|Jācōb
+GJ|Jacob|Jācob|indecl. m.|Jacob (fils d'Isaac).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jahel|Jahel|Jăhĕl|30|||indecl. f.
+LS|
+GG|Jahel|Jahel|indecl.|f.||ind., femme qui tua le général chananéen Sisara|Jahel|
+GJ|Jahel|Jahel|f. indecl.|femme qui tua le général chananéen Sisara.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|japhet|Jăphet|Jăphĕt|30|||indecl. m.
+LS|
+GG|Japhet|Jăphet|indecl.|m.|S.|fils aîné de Noé|Japhet|Jăphet
+GJ|Japhet|Jăphet|ou Jăpheth, m. indecl.|fils aîné de Noé.
+Ge|iaphet|iaphet|m. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jericho|Jĕrĭchō|Jĕrĭchō|30|||indecl. f.
+LS|Jericho|Jĕrĭcho||f.||indecl., the Hebrew city Jericho|Hiericus|Err :520
+GG|Jericho|Jĕrĭchō|indecl.|f.||Jéricho, ville de la Palestine|Hiericus|Jĕrĭchō
+GJ|Jericho|Jericho|indecl. f.|Jéricho (ville de Palestine).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|job|Jōb|Jōb|30|||indecl. m.
+LS|
+GG|Job|Jōb|indecl.|m.||ind., personnage célèbre par ses malheurs et sa résignation|Job|
+GJ|Job|Job|indecl. m. (Jobus, i, m.)|Job (un personnage célèbre dans les Ecritures par ses épreuves, sa révolte contre Dieu, et sa résignation finale).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|joseph|Jōsēph|Jōsēph|30|||indecl. m.
+LS|Joseph|Jōsēph|indecl.|m.||Son of the patriarch Jacob|Joseph|or 
+GG|Joseph|Jōsēph|indecl.|m.|S.|fils de Jacob / époux de la sainte Vierge|Joseph|Jōsēph
+GJ|Joseph|Joseph|indecl. m.|Joseph. - 1 - fils de Jacob. - 2 - époux de la Vierge Marie. - 3 - celui qui embauma Jésus-Christ.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|josue|Jōsŭē|Jōsŭē|30|||indecl. m.
+LS|
+GG|Josue|Jōsŭē|indecl.|m.||ind., chef des Israélites après Moïse|Josue|
+GJ|Josue|Josue|indecl. m.|Josué (chef des Hébreux après Moïse).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|judith|Jūdith|Jūdith|30|||indecl. f.
+LS|
+GG|Judith|Jūdith|indecl.|f.||ind., femme de Béthulie, qui tua Holopherne|Judith|
+GJ|Judith|Judith|indecl. f.|Judith (héroïne israélite qui tua Holopherne).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|koppa|Koppa|Kōppa|30|||indecl. n.
+LS|Koppa|Koppa|indecl.|n.||a letter of the original Greek alphabet, koph, q.|Koppa|(
+GG|koppa|koppa||n.||koppa [signe numérique des Grecs valant 90]|koppa|
+GJ|koppa|koppa|n. indecl.|koppa [signe numérique des Grecs valant 90].
+Ge|Koppa|Koppa||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laban|Lābān|Lābān|30|||indecl. m.
+LS|
+GG|Laban|Lābān|indecl.|m.|S.|Laban [père de Lia et de Rachel]|Laban|Lābān
+GJ|Laban|Lābān|m. indecl. (Lābānus, i, m.)|Cypr. Laban (père de Lia et de Rachel).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lambda|lambdă|lāmbdă|30|||indecl. n.
+LS|
+GG|lambda|lambdă|indecl.|n.||ind., lettre de l'alphabet grec|lambda|
+GJ|lambda|lambda|indecl. n.|lambda (lettre grecque; gr. λ Λ).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|leviathan|Leviathan|Levĭathan|30|||indecl. m.
+LS|
+GG|Leviathan|Leviathan|indecl.|m.||ind., nom d'un monstre symbolique|Leviathan|
+GJ|Leviathan|Leviathan|indecl. m.|Léviathan (nom donné dans la Bible à un monstre marin).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lot|Lōt|Lōt|30|||indecl. m.
+LS|Lot|Lōt|indecl.|m.||Lot, son of Haran, and nephew of Abraham|Lot|0
+GG|Lot|Lot|indecl.|m.|S.|Loth [neveu d'Abraham]|Lot|Lot
+GJ|Lot|Lot|indecl. m.|(Lebaigue P. 724) Loth (neveu d'Abraham).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|loth|Loth|Loth|30|||indecl. m.
+LS|
+GG|Loth|Loth|indecl.|m.|S.|Loth [neveu d'Abraham]|Lot|Loth
+GJ|Loth|Loth|indecl. m.|(Lebaigue P. 724) Loth (neveu d'Abraham).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|macir|macir|macĭr|30|||indecl.
+LS|macir|macir|indecl.|||a kind of red spicy bark brought from India|macir|0
+GG|macir|macir||||écorce d'un arbre de l'Inde|macir|
+GJ|
+Ge|macir|macir||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|melomeli|mēlŏmĕli|mēlŏmĕli|30|||indecl. n.
+LS|melomeli|mēlŏmĕli||n.||the sirup of preserved quinces|melomeli|(
+GG|melomeli|mĕlŏmĕli||n.||sirop de coing|melomeli|
+GJ|melomeli|melomeli|indecl. n.|(Lebaigue P. 762) eau de coing, cotignac.
+Ge|melomeli|mēlomeli|n.|eingemachter Quittensaft
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|misy|mĭsў|mĭsў|30|||indecl. n.
+LS|misy|mĭsy|ўos|n.||gen.|misy|0
+GG|misy|mĭsў|indecl. yŏs|n.||sorte de champignon ou de truffe / sorte de métal|misy|
+GJ|
+Ge|misy|misy||Art Staubschwämme - Trüffeln - sogenannte Atramentstein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|moab|Mōăb|Mōăb|30|||indecl. m. f.
+LS|Moab|Mōab||f.||indecl., the mountainous region on the eastern coast of the Dead Sea, extending from Zoar to the river Arnon|Moab|0
+GG|Moab|Mōăb|indecl.|m.|S.|ind. m., fils de Loth|Moab|Mōăb
+GJ|Moab|Mōăb|indecl. m.|Moab (fils de Loth).
+Ge|Moab|Mōāb|f. indecl.|der Moabiter - die Moabiter - moabitisch - die Moabiterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|muthul|Muthul|Muthŭl|30|||indecl. m.
+LS|Muthul|Muthul||||a river in Numidia|Muthul|0
+GG|Muthul|Muthul|indecl.|m.||ind., fleuve de Numidie [auj. le Mélègue, baigne l'Ouenza] affluent de la Bagrada, célèbre par la victoire de Métellus sur Jugurtha|Muthul|
+GJ|Muthul|Muthul|indecl. m.|le Muthul (fleuve de Numidie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mutmut|mutmut|mūtmŭt|30|||indecl. n.
+LS|
+GG|mutmut|mutmut|indecl.|n.||ind., son à peine distinct, chuchotement|mutmut|
+GJ|mutmut|mutmut|invar.|un bruit, un grognement.
+Ge|mutmut|mutmut|n. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|my|mȳ|mȳ|30|||indecl. n.
+LS|
+GG|my|my||n.|||my|
+GJ|my|my|indecl.|Boet. lettre de l'alphabet grec : &mu;, &Mu;.
+Ge|my|mȳ|n. indecl.|Buchstabe My
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nabuchodonosor|Nabūchodonosor|Nabūchodonosŏr|30|||indecl. m.
+LS|
+GG|Nabuchodonosor|Nabuchodonosor|indecl.|m.||ind., roi de Ninive|Nabuchodonosor|
+GJ|Nabuchodonosor|Nabuchodonosor|(invar.)|Nabuchodonosor (roi de Ninive).
+Ge|Nabuchodonosor|Nabūchodonosor|m. indecl.|Nebukadnezar
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nabun|nabun|nabun|30|||indecl. m.
+LS|nabun|nabun||||a camelopard|Nabdalsa|v. 1. nabis.
+GG|nabun|nabun||||nom de la girafe chez les Éthiopiens|nabun|
+GJ|nabun|nabun|indecl. m.|Plin. girafe.
+Ge|nabun|nabun||Giraffe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|naim|Năīm|Năīm|30|||indecl. f.
+LS|
+GG|Naim|Năīm|indecl.|f.||ind., ville de la Palestine|Naim|
+GJ|Naim|Naim|indecl. f.|Naïm (ville de Palestine).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nazareth|Nāzărĕth|Nāzărĕth|30|||indecl. f.
+LS|Nazareth|Nāzăreth|indecl.|f.||a city in Palestine, the home of the parents of Jesus|Nazareth|indecl., or 
+GG|Nazareth|Nazărĕth|indecl.|f.|S.|village de Judée|Nazareth|Nazărĕth
+GJ|Nazareth|Nazăreth|indecl. f.|Vulg. Nazareth (ville de Galilée, patrie de Jésus).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|neith|Nēith|Nēith|30|||indecl. f.
+LS|Neith|Nēith|indecl.|||an Egyptian name of Minerva|Neith|0
+GG|Neith|Neith|indecl.|f.||ind., nom d'une divinité des Égyptiens|Neith|
+GJ|
+Ge|Neith|Nēith|f. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|noe|Nōē|Nōē|30|||indecl. m.
+LS|Noe|Nōē|indecl.|m.||Noah|Noa|0
+GG|Noe|Nōē||m.||patriarche sauvé pendant le déluge|Noe|
+GJ|Noe|Nōē|indecl. m.|Noé (patriarche sauvé pendant le déluge).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nonaginta|nōnāgintā|nōnāgīntā|30|||indecl.
+LS|nonaginta|nōnāgintā|||num. adj.|ninety|nonaginta|0
+GG|nonaginta|nōnāgintā|indecl.|||ind., quatre-vingt-dix|nonaginta|
+GJ|nonaginta|nōnāgintā|adj. num. indecl.|quatre-vingt-dix.
+Ge|nonaginta|nōnāginta|Numer.|neunzig
+FG|nonaginta|nonaginta, indéclinable, quatre-vingt-dix.
+Lw|nonaginta|nōnāgintā||||||||nonaginta
+YO|
+PO|nonaginta|no_na_ginta_ : a indec
+WW||||
+|nugas|nūgās|nūgās|30|||indecl. m.
+LS|nugas|nūgas|||||nugas|v. nugax 
+GG|nugas|nūgās|indecl.|m.||ind., c. nugax|nugas|
+GJ|nugas|nūgās|adj. indecl.|c. nugax.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|obed|Obed|Obĕd|30|||indecl. m.
+LS|
+GG|
+GJ|Obed|Obed|indecl. m.|Obed (fils de Ruth, aïeul de David).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octodecim|octōdĕcim|ōctōdĕcĭm|30|||indecl.
+LS|octodecim|octōdĕcim|||card. num.|eighteen|octodecim|0
+GG|octodecim|octōdĕcim||||dix-huit|octodecim|
+GJ|octodecim|octodecim|indecl.|dix-huit.
+Ge|octodecim|octōdecim|Numer.|achtzehn
+FG|octodecim|octodecim, indéclinable (octo decem), dix-huit.
+Lw|octodecim|octōdecim or XVIII||||eighteen||||octodecim
+YO|
+PO|
+WW||||
+|ophir|Ophir|Ophĭr|30|||indecl.
+LS|Ophir|Ophir|indecl.|||a region in Southern Arabia|Ophir|0
+GG|Ophir|Ophir|indecl.|||ind., pays du sud de l'Arabie|Ophir|Ophir
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pecu|pĕcu|pĕcu|30|||indecl. n.
+LS|pecu|pĕcu||n.||gen., cattle|pecu|(
+GG|pecu|pĕcu|indecl.|n.|S.|bétail, troupeau|pecu|pĕcu
+GJ|pecu|pecu|indecl. n.|bétail, troupeaux.
+Ge|pecu|pecu||das Vieh
+FG|pecu|pecu, neutre indéclinable, bétail, troupeau ; (employé surtout au pluriel) pecua uum, ubus.
+Lw|pecu|(pecu)||n||cattle, large cattle, nom, the pastures||||pecu
+YO|
+PO|
+WW||||
+|philisthiim|Phĭlisthiim|Phĭlīsthĭĭm|30|||indecl. m.
+LS|Philisthiim|Phĭlisthiim|indecl.|m.||the Philistines, the original inhabitants of Palestine|Philistini|0
+GG|Philisthiim|Philisthiim|indecl.|m. pl.|S.|c. Philistaei|Philistiim|-thiim
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|philistiim|Phĭlistiim|Phĭlīstĭĭm|30|||indecl. m.
+LS|
+GG|Philistiim|Philistiim|indecl.|m. pl.|S.|c. Philistaei|Philistiim|Philistiim
+GJ|Philistiim|Phĭlistiim|indecl.|(= Philistaea) le pays des Philistins (la Palestine).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|promagistratu|prōmăgistrātū|prōmăgīstrātū|30|||indecl. m.
+LS|
+GG|promagistratu|prōmăgistrātū|indecl.|m.||ind., magistrat subalterne|promagistratu|
+GJ|promagistratu|prōmăgistrātū|m. indecl.|Inscr. magistrat subalterne.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|promagistro|prōmăgistrō|prōmăgīstrō|30|||indecl. m.
+LS|
+GG|promagistro|prōmăgistrō|indecl.|m.||ind., sous-chef, sous-maître|promagistro|
+GJ|promagistro|prōmăgistrō|m. indecl.|Inscr. sous-chef, sous-maître.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ptenethu|Ptĕnĕthu|Ptĕnĕthu|30|||indecl. n.
+LS|Ptenethu|Ptĕnĕthu|indecl.|n.||a district of Lower Egypt|Ptenethu|0
+GG|Ptenethu|Ptenethu||||v. Phthenethu.|Ptenethu|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pudput|Pudput|Pūdpŭt|30|||indecl. n.
+LS|
+GG|Pudput|Pudput|indecl.|n.|S.|ville de la Mauritanie Zeugitane|Putput|Pud-
+GJ|Pudput|Pudput||v. Putput.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ra|Rā|Rā|30|||indecl.
+LS|
+GG|Ra|Rā|indecl.|||v. Rha.|Ra|
+GJ|Ra|Rā|indecl.|Amm. le Rha (fleuve de Sarmatie, auj. le Volga).
+Ge|Ra|Rā|indecl.|die Wolga
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rachel|Rachel|Rachĕl|30|||indecl. f.
+LS|
+GG|Rachel|Rachel|indecl.|f.||ind., nom de plusieurs femmes juives [entre autres, Rachel, fille de Laban, femme de Jacob]|Rachel|
+GJ|Rachel|Rachel|f. indecl.|Rachel (nom de plusieurs femmes juives, notamment Rachel, fille de Laban et femme de Jacob.)
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rha|Rha|Rha|30|||indecl. m.
+LS|Rha|Rha|indecl.|||the Wolga, rhubarb|Rha|0
+GG|Rha|Rha||m.||le Rha [grand fleuve de la Sarmatie, qui se jette dans la mer Caspienne, auj. la Volga]|Rha|
+GJ|Rha|Rhā|indecl.|Amm. le Rha (fleuve de Sarmatie, auj. le Volga).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rheu|rheu|rhēu|30|||indecl. n.
+LS|
+GG|rheu|rheu|indecl.|n.||ind. (mot barbare), racine|rheu|
+GJ|rheu|rheu|indecl. n. (mot barbare)|Isid. racine.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rho|rhō|rhō|30|||indecl. n.
+LS|rho|rho|indecl.|||the Greek name of the letter|rho|0
+GG|rho|rhō||n.||rho [lettre de l'alphabet grec]|rho|
+GJ|
+Ge|rho|rhō|n. indecl.|
+FG|rho|rho, neutre indéclinable, rho (lettre de l'alphabet grec).
+Lw|rho|rhō||||the Greek letter r||||rho
+YO|
+PO|
+WW||||
+|rhodomeli|rhŏdŏmĕli|rhŏdŏmĕli|30|||indecl. n.
+LS|rhodomeli|rhŏdŏmĕli|indecl.|n.||honey of roses|rhodomeli|0
+GG|rhodomeli|rhŏdŏmĕli||n.|S.|miel rosat|rhodomel|rhŏdŏmĕli
+GJ|rhodomeli|rhodomeli|indecl. n.|Pall. miel rosat.
+Ge|rhodomeli|rhodomeli|n. indecl.|der Rosenhonig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ruth|Ruth|Ruth|30|||indecl. f.
+LS|
+GG|Ruth|Ruth|indecl.|f.||ind., femme Moabite, épouse de Booz|Ruth|
+GJ|Ruth|Ruth|indecl. f.|Ruth (épouse de Booz).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sabaoth|Săbā̆ōth|Săbā̆ōth|30|||indecl. f.
+LS|Sabaoth|Săbā̆ōth|indecl.|||the heavenly hosts, the Lord, God, of hosts|Sabaoth|0
+GG|sabaoth|sabaoth||f. pl.||[mot hébreu], les armées célestes|sabaoth|
+GJ|sabaoth|săbăōth|f. plur. indecl. (mot hébreu)|Prud. Tert. les armées célestes.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sacal|sacal|sacăl|30|||indecl. n.
+LS|sacal|sacal|indecl.|n.||Egyptian amber|sacal|0
+GG|sacal|sacal||n.||mot égyptien), ambre jaune|sacal|
+GJ|
+Ge|sacal|sacal||ägyptischer Bernstein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sapphar|Sapphar|Sāpphăr|30|||indecl. n.
+LS|Sapphar|Sapphar|indecl.|n.||a city in Arabia Felix|Sapphar|(perh. 
+GG|Sapphar|Sapphar||n.||ville de l'Arabie Heureuse|Sapphar|
+GJ|Sapphar|Sapphar|n.|ville de l'Arabie Heureuse.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|satan|Sătăn|Sătăn|30|||indecl. m.
+LS|Satan|Sătan|indecl.|m.||an adversary, Satan, the Devil|Satanas|0
+GG|satan|sătăn|indecl.|m.|S.|[mot hébreu], adversaire, ennemi / Satan, le diable|satan|sătăn
+GJ|Satan|Satan|indecl. m. (Satanās, ae, m.)|- 1 - ennemi, adversaire. - 2 - Tert. Satan, le diable.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|selas|sĕlăs|sĕlăs|30|||indecl. n.
+LS|selas|sĕlas|sela|n.||a kind of fiery meteor|selas|0
+GG|selas|sĕlăs||n.||sorte de météore igné|selas|
+GJ|selas|selas|indecl. n.|sorte de météore. - au plur. sela, Sen.
+Ge|selas|selas|n.|ein Wetterschein, Luftfeuer
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sem|Sēm|Sēm|30|||indecl. m.
+LS|
+GG|Sem|Sēm|indecl.|m.||ind., Sem, un des fils de Noé|Sem|
+GJ|Sem|Sem|indecl. m.|Sem (l'aîné des fils de Noé).
+Ge|Sem|Sēm|m. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|semialpha|sēmĭalpha|sēmĭālpha|30|||indecl. n.
+LS|
+GG|semialpha|sēmĭalpha|indecl.|n.|||semialpha|
+GJ|
+Ge|semialpha|sēmialpha|n. indecl.|ein halbes
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|semigomor|sēmĭgomor|sēmĭgomŏr|30|||indecl. n.
+LS|
+GG|semigomor|sēmĭgomor|indecl.|n.||indécl. demi-gomor [mesure hébraïque]|semigomor|
+GJ|
+Ge|semigomor|sēmigomor|n. indecl.|ein halbes Gomor
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sennaar|Sennaar|Sēnnăăr|30|||indecl.
+LS|
+GG|Sennaar|Sennaar|indecl.|||ind., ancien nom de la Babylonie|Sennaar|Sennaar
+GJ|Sennaar|Sennaar|indecl.|Sennaar (contrée voisine de la Babylonie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sennacherib|Sennăchĕrib|Sēnnăchĕrĭb|30|||indecl. m.
+LS|
+GG|Sennacherib|Sennăchĕrib||m.||roi d'Assyrie|Sennacherib|
+GJ|Sennacherib|Sennacherib|indecl. m.|Sennachérib (roi d'Assyrie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|septemdecim|septemdĕcim|sēptēmdĕcĭm|30|||indecl.
+LS|septemdecim|septemdĕcim|||num. adj.|seventeen|septemdecim|v. septendecim.
+GG|septemdecim|septemdĕcim|indecl.|||ind., dix-sept|septemdecim|septemdĕcim
+GJ|septemdecim|septemdĕcim|indecl.|dix-sept.
+Ge|septemdecim|septemdecim|Num.|siebzehn
+FG|septemdecim|septemdecim (septendecim), indéclinable, dix-sept.
+Lw|
+YO|
+PO|septemdecim|septemdecim : a indec
+WW||||
+|septendecim|septendĕcim|sēptēndĕcĭm|30|||indecl.
+LS|septendecim|septendĕcim|||num. adj.|seventeen|septendecim|(less correctly 
+GG|septendecim|septendĕcim|indecl.|||ind., dix-sept|septemdecim|septendĕcim
+GJ|septendecim|septendecim|indecl.|dix-sept.
+Ge|
+FG|
+Lw|septendecim|septendecim|see septemdecem.||||||ation|septendecim
+YO|
+PO|septendecim|septendecim : a indec
+WW||||
+|seraphim|Sĕrăphīm|Sĕrăphīm|30|||indecl. n.
+LS|Seraphim|Sĕrăphīm||||plur. indecl., the Seraphim|Seraphin|or 
+GG|seraphim|sĕrăphīm|indecl.|n. pl.|S.|les Séraphins|seraphim|sĕrăphīm
+GJ|seraphim|seraphim|indecl. plur. (mot hébreu)|les séraphins (anges du premier ordre, chez les Hébreux).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|seraphin|Sĕrăphīn|Sĕrăphīn|30|||indecl. n.
+LS|Seraphin|Sĕrăphīn||||plur. indecl., the Seraphim|Seraphin|or 
+GG|seraphin|sĕrăphīn|indecl.|n. pl.|S.|les Séraphins|seraphim|sĕrăphīn
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|seth|Sēth|Sēth|30|||indecl. m.
+LS|
+GG|Seth|Sēth|indecl.|m.||ind., Seth, troisième fils d'Adam|Seth|
+GJ|Seth|Seth|indecl. m.|Seth (troisième fils d'Adam).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|setim|sētim|sētĭm|30|||indecl. n.
+LS|
+GG|setim|sētim||n.||[mot hébreu], bois de sétim|setim|
+GJ|setim|setim|indecl.|bois de sétim.
+Ge|setim|setim|n. indecl.|Setim
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sexdecim|sexdĕcim|sēxdĕcĭm|30|||indecl.
+LS|sexdecim|sexdĕcim|||num. adj.|sixteen|sexdecim|(also written 
+GG|sexdecim|sexdĕcim|indecl.|||ind. (sex, decem), seize|sedecim|sexdĕcim
+GJ|sexdecim|sexdecim|indecl.|seize.
+Ge|
+FG|
+Lw|sexdecim|sexdecim|see sedecim.|||ࠂ诐⌊贰⌊耀-||||sexdecim
+YO|
+PO|
+WW||||
+|sexis|sexis|sēxis|30|||indecl. m. n.
+LS|sexis|sexis|indecl.|n.||The number six|sexis|0
+GG|sexis|sexis||m.||six as / le nombre six|sexis|
+GJ|sexis|sexis|indecl. n.|- 1 - six as. - 2 - le nombre six.
+Ge|sexis|sexis|n. indecl.|sechs Asse
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|siagu|Siagu|Sĭagu|30|||indecl. n.
+LS|
+GG|Siagu|Siagu|indecl.|n.|S.|ville d'Afrique|Siagu|Siagu
+GJ|Siagu|Siagu|inv. n.|Peut. Siagu (ville d'Afrique).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sichem|Sichem|Sichĕm|30|||indecl. m. f.
+LS|
+GG|Sichem|Sichem|indecl.|m.||ind., chef chananéen / ville de Judée, la même que Neapolis|Sichem|
+GJ|
+Ge|Sichem|Sichem|f. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|simittu|Simittu|Simīttu|30|||indecl. n.
+LS|
+GG|Simittu|Simittu|indecl.|n.|S.|ville de Numidie|Simittu|Simittu
+GJ|Simittu|Simittu|n. indecl.|ville de Numidie.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sinai|Sīnăi|Sīnăi|30|||indecl. m. f.
+LS|
+GG|Sinai|Sīnăi|indecl.|m.|S.|le mont Sinaï|Sina|Sīnăi
+GJ|Sinai|Sīnai|indecl. (Sīna, ae, f.)|le mont Sinaï (au nord-est de l'Egypte, entre le golfe de Suez et celui d’Akaba).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sinapi|sĭnāpi|sĭnāpi|30|||indecl. n.
+LS|sinapi|sĭnāpi|is|n.|||sinapi|(
+GG|sinapi|sĭnāpi||n.|S.|moutarde [plante] et sa graine|sinapi|sĭnāpi
+GJ|sinapi|sĭnāpi|indecl. n. (c. sinape)|sénevé (graine de moutarde).
+Ge|sinapi|sināpi|indecl. n.|der Senf
+FG|sinapi|sinapi, neutre indéclinable ; senapis, féminin, ou sinapis, féminin, sénevé, grain de moutarde.
+Lw|
+YO|
+PO|
+WW||||
+|siremps|sĭremps|sĭrēmps|30|||indecl.
+LS|siremps|sĭremps|||adj.|like, the same|siremps|(
+GG|siremps|sīremps|indecl.||adj.|], adj. ind., absolument semblable|siremps|
+GJ|siremps|sĭremps|adj. indecl.|absolument semblable.
+Ge|siremps|siremps||ganz gleich, ganz dasselbe, desgleichen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sirempse|sĭrempsē|sĭrēmpsē|30|||indecl.
+LS|sirempse|sĭrempse|||adj.|like, the same|siremps|(
+GG|sirempse|sīrempsē|indecl.|||ind., c. siremps|sirempse|
+GJ|sirempse|sĭrempse|adj. indecl.|absolument semblable.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subi|Subi|Subi|30|||indecl. m.
+LS|Subi|Subi|indecl.|m.||a river of Spain|Subi|0
+GG|Subi|Subi|indecl.|m.||indécl., rivière d'Espagne|Subi|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subur|Sŭbur|Sŭbŭr|30|||indecl. f.
+LS|Subur|Sŭbur||f.||a town in Spain, on the river Rubricatus|Subur|0
+GG|Subur|Sŭbur||f.||ville de la Tarraconnaise|Subur|
+GJ|Subur|Subur|indecl.|Subur (ville de Tarraconaise).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tadu|Tadu|Tadu|30|||indecl. f. n.
+LS|Tadu|Tadu||f.||an island near Mero&euml; in Ethiopia|Tadu|0
+GG|Tadu|Tadu|indecl.|n.||ind., île de l'Éthiopie|Tadu|
+GJ|Tadu|Tadu|n. indecl.|une île d'Ethiopie.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tapanta|tăpanta|tăpānta|30|||indecl. n.
+LS|tapanta|tăpanta||||all things, all|tapanta|Err :520
+GG|tapanta|tăpanta||n.||mss|tapanta|
+GJ|tapanta|tapanta|indecl. n.|toutes choses (mot grec).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|taratalla|Tărătalla|Tărătālla|30|||indecl. m.
+LS|Taratalla|Tărătalla||||a humorous name of a cook|Taratalla|0
+GG|Taratalla|Tărătalla|||||Taratalla|
+GJ|Taratalla|Tărătalla|indecl. m.|Mart. Taratalla (désignation plaisante d'un cuisinier).
+Ge|Taratalla|Taratalla||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|taratantara|tărătantără|tărătāntără|30|||indecl.
+LS|taratantara|tărătantără|an onomatopee||||taratantara|0
+GG|taratantara|tărătantăra||||onomatopée destinée à imiter le bruit de la trompette|taratantara|
+GJ|taratantara|tărătantără|indecl.|Enn. onomatopée pour exprimer le son de la trompette.
+Ge|taratantara|taratantara||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tempe|Tempē|Tēmpē|30|||indecl. n.
+LS|Tempe|Tempē|indecl.|n.||I. a charming valley in Thessaly, through which ran the river Peneus, between Olympus and Ossa, now valley of Lykostomo or Dereli II. Transf., of other beautiful valleys|Tempe|0
+GG|Tempe|Tempē||n. pl.||la vallée de Tempé, en Thessalie / toute vallée délicieuse|Tempe|
+GJ|Tempe|Tempē|n. (seult. au nom. et à l'acc.)|1 - la vallée de Tempé (vallée de Thessalie, célèbre par sa fraîcheur). 2 - vallée délicieuse.
+Ge|Tempe|Tempē|Plur. neutr.|Tal Tempe
+FG|Tempe|Tempe, neutre pluriel (nominatif et accusatif), la vallée de Tempé (en Thessalie) ; toute vallée délicieuse.
+Lw|
+YO|
+PO|
+WW||||
+|testu|testu|tēstu|30|||indecl. n.
+LS|testu|testu|i|n.||a vessel, lid|testu|or 
+GG|testu|testu|indecl.|n.||indécl., couvercle d'argile / vase d'argile|testu|
+GJ|testu|testu|indecl. n.|- 1 - couvercle d'argile. - 2 - vase d'argile.
+Ge|testu|tēstū|indecl.|das irdene Geschirr, -Gefäß - die irdene Schüssel - der Napf - ein Gefäß - etwas aus gebackener Erde, Form
+FG|testu|testu, neutre indéclinable, couvercle d'argile ; vase d'argile.
+Lw|testu|(testū, ūs)||n||an earthen vessel, earthen pot||||testu
+YO|
+PO|testu|testu_ : n indec
+WW||||
+|thabor|Thabor|Thabŏr|30|||indecl. m.
+LS|
+GG|Thabor|Thabor|indecl.|m.||indécl., le mont Thabor en Judée|Thabor|
+GJ|Thabor|Thabor|m. indecl.|Bibl. le Thabor (mont de Galilée).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thamar|Thamar|Thamăr|30|||indecl. f.
+LS|
+GG|Thamar|Thamar|indecl.|f.||ind., nom de plusieurs femmes de l'Ancien Testament|Thamar|
+GJ|Thamar|Thamar|f. indecl.|Vulg. Thamar (nom de femme).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thamna|Thamna|Thāmna|30|||indecl. f.
+LS|
+GG|Thamna|Thamna||f.||ville des Iduméens|Thamna|
+GJ|Thamna|Thamna|f. indecl.|Vulg. : Thamna (ville des Iduméens).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thamnata|Thamnata|Thāmnata|30|||indecl. f.
+LS|
+GG|Thamnata|Thamnata|indecl.|f.|S.|ville de Judée|Thamnata|Thamnata
+GJ|Thamnata|Thamnata|f. indecl.|Vulg. ville de Judée.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thau|thau|thāu|30|||indecl. n.
+LS|
+GG|thau|thau||n.||thau, dernière lettre de l'alphabet hébreu|thau|
+GJ|thau|thau|n. indecl.|Tert. Vulg. thau (dernière lettre de l'alphabet hébreu).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thebes|Thēbēs|Thēbēs|30|||indecl. f.
+LS|Thebes|Thēbes||||a city in Samaria|Thebes|0
+GG|Thebes|Thebēs|indecl.|f.|S.|ville de la Samarie|1 Thebes|Thebēs
+GJ|Thebes|Thebes|(Thebez), f. indecl.|1 - ville de la Samarie. 2 - (campus) la plaine de Thèbes (canton de la Mysie).
+Ge|Thebes|Thēbes||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|theta|thētă|thētă|30|||indecl. n.
+LS|theta|thēta|indecl.|n.||the Greek letter|theta|0
+GG|theta|thētă||n.||théta, lettre de l'alphabet grec|theta|
+GJ|
+Ge|theta|thēta|n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thot|Thot|Thŏt|30|||indecl. m.
+LS|
+GG|Thot|Thot||m.|S.|nom d'une divinité et du premier mois des Égyptiens|Thoth|Thot
+GJ|Thot|Thot|indecl. m.|Thot (nom d'une divinité et du premier mois des Egyptiens).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thoth|Thoth|Thoth|30|||indecl. m.
+LS|Thoth|Thoth|indecl.|||the Egyptian name of the fifth Mercury|Thoth|0
+GG|Thoth|Thoth||m.|S.|nom d'une divinité et du premier mois des Égyptiens|Thoth|Thoth
+GJ|Thoth|Thoth|indecl. m.|Thot (nom d'une divinité et du premier mois des Egyptiens).
+Ge|Thoth|Thoth||
+FG|Thoth|Thoth ou Thot, masculin, nom d'une divinité et du premier mois des Égyptiens.
+Lw|
+YO|
+PO|
+WW||||
+|tonitru|tŏnī̆tru|tŏnī̆tru|30|||indecl. n.
+LS|tonitru|tŏnī̆tru|us||||tonitru|0
+GG|tonitru|tŏnĭtru||n.||v. tonitrus|tonitru|
+GJ|tonitru|tŏnĭtru|indecl. n. (c. tonitrus, us)|Prisc. tonnerre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tredecim|trĕdĕcim|trĕdĕcĭm|30|||indecl.
+LS|tredecim|trĕdĕcim|||num. adj.|thirteen|tredecim|(
+GG|tredecim|trĕdĕcim||||treize|tredecim|
+GJ|tredecim|tredecim|indecl. (decem et tres, decem tres)|treize.
+Ge|tredecim|tredecim||dreizehn
+FG|tredecim|tredecim, indéclinable (tres decem), treize.
+Lw|tredecim|tredecim||||thirteen||||tredecim
+YO|
+PO|tredecim|tredecim : a indec
+WW||||
+|trepondo|trĕpondo|trĕpōndo|30|||indecl. n.
+LS|trepondo|trĕpondo||||neutr. indecl., three pounds|trepondo|0
+GG|trepondo|trĕpondo|indecl.|n.||trois livres [pesant]|trepondo|
+GJ|
+Ge|trepondo|trepondo|neutr. indecl.|drei Pfund
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trit|trit|trĭt|30|||indecl.
+LS|trit|trit|indecl.|||the cry of a mouse, a squeak|trit|0
+GG|trit|trit|indecl.|||ind., syllabe qui imite le cri de la souris|trit|
+GJ|trit|trit|invar.|syllabe qui imite le cri de la souris.
+Ge|trit|trit|indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tuxtax|tuxtax|tūxtāx|30|||indecl.
+LS|tuxtax|tuxtax|||||tuxtax|an exclamation imitative of the sound of blows: 
+GG|tuxtax|tuxtax||||onomatopée imitant le bruit des coups de fouet|tuxtax|
+GJ|tuxtax|tuxtax|indecl.|clic clac (bruit du coup de fouet).
+Ge|tuxtax|tuxtax||klatsch klatsch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|undecentum|undēcentum|ūndēcēntŭm|30|||indecl.
+LS|undecentum|undēcentum|||num. adj.|ninety-nine|undecentum|0
+GG|undecentum|undēcentum|indecl.|||quatre-vingt-dix-neuf [cent moins un]|undecentum|
+GJ|undecentum|undecentum|inv. [unus + de + centum]|quatre-vingt-dix-neuf.
+Ge|Undecentum|Undēcentum|de|neunundneunzig
+FG|undecentum|undecentum, indéclinable (unus de centum), quatre-ving-dix-neuf (cent moins un).
+Lw|
+YO|
+PO|
+WW||||
+|undenonaginta|undēnōnāgintā|ūndēnōnāgīntā|30|||indecl.
+LS|undenonaginta|undēnōnāginta|||num. adj.|eighty-nine|undenonaginta|0
+GG|undenonaginta|undēnōnāgintā|indecl.|||indécl., quatre-vingt-neuf|undenonaginta|
+GJ|undenonaginta|undēnonaginta|inv.|quatre-vingt-neuf.
+Ge|Undenonaginta|Undēnōnāginta|de|neunundachtzig
+FG|undenonaginta|undenonaginta, indéclinable, quatre-vingt-neuf.
+Lw|undenonaginta|ūndēnōnāgintā||||eighty-nine||||undenonaginta
+YO|
+PO|
+WW||||
+|undeoctoginta|undĕoctōgintā|ūndĕōctōgīntā|30|||indecl.
+LS|undeoctoginta|undĕoctōginta|||num. adj.|seventy-nine|undeoctoginta|0
+GG|undeoctoginta|undĕoctōgintā|indecl.|||indécl., soixante-dix-neuf|undeoctoginta|
+GJ|undeoctoginta|undeoctoginta|inv.|soixante-dix-neuf.
+Ge|Undeoctoginta|Undeoctōginta|de|neunundsiebzig
+FG|undeoctoginta|undeoctoginta, indéclinable, soixante-dix-neuf.
+Lw|undeoctoginta|ūndeoctōgintā or LXXVIIII||||seventy-nine||||undeoctoginta
+YO|
+PO|
+WW||||
+|undequadraginta|undēquādrāgintā|ūndēqụādrāgīntā|30|||indecl.
+LS|undequadraginta|undēquadrāginta|||num. adj.|thirty - nine|undequadraginta|0
+GG|undequadraginta|undēquādrāgintā|indecl.|||indécl., trente-neuf|undequadraginta|
+GJ|undequadraginta|undēquadraginta|inv.|trente-neuf.
+Ge|Undequadraginta|Undēquadrāginta|de|neununddreißig
+FG|undequadraginta|undequadraginta, indéclinable, trente-neuf.
+Lw|undequadraginta|ūndēquadrāgintā||||thirty-nine||||undequadraginta
+YO|
+PO|
+WW||||
+|undequinquaginta|undēquinquāgintā|ūndēqụīnqụāgīntā|30|||indecl.
+LS|undequinquaginta|undēquinquāginta|||num. adj.|forty-nine|undequinquaginta|0
+GG|undequinquaginta|undēquinquāgintā|indecl.|||indécl., quarante-neuf|undequinquaginta|
+GJ|undequinquaginta|undēquinquaginta|inv.|quarante-neuf.
+Ge|Undequinquaginta|Undēquīnquāginta|de|neunundvierzig
+FG|undequinquaginta|undequinquaginta, indéclinable, quarante-neuf.
+Lw|undequinquaginta|ūndēquīnquāgintā||||forty-nine||||undequinquaginta
+YO|
+PO|
+WW||||
+|undesexaginta|undēsexāgintā|ūndēsēxāgīntā|30|||indecl.
+LS|undesexaginta|undēsexaginta|||num. adj.|fifty-nine|undesexaginta|0
+GG|undesexaginta|undēsexāgintā|indecl.|||indécl., cinquante-neuf|undesexaginta|
+GJ|undesexaginta|undēsexaginta|inv.|cinquante-neuf.
+Ge|Undesexaginta|Undēsexāginta|de|neunundfünfzig
+FG|undesexaginta|undesexaginta, indéclinable, cinquante-neuf.
+Lw|undesexaginta|ūndēsexāgintā||||fifty-nine||||undesexaginta
+YO|
+PO|
+WW||||
+|undetriginta|undētrīgintā|ūndētrīgīntā|30|||indecl.
+LS|undetriginta|undētrīginta|||num. adj.|twenty-nine|undetriginta|0
+GG|undetriginta|undētrīgintā|indecl.|||indécl., vingt-neuf|undetriginta|
+GJ|undetriginta|undētriginta|inv.|vingt-neuf.
+Ge|Undetriginta|Undētrīginta|de|neunundzwanzig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|zarat|Zarat|Zarăt|30|||indecl. f.
+LS|
+GG|Zarat|Zarat|indecl.|f.|S.|ville de la Mauritanie Césarienne|Zarath|Zarat
+GJ|Zarat|Zarat|indecl. au f.|Zarath (ville).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|zarath|Zarath|Zarath|30|||indecl. f.
+LS|
+GG|Zarath|Zarath|indecl.|f.|S.|ville de la Mauritanie Césarienne|Zarath|Zarath
+GJ|Zarath|Zarath|indecl. au f.|Zarath (ville).
+Ge|Zarath|Zarath|neutr. indecl.|zarathensisch - bei Zarath
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|zimpiberi|zimpĭbĕri|zīmpĭbĕri|30|||indecl. n.
+LS|zimpiberi|zimpĭbĕri|indecl.|n.||ginger|zingiberi|or 
+GG|zimpiberi|zimpĭbĕri||n.|S.|c. zingiberi.|zimpiberi|zimpĭbĕri
+GJ|zimpiberi|zimpiberi|indecl. n.|gingembre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|zingiberi|zingĭbĕri|zīngĭbĕri|30|||indecl. n.
+LS|zingiberi|zingĭbĕri|indecl.|n.||ginger|zingiberi|or 
+GG|zingiberi|zingĭbĕri||n.|S.|gingembre [plante]|zingiber|zingĭbĕri
+GJ|zingiberi|zingiberi|indecl. n.|gingembre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|zinpiberi|zinpĭbĕri|zīnpĭbĕri|30|||indecl. n.
+LS|
+GG|zinpiberi|zinpĭbĕri||n.|S.|c. zingiberi.|zimpiberi|zinpĭbĕri
+GJ|zinpiberi|zinpiberi|indecl. n.|gingembre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abaddon|Abaddon|Abāddon|30|||indecl. m.
+LS|Abaddon|Abaddon|indecl.|m.||the name of the angel of Tartarus|Abaddon|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abarim|Ăbarim|Ăbarĭm|30|||indecl. m.
+LS|
+GG|
+GJ|Abarim|Ăbarim|indecl. m.|Vulg. le mont Abarim (en Palestine).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abessalon|Abessalon|Abēssalon|30|||indecl. m.
+LS|
+GG|Abessalon|Abessalon|indecl.|m.|S.|Absalon [fils de David]|Absalom|Abessalon
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abigail|Abigail|Abigăĭl|30|||indecl. f.
+LS|
+GG|
+GJ|Abigail|Abigail|indecl. f.|Abigaïl (femme de David).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abimelech|Abimelech|Abimelech|30|||indecl. m.
+LS|
+GG|Abimelech|Abimelech|indecl.|m.||indécl., nom de plusieurs rois|Abimelech|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abiron|Abiron|Abiron|30|||indecl. m.
+LS|
+GG|
+GJ|Abiron|Abiron|indecl. m.|Abiron (lévite qui se révolta contre Moïse).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abraxares|Abraxarēs|Ā̆brāxarēs|30|||indecl. m.
+LS|
+GG|Abraxares|Abraxarēs|indecl.|m.||ind., nom d'h.|Abraxares|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|absalon|Absālōn|Ābsālōn|30|||indecl. m.
+LS|
+GG|
+GJ|Absalon|Absālōn|m. indecl.|Absalon (fils de David).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|achaz|Achaz|Achaz|30|||indecl. m.
+LS|
+GG|
+GJ|Achaz|Achaz|indecl. m.|Achaz (roi de Juda).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|achimelech|Achimelech|Achimelech|30|||indecl. m.
+LS|
+GG|
+GJ|Achimelech|Achimelech|indecl. m.|Achimélech (grand prêtre des Hébreux).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|achitophel|Achitophel|Achitophĕl|30|||indecl. m.
+LS|
+GG|
+GJ|Achitophel|Achitophel|indecl. m.|Achitophel (conseiller de David).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adonai|Adonai|Adonăi|30|||indecl. m.
+LS|
+GG|
+GJ|Adonai|Adonai|indecl. m.|Yahvé (un des noms de Dieu chez les Juifs).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|agag|Agag|Agag|30|||indecl. m.
+LS|
+GG|
+GJ|Agag|Agag|indecl. m.|Agag (roi des Amalécites).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ahod|Ahod|Ăhŏd|30|||indecl. m.
+LS|
+GG|
+GJ|Ahod|Ahod|indecl. m.|Ahod (un des juges d'Israël).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ajalon|Ajalon|Ājalon|30|||indecl.
+LS|
+GG|
+GJ|Ajalon|Ajalon|indecl.|Ajalon (ville de Judée).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amalec|Amalec|Amalec|30|||indecl. m.
+LS|
+GG|
+GJ|Amalec|Amalec|indecl. m.|Amalec (petit-fils d'Esaü).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anathoth|Anathoth|Anathoth|30|||indecl. m. f.
+LS|
+GG|Anathoth|Anathoth|indecl.|m. f.|S.|nom d'homme|Anathoth|Anathoth
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|arach|Arach|Arach|30|||indecl. f.
+LS|
+GG|Arach|Arach|indecl.|f.|S.|ville de Mésopotamie|Arach|Arach
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aram|Aram|Arăm|30|||indecl. m.
+LS|
+GG|
+GJ|Aram|Aram|indecl. m.|Aram (fils de Sem et petit-fils de Noé).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ariel|Ariel|Arĭĕl|30|||indecl. m.
+LS|
+GG|Ariel|Ariel|indecl.|m.|S.|nom d'homme ;|Ariel|Ariel
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|astaroth|Astaroth|Āstaroth|30|||indecl. m.
+LS|
+GG|Astaroth|Astaroth|indecl.|m.|S.|ind., nom d'une idole / d'une ville|Astaroth|Astaroth
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|beroth|Beroth|Beroth|30|||indecl. m.
+LS|
+GG|Beroth|Beroth|indecl.|m.|S.|ind., villes de Palestine et de Syrie|Beroth|Beroth
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|berotha|Berotha|Berotha|30|||indecl. m.
+LS|
+GG|Berotha|Berotha|indecl.|m.|S.|ind., villes de Palestine et de Syrie|Beroth|-tha
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bisdiapason|bisdĭăpāsōn|bīsdĭăpāsōn|30|||indecl.
+LS|
+GG|bisdiapason|bisdĭăpāsōn|indecl.|||indécl., double octave [t. de musique]|bisdiapason|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|butyr|butyr|butўr|30|||indecl. n.
+LS|
+GG|
+GJ|butyr|butyr|indecl. (butyrum ou butyrŏn, i, n.)|beurre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caath|Caath|Căath|30|||indecl. m.
+LS|
+GG|
+GJ|Caath|Caath|indecl. m.|Caath (père d'Hébron).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caleb|Caleb|Calĕb|30|||indecl. m.
+LS|
+GG|
+GJ|Caleb|Caleb|indecl. m.|Caleb (envoyé par Moïse dans Chanaan).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|callet|Callet|Cāllĕt|30|||indecl. n.
+LS|
+GG|Callet|Callet|indecl.|n.||indécl., ville de la Bétique|Callet|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ceratim|cĕrătim|cĕrătĭm|30|||indecl. n.
+LS|
+GG|ceratim|cĕrătim|indecl.|n.||indécl., c. cerates|ceratim|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chamos|Chamos|Chamos|30|||indecl. m.
+LS|
+GG|
+GJ|Chamos|Chamos|indecl. m.|Kemosh (idole des Moabites).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chanan|Chănān|Chănān|30|||indecl. f.
+LS|Chanan|Chănān|indecl.|f.||the land of Canaan, Paiestine|Chanaan|contr. 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cherubim|chĕrŭbim|chĕrŭbĭm|30|||indecl.
+LS|
+GG|cherubim|chĕrŭbim|indecl.|||chérubin, esprit céleste|cherub|chĕrŭbim
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cherubin|chĕrŭbin|chĕrŭbin|30|||indecl.
+LS|
+GG|cherubin|chĕrŭbin|indecl.|||chérubin, esprit céleste|cherub|chĕrŭbin
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chi|chī|chī|30|||indecl. n.
+LS|
+GG|chi|chī|indecl.|n.|||chi|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chullu|Chullu|Chūllu|30|||indecl.
+LS|
+GG|Chullu|Chullu|indecl.||adj.|ville de Numidie|Chullu|Chullu
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|collocat|Collocat|Cōllocăt|30|||indecl. n.
+LS|
+GG|Collocat|Collocat|indecl.|n.||ind., ville d'Éthiopie|Collocat|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|condy|condy|cōndy|30|||indecl.
+LS|
+GG|condy|condy|indecl.|||indécl., coupe|condy|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dagon|Dagōn|Dagōn|30|||indecl.
+LS|
+GG|Dagon|Dagōn|indecl.|||ind., Dagon [idole des Philistins]|Dagon|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|darat|Darat|Darăt|30|||indecl. m.
+LS|
+GG|Darat|Darat|indecl.|m.|S.|fleuve de Libye|Darat|Darat
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diaprasion|dĭaprāsion|dĭā̆prāsĭon|30|||indecl.
+LS|
+GG|diaprasion|dĭaprāsion|indecl.|||ind., extrait de marrube|diaprasion|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diasmyrnon|dĭasmyrnōn|dĭāsmȳrnōn|30|||indecl.
+LS|
+GG|diasmyrnon|dĭasmyrnōn|indecl.|||ind., médicament où il entre de la myrrhe|diasmyrnes|dĭasmyrnōn
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dibitach|Dibitach|Dibitach|30|||indecl. n.
+LS|
+GG|Dibitach|Dibitach|indecl.|n.||ind., v. Dabithac|Dibitach|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eden|Eden|Eden|30|||indecl. m.
+LS|
+GG|
+GJ|Eden|Eden|indecl. m.|- 1 - Eden (lévite). - 2 - l'Eden, paradis terrestre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|elam|Elam|Elăm|30|||indecl. m.
+LS|
+GG|Elam|Elam|indecl.|m.|S.|fils de Sem|Elam|Elam
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|elasa|Elăsa|Elăsa|30|||indecl. m.
+LS|
+GG|Elasa|Elăsa|indecl.|m.||ind., nom d'homme hébreu|Elasa|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eliacin|Eliacin|Elĭacin|30|||indecl. m.
+LS|
+GG|Eliacin|Eliacin|indecl.|m.||ind., Éliacin [nom d'homme]|Eliacin|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|elisabeth|Elisabeth|Elisabeth|30|||indecl. f.
+LS|
+GG|
+GJ|Elisabeth|Elisabeth|indecl. f.|Elisabeth. - 1 - femme d'Aaron. - 2 - femme de Zacharie, mère de saint Jean-Baptiste.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enach|Enach|Enach|30|||indecl. m.
+LS|
+GG|
+GJ|Enach|Enach|indecl. m.|Enach (un personnage inconnu , au pays de Canaan, et symbolisant les anciens habitants de la Palestine, avant même la venue des Hébreux. Moïse envoya une expédition vers des clans qui descendaient de lui ( vers le XIIIe siècle av. J. C.)
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|epi|Epĭ|Epĭ|30|||indecl. f.
+LS|
+GG|Epi|Epĭ Thērās|indecl.|f.|S.|nom de Ptolémaïs, dans la Troglodytique|Epi Theras|Epĭ Thērās
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|epitheras|Epĭthēras|Epĭthēras|30|||indecl. f.
+LS|
+GG|Epitheras|Epĭthēras|indecl.|f.|S.|nom de Ptolémaïs, dans la Troglodytique|Epi Theras|Epĭthēras
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exvicario|exvicario|ēxvicarĭo|30|||indecl. m.
+LS|
+GG|
+GJ|exvicario|exvicario|indecl. m.|qui a été remplaçant.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fut|Fut|Fŭt|30|||indecl. m.
+LS|
+GG|Fut|Fut|indecl.|m.||indécl., fleuve de Mauritanie|Fut|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gerson|Gerson|Gērson|30|||indecl. m.
+LS|
+GG|
+GJ|Gerson|Gerson|indecl. m.|Gerson (un des fils de Lévi).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gicti|gicti|gīcti|30|||indecl. n.
+LS|gicti|gicti|indecl.|n.||a planc, called also, and, Roman coriander|git|(also 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gith|gith|gith|30|||indecl. n.
+LS|gith|gith|indecl.|n.||a plant, called also melanthion and melanspermon, Roman coriander|git|(also 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gry|gry|gry|30|||indecl. n.
+LS|gry|gry|indecl.|n.||the least trifle|gry|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hiericho|Hĭĕricho|Hĭĕricho|30|||indecl. f.
+LS|
+GG|
+GJ|Hiericho|Hĭĕricho|indecl. f.|Jéricho (ville de Palestine).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|iessae|Iessae|Ĭēssāe|30|||indecl. m.
+LS|
+GG|Iessae|Iessae|indecl.|m.|S.|Jessé ou Isaï [père de David]|Iessae|Iessae
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|iliturgis|Iliturgis|Ilitūrgis|30|||indecl. f. n.
+LS|
+GG|
+GJ|Iliturgis|Iliturgis|is, f. (Iliturgi, indecl. n.)|(Lebaigue P. 586 et P. 587) Iliturgi (ville de Bétique).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ismuc|Ismuc|Īsmuc|30|||indecl. n.
+LS|
+GG|Ismuc|Ismuc|indecl.|n.||ind., ville de Numidie|Ismuc|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|japheth|Jăpheth|Jăpheth|30|||indecl. m.
+LS|
+GG|Japheth|Jăpheth|indecl.|m.|S.|fils aîné de Noé|Japhet|Jăpheth
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jephte|Jephtē|Jephtē|30|||indecl. m.
+LS|
+GG|Jephte|Jephtē|indecl.|m.|S.|juge des Hébreux qui immola sa fille, pour remplir un voeu|Jephthe|Jephtē
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jephthe|Jephthē|Jephthē|30|||indecl. m.
+LS|
+GG|Jephthe|Jephthē|indecl.|m.|S.|juge des Hébreux qui immola sa fille, pour remplir un voeu|Jephthe|Jephthē
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jeroboam|Jeroboam|Jerobŏăm|30|||indecl. m.
+LS|
+GG|
+GJ|Jeroboam|Jeroboam|indecl. m.|Jéroboam (roi d'Israël).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jessae2|Jessae2|Jēssāe|30|||indecl. m.
+LS|
+GG|Jessae|Jessae|indecl.|m.|S.|Jessé ou Isaï [père de David]|Iessae|Jessae
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jesse|Jesse|Jēsse|30|||indecl. m.
+LS|
+GG|Jesse|Jesse|indecl.|m.|S.|Jessé ou Isaï [père de David]|Iessae|Jesse
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|joas|Joās|Jŏās|30|||indecl. m.
+LS|
+GG|Joas|Joās|indecl.|m.||ind., fils d'Ochozias, neveu d'Athalie|Joas|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|joel|Joēl|Jŏēl|30|||indecl. m.
+LS|
+GG|Joel|Joēl|indecl.|m.||ind., fils aîné de Samuel|Joel|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laud|Laud|Lāŭd|30|||indecl. m.
+LS|
+GG|Laud|Laud|indecl.|m.||ind., fleuve de la Mauritanie Tingitane|Laud|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lud|Lud|Lŭd|30|||indecl. m.
+LS|
+GG|
+GJ|Lud|Lud|indecl. m.|Vulg. Lud (fils de Sem).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mabog|Mabog|Mabog|30|||indecl. n.
+LS|
+GG|Mabog|Mabog|indecl.|n.||indécl., ville de Syrie|Mabog|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|madian|Madĭan|Madĭan|30|||indecl. m.
+LS|
+GG|Madian|Madĭan|indecl.|m.|S.|pays de Madian (Arabie)|Madian|Madĭan
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mageddo|Măgeddo|Măgēddo|30|||indecl. f.
+LS|
+GG|Mageddo|Măgeddo|indecl.|f.|S.|ville de Palestine|Mageddo|Măgeddo
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|malichu|Malichu|Malichu|30|||indecl. n.
+LS|
+GG|Malichu|Malichu|indecl.|n.||indécl., île près de l'Inde|Malichu|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mambre|Mambrē|Māmbrē|30|||indecl.
+LS|
+GG|Mambre|Mambrē|indecl.|||Mambré [vallée dans la tribu de Juda]|Mambra|Mambrē
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|man|man|man|30|||indecl. n.
+LS|man|man|indecl.|n.||the manna of the Hebrews|manna|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|manhu|manhu|manhu|30|||indecl. n.
+LS|manhu|manhu|indecl.|n.||the manna of the Hebrews|manna|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|misach|Misach|Misach|30|||indecl. m.
+LS|
+GG|
+GJ|Misach|Misach|indecl. m.|Misach (un des trois enfants de la fournaise).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|moloch|Moloch|Moloch|30|||indecl. m.
+LS|
+GG|Moloch|Moloch|indecl.|m.||ind., Moloch|Moloch|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nahum|Nahum|Năhŭm|30|||indecl. m.
+LS|
+GG|
+GJ|Nahum|Nahum|indecl. m.|Nahum (un des douze petits prophètes).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|narmalcha|Narmalcha|Nārmālcha|30|||indecl. m.
+LS|
+GG|Narmalcha|Narmalcha|indecl.|m.|S.|un des bras de l'Euphrate|Narmalcha|Narmalcha
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|narmalchar|Narmalchar|Nārmālchăr|30|||indecl. m.
+LS|
+GG|Narmalchar|Narmalchar|indecl.|m.|S.|un des bras de l'Euphrate|Narmalcha|-char
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nathan|Nathan|Nathan|30|||indecl. m.
+LS|
+GG|
+GJ|Nathan|Nathan|indecl. m.|Nathan (prophète, contemporain de David).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nembrod|Nembrod|Nēmbrŏd|30|||indecl. m.
+LS|
+GG|Nembrod|Nembrod|indecl.|m.|S.|Nemrod, [fondateur de l'empire babylonien]|Nemrod|Nembrod
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nemrod|Nemrod|Nēmrŏd|30|||indecl. m.
+LS|
+GG|Nemrod|Nemrod|indecl.|m.|S.|Nemrod, [fondateur de l'empire babylonien]|Nemrod|Nemrod
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nepet|Nepet|Nepĕt|30|||indecl. n.
+LS|
+GG|
+GJ|Nepet|Nepet|indecl. n.|c. Nepete.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nephthali|Nephthali|Nephthali|30|||indecl. m.
+LS|
+GG|Nephthali|Nephthali|indecl.|m.||ind., sixième fils de Jacob|Nephthali|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nimrod|Nimrod|Nīmrŏd|30|||indecl. m.
+LS|
+GG|Nimrod|Nimrod|indecl.|m.|S.|Nemrod, [fondateur de l'empire babylonien]|Nemrod|Nimrod
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nisan|Nisan|Nisan|30|||indecl. m.
+LS|
+GG|
+GJ|Nisan|Nisan|indecl. m.|Nisan (mois des Hébreux, mars-avril).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ophni|Ophni|Ophni|30|||indecl. m.
+LS|
+GG|
+GJ|Ophni|Ophni|indecl. m.|(Lebaigue P. 865) Ophni (fils du grand prêtre Héli).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|osee|Osee|Osĕe|30|||indecl. m.
+LS|
+GG|
+GJ|Osee|Osee|indecl. m.|Hier. Osée.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|osset|Osset|Ōssĕt|30|||indecl.
+LS|
+GG|Osset|Osset|indecl.|||ind., ville de la Bétique|Osset|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pharan|Phăran|Phăran|30|||indecl. f.
+LS|
+GG|Pharan|Phăran|indecl.|f.|S.|ind., montagne et ville entre l'Égypte et l'Arabie|Pharan|Phăran
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|phase|Phase|Phase|30|||indecl. n.
+LS|Phase|Phase|indecl.|n.||the Passover|Phase|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|propraetore|prōpraetōre|prōprāetōre|30|||indecl.
+LS|propraetore|prōpraetōre|indecl.|||a magistrate in the times of the republic, who, after having administered the pr&oelig;torship one year in Rome, was sent in the following year, as pr&oelig;tor to a province where there was no army, a propr&oelig;tor|propraetor|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prummu|Prummu|Prūmmu|30|||indecl. n.
+LS|
+GG|Prummu|Prummu|indecl.|n.||indécl., ville d'Égypte ou d'Éthiopie|Prummu|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|putput|Putput|Pūtpŭt|30|||indecl. n.
+LS|
+GG|Putput|Putput|indecl.|n.|S.|ville de la Mauritanie Zeugitane|Putput|Putput
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rabbi|rabbi|rābbi|30|||indecl.
+LS|
+GG|rabbi|rabbi|indecl.|||indécl. [mot hébreu], maître, docteur|rabbi|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ragondo|Ragondo|Ragōndo|30|||indecl. f.
+LS|
+GG|Ragondo|Ragondo|indecl.|f.||ind., ville de la Pannonie supérieure|Ragondo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|roboam|Roboam|Robŏăm|30|||indecl. m.
+LS|
+GG|
+GJ|Roboam|Roboam|indecl. m.|Roboam (fils de Salomon, roi de Juda).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ruben|Ruben|Ruben|30|||indecl. m.
+LS|
+GG|
+GJ|Ruben|Ruben|indecl. m.|Ruben (premier fils de Jacob).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rumu|Rumu|Rumu|30|||indecl. n.
+LS|
+GG|Rumu|Rumu|indecl.|n.||ind., île de la Gaule, dans la Lyonnaise|Rumu|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salat|Salat|Salăt|30|||indecl. m.
+LS|
+GG|Salat|Salat|indecl.|m.||ind., fleuve de Mauritanie|Salat|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salmanazar|Salmanazar|Sālmanāzăr|30|||indecl. m.
+LS|
+GG|
+GJ|Salmanazar|Salmanazar|indecl. m.|Salmanazar (roi d'Assyrie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salome|Salome|Salome|30|||indecl. f.
+LS|
+GG|
+GJ|Salome|Salome|indecl. f.|Salomé (femme juive).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|samgar|Samgar|Sāmgăr|30|||indecl. m.
+LS|
+GG|
+GJ|Samgar|Samgar|indecl. m.|Vulg. Samgar (juge d'Israël).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|saraim|Saraim|Sarăĭm|30|||indecl.
+LS|
+GG|
+GJ|Saraim|Saraim|indecl.|(Lebaigue P. 1123) Saraïm (ville de Judée).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sel|Sel|Sĕl|30|||indecl.
+LS|
+GG|Sel|Sel|indecl.|||ind., ville de la Bétique|Sel|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sellum|Sellum|Sēllŭm|30|||indecl.
+LS|
+GG|
+GJ|Sellum|Sellum|indecl.|Sellum (ville de Judée).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sennar|Sennar|Sēnnăr|30|||indecl.
+LS|
+GG|Sennar|Sennar|indecl.|||ind., ancien nom de la Babylonie|Sennaar|Sennar
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|siloe|Sīlōē|Sīlōē|30|||indecl. f.
+LS|
+GG|Siloe|Sīlōē|indecl.|f.||ind., fontaine de Palestine, dans la Samarie|Siloa|Sīlōē
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subriti|Subriti|Sū̆briti|30|||indecl. f.
+LS|
+GG|Subriti|Subriti|indecl.|f.||ind., ville de Crète|Subriti|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thamnasare|Thamnasare|Thāmnasare|30|||indecl. f.
+LS|
+GG|
+GJ|Thamnasare|Thamnasare|f. indecl.|Vulg. ville de Judée.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thamnatsare|Thamnatsare|Thāmnātsare|30|||indecl. f.
+LS|
+GG|Thamnatsare|Thamnatsare|indecl.|f.|S.|ville de Judée|Thamnata|Thamnatsare
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thanar|Thanar|Thanăr|30|||indecl. n.
+LS|
+GG|Thanar|Thanar|indecl.|n.||ind., rivière d'Arabie|Thanar|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thebez|Thebez|Thebez|30|||indecl. f.
+LS|
+GG|Thebez|Thebez|indecl.|f.|S.|ville de la Samarie|1 Thebes|Thebez
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|theuth|Theuth|Thēuth|30|||indecl. m.
+LS|
+GG|
+GJ|Theuth|Theuth|indecl. m.|Thot (nom d'une divinité et du premier mois des Egyptiens).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tzitzi|Tzitzi|Tzītzi|30|||indecl. n.
+LS|
+GG|Tzitzi|Tzitzi|indecl.|n.||ind., ville d'Égypte dans la Thébaïde|Tzitzi|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|abaddir|ābaddir|ābāddĭr|30|||indecl. n.
+LS|
+GG|abaddir|ābaddir|indecl.|n.|S.|bétyle, [et spécialt pierre que Rhéa donna à dévorer à Saturne au lieu de Jupiter enfant]|abaddir|ābaddir
+GJ|abaddir|ābaddir|indecl. n.|bétyle (notamment, la pierre que Rhéa donna à dévorer à Saturne au lieu de Jupiter enfant).
+Ge|abaddir|abaddir|n. indecl.|ein Meteorstein
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|abba2|abba2|ābba|30|||indecl. m.
+LS|abba|abba|indecl.|||father|abba2|0
+GG|abba|abba|indecl.|m.|S.|abbé, chef d'une communauté religieuse|abba|abba
+GJ|abba|abba|indecl., m.|père, d'où abbé (chef d'une communauté religieuse).
+Ge|abba|abba||– Abt - die Abtei - die Äbtissin
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|abel2|Ăbēl2|Ăbēl|30|||indecl. m.
+LS|Abel|Ăbēl|indecl.||||Abel|0
+GG|Abel|Abēl|indecl.|m.|S.|Abel [fils d'Adam]|Abel|Abēl
+GJ|Abel|Ăbēl|indecl. m.|Abel (fils d'Adam).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|ammon|Ammōn|Āmmōn|30|||indecl. m.
+LS|
+GG|Ammon|Ammōn|indecl.|||indécl., fils de Loth qui a donné son nom aux Ammonites|2 Ammon|
+GJ|Ammon|Ammon|indecl. m.|Ammon (fils de Loth, souche des Amménites).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|aron2|Arōn2|Arōn|30|||indecl. m.
+LS|
+GG|Aron|Arōn|indecl.|m.|S.|Aaron [grand prêtre des Hébreux]|Aaron|Arōn
+GJ|Aron|Arōn|indecl. m.|Aaron (frère de Moïse, premier grand prêtre des Hébreux).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|bel2|Bel2|Bĕl|30|||indecl. m.
+LS|
+GG|Bel|Bel|indecl.|m.|S.|c. Baal|Bel|Bel
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|capparis|cappăris|cāppăris|30|||indecl. n.
+LS|
+GG|capparis|cappăris|indecl.|n.||câpre, fruit du câprier|capparis|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|edom|Edom|Edŏm|30|||indecl. m. f.
+LS|Edom|Edom|indecl.|m.||Esau, elder son of the patriarch Isaac|Edom|0
+GG|Edom|Edom|indecl.|m.||ind., surnom d'Ésaü // f. surnom de l'Idumée|1 Edom|
+GJ|Edom|Edom|indecl.|Edom. - 1 - surnom d'Esaü. - 2 - surnom de l'Idumée.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|eu|Eu|Ēu|30|||indecl. m.
+LS|
+GG|Eu|Eu|indecl.|m.||roi des Madianites, contre lequel Moïse eut à guerroyer|2 Eu|
+GJ|Eu|Eu|m. indecl.|roi des Madianites, contre lequel a combattu Moïse).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|gabriel2|Gabrĭēl2|Gā̆brĭēl|30|||indecl. m.
+LS|
+GG|Gabriel|Gabrĭēl|indecl.|m.|S.|l'archange Gabriel|Gabriel|Gabrĭēl
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|gamma2|gamma2|gāmma|30|||indecl. f.
+LS|
+GG|gamma|gamma|indecl.|f.|S.|lettre de l'alphabet grec ;|gamma|-a
+GJ|gamma|gamma|indecl.|gamma (lettre de l'alphabet grec).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|hir|hīr|hīr|30|||indecl. n.
+LS|hir|hir|indecl.|n.||a hand, the palm of the hand, used in tasting wine|hir|or 
+GG|hir|hīr|indecl.|n.|S.|paume de la main|hir|hīr
+GJ|hir|hir|indecl.|paume de la main. [donné par les gram. ou c. masc. avec gén. hiris, hirris ou c. n. ind.].
+Ge|hir|hīr||die hohle Hand
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|ir2|īr2|īr|30|||indecl. n.
+LS|ir|ir|indecl.|n.||a hand, the palm of the hand, used in tasting wine|hir|v. hir.
+GG|ir|īr|indecl.|n.||paume de la main|ir|
+GJ|ir|ir|indecl.|paume de la main. [donné par les gram. ou c. masc. avec gén. hiris, hirris ou c. n. ind.].
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|labda2|labda2|lābda|30|||indecl. n.
+LS|labda|labda|indecl.|n.||the Greek letter Λ; supinum, an inverted V|labda|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|phu|phū|phū|30|||indecl. n.
+LS|phu|phū|indecl.|n.|||phu1|0
+GG|phu|phū||n.|S.|valériane [plante]|phu|phū
+GJ|phu|phu|n. indecl.|valériane (plante).
+Ge|phu|phū||Art Baldrian
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|raca2|raca2|raca|30|||indecl.
+LS|
+GG|raca|raca||||[mot hébreu], pauvre individu|2 raca|
+GJ|raca|raca|indecl. (mot hébreu)|Vulg. pauvre individu.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|saul|Săūl|Săūl|30|||indecl. m.
+LS|
+GG|Saul|Săūl|indecl.|m.||Saül [premier roi des Hébreux]|Saul|Săūl
+GJ|
+Ge|Saul|Saūl|m. indecl.|Saul
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|tau|tau|tāu|30|||indecl. n.
+LS|tau|tau|indecl.|n.||the name of the Greek letter|tau1|0
+GG|tau|tau|indecl.|n.||tau [lettre grecque] / mot celtique|2 tau|
+GJ|tau|tau|(thau), indecl.|1 - le tau (lettre grecque); la croix (la lettre avait, dans l'alphabet ancien, exactement la forme d'une croix). 2 - mot celtique de définition inconnue.
+Ge|tau|tau|n. indecl.|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|zeta2|zēta2|zēta|30|||indecl. f. n.
+LS|zeta|zēta|indecl.|n.||the Greek letter|zeta2|0
+GG|zeta|zēta|indecl.|f.||zêta [lettre de l'alphabet grec] / sixième livre de l'Iliade|1 zeta|
+GJ|
+Ge|zeta|zēta|n. indecl.|Buchstabe Zeta - das sechste Buch
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|a2|a2|ā |30|||indecl. f. n.
+LS|
+GG|a|a|indecl.|f. n.||indécl., [première lettre de l'alphabet] / abréviations diverses|1 a|
+GJ|
+Ge|a|A||
+FG|A|A, féminin, neutre, indéclinable (première lettre de l'alphabet) ; abréviations diverses : A = Aulus (prénom) ; = antiquo, je rejette (la proposition) (sur les bulletins de vote dans les comices) ; = absolvo, j'absous (sur les bulletins des juges).
+Lw|a|A|as an abbreviation|||||||A1
+Y§|
+PO|
+WW||||
+|babel2|Babel2|Babĕl|30|||indecl. f.
+LS|
+GG|
+GJ|Babel|Babel|indecl. f. |Babylon.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|beta3|bēta3|bēta|30|||indecl. n.
+LS|beta|bēta|indecl.|n.||the Greek name of the second letter of the alphabet, the second in any thing|beta2|0
+GG|beta|bēta|indecl.|n.|S.|bêta [deuxième lettre de l'alphabet grec] / [fig.] le second partout|1 beta|bēta
+GJ|
+Ge|beta|bēta|indecl.|der Zweite
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|cappa3|cappa3|cāppa|30|||indecl. n.
+LS|
+GG|cappa|cappa|indecl.|n.||lettre de l'alphabet grec|1 cappa|
+GJ|
+Ge|cappa|cappa|n. indecl.|Buchstabe Kappa
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|chama|chăma|chăma|30|||indecl. n.
+LS|
+GG|chama|chăma|indecl.|n.||loup-cervier|2 chama|
+GJ|chama|chăma|indecl. n.|loup-cervier.
+Ge|chama|chama|n. indecl.|der Hirschluchs
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|chus2|Chus2|Chus|30|||indecl. m.
+LS|
+GG|
+GJ|Chus|Chus|invar. m.|- a - Chus (fils de Cham). - b - la terre de Chus (l'Egypte).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|delta3|delta3|dēlta|30|||indecl. n.
+LS|
+GG|delta|delta|indecl.|n.|S.|delta [quatrième lettre de l'alphabet grec]|1 delta|delta
+GJ|delta|delta|invar. n.|le delta (lettre de l'alphabet grec : Δ).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|levi|Lēvi|Lēvi|30|||indecl. m.
+LS|
+GG|Levi|Lēvi|indecl.|m.||ind., troisième fils de Jacob / surnom de l'apôtre saint Mathias|2 Levi|
+GJ|Levi|Lēvi||- a - Lévi (un des fils de Jacob). - b - surnom de l'apôtre saint Mathias.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|mane2|mānĕ2|mānĕ|30|||indecl. n.
+LS|mane|māne|indecl.|n.||The morning, morn|mane|0
+GG|mane|mānĕ|indecl.|n.||le matin|1 mane|
+GJ|mane|mānĕ|indecl. n.|le matin, la matinée.
+Ge|mane|māne|subst. indecl. neutr.|der Morgen - die Frühzeit - die Frühe - früh, morgens
+FG|mane|mane,
+Lw|mane|māne||||||||mane1
+Y§|
+PO|mane|ma_ne : n indec
+WW||||
+|nil2|nīl2|nīl|30|||indecl. n.
+LS|nil|nīl|indecl.|n.||nothing|nihil|0
+GG|nil|nīl|indecl.|n.||rien|nihil|nīl
+GJ|nil|nil||c. nihil.
+Ge|
+FG|nil|nil, cf. nihil.
+Lw|nil|nīl||n||nothing, exerted themselves to the utmost, of what they had, no drop of blood, nothing proper, we have nothing to do with you, of no account, a worthless fellow, don't be extravagant, adverb., not at all, in no respect, not a whit, for no reason, but, in comparison with, you effect nothing, no, you don't!, everything, somewhat, nothing at all, are nothing but wisdom, only, nothing except, only, exclusively, I have omitted nothing that might separate, you have no cause to fear, to no purpose, in vain, by no means||||nil1
+Y§|
+PO|nil|ni_l : n indec
+WW||||
+|no2|No2|No|30|||indecl. f.
+LS|No|No||||an Egyptian city, Alexandria;, Thebes|No2|0
+GG|No|No|indecl.|f.||ville d'Égypte|2 No|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|opus2|ŏpus2|ŏpus|30|||indecl. n.
+LS|
+GG|opus|ŏpus|indecl.|n.||chose nécessaire / [qqf] chose utile|2 opus|
+GJ|opus|ŏpus|indecl. n.|chose nécessaire, ce dont on a besoin, besoin.
+Ge|opus|opus|n. indecl.|das Werk = die nötige Sache
+FG|opus|opus, neutre indéclinable,
+Lw|
+Y§|
+PO|opus|opus : n indec
+WW||||
+|secus2|sĕcŭs2|sĕcŭs|30|||indecl. n.
+LS|secus|sĕcus|indecl.|n.||A sex, male or female (of men and beasts)|sexus|0
+GG|secus|sĕcŭs|indecl.|n.||indécl. = sexus, sexe [employé en gén. à l'acc. de relation]|3 secus|
+GJ|secus|sĕcŭs|n. indecl.|c. sexus : sexe.
+Ge|secus|secus|n. indecl.|das Geschlecht
+FG|secus|secus, neutre indéclinable, équivaut à secus, sexe (employé en général à l'accusatif de relation).
+Lw|secus|secus||n||a sex, sing. adverb., males||||secus1
+Y§|
+PO|
+WW||||
+|semis2|sēmis2|sēmis|30|||indecl.
+LS|
+GG|semis|sēmis|indecl.|||moitié / demi-as / demi-arpent / demi-pied / le nombre trois chez les mathém. [sex étant le numerus perfectus] / demi-aureus|semis|semis
+GJ|
+Ge|semis|sēmis|indecl.|halb - die Hälfte
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|sibi|Sibi|Sibi|30|||indecl. n.
+LS|
+GG|Sibi|Sibi|indecl.|n.||ind., ville d'Arabie|2 Sibi|
+GJ|Sibi|Sibi|n. inv.|Plin. Sibi (ville d'Arabie).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|silo|Sīlo|Sīlo|30|||indecl. f.
+LS|
+GG|Silo|Sīlo|indecl.|f.||ind., ville de Judée|3 Silo|
+GJ|Silo|Silo|indecl. f.|Vulg. Silo (ville de Judée).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|termes2|Termes2|Tērmes|30|||indecl. n.
+LS|
+GG|Termes|Termes|indecl.|n.|S.|ville de la Tarraconnaise|2 Termes|Termes
+GJ|Termes|Termes|n. indecl.|Termès (ville de la Tarraconnaise).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|tharsis2|Tharsis2|Thārsis|30|||indecl.
+LS|
+GG|
+GJ|Tharsis|Tharsis|indecl.|Vulg. Tharsis (une ville éloignée de la Judée).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|aggar=adgar|Aggar|Āggăr|30|||indecl. n.
+LS|
+GG|Aggar|Aggar|indecl.|n.|S.|v. du nord de l'Afrique|Aggar|Aggar
+GJ|Aggar|Aggar|n. indecl.|Aggar (ville d'Afrique).
+Ge|aggar|aggar|n. indecl.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|allecto2|Allēctō2|Āllēctō|30|||indecl. f.
+LS|
+GG|Allecto|Allectō|indecl.|f.|S.|Alecto [une des trois Furies]|1 Allecto|Allectō
+GJ|Allecto|Allecto|indecl.|Alecto (une des Furies, l'Incessante, l'Implacable).
+Ge|allecto|allēctō||
+FG|Allecto|Allecto (Alecto), féminin, Alecto (une des trois Furies).
+Lw|Allecto|Allectō|see ālecto.|||||||Allecto
+Y§|
+PO|
+WW||||
+|gommi|gommi|gōmmi|30|||indecl. n.
+LS|
+GG|gommi|gommi|indecl.|n.||v. cummi.|gommi|
+GJ|gommi|gommi|indecl.|gomme.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thaduti|Thaduti|Thaduti|30|||indecl. n.
+LS|
+GG|Thaduti|Thaduti|indecl.|n.||v. Taduti.|Thaduti|
+GJ|Thaduti|Thaduti|n. indecl.|Anton. ville de Numidie.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gethsemani|Gethsemani|Gethsemani|30|||indecl.
+LS|
+GG|
+GJ|Gethsemani|Gethsemani|indecl.|Gethsémani (village près de Jérusalem).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frugi2|Frūgi2|Frūgi|30|||indecl.
+LS|
+GG|Frugi|Frūgi|indecl.|||l'Honnête homme [surnom de plusieurs Romains, p. ex. L. Pison]|2 Frugi|
+GJ|
+Ge|
+FG|Frugi|Frugi, l'Honnête homme (surnom de plusieurs Romains, par exemple de L. Pison).
+Lw|
+Y§|
+PO|
+WW||||

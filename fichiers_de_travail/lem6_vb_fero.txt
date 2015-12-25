@@ -1,0 +1,80 @@
+|circumaufero|circumaufĕro|cīrcumāufĕro|33|cīrcumābstŭl|cīrcumāulāt|abstuli, ferre
+LS|
+GG|circumaufero|circumaufĕro|abstuli, ferre||tr.|tr., supprimer totalement|circumaufero|
+GJ|
+Ge|circumaufero|circumaufero|abstulī, ferre|rings-, ganz wegnehmen - gänzlich aufheben, -verbieten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ecfero|ecfĕro|ēcfĕro|33|ēxtŭl|ēlāt|extŭli, ēlatum, efferre or ecferre
+LS|ecfero|ecfĕro|extŭli, ēlatum, efferre or ecferre||v. a.|to bring, carry out, to bring forth|effero1|or 
+GG|ecfero|ecfĕro|extŭlī, ēlātum, efferre||tr.|porter hors de, emporter / porter hors d'un navire, débarquer qqch / [en part.] emporter un mort, ensevelir / produire, donner, en parlant de la terre / lever en haut, élever / porter qqch (qqn) aux nues / élever, soulever / produire au dehors, divulguer / exprimer / se produire au dehors, se montrer, se manifester / [sens péjor.] se laisser aller à des transports d'orgueil, se gonfler, s'enorgueillir / au pass. / [pass.] être transporté par une passion, être emporté (soulevé) / [poét.] supporter un travail, une peine, etc.|2 effero|ecfero
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|introfero|intrōfĕro|īntrōfĕro|33|īntrōtŭl|īntrōlāt|tŭli, lātum, ferre
+LS|introfero|intrōfĕro|tŭli, lātum, ferre||v. anom. a.|to carry, bring in|introfero|0
+GG|introfero|intrōfĕro|tŭli, lātum, ferre||tr.|tr., porter dans|introfero|
+GJ|introfero|introfĕro|ferre, tŭli, lātum|- tr. - porter dans.
+Ge|introfero|intrōfero|tulī, ferre|hineintragen
+FG|introfero|introfero ferre tuli latum, transitif, porter dans.
+Lw|introfero|intrō-ferō or intrō ferō|&mdash;, lātus, ferre|||to carry in, bring in||||introfero
+YO|
+PO|
+WW||||
+|praeterfero|praeterfĕrō|prāetērfĕrō|33|prāetērtŭl|prāetērlāt|no perf., lātum, ferre
+LS|praeterfero|praeterfĕro|no perf., lātum, ferre||v. a.|to carry by, past.&mdash;Pass., to come, run, drive, fly past|praeterfero|no 
+GG|
+GJ|
+Ge|praeterfero|praeterfero|tulī, lātum, ferre|vorbeitragen - vorbeiziehen, -fliegen, -gehen
+FG|
+Lw|praeterfero|(praeter-ferō)|&mdash;, lātus, ferre|||to carry by; only||||praeterfero
+YO|
+PO|
+WW||||
+|subinfero|sŭbinfĕro|sŭbīnfĕro|33|sŭbīntŭl|sŭbīnlāt|tŭli, ferre
+LS|subinfero|sŭbinfĕro|tŭli, ferre||v. a.|to subjoin, add|subinfero|0
+GG|subinfero|sŭbinfĕro|tŭli, ferre||tr.|tr., ajouter|subinfero|
+GJ|subinfero|sŭbinfĕro|ferre, tŭli|- tr. - Vulg. ajouter.
+Ge|subinfero|subīnfero|intulī, ferre|hinzufügen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|supereffero|sŭpĕreffĕro|sŭpĕrēffĕro|33|||efferre
+LS|supereffero|sŭpĕreffĕro|efferre||v. irreg. a.|to exalt, extol|supereffero|ef-ferre, 
+GG|supereffero|sŭpĕreffĕro|ferre||tr.|tr., exalter|supereffero|
+GJ|supereffero|sŭpĕreffĕro|ferre|- tr. - Aug. exalter.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superfero|sŭperfĕro|sŭpērfĕro|33|sŭpērtŭl|sŭpērlāt|ferre
+LS|superfero|sŭperfĕro|ferre||v. a.|To carry over, beyond, to place, put over, Pass., to go, ride, fly, swim, over|superfero|0
+GG|superfero|sŭperfĕro|tŭli, lātum, ferre||tr.|porter au-dessus / pass. superferri, être porté à la surface / dépasser, reculer, porter au-delà|superfero|
+GJ|superfero|sŭperfĕro|ferre, tŭli, lātum|- tr. - 1 - porter au-dessus, porter au-delà, faire franchir; au passif : être porté à la surface, surnager. - 2 - prolonger au-delà du terme, dépasser, reculer.
+Ge|superfero|superfero|tulī, lātum, ferre|darübertragen, -führen, -bringen, -legen - darüberfliegen, -fahren, -laufen, -schwimmen - über die Zeit hinaustragen - den höchsten Grad - ( Superlativ - bilden
+FG|superfero|superfero ferre tuli latum, transitif,
+Lw|
+YO|
+PO|
+WW||||
+|coinfero|cŏinfĕro|cŏīnfĕro|33|cŏīntŭl|cŏīnlāt|cŏinferre
+LS|
+GG|
+GJ|coinfero|cŏinfĕro|cŏinferre|- tr. - apporter ensemble.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||

@@ -1,0 +1,490 @@
+|aboriscor|ăbŏriscor|ăbŏrīscŏr|26|||ci, intr.
+LS|aboriscor|ăbŏriscor|ci|||dep., to perish, die|aboriscor|0
+GG|aboriscor|ăbŏriscor|sci||intr.|int., mourir|aboriscor|
+GJ|aboriscor|ăbŏriscor|isci|c. aborior.
+Ge|aboriscor|aborīscor|scī|vergehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adingredior|ădingrĕdĭor|ădīngrĕdĭŏr|27|||i
+LS|
+GG|adingredior|ădingrĕdĭor|i||tr.|tr., pénétrer dans, prendre possession de qqch|adingredior|
+GJ|adingredior|ădingrĕdior|i|- tr. - pénétrer dans, prendre possession de qqch.
+Ge|adingredior|adingredior|gredī|betreten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calvor|calvor|cālvŏr|26|||3
+LS|calvor|calvor|3||v. dep. a.||calvor|0
+GG|calvor|calvor|calvi|||sens passif calvi, être trompé|calvor|
+GJ|calvor|calvor|calvi|- 1 - passif être abusé, être trompé. - 2 - déponent chercher à s'échapper, tromper.
+Ge|calvor|calvor|vī, Depon.|Ränke schmieden, Ausflüchte suchen - hintergehen, täuschen - hintergangen-, getäuscht werden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|contuor|contŭor|cōntŭŏr|26|||tui
+LS|contuor|contŭor|tui||v. a.|To look on, gaze upon, behold, survey, to consider attentively|contueor|0
+GG|contuor|contŭor||||v. contueor.|contuo|contŭor
+GJ|contuor|contŭor|arch.|c. contueor.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|convescor|convescor|cōnvēscŏr|26|||vesci, intr.
+LS|convescor|convescor|vesci||v. dep.|to eat with one|convescor|0
+GG|convescor|convescor|i||intr.|int., manger avec ou ensemble|convescor|
+GJ|convescor|convescor|convesci|manger avec ou ensemble.
+Ge|convescor|convescor|vescī|zusammen speisen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coutor|cŏūtor|cŏūtŏr|26|||ūti, intr.
+LS|coutor|cŏūtor|ūti||v. n.|to associate with, have dealings with|coutor|0
+GG|coutor|cŏūtor|i||intr.|int., avoir commerce avec|coutor|
+GJ|coutor|cŏūtor|ūti [cum + utor]|- intr. avec abl. - avoir des relations avec, fréquenter.
+Ge|coutor|coūtor|Utī|Umgang haben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|defruor|dēfrŭor|dēfrŭŏr|26|||frui, intr.
+LS|defruor|dēfrŭor|frui||v. dep.|to use up, consume by enjoying, defrui, deamare, deperire|defruor|0
+GG|defruor|dēfrŭor|i||intr.|int., jouir (tirer parti) à fond de|defruor|
+GJ|defruor|dēfruor|defrui|jouir complètement (de qqch, aliqua re).
+Ge|defruor|dēfruor|fruī|ganz genießen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|deloquor|dēlŏquor|dēlŏqụŏr|26|||i
+LS|
+GG|deloquor|dēlŏquor|i|||c. loquor|deloquor|
+GJ|deloquor|dēlŏquor|i|c. loquor.
+Ge|deloquor|dēloquor||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|denascor|dēnascor|dēnāscŏr|26|||nasci, intr.
+LS|denascor|dēnascor|nasci||v. dep.|to perish, die|denascor|0
+GG|denascor|dēnascor|i||intr.|int., cesser d'être, mourir|denascor|
+GJ|denascor|denascor|denasci|- 1 - cesser d'être, mourir. - 2 - décroître, dépérir.
+Ge|denascor|dēnāscor|nāscī|sterben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|depotior|dēpŏtĭor|dēpŏtĭŏr|27|||īre, intr.
+LS|
+GG|depotior|dēpŏtĭor|īre||intr.|int., perdre, être privé de|depotior|
+GJ|depotior|depotior|iri|perdre, être privé de.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|devescor|dēvescor|dēvēscŏr|26|||vesci
+LS|devescor|dēvescor|vesci||v. dep. a.|to eat up, devour|devescor|0
+GG|devescor|dēvescor|esci||tr.|tr., dévorer|devescor|
+GJ|devescor|dēvescor|esci|- intr. - manger, dévorer, se repaître de.
+Ge|devescor|dēvēscor|vēscī|wegzehren, aufspeisen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dispartior|dispartĭor|dīspārtĭŏr|27|||iri
+LS|dispartior|dispartior|||||dispartio|and 
+GG|dispartior|dispartĭor||||v. dispert-.|dispartio|dispartĭor
+GJ|dispartior|dispartior|iri|c. dispertio.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|experiscor|expĕrīscor|ēxpĕrīscŏr|26|||isci
+LS|
+GG|experiscor|experiscor||||c. experior|experiscor|
+GJ|experiscor|expĕriscor|isci|- tr. - Inscr. éprouver.
+Ge|experiscor|experīscor|rīscī|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inorior|ĭnŏrĭor|ĭnŏrĭŏr|27|||false reading for oreretur
+LS|inorior|ĭnŏrĭor|false reading for oreretur||||inorior|0
+GG|
+GJ|inorior|ĭnorĭor|iri|se montrer, naître.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|labiscor|lābīscor|lābīscŏr|26|||isci, intr.
+LS|
+GG|labiscor|lābiscor|isci||intr.|int., commencer à glisser|labiscor|
+GJ|
+Ge|labiscor|lābīscor|Iscī|zu gleiten anfangen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|maleloquor|mălĕlŏquor|mălĕlŏqụŏr|26|||i
+LS|
+GG|maleloquor|mălĕlŏquor|i||||maleloquor|mălĕlŏquor
+GJ|maleloquor|mălĕloquor|loqui|dire du mal (de qqn, alicui), injurier (qqn, alicui).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|obtuor|obtŭor|ōbtŭŏr|26|||ĕris, i
+LS|obtuor|obtŭor|||v. dep. a.|I. To look at, gaze upon II. To see, behold, perceive|obtueor|is assumed to explain 
+GG|obtuor|obtŭor|ĕris, i|||c. obtueor|obtuor|
+GJ|obtuor|obtuor|eri|- 1 - regarder en face, regarder. - 2 - voir, apercevoir.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|permorior|permŏrĭor|pērmŏrĭŏr|27|||mŏri, intr.
+LS|permorior|permŏrĭor|mŏri||v. dep. n.|to die|permorior|0
+GG|permorior|permŏrĭor|ŏri||intr.|int., mourir entièrement|permorior|
+GJ|
+Ge|permorior|permorior|morī|völlig sterben, durch den Tod vernichtet werden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perpascor|perpascor|pērpāscŏr|26|||ci, 3, intr.
+LS|perpascor|perpascor|ci, 3||v. dep.|to lay waste, devastate|perpasco|0
+GG|perpascor|perpascor|i||intr.|int., se repaître de [fig.], dévorer|perpascor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praenascor|praenāscor|prāenāscŏr|26|||i, intr.
+LS|
+GG|praenascor|praenascor|i||intr.|int., naître auparavant|praenascor|
+GJ|praenascor|praenascor|nasci|naître auparavant.
+Ge|praenascor|praenāscor|nāscī|vorher - zuerst geboren werden, -entstehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praevertor|praevertor|prāevērtŏr|26|||3
+LS|praevertor|praevertor|3||v. dep.|I. To prefer II. To go before, precede, outstrip, outrun|praeverto|or 
+GG|praevertor|praevertor|i|||dépon., mêmes sens que praeverto ; faire passer avant / devancer / prévenir, aller au-devant de, réduire à néant / vers une chose / [avec ad] / s'occuper d'abord de / [avec in acc.] se rendre d'abord dans|praevertor|praevertor
+GJ|praevertor|praevertor|verti|- 1 - se tourner d'abord vers, s'occuper d'abord de, s'appliquer de préférence à. - 2 - devancer, surpasser.
+Ge|
+FG|praevertor|praevertor (-vortor) i,
+Lw|praevertor|praevertor (-vortor)|&mdash;, &mdash;, ī||dep.|to outstrip, pass, to arrive first, to despatch first, attend to in preference, prefer, let us first look at this||||praevertor
+YO|
+PO|
+WW||||
+|praevortor|praevortor|prāevōrtŏr|26|||3
+LS|praevortor|praevortor|3||v. dep.|I. To prefer II. To go before, precede, outstrip, outrun|praeverto|or 
+GG|praevortor|praevortor|i|||dépon., mêmes sens que praeverto ; faire passer avant / devancer / prévenir, aller au-devant de, réduire à néant / vers une chose / [avec ad] / s'occuper d'abord de / [avec in acc.] se rendre d'abord dans|praevertor|-vortor
+GJ|praevortor|praevortor|verti|- 1 - se tourner d'abord vers, s'occuper d'abord de, s'appliquer de préférence à. - 2 - devancer, surpasser.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|propatior|prōpătĭor|prōpătĭŏr|27|||ti
+LS|propatior|prōpătĭor|ti||v. dep. a.|to endure before|propatior|0
+GG|propatior|prōpătĭor|i||tr.|tr., souffrir auparavant ou antérieurement|propatior|
+GJ|propatior|prōpătĭor|păti|- tr. - souffrir auparavant ou antérieurement.
+Ge|propatior|prōpatior|patī|vorher leiden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|recomminiscor|rĕcommĭniscor|rĕcōmmĭnīscŏr|26|||nisci
+LS|recomminiscor|rĕcommĭniscor|nisci||v. dep. a.|to recall to mind, recollect|recomminiscor|0
+GG|recomminiscor|rĕcommĭniscor|i||intr.|int., se ressouvenir|recomminiscor|
+GJ|recomminiscor|rĕcomminiscor|minisci|se ressouvenir de.
+Ge|recomminiscor|recomminīscor|minīscī|sich wieder erinnern, -besinnen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|redipiscor|rĕdĭpiscor|rĕdĭpīscŏr|26|||ci
+LS|redipiscor|rĕdĭpiscor|ci||v. dep. a.|to get again, to regain, recover|redipiscor|0
+GG|redipiscor|rĕdĭpiscor|i||tr.|tr., recouvrer|redipiscor|
+GJ|redipiscor|rĕdĭpiscor|sci [red + apiscor]|- tr. - recouvrer.
+Ge|redipiscor|redipīscor|pīscī|wieder erlangen, - bekommen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|reminiscor|rĕmĭniscor|rĕmĭnīscŏr|26|||sci
+LS|reminiscor|rĕmĭniscor|sci||v. dep. n. and a.||reminiscor|0
+GG|reminiscor|rĕmĭniscor|i|||[avec gén.] se ressouvenir de / se rappeler qqch / imaginer par réminiscence|reminiscor|
+GJ|reminiscor|rĕmĭniscor|rĕmĭnisci|- 1 - rappeler à son souvenir, se ressouvenir, se rappeler. - 2 - se représenter, imaginer.
+Ge|reminiscor|reminīscor|minīscī|zurückdenken - etwas sich ins Gedächtnis zurückrufen - sich besinnen - Sache sich erinnern - besinnend bedenken, erwägen - besinnend erdenken, aussinnen, ausdenken
+FG|reminiscor|reminiscor i, intransitif et transitif,
+Lw|reminiscor|reminīscor|&mdash;, ī||dep.|to recall to mind, recollect, remember||||reminiscor
+YO|
+PO|reminiscor|remini_scor, remini_sci_ : v3 dep
+WW||||
+|segredior|sēgrĕdĭor|sēgrĕdĭŏr|27|||grĕdi, 3, intr.
+LS|segredior|sēgrĕdĭor|grĕdi, 3||v. n.|to withdraw, go aside|segredior|0
+GG|segredior|sēgrĕdĭor|i||intr.|int., aller à l'écart, se retirer|segredior|
+GJ|
+Ge|segredior|sēgredior|gredī|beiseite-, weggehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subringor|subringor|sū̆brīngŏr|26|||gi, intr.
+LS|subringor|subringor|gi||v. dep. n.|to make a somewhat wry face, to be a little vexed|surringor|(
+GG|subringor|subringor|i||intr.|int., faire la grimace, gronder à part soi|subringor|
+GJ|subringor|subringor|ringi|- dép. intr. - faire la grimace, grogner, pester.
+Ge|subringor|subringor|ringī|die Nase etwas rümpfen
+FG|subringor|subringor i, intransitif, faire la grimace, gronder à part soi.
+Lw|subringor|sub-ringor (surr-)|&mdash;, ī||dep.|to make a wry face, be a little vexed||||subringor
+YO|
+PO|
+WW||||
+|superegredior|sŭpĕrēgrĕdĭor|sŭpĕrēgrĕdĭŏr|27|||ĕdi, 3
+LS|superegredior|sŭpĕrēgrĕdĭor|ĕdi, 3||v. a.|to surmount|superegredior|0
+GG|superegredior|sŭpĕrēgrĕdĭor|i||tr.|tr., s'élever au-dessus de [fig.]|superegredior|
+GJ|superegredior|sŭpĕrēgrĕdĭor|i|- dép. tr. - s'élever au-dessus, dépasser (au fig.).
+Ge|superegredior|superēgredior|Egredī|über - hinausgehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superemorior|sŭpĕrēmŏrĭor|sŭpĕrēmŏrĭŏr|27|||mŏri, intr.
+LS|superemorior|sŭpĕrēmŏrĭor|mŏri||v. dep. n.|to die upon|superemorior|0
+GG|superemorior|sŭpĕrēmŏrĭor|i||intr.|int., mourir dessus|superemorior|
+GJ|superemorior|sŭpĕrēmŏrĭor|ēmŏri|- dép. intr. - Plin. mourir sur.
+Ge|superemorior|superēmorior|Emorī|darüber hinsterben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|supergradior|sŭpergrădĭor|sŭpērgrădĭŏr|27|||di
+LS|supergradior|sŭpergrădĭor|di||v. dep. a. and n.|to step, walk, go over|supergradior|(
+GG|supergradior|sŭpergrădĭor||||c. supergredior|supergradior|
+GJ|supergradior|sŭpergrădĭor|grădĭ|Plin. c. supergredior.
+Ge|supergradior|supergradior||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superingredior|sŭpĕringrĕdĭor|sŭpĕrīngrĕdĭŏr|27|||i
+LS|
+GG|superingredior|supĕringrĕdĭor|i||tr.|tr., traverser, franchir|superingredior|
+GJ|superingredior|sŭpĕringrĕdĭor|grĕdi|- dép. tr. - Col. enjamber, franchir (en enjambant).
+Ge|superingredior|superingredior|gredī|über - hinschreiten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superlabor|sŭperlābor|sŭpērlābŏr|26|||bi, intr.
+LS|superlabor|sŭperlābor|bi||v. dep. n.|to glide, run over, med.|superlabor|0
+GG|superlabor|sŭperlābor|i||intr.|int., glisser au-dessus [en parl. des astres]|superlabor|
+GJ|superlabor|sŭperlābor|lābi|- dép. intr. - glisser au-dessus, rouler au-dessus, faire sa révolution au-dessus (en parl. des astres).
+Ge|superlabor|superlābor|lābī|darüber hingleiten, -schlüpfen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|surringor|surringor|sūrrīngŏr|26|||gi, intr.
+LS|surringor|surringor|gi||v. dep. n.|to make a somewhat wry face, to be a little vexed|surringor|(
+GG|surringor|surringor||||v. subringor.|surringor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|traloquor|trālŏquor|trālŏqụŏr|26|||qui
+LS|traloquor|trālŏquor|qui||v. dep. a.|to talk over, recount|traloquor|or 
+GG|traloquor|trālŏquor|i||tr.|tr., dire, narrer d'un bout à l'autre|traloquor|trālŏquor
+GJ|traloquor|trālŏquor|lŏqui|raconter du début à la fin.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|transfungor|trānsfungor|trānsfūngŏr|26|||i, intr.
+LS|
+GG|transfungor|transfungor|i||intr.|int., s'acquitter de (employer) de manière à arriver au bout = avec insouciance, négligence|transfungor|
+GJ|transfungor|transfungor|fungi|passer, employer (le temps).
+Ge|transfungor|trānsfungor|fungi|verwenden, verstreichen lassen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|transloquor|translŏquor|trānslŏqụŏr|26|||qui
+LS|transloquor|translŏquor|qui||v. dep. a.|to talk over, recount|traloquor|or 
+GG|transloquor|translŏquor|qui||dep.|tr., dire, narrer d'un bout à l'autre|traloquor|translŏquor
+GJ|transloquor|translŏquor|lŏqui|raconter du début à la fin.
+Ge|transloquor|trānsloquor|loquī|hererzählen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|disgredior|disgrĕdĭor|dīsgrĕdĭŏr|27|||i
+LS|
+GG|disgredior|disgrĕdĭor|i|||v. digredior|disgredior|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|evescor|ēvescor|ēvēscŏr|26|||i
+LS|
+GG|evescor|ēvescor|i|||se repaître|evescor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ignescor|ignescor|īgnēscŏr|26|||i
+LS|
+GG|ignescor|ignescor|i|||dép. = ignesco|ignescor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|illuctor|illuctor|īllūctŏr|24|||Ari
+LS|
+GG|
+GJ|
+Ge|illuctor|illuctor|Ari|mit - etwas kämpfen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|labascor|lăbascor|lăbāscŏr|26|||ci
+LS|labascor|lăbascor|ci||v. dep.|to totter, be ready to fall|labasco|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subingredior|sŭbingrĕdĭor|sŭbīngrĕdĭŏr|27|||i, intr.
+LS|
+GG|subingredior|sŭbingrĕdĭor|i||intr.|int., entrer avec précaution [dans]|subingredior|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vergor|vergor|vērgŏr|26|||i
+LS|
+GG|vergor|vergor|i|||v. vergo § 2.|vergor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vescitor|vescitor|vēscitŏr|24|||Ari
+LS|
+GG|
+GJ|
+Ge|vescitor|vescitor|Ari|genießen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tuor2|tŭor2|tŭŏr|26|||tŭi, 3
+LS|tuor|tŭor|tŭi, 3||v. dep. a.|to see, to look, gaze upon, to watch, view;, to see, look to, to defend, protect|tueor|0
+GG|tuor|tŭor||||c. tueor ; regarder, voir|1 tuor|
+GJ|tuor|tŭor||c. tueor.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|illiquor=inliquor|illīquor|īllīqụŏr|26|||i, intr.
+LS|illiquor|illīquor|i||v. dep. n.|to flow into|illiquor|(
+GG|illiquor|illīquor|i|||c. liquor 1|illiquor|illīquor
+GJ|illiquor|illīquor|illīqui|- intr. - couler dans.
+Ge|illiquor|illīquor|līquī|hineinfließen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|impascor=inpascor|impascor|īmpāscŏr|26|||sci, intr.
+LS|impascor|impascor|sci||v. pass.|to feed, be pastured in|impascor|(
+GG|impascor|impascor|i||intr.|int., paître dans [av. dat.]|impascor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|impliciscor=inpliciscor|implĭcīscor|īmplĭcīscŏr|26|||sci, intr.
+LS|impliciscor|implĭciscor|sci||v. dep. inch. n.|to become confused, disordered, act.|impliciscor|(
+GG|
+GJ|
+Ge|impliciscor|implicīscor|I|in Verwirrung geraten, wirr werden
+FG|
+Lw|
+YO|
+PO|
+WW||||

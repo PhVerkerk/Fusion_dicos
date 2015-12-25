@@ -1,0 +1,590 @@
+|abstinax|abstĭnāx|ābstĭnāx|14|ābstĭnāc||ācis
+LS|abstinax|abstĭnax|ācis||adj.|abstinent|abstinax|0
+GG|abstinax|abstĭnāx|ācis|||habitué à l'abstinence|abstinax|
+GJ|abstinax|abstĭnax|ācis|habitué à l'abstinence.
+Ge|abstinax|abstināx|Acis|enthaltsam
+FG|
+Lw|
+YO|
+PO|
+WW||abstinax, abstinacis||
+|altipetax|altĭpĕtāx|āltĭpĕtāx|14|āltĭpĕtāc||ācis
+LS|
+GG|altipetax|altĭpĕtax|ācis|||qui vise haut|altipetax|
+GJ|altipetax|altipetax|ācis|Aug. qui tend à s'élever, qui vise haut.
+Ge|altipetax|altipetāx|Acis|hochstrebend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bellax|bellax|bēllāx|14|bēllāc||ācis
+LS|bellax|bellax|ācis||adj.|warlike, martial|bellax|0
+GG|bellax|bellax|ācis|||belliqueux|bellax|
+GJ|bellax|bellax|ācis [bellum]|belliqueux, guerrier.
+Ge|bellax|bellāx|Acis|kriegerisch, kampflustig
+FG|
+Lw|
+YO|
+PO|
+WW||bellax, bellacis||
+|bibax|bĭbax|bĭbāx|14|bĭbāc||ācis
+LS|bibax|bĭbax|ācis||adj.|given to drink|bibax|0
+GG|bibax|bĭbax|ācis|||grand buveur|bibax|
+GJ|bibax|bibax|ācis|grand buveur.
+Ge|bibax|bibāx|Acis|trunksüchtig
+FG|
+Lw|
+YO|
+PO|
+WW||bibax, bibacis||
+|bifax|bĭfax|bĭfāx|14|bĭfāc||ācis
+LS|bifax|bĭfax|dīfax|||two-faced|bifax|0
+GG|bifax|bĭfax|ācis|||qui a deux visages|bifax|
+GJ|bifax|bifax|ācis|qui a deux visages.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||bifax, bifacis||
+|caeliloquax|caelĭlŏquāx|cāelĭlŏqụāx|14|cāelĭlŏqụāc||ācis
+LS|
+GG|caeliloquax|caelĭlŏquax||||inspiré|caeliloquax|
+GJ|caeliloquax|caeliloquax||inspiré.
+Ge|caeliloquax|caeliloquāx|ācis|himmlisch redend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|carnivorax|carnĭvŏrax|cārnĭvŏrāx|14|cārnĭvŏrāc||ācis
+LS|
+GG|carnivorax|carnĭvŏrax|ācis||adj.|qui se nourrit de chair|carnivorax|carnĭvŏrax
+GJ|carnivorax|carnivorax|ācis|carnivore, carnassier.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|catax|cătāx|cătāx|14|cătāc||ācis
+LS|catax|cătax|||adj.|limping, lame|catax|0
+GG|catax|cătāx|ācis|||boiteux|catax|
+GJ|
+Ge|catax|catāx|ācis|hinkend, lahm
+FG|
+Lw|
+YO|
+PO|
+WW||catax, catacis||
+|comminax|commĭnax|cōmmĭnāx|14|cōmmĭnāc||ācis
+LS|
+GG|comminax|commĭnax|ācis|||menaçant|comminax|
+GJ|comminax|comminax|ācis|menaçant.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|crepax|crĕpax|crĕpāx|14|crĕpāc||ācis
+LS|crepax|crĕpax|ācis||adj.|sounding, creaking|crepax|0
+GG|crepax|crĕpax|ācis|||qui craquète|crepax|
+GJ|crepax|crĕpax|ācis|qui craquète, criard, bruyant.
+Ge|crepax|crepāx|pācis|knisternd
+FG|
+Lw|
+YO|
+PO|
+WW||crepax, crepacis||
+|currax|currax|cūrrāx|14|cūrrāc||ācis
+LS|currax|currax|ācis||adj.|running fast, quick, swift|currax|0
+GG|currax|currax|ācis|||qui court vite, bon coureur / [poét., en parlant d'un lacet où l'animal s'est pris et qu'il emporte dans sa fuite]|currax|
+GJ|currax|currax|ācis [curro]|- 1 - qui court vite, bon coureur. - 2 - qui court avec (en parl. d'un lacet qu'un animal emporte avec lui).
+Ge|currax|currāx|Acis|schnell laufend, schnell
+FG|
+Lw|
+YO|
+PO|
+WW||currax, curracis||
+|doctiloquax|doctĭlŏquāx|dōctĭlŏqụāx|14|dōctĭlŏqụāc||ācis
+LS|
+GG|doctiloquax|doctĭlŏquax|ācis|||qui aime à parler savamment|doctiloquax|
+GJ|
+Ge|doctiloquax|doctiloquāx|Acis|gern gelehrt redend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|expugnax|expugnax|ēxpūgnāx|14|ēxpūgnāc||ācis
+LS|expugnax|expugnax|ācis||adj.|victorious, controlling, effectual|expugnax|0
+GG|expugnax|expugnax|ācis|||qui triomphe de|expugnax|
+GJ|expugnax|expugnax|ācis|qui triomphe.
+Ge|expugnax|expūgnāx|Acis|bezwingend
+FG|
+Lw|expugnax|(expūgnāx, ācis)|||adj.|victorious, effectual||||expugnax
+YO|
+PO|expugnax|expugna_x, expugna_cis : a
+WW||expugnax, expugnacis||
+|falsiloquax|falsĭlŏquāx|fālsĭlŏqụāx|14|fālsĭlŏqụāc||ācis
+LS|
+GG|falsiloquax|falsĭlŏquax|ācis|||c. falsiloquus|falsiloquax|
+GJ|falsiloquax|falsiloquax|ācis|menteur.
+Ge|falsiloquax|falsiloquāx|Acis|trügerisch - ( lügnerisch - redend, lügenhaft
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inaudax|ĭnaudax|ĭnāudāx|14|ĭnāudāc||ācis
+LS|inaudax|ĭnaudax|ācis||adj.|not daring, timorous|inaudax|0
+GG|inaudax|ĭnaudax|ācis|||sans audace, timide|inaudax|
+GJ|inaudax|ĭnaudax|ācis|timide, peureux, sans audace.
+Ge|inaudax|inaudāx|ācis|nicht kühn = zaghaft
+FG|
+Lw|inaudax|in-audāx|ācis||adj.|not daring, timorous||||inaudax
+YO|
+PO|
+WW||||
+|incapax|incăpax|īncăpāx|14|īncăpāc||ācis
+LS|incapax|incăpax|ācis||adj.|incapable|incapax|0
+GG|incapax|incăpax|ācis|||[av. inf.]|incapax|
+GJ|incapax|incapax|ācis|incapable.
+Ge|incapax|incapāx|pācis|unfähig zu - nicht empfänglich
+FG|
+Lw|
+YO|
+PO|
+WW||incapax, incapaxis||
+|incursax|incursax|īncūrsāx|14|īncūrsāc||ācis
+LS|incursax|incursax|ācis||adj.|that makes frequent inroads|incursax|0
+GG|incursax|incursax|ācis|||qui fait des incursions|incursax|
+GJ|incursax|incursax|ācis [incurso]|qui fait des incursions.
+Ge|incursax|incursāx|Acis|zu Einfällen - geneigt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inedax|ĭnĕdax|ĭnĕdāx|14|ĭnĕdāc||ācis
+LS|inedax|ĭnĕdax|ācis||adj.|not voracious, that eats little|inedax|0
+GG|inedax|ĭnĕdax|ācis|||qui mange peu|inedax|
+GJ|inedax|ĭnĕdax|ācis|Gloss. qui mange peu.
+Ge|inedax|inedāx|Acis = ὀλιγοφάγος|nicht gefräßig, mäßig im Essen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ineloquax|ĭnēlŏquax|ĭnēlŏqụāx|14|ĭnēlŏqụāc||ācis
+LS|ineloquax|ĭnēlŏquax|ācis||adj.|unutterable|ineloquax|0
+GG|
+GJ|ineloquax|ĭnēlŏquax|ācis|inexprimable.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inferax|infĕrax|īnfĕrāx|14|īnfĕrāc||ācis
+LS|inferax|infĕrax|ācis||adj.|unfruitful|inferax|0
+GG|inferax|infĕrax|ācis|||stérile|inferax|
+GJ|inferax|infĕrax|ācis|stérile.
+Ge|Inferax|Inferāx|ācis|unfruchtbar
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|linguax|linguax|līngụāx|14|līngụāc||ācis
+LS|linguax|linguax|ācis||adj.|loquacious|linguax|0
+GG|linguax|linguax|ācis|||bavard|linguax|
+GJ|linguax|linguax|ācis [lingua]|bavard.
+Ge|linguax|linguāx|Acis|schwatzhaft
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|longivivax|longĭvīvax|lōngĭvīvāx|14|lōngĭvīvāc||ācis
+LS|longivivax|longĭvīvax|ācis||adj.|long-lived|longivivax|0
+GG|longivivax|longĭvīvax|ācis|||qui vit longtemps|longivivax|
+GJ|longivivax|longĭvīvax|ācis, adj. [longus + vivax]|Schol. Juv. qui vit longtemps.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|luciferax|lūcĭfĕrāx|lūcĭfĕrāx|14|lūcĭfĕrāc||ācis
+LS|
+GG|luciferax|lūcĭfĕrax|ācis|||très lumineux|luciferax|
+GJ|luciferax|lūcĭfĕrax|ācis|Fort. très lumineux.
+Ge|luciferax|lūciferāx|Acis|viel Licht verbreitend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lucifugax|lūcĭfŭgax|lūcĭfŭgāx|14|lūcĭfŭgāc||ācis
+LS|lucifugax|lūcĭfŭgax|ācis||adj.|lightshunning|lucifugax|0
+GG|lucifugax|lūcĭfŭgax|ācis|||c. lucifugus|lucifugax|
+GJ|lucifugax|lūcĭfŭgax|ācis [lux + fugio]|Philom. qui fuit la lumière.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|magniloquax|magnĭlŏquax|māgnĭlŏqụāx|14|māgnĭlŏqụāc||ācis
+LS|magniloquax|magnĭlŏquax||||talking largely|magniloquax|
+GG|magniloquax|magnĭlŏquax||||c. magniloquus|magniloquax|
+GJ|
+Ge|magniloquax|māgniloquāx|ācis| = µεγαλόλαος : großsprecherisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|maledicax|mălĕdĭcax|mălĕdĭcāx|14|mălĕdĭcāc||ācis
+LS|maledicax|mălĕdĭcax|ācis||adj.|foul-mouthed, abusive, slanderous, reviling|maledicax|(or separately, 
+GG|maledicax|mălĕdĭcax|ācis|||médisant|maledicax|mălĕdĭcax
+GJ|maledicax|mălĕdicax|acis|médisant.
+Ge|maledicax|maledicāx|Acis|schmähend
+FG|
+Lw|
+YO|
+PO|
+WW||maledicax, maledicacis||
+|maleloquax|mălĕlŏquax|mălĕlŏqụāx|14|mălĕlŏqụāc||ācis
+LS|
+GG|maleloquax|mălĕlŏquax|ācis|||médisant|maleloquax|mălĕlŏquax
+GJ|maleloquax|mălĕloquax|acis|médisant.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|maliloquax|mălĭlŏquax|mălĭlŏqụāx|14|mălĭlŏqụāc||ācis
+LS|maliloquax|mălĭlŏquax|ācis||adj.|evil-speaking, slanderous|maliloquax|0
+GG|maliloquax|mălĭlŏquax|ācis|||médisant|maleloquax|mălĭlŏquax
+GJ|maliloquax|maliloquax|acis|médisant.
+Ge|maliloquax|maliloquāx|Acis|übel redend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|morax|mŏrax|mŏrāx|14|mŏrāc||ācis
+LS|morax|mŏrax|ācis||adj.|fond of delay, dilatory|morax|0
+GG|morax|mŏrax|ācis|||qui retarde, arrête|morax|
+GJ|morax|mŏrax|ācis, adj.|qui retarde, qui arrête.
+Ge|morax|morāx|Acis|verzögernd
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mordax|mordax|mōrdāx|14|mōrdāc||ācis
+LS|mordax|mordax|ācis||adj.|biting, given to biting, snappish|mordax|0
+GG|mordax|mordax|ācis|||habitué à mordre, mordant / pointu, tranchant, mordant, piquant / [fig.] mordant, caustique, satirique|mordax|
+GJ|mordax|mordax|ācis|1 - habitué à mordre, mordant. 2 - pointu, tranchant, mordant, piquant. 3 - mordant, caustique, satirique.
+Ge|mordax|mordāx|ācis|gern beißend, bissig - beißend, bissig - nagend, zehrend - beißend, zusammenbeißend - stechend - scharf - einschneidend, einhauend - wegbeißend, beizend, ätzend - nach beißend, scharf
+FG|mordax|mordax acis (mordeo), habitué à mordre, mordant ; pointu, tranchant, piquant ; caustique, satirique.
+Lw|mordax|mordāx|ācis||adj.|biting, given to biting, snappish, Stinging, sharp, biting, pungent, biting, disposed to bite, snarling, consuming||||mordax
+YO|
+PO|mordax|morda_x, morda_cis : a
+WW||mordax, mordacis||
+|multiloquax|multĭlŏquax|mūltĭlŏqụāx|14|mūltĭlŏqụāc||ācis
+LS|multiloquax|multĭlŏquax|ācis||adj.|that talks much, talkative, loquacious|multiloquax|0
+GG|multiloquax|multĭlŏquax|ācis|||v. multiloquus|multiloquax|
+GJ|multiloquax|multĭlŏquax|ācis|bavard, grand parleur.
+Ge|multiloquax|multiloquāx|Acis|sehr geschwätzig
+FG|
+Lw|
+YO|
+PO|
+WW||multiloquax, multiloquacis||
+|nugax|nūgax|nūgāx|14|nūgāc||ācis
+LS|nugax|nūgax|ācis||adj.|jesting, trifling, frivolous, ext.&mdash; Adv., sup.|nugax|0
+GG|nugax|nūgax|ācis|||auteur de sornettes, qui fait des niaiseries, qui agit puérilement, farceur|nugax|
+GJ|nugax|nūgax|ācis [nugor]|auteur de sornettes, farceur, impertinent.
+Ge|nugax|nūgāx|Acis|Possen-, Kurzweil treibend, die Sache als Posse behandelnd - unnütz, unbrauchbar
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|olax|ŏlax|ŏlāx|14|ŏlāc||ācis
+LS|olax|ŏlax|ācis||adj.|smelling, having a smell, odorous|olax|0
+GG|olax|ŏlax|ăcis|||qui exhale une odeur|olax|
+GJ|
+Ge|olax|olāx|Acis|riechend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pellax|pellax|pēllāx|14|pēllāc||ācis
+LS|pellax|pellax|ācis||adj.|seductive, deceitful|pellax|0
+GG|pellax|pellax|ācis|||fourbe, trompeur, perfide / séducteur|pellax|
+GJ|pellax|pellax|ācis|- 1 - fourbe, imposteur, trompeur, perfide. - 2 - séducteur.
+Ge|pellax|pellāx|Acis|verführerisch, ränkevoll, verschmitzt
+FG|pellax|pellax acis (pellicio), fourbe, trompeur.
+Lw|pellax|pellāx|ācis||adj.|seductive, deceitful||||pellax
+YO|
+PO|pellax|pella_x, pella_cis : a
+WW||pellax, pellacis||
+|percontumax|percontŭmax|pērcōntŭmāx|14|pērcōntŭmāc||ācis
+LS|percontumax|percontŭmax|ācis||adj.|very obstinate, very contumacious|percontumax|0
+GG|percontumax|percontŭmax|ācis||adj.|adj., très opiniâtre|percontumax|
+GJ|percontumax|percontumax|ācis|très difficile de caractère, très opiniâtre.
+Ge|percontumax|percontumāx|ācis|sehr hartnäckig, sehr trotzig
+FG|
+Lw|percontumax|per-contumāx|ācis||adj.|very obstinate, utterly contumacious||||percontumax
+YO|
+PO|
+WW||percontumax, percontumacis||
+|persequax|persĕquax|pērsĕqụāx|14|pērsĕqụāc||ācis
+LS|persequax|persĕquax|ācis||adj.|eagerly pursuing|persequax|0
+GG|persequax|persĕquax|ācis|||acharné à poursuivre|persequax|
+GJ|persequax|persĕquax|ācis|acharné à poursuivre.
+Ge|persequax|persequāx|quācis|sehr verfolgend, eifrig im Verfolgen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perspicax|perspĭcāx|pērspĭcāx|14|pērspĭcāc||ācis
+LS|perspicax|perspĭcax|ācis||adj.|sharp -sighted, penetrating, acute, perspicacious, Adv.|perspicax|0
+GG|perspicax|perspĭcāx|ācis|||qui a la vue perçante / [fig.] clairvoyant, pénétrant|perspicax|
+GJ|perspicax|perspicax|ācis|- 1 - qui a la vue perçante. - 2 - qui voit clair, perspicace, clairvoyant.
+Ge|perspicax|perspicāx|Acis|scharfsichtig - einsichtsvoll
+FG|perspicax|perspicax acis (perspicio), vue claire (figuré), parfaite connaissance.
+Lw|perspicax|perspicāx|ācis||adj.|sharpsighted, penetrating, acute, perspicacious||||perspicax
+YO|
+PO|
+WW||perspicax, perspicacis||
+|praegnax|praegnax|prāegnāx|14|prāegnāc||ācis
+LS|praegnax|praegnax|ācis||adj.|inclined to pregnancy|praegnax|0
+GG|praegnax|praegnax|ācis|||fécond [fig.]|praegnax|
+GJ|
+Ge|praegnax|praegnāx||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praesagax|praesāgāx|prāesāgāx|14|prāesāgāc||ācis
+LS|
+GG|praesagax|praesāgax|ācis|||c. praesagus|praesagax|
+GJ|
+Ge|praesagax|praesāgāx||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|putrimordax|pŭtrĭmordax|pŭtrĭmōrdāx|14|pŭtrĭmōrdāc||ācis
+LS|
+GG|putrimordax|putrĭmordax|ācis||||putrimordax|
+GJ|putrimordax|pŭtrĭmordax|ācis,|Boet. dont la morsure engendre la putréfaction.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|retinax|rĕtĭnax|rĕtĭnāx|14|rĕtĭnāc||ācis
+LS|retinax|rĕtĭnax|ācis||adj.|holding back|retinax|0
+GG|retinax|rĕtĭnax|ācis|||qui retient, qui captive|retinax|
+GJ|
+Ge|retinax|retināx|Acis|zurückhaltend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sagax|săgax|săgāx|14|săgāc||ācis
+LS|sagax|săgax|ācis||adj.|of quick perception, whose senses are acute, sagacious|sagax|0
+GG|sagax|săgax|ācis|||qui a l'odorat subtil / qui a l'oreille subtile ou fine, vigilant / [fig.] qui a de la sagacité, sagace, pénétrant|sagax|
+GJ|sagax|sagax|sagacis|- 1 - qui a l'odorat subtil. - 2 - qui a l'esprit subtil, fin, pénétrant, sagace. - 3 - qui a l'oreille subtile, qui a l'oreille fine, vigilant.
+Ge|sagax|sagāx|ācis|leicht spürend - scharf, scharfsichtig, scharfsinnig
+FG|sagax|sagax acis (sagio),
+Lw|sagax|sagāx|ācis||adj.|of quick perception, of acute senses, sagacious, keenscented, of keener ear, intellectually quick, keen, acute, shrewd, sagacious, prophetic||||sagax
+YO|
+PO|sagax|saga_x, saga_cis : a
+WW||sagax, sagacis||
+|salax|sălax|sălāx|14|sălāc||ācis
+LS|salax|sălax|ācis||adj.|Fond of leaping, lustful, lecherous, salacious|salax|0
+GG|salax|sălax|ācis|||lascif, lubrique / [poét.] aphrodisiaque|salax|
+GJ|salax|salax|salacis [salio]|- 1 - qui aime à saillir, qui aime à s'accoupler, lascif, lubrique, salace. - 2 - excitant, aphrodisiaque.
+Ge|salax|salāx|ācis|geil - Geilheit erregend, geil machend
+FG|
+Lw|salax|salāx|ācis||adj.|lustful, lecherous, salacious, Provoking lust, provocative||||salax
+YO|
+PO|salax|sala_x, sala_cis : a
+WW||salax, salacis||
+|sequax|sĕquax|sĕqụāx|14|sĕqụāc||ācis
+LS|sequax|sĕquax|ācis||adj.|following, seeking after, pursuing, sequacious|sequax|0
+GG|sequax|sĕquax|ācis|||qui suit facilement ou promptement / docile, obéissant, souple, flexible|sequax|
+GJ|sequax|sĕquax|ācis [sequor]|1 - qui suit facilement; qui suit sans relâche, qui s'attache à, acharné. 2 - docile, obéissant, souple, flexible.
+Ge|sequax|sequāx|ācis|leicht - schnell folgend - der Anhänger - biegsam, geschmeidig, nachgiebig - folglich leicht zu bearbeiten - folgsam, gelehrig - gern zurückbleibend
+FG|sequax|sequax acis (sequor),
+Lw|sequax|sequāx|ācis||adj.|following, seeking after, pur suing, sequacious||||sequax
+YO|
+PO|sequax|sequa_x, sequa_cis : a
+WW||sequax, sequacis||
+|spernax|spernax|spērnāx|14|spērnāc||ācis
+LS|spernax|spernax|ācis||adj.|despising, showing contempt, contemptuous|spernax|0
+GG|spernax|spernax|ācis|||qui méprise [avec le gén.] / méprisant, dédaigneux|spernax|
+GJ|spernax|spernax|ācis|- 1 - (avec gén.) qui méprise. - 2 - méprisant, dédaigneux.
+Ge|spernax|spernāx|Acis|verachtend, Verachtung äußernd
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sternax|sternax|stērnāx|14|stērnāc||ācis
+LS|sternax|sternax|ācis||adj.|that throws to the ground|sternax|0
+GG|sternax|sternax|ācis||adj.|adj., qui terrasse, qui renverse [son cavalier] / qui se prosterne|sternax|
+GJ|sternax|sternax|ācis [sterno]|- 1 - qui jette par terre (son cavalier). - 2 - Sil. qui se jette à terre.
+Ge|sternax|sternāx|Acis|zu Boden zu werfen suchend
+FG|sternax|sternax acis (sterno), adjectif, qui terrasse, qui renverse (son cavalier).
+Lw|sternax|sternāx|ācis||adj.|prostrating, throwing down, that throws his rider||||sternax
+YO|
+PO|sternax|sterna_x, sterna_cis : a
+WW||sternax, sternacis||
+|suspicax|suspĭcax|sūspĭcāx|14|sūspĭcāc||ācis
+LS|suspicax|suspĭcax|ācis||adj.|apt to suspect, distrustful, suspicious.|suspicax|0
+GG|suspicax|suspĭcax|ācis|||soupçonneux, défiant / où perce le soupçon|suspicax|
+GJ|suspicax|suspĭcax|ācis|- 1 - souçonneux, défiant. - 2 - Tac. où perce le soupçon.
+Ge|suspicax|suspicāx|Acis|argwöhnisch
+FG|suspicax|suspicax acis (suspicor), soupçonneux, défiant ; où perce le soupçon.
+Lw|suspicax|suspicāx|ācis||adj.|distrustful, suspicious||||suspicax
+YO|
+PO|suspicax|suspica_x, suspica_cis : a
+WW||suspicax, suspicacis||
+|trahax|trăhax|trăhāx|14|trăhāc||ācis
+LS|trahax|trăhax|ācis||adj.|that draws every thing to himself, greedy, covetous|trahax|0
+GG|trahax|trăhax|ācis|||qui aime tirer tout à soi, rapace|trahax|
+GJ|
+Ge|trahax|trahāx|Acis|gern - an sich ziehend, plündersüchtig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trebax|trĕbax|trĕbāx|14|trĕbāc||ācis
+LS|trebax|trĕbax|ācis||adj.|practised, skilled in the ways of the world, cunning, crafty, med.&mdash;Adv.|trebax|0
+GG|trebax|trĕbax|ācis|||qui a du savoir-faire, avisé, retors|trebax|
+GJ|trebax|trebax|ācis|Sid. habile, avisé.
+Ge|trebax|trebāx|Acis|durchtrieben, schlau
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vatax|vătāx|vătāx|14|vătāc||ācis
+LS|
+GG|vatax|vătax|ācis|||varicosus|vatax|
+GJ|
+Ge|vatax|vatāx|ācis|krumme - schiefe Füße habend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vendax|vendax|vēndāx|14|vēndāc||ācis
+LS|vendax|vendax|ācis||adj.|fond of selling|vendax|0
+GG|vendax|vendax|ācis|||qui aime à vendre|vendax|
+GJ|vendax|vendax|ācis|[vendo] : qui aime à vendre.
+Ge|vendax|vēndāx|Acis|verkaufsüchtig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vivax|vīvax|vīvāx|14|vīvāc||ācis
+LS|vivax|vīvax|ācis||adj.|Tenacious of life, long-lived, vivacious|vivax|0
+GG|vivax|vīvax|ācis|||qui vit longtemps / qui vit trop longtemps / [en parl. de plantes] vivace / durable|vivax|
+GJ|vivax|vīvax|ācis [vivo]|1 - qui vit longtemps. 2 - qui vit trop longtemps. 3 - vivace, vif, ardent; durable. 4 - animé, vif.
+Ge|vivax|vīvāx|Acis|lebensreich - lebenskräftig - lebenskräftig - belebt, lebhaft, kräftig, munter, rasch - geistig lebhaft, aufgeweckt, feurig
+FG|vivax|vivax acis (vivo),
+Lw|vivax|vīvāx|ācis||adj.|tenacious of life, long-lived, venerable, Lasting, enduring, durable, Lively, vigorous, vivacious, burning briskly||||vivax
+YO|
+PO|vivax|vi_va_x, vi_va_cis : a
+WW||vivax, vivacis||
+|vomax|vŏmax|vŏmāx|14|vŏmāc||ācis
+LS|vomax|vŏmax|ācis||adj.|given to vomiting|vomax|0
+GG|vomax|vŏmax|ācis|||qui vomit souvent, sujet à vomir|vomax|
+GJ|
+Ge|vomax|vomāx|ācis, Adi.|sich oft übergebend, zum Erbrechen geneigt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cadax|cădax|cădāx|14|cădāc||ācis
+LS|
+GG|cadax|cădax|ācis|||qui cloche souvent|cadax|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|deficax|dēfĭcax|dēfĭcāx|14|dēfĭcāc||ācis
+LS|
+GG|deficax|dēfĭcax|ācis||adj.|adj., insuffisant|deficax|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|furiax|furiāx|furĭāx|14|furĭāc||ācis
+LS|
+GG|
+GJ|
+Ge|furiax|furiāx|ācis, Adi.|wütend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|veriloquax|vērĭlŏquax|vērĭlŏqụāx|14|vērĭlŏqụāc||ācis
+LS|
+GG|veriloquax|vērĭlŏquax|ācis||adj.|v. veriloquus|veriloquax|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|verax|vērax|vērāx|14|vērāc||ācis
+LS|verax|vērax|ācis||adj.|speaking truly, true, veracious|verax|0
+GG|verax|vērax|ācis|||véridique, qui dit la vérité, sincère, sûr|1 verax|
+GJ|verax|vērax|ācis [verus]|véridique, sincère, sûr.
+Ge|verax|vērāx|Acis|wahrredend, wahrhaftig
+FG|verax|verax acis (verus), véridique, qui dit la vérité, sincère, sûr.
+Lw|verax|vērāx|ācis||adj.|speaking truly, truthful, true, veracious||||verax
+Y§|
+PO|verax|ve_ra_x, ve_ra_cis : a
+WW||verax, veracis||
+|rapax2|Răpax2|Răpāx|14|Răpāc||ācis
+LS|
+GG|Rapax|Răpax|ācis||adj.|adj., la Rapace [surnom d'une légion]|2 Rapax|
+GJ|
+Ge|
+FG|Rapax|Rapax acis, adjectif, la Rapace (surnom d'une légion) ; Rapaces, les soldats de cette légion.
+Lw|
+Y§|
+PO|
+WW||||

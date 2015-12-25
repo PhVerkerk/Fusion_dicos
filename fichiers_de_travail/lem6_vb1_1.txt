@@ -1,0 +1,750 @@
+|absono|absŏno|ābsŏno|17|ābsŏnŭ||āre, intr.
+LS|
+GG|absono|absŏno|āre||intr.|int., n'avoir pas le son juste, détonner|absono|
+GJ|absono|absŏno|āre|- intr. - détonner.
+Ge|absono|absono|uī, Are|mißtönen, einen falschen Ton haben
+FG|
+Lw|
+YO|
+PO|
+WW|||absono, absonavi|absono, absonatum
+|absto|absto|ābsto|17|ābstĭt||āre, 1, intr.
+LS|absto|absto|āre, 1||v. n.|to stand off, at a distance from, to stand aloof|absto|0
+GG|absto|absto|āre||intr.|int., être éloigné, être placé à distance|absto|
+GJ|absto|absto|āre, abstĭtī|- intr. - être éloigné, être placé à distance.
+Ge|absto|absto|āre|abstehen = entfernt stehen
+FG|absto|absto are, intransitif, être éloigné, être placé à distance.
+Lw|absto|ab-stō|&mdash;, āre|||to stand off (rare):||||absto
+YO|
+PO|absto|absto_, absta_re, abstiti_, abstitum : v1
+WW|||absto, absteti|absto, abstatum
+|addenso|ăddenso|ăddēnso|17|||āre
+LS|addenso|ăddenso|āre||v. a.|to make close, compact, pass., to become thick, to thicken|addenseo|0
+GG|addenso|addenso|āre|||[employé au pass. moyen] s'épaissir, se condenser|addenseo|addenso
+GJ|addenso|addenso|āre|- tr. - rendre plus épais, plus compact, épaissir, condenser.
+Ge|
+FG|
+Lw|addenso|ad-dēnsō|&mdash;, &mdash;, āre, in some edd. of V. for addenseo.|||eagerly:||||addenso
+YO|
+PO|
+WW||||
+|antesto|antesto|āntēsto|17|āntēstĕt||stĕti, 1
+LS|antesto|antesto|stĕti, 1||v. n.|to stand before, to excel, be superior to;, acc.;, absol., to distinguish one's self, to be distinguished|antesto|or 
+GG|antesto|antesto|stĭti, stāre||tr. intr.|surpasser / int., alicui aliqua re, surpasser qqn en qqch / [abst] être au premier rang|antesto|antesto
+GJ|antesto|antesto|āre, stĭtī|- tr. et intr. - l'emporter sur, surpasser.
+Ge|
+FG|antesto|antesto ou antisto stare stiti, surpasser,
+Lw|antesto|(ante-stō)|see anti-stō.|||||||antesto
+YO|
+PO|antesto|antesto_, antesta_re, antestiti_ : v1
+WW|||antesto, antesteti|antesto, antestatum
+|cambio|cambĭo|cāmbĭo|17|||avi, are
+LS|cambio|cambio|īre||v. n.|to exchange, barter|cambio|0
+GG|cambio|cambĭo|āvi, āre||tr.|tr., échanger, troquer|cambio|
+GJ|cambio|cambĭo|āre, āvi|- tr. - échanger, troquer.
+Ge|cambio|cambio|Avī, Are|wechseln, tauschen
+FG|
+Lw|
+YO|
+PO|
+WW|||cambio, cambiavi|cambio, cambiatum
+|certisco|certisco|cērtīsco|17|||ĭs, ĕre ās, āre, intr.
+LS|
+GG|certisco|certisco|ĭs, ĕre ās, āre||intr.|int., être renseigné|certisso|certisco
+GJ|certisco|certisco|ĕre ou āre [certus]|- intr. - Gloss. être renseigné.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|certisso|certisso|cērtīsso|17|||ĭs, ĕre ās, āre, intr.
+LS|
+GG|certisso|certisso|ĭs, ĕre ās, āre||intr.|int., être renseigné|certisso|certisso
+GJ|certisso|certisso|ĕre ou āre [certus]|- intr. - Gloss. être renseigné.
+Ge|certisso|certisso|ere|vergewissert werden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cibo|cĭbo|cĭbo|17|||avi, ātum, 1
+LS|cibo|cĭbo|no perf., ātum, 1||v. a.|to give food to animals, to feed, fodder, pass.|cibo|no 
+GG|cibo|cĭbo|āvi, ātum, āre||tr.|tr., nourrir|cibo|
+GJ|cibo|cibo|cibare, cibatum|- tr. - nourrir.
+Ge|cibo|cibo|Avī, Atum, Are|speisen, füttern, Speise od. Futter reichen
+FG|cibo|cibo are avi atum (cibus), transitif, nourrir.
+Lw|
+YO|
+PO|
+WW|||cibo, cibavi|cibo, cibatum
+|circumcirco|circumcirco|cīrcūmcīrco|17|||āre
+LS|circumcirco|circumcirco|āre||v. n.|to go round|circumcirco|0
+GG|circumcirco|circumcirco|āre||tr.|tr., parcourir en tous sens|circumcirco|
+GJ|circumcirco|circumcirco|āre|- tr. - parcourir en tous sens.
+Ge|circumcirco|circumcirco|āre = circumeo|allenthalben durchstreifen
+FG|
+Lw|
+YO|
+PO|
+WW|||circumcirco, circumcircavi|circumcirco, circumcircatum
+|circumseco|circumsĕco|cīrcūmsĕco|17||cīrcūmsēct|no perf., āre
+LS|circumseco|circumsĕco|no perf., āre||v. a.|to cut, pare around, to saw around|circumseco|no 
+GG|circumseco|circumsĕco|sectum, āre||tr.|tr., couper autour / [en parl. de la circoncision]|circumseco|
+GJ|circumseco|circumseco|secare, sectum|- tr. - 1 - couper autour. - 2 - circoncire.
+Ge|circumseco|circumseco|sectum, Are|ringsum beschneiden - beschneiden
+FG|circumseco|circumseco are sectum, transitif, couper autour.
+Lw|circumseco|circum-secō|&mdash;, &mdash;, āre|||to cut around:||||circumseco
+YO|
+PO|
+WW|||circumseco, circumsecavi|circumseco, circumsecatum
+|circumtono|circumtŏno|cīrcūmtŏno|17|cīrcūmtŏnŭ||ui, 1
+LS|circumtono|circumtŏno|ui, 1||v. a.|to thunder around;, to make a noise, clamor around|circumtono|0
+GG|circumtono|circumtŏno|ŭi, āre||tr.|tr., tonner autour|circumtono|
+GJ|circumtono|circumtono|tonare, tonui|- tr. - tonner autour.
+Ge|circumtono|circumtono|tonuī, Are|umdonnern
+FG|circumtono|circumtono are ui, transitif, tonner autour.
+Lw|circumtono|circum-tonō|uī, &mdash;, āre|||to thunder around:||||circumtono
+YO|
+PO|
+WW|||circumtono, circumtonavi|circumtono, circumtonatum
+|compugno|compugno|cōmpūgno|17|||āre
+LS|compugno|compugno|āre||v. n.|To fight, contend together|compugno|0
+GG|compugno|compugno|āre||tr. intr.|int., se battre ensemble / tr., combattre|compugno|
+GJ|compugno|compugno|āre, āvi, ātum|1 - se battre ensemble. - compugnantes philosophus et dolor, Gell. 12, 5, 3 : un philosophe aux prises avec la souffrance. 2 - tr. - combattre.
+Ge|compugno|compūgno|āre, I) v. intr.|miteinander kämpfen, - streiten - zugleich mit bekämpfen
+FG|
+Lw|
+YO|
+PO|
+WW|||compugno, compugnavi|compugno, compugnatum
+|concrucifigo|concrŭcĭfīgo|cōncrŭcĭfīgo|17|cōncrŭcĭfīx|cōncrŭcĭfīx|āre
+LS|concrucifigo|concrŭcĭfīgo|āre||v. a.|to crucify together|concrucifigo|0
+GG|concrucifigo|concrŭcĭfīgo|fīxi, fixum, ĕre||tr.|tr., crucifier avec [dat.]|concrucifigo|
+GJ|concrucifigo|concrucifigo|āre|- tr. - crucifier (avec qqn, alicui).
+Ge|concrucifigo|concrucifīgo|fīxī, fīxum, ere|zugleich ans Kreuz heften
+FG|
+Lw|
+YO|
+PO|
+WW|||concrucifigo, concrucifigavi|concrucifigo, concrucifigatum
+|conseco|consĕco|cōnsĕco|17|cōnsĕcŭ|cōnsĕct|cŭi, ctum, 1
+LS|conseco|consĕco|cŭi, ctum, 1||v. a.|To cut up, cut to pieces|conseco|0
+GG|conseco|consĕco|sĕcŭi, sectum, sĕcāre||tr.|mettre en petits morceaux, hacher / couper autour, détacher en coupant|conseco|
+GJ|conseco|conseco|secare, secŭi, sectum|- tr. - couper en morceaux, couper autour, hacher, déchirer, morceler.
+Ge|conseco|cōnseco|secuī, sectum, Are|in kleine Stücke zerschneiden - Seiten beschneiden, abschneiden
+FG|conseco|conseco secare secui sectum, transitif, mettre en petits morceaux, hacher.
+Lw|conseco|cōn-secō|cuī, ctus, āre|||to cut to pieces, cut up||||conseco
+YO|
+PO|
+WW|||conseco, consecui|conseco, consectum
+|defiguro|dēfĭgūro|dēfĭgūro|17|||āre
+LS|
+GG|defiguro|dēfĭgūro|āre a, um||tr.|tr., symboliser|defiguro|
+GJ|defiguro|dēfĭgūro|āre|- tr. - Iren. symboliser.
+Ge|defiguro|dēfigūro|āre|abgestalten, abbilden - abgestaltet - abgeleitet
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|defrico|dēfrĭco|dēfrĭco|17|dēfrĭcŭ|dēfrĭct,dēfrĭcāt|cui, cātum and ctum, 1
+LS|defrico|dēfrĭco|cui, cātum and ctum, 1||v. a.|to rub off, rub down; to rub hard, to rub|defrico|0
+GG|defrico|dēfrĭco|cŭi, ctum et cātum, cāre||tr.|enlever en frottant / polir ou nettoyer en frottant / frictionner|defrico|
+GJ|defrico|dēfrico|āre, fricŭi, frictum (fricatum)|- tr. - frotter fortement, enlever en frottant, nettoyer en frottant, polir (en frottant), frictionner.
+Ge|defrico|dēfrico|fricuī, fricātum|abreiben, abscheuern, einreiben, frottieren
+FG|defrico|defrico care cui ctum et catum, transitif,
+Lw|defrico|dē-fricō|cuī, cātus, āre|||to rub off, rub down, rub hard||||defrico
+YO|
+PO|defrico|de_frico_, de_frica_re, de_fricui_, de_frica_tum/de_frictum : v1
+WW|||defrico, defricui|defrico, defricatum
+|delavo|dēlăvo|dēlăvo|17||dēlōt,dēlăvāt|no perf., lōtum, āre
+LS|delavo|dēlăvo|no perf., lōtum, āre||v. a.|to wash off, wash clean|delavo|no 
+GG|delavo|dēlăvo|lăvātum ou lōtum, āre||tr.|tr., laver|delavo|
+GJ|delavo|delavo|āre, delavatum (delotum)|- tr. - laver, nettoyer.
+Ge|delavo|dēlavo|lavātus|abwaschen, rein waschen
+FG|
+Lw|
+YO|
+PO|
+WW|||delavo, delavi|delavo, delotum
+|detono|dētŏno|dētŏno|17|dētŏnŭ||ŭi, 1
+LS|detono|dētŏno|ŭi, 1||v. n.|To thunder down, to thunder|detono|0
+GG|detono|dētŏno|ŭi, āre||intr.|tonner fortement / [fig.] tonner, éclater / cesser de tonner, s'apaiser, se calmer|detono|
+GJ|detono|detono|āre, tonui|- intr. - 1 - tonner fort. - 2 - tonner, éclater comme la foudre. - 3 - passer (comme ferait un orage), s'apaiser, se calmer. - 4 - tr. - dire ou chanter d'une voix éclatante.
+Ge|detono|dētono|tonuī, Are|herabdonnern, losdonnern - losdonnern - wie ein Gewitter losbrechen, herfallen - sprechend losdonnern - herdonnern - aufhören zu donnern - austoben
+FG|detono|detono are ui, intransitif,
+Lw|detono|dē-tonō|uī, &mdash;, āre|||to thunder down, thunder||||detono
+YO|
+PO|detono|de_tono_, de_tona_re, de_tonui_ : v1
+WW|||detono, detonui|detono, detonitum
+|disseco|dissĕco|dīssĕco|17|dīssĕcŭ|dīssēct|ŭi, ctum, 1
+LS|disseco|dissĕco|ŭi, ctum, 1||v. a.|to cut asunder, cut in pieces, cut up, dissect|disseco|(
+GG|disseco|dissĕco|cŭi, ctum, āre||tr.|tr., couper, trancher|disseco|
+GJ|disseco|disseco|āre, secŭi, sectum|- tr. - 1 - couper en deux, diviser. - 2 - déchirer, mettre en pièces.
+Ge|disseco|disseco|secuī, sectum, Are|zerschneiden, zerhauen, aufschneiden
+FG|disseco|disseco are cui ctum, transitif, couper, trancher.
+Lw|
+YO|
+PO|
+WW|||disseco, dissecavi|disseco, dissecatum
+|dissono|dissŏno|dīssŏno|17|dīssŏnŭ|dīssŏnĭt|āre, intr.
+LS|dissono|dissŏno|āre||v. n.|to disagree in, sound, to be dissonant|dissono|0
+GG|dissono|dissŏno|āre||intr.|rendre des sons discordants / [fig.] différer|dissono|
+GJ|dissono|dissono|āre, sonui|- intr. - 1 - rendre un son faux. - 2 - différer (de qqch, ab aliquâ re).
+Ge|dissono|dissono|sonuī, sonitum, Are|verworren tönen - nicht übereinstimmen, abweichen - Sache nicht entsprechen, sich - nicht vertragen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dissupo|dissŭpo|dīssŭpo|17|||āvi, ātum, 1
+LS|dissupo|dissŭpo|āvi, ātum, 1||v. a.|to spread abroad, scatter, disperse|dissipo|0
+GG|dissupo|dissŭpo|āvi, ātum, āre||tr.|répandre çà et là, disperser / mettre en déroute [pr. et fig.] / [médec.] résoudre / mettre en pièces, détruire, anéantir / répandre [fig.]|dissipo|dissŭpo
+GJ|dissupo|dissupo||c. dissipo.
+Ge|
+FG|
+Lw|dissupo|dissupō|see dissipo.|||R||||dissupo
+YO|
+PO|
+WW|||dissupo, dissupavi|dissupo, dissupatum
+|ditifico|dītĭfĭco|dītĭfĭco|17|||āre
+LS|ditifico|dītĭfĭco|āre|||to enrich|ditifico|0
+GG|ditifico|dītĭfĭco|āre|||c. dito|ditifico|
+GJ|ditifico|dītĭfĭco|āre (= dito)|- tr. - Cass. enrichir.
+Ge|ditifico|dītifico|āre|bereichern
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|edomo|ēdŏmo|ēdŏmo|17|ēdŏmŭ|ēdŏmĭt|ŭi, ĭtum, 1
+LS|edomo|ēdŏmo|ŭi, ĭtum, 1||v. a.|to tame completely, conquer, overcome, vanquish, subdue|edomo|0
+GG|edomo|ēdŏmo|ŭi, ĭtum, āre||tr.|tr., dompter entièrement|edomo|
+GJ|edomo|ēdŏmo|āre, mŭi, mĭtum|- tr. - dompter complètement, venir à bout de, triompher.
+Ge|Edomo|Edomo|domuī, domitum, Are|gänzlich zahm machen, gänzlich bezähmen, -bänbigen, bewältigen, bezwingen, überwinden
+FG|edomo|edomo are ui itum, transitif, dompter entièrement.
+Lw|edomo|ē - domō|uī, itus, āre|||to conquer, subdue||||edomo
+YO|
+PO|edomo|e_domo_, e_doma_re, e_domui_, e_domitum : v1
+WW|||edomo, edomui|edomo, edomitum
+|effrico|effrĭco|ēffrĭco|17|ēffrīx||xi, ātum, 1
+LS|effrico|effrĭco|xi, ātum, 1||v. a.|to rub off, out|effrico|0
+GG|effrico|effrĭco|frixi, frĭcātum, āre||tr.|tr., frotter, enlever en frottant|effrico|
+GJ|effrico|effrico|āre , frixi, fricātum|- tr. - frotter, enlever (en frottant).
+Ge|effrico|effrico|frixī, fricātum, Are|aus-, abreiben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|elavo|ēlăvo|ēlăvo|17||ēlāut,ēlōt|lāvi, lautum, lōtum, 1
+LS|elavo|ēlăvo|lāvi, lautum, lōtum, 1||v. a.|to wash out, away, to wash clean|elavo|0
+GG|elavo|ēlăvo|lāvi, lautum et lōtum, āre||tr. intr.|tr., laver, baigner|elavo|
+GJ|elavo|ēlăvo|āre, ēlāvi, ēlautum (ēlōtum)|- 1 - tr. - laver, baigner. - 2 - intr. - prendre un bain, se baigner.
+Ge|Elavo|Elavo|lāvī, lautum|auswaschen, abwaschen, rein waschen - sich - rein - blank machen = durch Verschwendung sich zugrunde richten, zugrunde gerichtet werden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exfrico|exfrĭco|ēxfrĭco|17|ēxfrīx||āre
+LS|
+GG|exfrico|exfrĭco|āre|||v. effrico.|exfrico|
+GJ|exfrico|exfrico|āre , frixi, fricātum|- tr. - frotter, enlever (en frottant).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|infrico|infrĭco|īnfrĭco|17|īnfrĭcŭ|īnfrīct,īnfrĭcāt|cŭi, ctum and cātum, 1
+LS|infrico|infrĭco|cŭi, ctum, and cātum, 1||v. a.|to rub in|infrico|0
+GG|infrico|infrĭco|cŭi, cātum et ctum, cāre||tr.|tr., frotter sur, appliquer en friction / frotter, nettoyer|infrico|
+GJ|infrico|infrico|āre, cavi (cui), cātum (ctum)|- intr. - 1 - frotter sur, appliquer en friction. - 2 - frotter, nettoyer.
+Ge|Infrico|Infrico|fricuī, fricātum|einreiben - einreiben
+FG|infrico|infrico care cui catum (ctum), transitif, frotter sur, appliquer en friction (alicui rei aliquid) ; frotter, nettoyer.
+Lw|
+YO|
+PO|
+WW|||infrico, infricui|infrico, infrictum
+|intermico|intermĭco|īntērmĭco|17|īntērmĭcŭ||ŭi, 1
+LS|intermico|intermĭco|ŭi, 1||v. n. and a.|to glitter among, to gleam forth, acc., Absol.|intermico|0
+GG|intermico|intermĭco|mĭcŭi, āre||tr. intr.|briller entre, par intervalles / int. [avec dat.]|intermico|
+GJ|intermico|intermico|āre, micui|- intr. et tr. - briller par intervalles, briller à travers.
+Ge|intermico|intermico|micuī, Are|zwischen - etwas hindurchscheinen, -schimmern
+FG|
+Lw|
+YO|
+PO|
+WW|||intermico, intermicui|
+|interseco|intersĕco|īntērsĕco|17|īntērsĕcŭ|īntērsēct|sĕcui, sectum, 1
+LS|interseco|intersĕco|sĕcui, sectum, 1||v. a.|to cut asunder, separate, divide, intersect|interseco|0
+GG|interseco|intersĕco|scŭi, sectum, āre||tr.|tr., couper par le milieu, séparer, diviser|interseco|
+GJ|interseco|intersĕco|āre, sĕcŭi, sectum|- tr. - couper par le milieu, séparer, diviser.
+Ge|interseco|interseco|secuī, sectum, Are|auseinander schneiden - nach durchschneiden, schneiden
+FG|
+Lw|
+YO|
+PO|
+WW|||interseco, intersecui|interseco, intersectum
+|intersto|intersto|īntērsto|17|īntērstĕt,īntērstĭt||stĭti ou stĕti, 1
+LS|intersto|intersto|stĕti, 1||v. n. and a.|to stand, be between, in the midst of|intersto|0
+GG|intersto|intersto|stĭti ou stĕti, āre||tr. intr.|int., être placé dans l'intervalle, se trouver entre / tr., séparer par le milieu|intersto|
+GJ|intersto|intersto|āre, stĭtī|- 1 - intr. - être placé dans l'intervalle, se trouver entre. - 2 - tr. - séparer par le milieu.
+Ge|intersto|intersto|stetī|dazwischenstehen, -sein
+FG|intersto|intersto are stiti (steti), intransitif, être placé dans l'intervalle, se trouver entre.
+Lw|
+YO|
+PO|
+WW||||
+|intono|intŏno|īntŏno|17|īntŏnŭ||ŭi
+LS|intono|intŏno|ŭi||v. n.|to thunder|intono|0
+GG|intono|intŏno|ŭi, ātum, āre||tr. intr.|tonner / faire du bruit, résonner / retentir [en parl. de la voix] / faire entendre avec fracas, en grondant, crier d'une voix de tonnerre / faire gronder, faire mugir, faire tomber avec fracas|intono|
+GJ|intono|intŏno|āre, tŏnŭi, tŏnātum|1 - tonner. 2 - faire du bruit, résonner. 3 - retentir [en parl. de la voix]. 4 - faire entendre avec fracas, en grondant, crier d'une voix de tonnerre. 5 - faire gronder, faire mugir, faire tomber avec fracas.
+Ge|intono|intono|tonuī, tonātum, Are|donnern - Stimme sich donnernd (laut) vernehmen lassen, losdonnern - ein Getöse machen, erdröhnen, prasseln - herdonnern - sausend auf - herabfahren lassen
+FG|intono|intono are ui atum,
+Lw|intono|in-tonō|uī, ātus, āre|||to thunder||||intono
+YO|
+PO|intono|intono_, intona_re, intonui_ : v1
+WW|||intono, intonavi|intono, intonatum
+|legito|lĕgĭto|lĕgĭto|17|||āre
+LS|legito|lĕgĭto|āre||v. freq. a.|to read often|legito|0
+GG|legito|lĕgĭto|āre|||fréq. de lego 2|legito|
+GJ|legito|lĕgĭto|āre|fréq. de lĕgo, ĕre.
+Ge|legito|legito|āre = lectito, Prisc. 8, 74|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|occubo|occŭbo|ōccŭbo|17|ōccŭbŭ|ōccŭbĭt|ŭi, itum, āre, intr.
+LS|occubo|occŭbo|āre, 1||v. n.|to lie, to rest, repose|occubo|0
+GG|occubo|occŭbo|ŭi, itum, āre||intr.|être couché à côté de, alicui, de qqn / être couché, être étendu mort, reposer dans la tombe|occubo|
+GJ|occubo|occubo|āre, cubŭi, cubitum|- intr. - 1 - être couché (à côté de qqn, alicui). - 2 - être étendu mort, reposer (dans la tombe).
+Ge|occubo|occubo|buī, bitum, Are|davorliegen, davor Wache stehen - dahingestreckt liegen
+FG|occubo|occubo are ui itum (ob cubo), intransitif,
+Lw|occubo|occubō|&mdash;, &mdash;, āre|||to lie low, lie prostrate, lie dead||||occubo
+YO|
+PO|occubo|occubo_, occuba_re, occuba_vi_, occuba_tum : v1
+WW|||occubo, occubui|occubo, occubitum
+|percrepo|percrĕpo|pērcrĕpo|17|pērcrĕpŭ|pērcrĕpĭt|ŭi, ĭtum, 1
+LS|percrepo|percrĕpo|ŭi, ĭtum, 1||v. a. and n.|Neutr., to sound very much, to resound, ring|percrepo|0
+GG|percrepo|percrĕpo|ŭi, ĭtum, āre||tr. intr.|int., retentir tout entier de [abl.] / tr., chanter, célébrer|percrepo|
+GJ|percrepo|percrepo|āre, crepŭi, crepitum|- intr. - 1 - résonner, retentir. - 2 - tr. - louer, célébrer.
+Ge|percrepo|percrepo|crepuī, crepitum, Are|laut ertönen, erschallen - laut verkündigen
+FG|
+Lw|percrepo|per-crepō|&mdash;, &mdash;, āre|||to resound, ring||||percrepo
+YO|
+PO|
+WW|||percrepo, percrepui|
+|periero2|pĕriĕro2|pĕrĭĕro|17|||āre, āvi, ātum
+LS|
+GG|periero|pĕriĕro||||c. pejero|perjero|pĕriĕro
+GJ|periero|pĕriĕro|āre, āvi, ātum|- 1 - intr. - se parjurer, faire un faux serment, mentir. - 2 - tr. - attester par un faux serment.
+Ge|periero|periero|āre = peiero|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perpasco|perpasco|pērpāsco|19|pērpāv|pērpāst|pāvi, pastum, 3, intr.
+LS|perpasco|perpasco|pāvi, pastum, 3||v. n.|to graze, pasture.|perpasco|0
+GG|perpasco|perpasco|ĕre||intr.|int., paître|perpasco|
+GJ|
+Ge|perpasco|perpāsco|ere|abweiden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perseco|persĕco|pērsĕco|17|pērsĕcŭ|pērsēct|cui, ctum, 1
+LS|perseco|persĕco|cui, ctum, 1||v. a.|to cut up, exlirpate; to cut out, excise;|perseco|0
+GG|perseco|persĕco|cŭi, ctum, āre||tr.|couper, disséquer / trancher, retrancher / ouvrir [un abcès] / [fig.] fendre, percer [l'air] / [abst] retrancher (sur un prix), rabattre|perseco|
+GJ|perseco|persĕco|āre, sĕcŭi, sectum|- tr. - 1 - couper, disséquer. 2 - trancher, retrancher. 3 - ouvrir [un abcès]. 4 - [fig.] fendre, percer [l'air]. 5 - [abst] retrancher (sur unprix), rabattre.
+Ge|perseco|perseco|secuī, sectum, Are|völlig auf- - ausschneiden, operieren, sezieren - durchschneiden
+FG|perseco|perseco are cui ctum, transitif, couper, disséquer ; trancher, retrancher.
+Lw|perseco|per-secō|cuī, ctus, āre|||to cut up, extirpate, cut out||||perseco
+YO|
+PO|
+WW|||perseco, persecavi|perseco, persecatum
+|pertono|pertŏno|pērtŏno|17|pērtŏnŭ||ŭi, 1
+LS|pertono|pertŏno|ŭi, 1||v. n. and a.|to thunder violently, Act., to proclaim aloud, thunder forth, announce|pertono|0
+GG|pertono|pertŏno|ŭi, āre||tr. intr.|int., retentir fortement / proclamer fortement / tonner contre / tr., faire retentir [les louanges]|pertono|
+GJ|
+Ge|pertono|pertono|tonuī, Are|fort und fort-, gewaltig donnern - mit Donnerstimme-, laut verkündigen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pessumdo|pessumdo|pēssūmdo|17|pēssūmdĕd|pēssūmdăt|dăre
+LS|pessumdo|pessumdo|dăre||||pessumdo|(
+GG|pessumdo|pessumdo|dĕdi, dătum, āre||tr.|couler bas, submerger / [fig.] perdre, ruiner|pessumdo|pessumdo
+GJ|pessumdo|pessumdo|dăre, dĕdi, dătum|- tr. - 1 - précipiter au fond, submerger, noyer. - 2 - perdre, ruiner, anéantir, plonger dans le malheur.
+Ge|
+FG|pessumdo|pessumdo, pessundo, pessum do dare dedi datum, transitif, (figuré), perdre, ruiner.
+Lw|pessumdo|pessum-dō||||see pessum.||||pessumdo
+YO|
+PO|
+WW|||pessumdo, pessumdedi|pessumdo, possumdatum
+|pessundo|pessundo|pēssūndo|17|pēssūndĕd|pēssūndăt|dĕdi, dătum, āre
+LS|
+GG|pessundo|pessundo|dĕdi, dătum, āre||tr.|couler bas, submerger / [fig.] perdre, ruiner|pessumdo|pessundo
+GJ|pessundo|pessundo|dăre, dĕdi, dătum|- tr. - 1 - précipiter au fond, submerger, noyer. - 2 - perdre, ruiner, anéantir, plonger dans le malheur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW|||pessundo, pessundedi|pessundo, possundatum
+|plico|plĭco|plĭco|17|plĭcŭ,plĭcāv|plĭcāt,plĭcĭt|plĭcāvi, plĭcui, plĭcātum and plĭcĭtum, āre
+LS|plico|plĭco|plĭcāvi, plĭcui, plĭcātum and plĭcĭtum, āre||v. a.|to fold, to lay, wind together, to fold up, double up, winding, coiling himself up, folded, together, added|plico|(plĭcāvi, plĭcui, acc. to 
+GG|plico|plĭco|ātum, āre||tr.|tr., plier, replier / enrouler [un ms.]|plico|
+GJ|plico|plĭco|āre, ātum|- tr. - 1 - plier, replier. - 2 - enrouler [un ms.].
+Ge|plico|plico|uī, Atus, Are|falten, zusammenfalten, -legen, -wickeln
+FG|plico|plico are atum, transitif, plier, replier.
+Lw|plico|plicō|&mdash;, &mdash;, āre|||to fold, wind, coil, coiling up||||plico
+YO|
+PO|plico|plico_, plica_re, plica_vi_, plica_tum : v1
+WW|||plico, plicavi|plico, plicatum
+|porgo|porgo|pōrgo|19|pōrx||ĕre
+LS|porgo|porgo|ĕre||v. a.|to stretch, spread out before one's self, to put forth, reach out, extend|porrigo1|0
+GG|porgo|porgo|ĕre|||v. porrigo .|porgo|
+GJ|porgo|porgo|ĕre, porxi (sync.)|c. porrigo.
+Ge|
+FG|
+Lw|porgo|porgō, porgite, porgēns|see 1 porrigo.|||s||||porgo
+YO|
+PO|
+WW||||
+|praecrepo|praecrĕpo|prāecrĕpo|17|prāecrĕpŭ||crĕpŭi, 1, intr.
+LS|praecrepo|praecrĕpo|crĕpŭi, 1||v. n.|to sound, resound beforehand|praecrepo|0
+GG|praecrepo|praecrĕpo|ŭi, āre||intr.|int., retentir d'avance|praecrepo|
+GJ|
+Ge|praecrepo|praecrepo|crepuī, Are|im voraus erschallen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praedomo|praedŏmo|prāedŏmo|17|prāedŏmŭ||ŭi, 1
+LS|praedomo|praedŏmo|ŭi, 1||v. a.|to tame, subdue beforehand, mastered, surmounted beforehand|praedomo|0
+GG|praedomo|praedŏmo|dŏmŭi, āre||tr.|tr., surmonter d'avance [fig.]|praedomo|
+GJ|praedomo|praedomo|āre, domui|- tr. - dompter d'avance, surmonter d'avance.
+Ge|praedomo|praedomo|domuī, Are|im voraus bändigen
+FG|praedomo|praedomo are domui, transitif, surmonter d'avance.
+Lw|
+YO|
+PO|
+WW||||
+|praefrico|praefrĭco|prāefrĭco|17|||ātum, āre
+LS|
+GG|praefrico|praefrĭco|ātum, āre||tr.|tr., frotter préalablement|praefrico|
+GJ|
+Ge|praefrico|praefrico|fricātus, Are|vorher abreiben, -frottieren
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praejuvo|praejŭvo|prāejŭvo|17|prāejūv||jūvi, 1
+LS|praejuvo|praejŭvo|jūvi, 1||v. a.|to aid before|praejuvo|0
+GG|praejuvo|praejŭvo|jūvi, āre||tr.|tr., aider auparavant|praejuvo|
+GJ|praejuvo|praejŭvo|āre, jūvi|- tr. - Tac. aider auparavant.
+Ge|praeiuvo|praeiuvo|iūvī, Are|vorher unterstützen
+FG|praejuvo|praejuvo are juvi, transitif, aider auparavant.
+Lw|praeiuvo|prae-iuvō|iūvī, &mdash;, āre|||to aid before||||praeiuvo
+YO|
+PO|
+WW|||praejuvo, praejuvavi|praejuvo, praejuvatum
+|praeseco|praesĕco|prāesĕco|17|prāesĕcŭ|prāesēct,prāesĕcāt|cŭi, ctum, or cātum, 1
+LS|praeseco|praesĕco|cŭi, ctum, or cātum, 1||v. a.|to cut off before, in front, to cut off, out|praeseco|0
+GG|praeseco|praesĕco|ŭi, secātum et sectum, āre||tr.|tr., couper [par le bout], rogner|praeseco|
+GJ|praeseco|praeseco|āre, secŭi, sectum (qqf. secatum)|- tr. - couper par le bout, retrancher, rogner, amputer.
+Ge|praeseco|praeseco|secuī, secātum|vorn abschneiden
+FG|praeseco|praeseco are ui secatum (ou sectum), transitif, couper (par le bout), rogner.
+Lw|praeseco|prae-secō|cuī, ctus, āre|||to cut off before, cut away, cut off, cut out||||praeseco
+YO|
+PO|praeseco|praeseco_, praeseca_re, praesecui_, praesectum/praeseca_tum : v1
+WW|||praeseco, praesecui|praeseco, praesectum
+|praesono|praesŏno|prāesŏno|17|prāesŏnŭ||ui, 1
+LS|praesono|praesŏno|ui, 1||v. n. and a.||praesono|0
+GG|praesono|praesŏno|ŭi, āre||tr. intr.|int., résonner d'abord / tr., résonner mieux que, surpasser|praesono|
+GJ|praesono|praesono|āre, sonui|- intr. - 1 - résonner d'abord, retentir d'abord. - 2 - jouer d'une manière supérieure à.
+Ge|praesono|praesono|sonuī, Are|vorher tönen, -schallen - übertönen
+FG|
+Lw|praesono|prae-sonō|uī, &mdash;, āre|||to sound before||||praesono
+YO|
+PO|
+WW||||
+|procubo|prōcŭbo|prōcŭbo|17|prōcŭbŭ||āre, 1, intr.
+LS|procubo|prōcŭbo|āre, 1||v. n.|to lie stretched out, to lie along|procubo|0
+GG|procubo|prōcŭbo|āre||intr.|int., être couché à terre / [fig.] se projeter [en parl. de l'ombre], s'étendre|procubo|
+GJ|procubo|prōcubo|āre, bui|- intr. - se coucher en avant, s'étendre, s'allonger.
+Ge|procubo|prōcubo|āre|hingestreckt daliegen
+FG|procubo|procubo are, intransitif, être couché à terre ; se projeter, s'étendre.
+Lw|procubo|prō-cubō|&mdash;, &mdash;, āre|||to lie stretched out||||procubo
+YO|
+PO|procubo|pro_cubo_, pro_cuba_re, pro_cuba_vi_, pro_cuba_tum : v1
+WW|||procubo, procubui|procubo, procubitum
+|proseco|prōsĕco|prōsĕco|17|prōsĕcŭ|prōsēct|cŭi, ctum, 1
+LS|proseco|prōsĕco|cŭi, ctum, 1||v. a.|to cut off from before, cut away, off.|proseco|0
+GG|proseco|prōsĕco|ŭi, sectum, āre||tr.|arch|proseco|prōsĕco
+GJ|proseco|proseco|āre , secŭi, sectum|- tr. - 1 - couper, amputer. - 2 - découper (les entrailles d'une victime). - 3 - sacrifier, offrir en sacrifice. - 4 - fendre (la terre), labourer.
+Ge|proseco|prōseco|secuī, sectum, Are|vorn abschneiden - beschneiden - Opferteile abschneiden, zurechtschneiden - opfern
+FG|proseco|proseco (archaïque -sico) are ui sectum, transitif,
+Lw|proseco|prō-secō|cuī, ctus, āre, in religion, of parts of the victim to be offered|||to cut off, cut away||||proseco
+YO|
+PO|
+WW||||
+|prosico|prōsĭco|prōsĭco|17|prōsĭcŭ|prōsēct|cŭi, sectum, āre
+LS|
+GG|prosico|prōsĭco|cŭi, sectum, āre||tr.|couper, découper [les entrailles des victimes] / offrir en sacrifice, sacrifier / [en gén.] couper / fendre, ouvrir, labourer|proseco|-sĭco
+GJ|prosico|prosico|āre , secŭi, sectum|- tr. - 1 - couper, amputer. - 2 - découper (les entrailles d'une victime). - 3 - sacrifier, offrir en sacrifice. - 4 - fendre (la terre), labourer.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|recaveo|rĕcăvĕo|rĕcăvĕo|18|rĕcāv|rĕcāŭt|cāvi, cautum, 2
+LS|recaveo|rĕcăvĕo|cāvi, cautum, 2||v. a.|to give counter-security|recaveo|0
+GG|recaveo|rĕcăvĕo|cāvi, cautum, ēre||tr.|tr., prendre ses sûretés de son côté|recaveo|
+GJ|recaveo|rĕcavĕo|ēre|- intr. - se mettre en mesure de son côté.
+Ge|recaveo|recaveo|cāvī, cautum, Ere|Gegenkaution leisten - die Quittung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|refrico|rē̆frĭco|rē̆frĭco|17|rē̆frĭcŭ||cŭi, ātum, 1
+LS|refrico|rē̆frĭco|cŭi, ātum, 1||v. a. and n.|Act., to rub, scratch open again, to gall, fret|refrico|0
+GG|refrico|rĕfrĭco|frĭcŭi, frĭcātūrus, āre||tr.|irriter par le frottement / [fig.] renouveler, réveiler, raviver|refrico|
+GJ|refrico|refrico|fricare, fricŭi, fricatum|- tr. - 1 - frotter de nouveau. - 2 - rouvrir (une blessure). - 3 - réveiller, raviver, ranimer, renouveler. - 4 - intr. - se renouveler, se raviver.
+Ge|refrico|refrico|fricuī, fricātūrus, Are|wieder reiben, wieder kratzen, wieder aufkratzen - erneuern, wieder erregen - wieder ausbrechen
+FG|refrico|refrico are fricui fricaturus, transitif,
+Lw|refrico|re-fricō|uī, ātūrus, āre|||to rub again, scratch open, gall, fret, irritate||||refrico
+YO|
+PO|refrico|refrico_, refrica_re, refrica_vi_, refrica_tum : v1
+WW|||refrico, refricavi|refrico, refricatum
+|retego|rĕtĕgo|rĕtĕgo|19|rĕtēx|rĕtēct|xi, ctum, 3
+LS|retego|rĕtĕgo|xi, ctum, 3||v. a.|To uncover, bare, open|retego|0
+GG|retego|rĕtĕgo|texi, tectum, ĕre||tr.|découvrir, ouvrir, dévoiler, mettre à nu / [en parl. du soleil qui de ses rayons dégage le monde des voiles de la nuit] / [fig.] dévoiler, révéler / recouvrir|retego|
+GJ|retego|rĕtĕgo|ĕre, texi, tectum|- tr. - 1 - découvrir, exposer au jour, ouvrir. - 2 - dévoiler, révéler, faire connaître. - 3 - Pall. recouvrir.
+Ge|retego|retego|tēxi, tēctum, ere, I) aufdecken, entblößen, öffnen, 1)|sichtbar machen, erhellen - entdecken, offenbaren - wieder bedecken
+FG|retego|retego ere texi tectum, transitif, découvrir, ouvrir, dévoiler ; révéler.
+Lw|retego|re-tegō|tēxī, tēctus, ere|||to uncover, bare, open||||retego
+YO|
+PO|retego|retego_, retegere, rete_xi_, rete_ctum : v3
+WW|||retego, retexi|retego, retectum
+|satisdo|sătisdo|sătīsdo|17|sătīsdĕd|sătīsdăt|dĕdi, dătum, dăre, intr.
+LS|satisdo|sătisdo|||||satisdo|v. satis, II. C.
+GG|satisdo|sătisdo|dĕdi, dătum, dăre||intr.|donner une garantie suffisante, donner une caution, alicui, à qqn|satisdo|sătisdo
+GJ|satisdo|sătisdo|dăre, dĕdi, dătum|- intr. - donner caution (pour qqch, alicui rei, de aliqua re).
+Ge|satisdo|satisdo|dedī, datum, dare|gehörige Sicherheit geben, Kaution stellen, bürgen - durch gestellte Bürgschaft - ( Kaution
+FG|satisdo|satisdo (satis do) dare dedi datum, intransitif, donner une garantie suffisante, donner une caution, alicui, à quelqu'un : damni infecti, pour tout dommage éventuel.
+Lw|
+YO|
+PO|
+WW||||
+|secubo|sēcŭbo|sēcŭbo|17|sēcŭbŭ|sēcŭbĭt|ŭi, 1, intr.
+LS|secubo|sēcŭbo|ŭi, 1||v. n.|To lie alone, sleep by one's self, without a bedfellow|secubo|0
+GG|secubo|sēcŭbo|ŭi, ĭtum, āre||intr.|coucher seul ou seule, faire lit à part, rester chaste / découcher / vivre retiré|secubo|
+GJ|secubo|sēcŭbo|āre, cŭbŭi, cŭbĭtum|- 1 - coucher seul, faire lit à part, rester chaste. - 2 - découcher. - 3 - vivre retiré.
+Ge|secubo|sēcubo|uī, Are|allein liegen - allein schlafen - zurückgezogen-, einsam leben
+FG|
+Lw|secubo|sē-cubō|uī, &mdash;, are|||to lie apart, sleep alone, live alone||||secubo
+YO|
+PO|secubo|se_cubo_, se_cuba_re, se_cubui_ : v1
+WW|||secubo, secubui|
+|suavifico|suāvĭfĭco|sŭāvĭfĭco|17|||ātus sum, 1 sem. dep.
+LS|suavifico|suāvĭfĭco|ātus, sum, 1||v. sem. dep.|to make acceptable, dear|suavifico|0
+GG|suavifico|suāvĭfico|ātus, āre||tr.|tr., rendre doux, agréable|suavifico|
+GJ|suavifico|suāvĭfico|āre|rendre agréable, rendre doux.
+Ge|suavifico|suāvifico|ātus, Are|lieblich-, annehmlich machen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subinflo|sŭbīnflo|sŭbīnflo|17|||āre, 1
+LS|subinflo|sŭbinflo|āre, 1||v. a.|to puff up somewhat; pass., part., somewhat puffed up, inflated|subinflo|0
+GG|
+GJ|
+Ge|subinflo|subīnflo|Inflātus, Are|etwas aufgedunsen machen - etwas aufgedunsen werden - werden  - etwas aufgeblasen, aufgedunsen - die Anreihung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subseco|subsĕco|sūbsĕco|17|sūbsĕcŭ|sūbsēct|cui, ctum, 1
+LS|subseco|subsĕco|cui, ctum, 1||v. a.|to cut under, cut away below; to clip, pare|subseco|0
+GG|subseco|subsĕco|cŭi, ctum, āre||tr.|tr., couper par-dessous, en bas|subseco|
+GJ|subseco|subsĕco|āre, sĕcŭi, sectum|- tr. - couper par le bas, couper ras.
+Ge|subseco|subseco|secuī, sectum, Are|unten abschneiden
+FG|subseco|subseco are cui ctum, transitif, couper par-dessous, en bas.
+Lw|subseco|sub-secō|cuī, ctus, āre|||to cut under, cut away below, clip, pare||||subseco
+YO|
+PO|subseco|subseco_, subseca_re, subsecui_, subsectum : v1
+WW|||subseco, subsecui|subseco, subsectum
+|superadsto|sŭpĕradsto|sŭpĕrādsto|17|sŭpĕrādstĭt||āre, 1, intr.
+LS|superadsto|sŭpĕradsto|āre, 1||v. n.|to stand over|superasto|(
+GG|superadsto|sŭperadsto|āre||intr.|int., se tenir au-dessus|superadsto|
+GJ|superadsto|sŭpĕradsto|āre, adstĭtī (adstĭtī)|- intr. - Virg. se tenir au-dessus.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superasto|sŭpĕrasto|sŭpĕrāsto|17|sŭpĕrāstĭt||āre, 1, intr.
+LS|superasto|sŭpĕrasto|āre, 1||v. n.|to stand over|superasto|(
+GG|superasto|sŭpĕrasto||||v. superadsto.|superasto|
+GJ|superasto|sŭpĕrasto|āre, astĭtī|- intr. - Virg. se tenir au-dessus.
+Ge|superasto|superasto|āre|obendarüber stehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superdo|sŭperdo|sŭpērdo|17|sŭpērdĕd|sŭpērdăt|dĕdi, dătum, 1
+LS|superdo|sŭperdo|dĕdi, dătum, 1||v. a.|to put, lay over, med.|superdo|0
+GG|superdo|sŭperdo|dătum, āre||tr.|tr., appliquer par-dessus|superdo|
+GJ|superdo|sŭperdo|dăre, dătum|(Lebaigue P. 1224 et P. 1225) - tr. - Cels. appliquer par-dessus.
+Ge|superdo|superdo|datus, are|darübertun, -legen
+FG|
+Lw|
+YO|
+PO|
+WW|||superdo, superdedi|superdo, superdatum
+|supernomino|sŭpernōmĭno|sŭpērnōmĭno|17|||āre
+LS|supernomino|sŭpernōmĭno|āre||v. a.|to surname|supernomino|0
+GG|supernomino|sŭpernōmĭno|āre||tr.|tr., nommer après, surnommer|supernomino|
+GJ|supernomino|sŭpernōmĭno|āre|- tr. - Tert. Aug. nommer après, surnommer.
+Ge|supernomino|supernōmino|āre, I) = επονοµάζω|danach nennen - benennen - zubenamen, mit dem Zunamen benennen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|supersto|sŭpersto|sŭpērsto|17|sŭpērstĕt||āre
+LS|supersto|sŭpersto|āre||v. n. and a.|to stand upon, over|supersto|0
+GG|supersto|sŭpersto|stĕti, stāre||tr. intr.|int., se tenir au-dessus / [avec dat.] se tenir sur|supersto|
+GJ|supersto|supersto|āre, stĕti|- tr. et intr. - se tenir au-dessus de, être placé au-dessus de.
+Ge|supersto|supersto|stetī, stāre|oben auf - etwas stehen - oben daraufstehen
+FG|supersto|supersto stare steti,
+Lw|supersto|super-stō|stetī, &mdash;, āre|||to stand upon, stand over||||supersto
+YO|
+PO|supersto|supersto_, supersta_re, supersta_vi_, supersta_tum : v1
+WW|||supersto, supersteti|
+|tono|tŏno|tŏno|17|tŏnŭ||ŭi, 1
+LS|tono|tŏno|ŭi, 1||v. n. and a.|to thunder.|tono|0
+GG|tono|tŏno|ŭi, āre||intr.|tonner, faire entendre le bruit du tonnerre / faire un grand bruit, retentir fortement / [fig.] tonner [en parl. d'un orateur] / appeler d'une voix de tonnerre / faire retentir comme le tonnerre|tono|
+GJ|tono|tŏno|āre, tŏnŭi|(Lebaigue P. 1270 et P. 1271)
+Ge|tono|tono|tonuī, Are|ertönen, erschallen - donnern - es donnert - etwas herdonnern
+FG|tono|tono are ui, intransitif,
+Lw|tono|tonō|uī, &mdash;, āre|||to make a loud noise, roar, resound, thunder, to thunder forth, invoke thunderingly, To thunder||||tono
+YO|
+PO|tono|tono_, tona_re, tonui_, tonitum : v1
+WW|||tono, tonui|tono, tonatum
+|venumdo|vēnumdo|vēnūmdo|17|vēnūmdĕd|vēnūmdăt|dĕdi, dătum, 1
+LS|venumdo|vēnumdo|dĕdi, dătum, 1||v. a.|to sell, sold for, bribed by|venumdo|or 
+GG|venumdo|vēnumdo|dĕdi, dătum, ăre||tr.|mettre en vente, vendre|venumdo|vēnumdo
+GJ|venumdo|vēnumdo|dăre, dĕdi, dătum|- tr. - mettre en vente, vendre.
+Ge|
+FG|venumdo|venumdo (venundo) are dedi datum (venus 2), transitif, mettre en vente, vendre.
+Lw|
+YO|
+PO|venumdo|ve_numdo_, ve_numdare, ve_numdedi_, ve_numdatum : v1
+WW|||venumdo, venumdedi|venumdo, venumdatum
+|voto|vŏto|vŏto|17|vĕtŭ|vĕtĭt|vĕtŭi, vĕtĭtum, āre
+LS|voto|vŏto|||v. a.|archaic form of veto not to suffer a thing to take place, not to permit, to advise against, oppose, forbid, prohibit, not to permit, to do, to prevent, hinder, from doing, not to grant, to forbid|voto|: 
+GG|voto|vŏto|vĕtŭi, vĕtĭtum, āre||tr.|je fais opposition [formule des tribuns de la plèbe] / [avec prop. inf.] / [avec ne] / [avec subj. seul] / [avec inf.] empêcher de, défendre de|veto|vŏto
+GJ|voto|voto|āre, vĕtŭi, vĕtĭtum|- tr. - 1 - défendre, empêcher (de, que); défendre, interdire, prohiber. - 2 - arrêter, détourner, éloigner (qqn). - 3 - s'opposer, opposer son véto (à une loi, à un jugement). - 4 - Ter. s'opposer, être contraire (en parl. des augures).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW|||voto, votui|voto, votitum
+|vaenumdo|vaenumdo|vāenūmdo|17|vāenūmdĕd|vāenūmdăt|dĕdi, dătum, 1
+LS|vaenumdo|vaenumdo|dĕdi, dătum, 1||v. a.|to sell, sold for, bribed by|venumdo|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inseco|insĕco|īnsĕco|17|īnsĕcŭ|īnsēct|cŭi, ctum, 1
+LS|inseco|insĕco|cŭi, ctum, 1||v. a.|to cut into, cut up|inseco1|0
+GG|inseco|insĕco|secŭi, sectum, āre||tr.|tr., couper, disséquer / [fig.] mettre en menus morceaux|1 inseco|
+GJ|inseco|inseco|āre, secŭi, sectum|- tr. - couper.
+Ge|Inseco|Inseco|secuī, sectum, Are|einschneiden - zerschneiden - Kerbtiere, Insekten - hineinschneiden
+FG|inseco|inseco are secui sectum, transitif, couper, disséquer.
+Lw|inseco|īn-secō|cuī, ctus, āre|||to cut into, cut up||||inseco
+Y§|
+PO|inseco|i_nseco_, i_nseca_re, i_nsecui_, i_nsecctum : v1
+WW|||inseco, insecui|inseco, insectum
+|rumo|rūmo|rūmo|17|||āre, for rumino, intr.
+LS|rumo|rumo|āre, for rumino||||rumo|0
+GG|rumo|rūmo|āre||intr.|int., c. rumino|1 rumo|
+GJ|rumo|rumo|āre|
+Ge|rumo|rūmo|āre| = rumino
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|attono=adtono|attŏno|āttŏno|17|āttŏnŭ|āttŏnĭt|ŭi, ĭtum, 1
+LS|attono|attŏno|ŭi, ĭtum, 1||v. a.|to thunder at;, to stun, stupefy, P. a.;|attono|(better than 
+GG|attono|attŏno|tŏnŭi, tŏnĭtum, āre|||tr, frapper du tonnerre / frapper de stupeur|adtono|att-
+GJ|attono|attŏno|(adtŏno), āre, tŏnŭi, tŏnitum|- tr. - frapper du tonnerre, frapper de stupeur.
+Ge|attono|attono|tonuī, tonitum, Are|andonnern - betäuben, verblüffen, in Bestürzung versetzen
+FG|adtono|adtono (att-) are tonui tonitum, transitif, frapper de stupeur.
+Lw|attono|attonō (adt-)|uī, itus, āre|||to thunder at, stun, terrify:||||attono
+YO|
+PO|attono|attono_, attona_re, attonui_, attonitum : v1
+WW|||attono, attonui|attono, attonitum
+|exico=exsico|exĭco|ēxĭco|17|ēxĭcŭ|ēxīct|cŭi, ctum, 1
+LS|exico|exĭco|cŭi, ctum, 1||v. a.|to cut out, away.|exsico|(also 
+GG|exico|exĭco||||v. exseco.|exico|
+GJ|exico|exico|āre , sĕcŭi, sectum|- tr. - 1 - couper. - 2 - priver de la virilité, châtrer. - 3 - tirer en coupant. - 4 - rogner, retrancher, déduire.
+Ge|
+FG|
+Lw|exico|exicō||||see exseco.||||exico
+YO|
+PO|
+WW|||exico, exicui|exico, exictum
+|exscalpo=excalpo|exscalpo|ēxscālpo|17|ēxscālps|ēxscālpt|āre
+LS|exscalpo|exscalpo|āre||v. a.|to cut out, shape., to frame, prepare|exscalpo|0
+GG|exscalpo|exscalpo||||c. exsculpo|exscalpo|
+GJ|exscalpo|exscalpo|ĕre, psi, ptum|- tr. - 1 - creuser, entailler. - 2 - tailler en relief, ciseler, sculpter, graver, inciser. - 3 - gratter, effacer. - 4 - arracher, obtenir par force.
+Ge|exscalpo|exscalpo|ere|ausmeißeln, in Stein hauen, ausschnitzen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exseco=execo|exsĕco|ēxsĕco|17|ēxsĕcŭ|ēxsēct|cŭi, ctum, 1
+LS|exseco|exsĕco|cŭi, ctum, 1||v. a.|to cut out, away.|exseco|(also 
+GG|exseco|exsĕco|sĕcŭi, sectum, āre||tr.|retrancher en coupant, faire l'ablation de / priver de la virilité, couper, châtrer / retirer en coupant / [fig.] rogner, retrancher, déduire / ouvrir en coupant [pour extraire qqch]|exseco|
+GJ|exseco|exsĕco|āre , sĕcŭi, sectum|- tr. - 1 - couper. - 2 - priver de la virilité, châtrer. - 3 - tirer en coupant. - 4 - rogner, retrancher, déduire.
+Ge|exseco|exseco|secuī, sectum, Are|herausschneiden, ausschneiden, weg-, abschneiden - Mutterleibe herausschneiden - die Hoden ausschneiden - ihn entmannen, kastrieren - Entmannte - aufschneiden - den Leib aufschneiden - öffnen, sezieren
+FG|exseco|exseco are secui sectum, transitif, retrancher en coupant, faire l'ablation de.
+Lw|exseco|ex-secō or execō|cuī, ctus, āre|||to cut out, cut away, remove||||exseco
+YO|
+PO|exseco|exseco_, exseca_re, exsecui_, exsectum : v1
+WW|||exseco, exsecui|exseco, exsectum
+|exsono=exono|exsŏno|ēxsŏno|17|ēxsŏnŭ||ŭi, 1, intr.
+LS|exsono|exsŏno|ŭi, 1||v. n.|to resound|exsono|0
+GG|exsono|exsŏno|ŭi, āre||intr.|int., résonner, retentir|exsono|
+GJ|exsono|exsŏno|āre, sŏnŭi|- intr. - résonner, retentir.
+Ge|exsono|exsono|sonuī, Are|ertönen, erschallen
+FG|
+Lw|
+YO|
+PO|
+WW||||

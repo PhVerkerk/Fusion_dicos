@@ -1,0 +1,570 @@
+|caralitis|Cărălītis|Cărălītis|15|Cărălīttid||tidis
+LS|
+GG|Caralitis|Cărălītis|is|f.||marais de Pisidie [auj. Kaja Goel]|Caralitis|
+GJ|Caralitis|Caralitis|Palus (acc. -tin)|Liv. le marais Caralitis (en Pisidie).
+Ge|Caralitis|Caralītis|tidis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chalcaspis|chalcaspis|chālcāspis|15|chālcāspidi||idis
+LS|chalcaspis|chalcaspis|idis||adj.|having a brazen shield|chalcaspis|0
+GG|
+GJ|
+Ge|chalcaspis|chalcaspis|pidis|mit ehernem Schilde
+FG|
+Lw|
+YO|
+PO|
+WW||chalcaspis, chalcaspidis||
+|deses|dēsĕs|dēsĕs|15|dēsĭd||ĭdis
+LS|deses|dēses|ĭdis||adj.|inactive, indolent, idle|deses|0
+GG|deses|dēsĕs|ĭdis|||oisif, inoccupé / [en parl. de choses]|deses|
+GJ|deses|dēses|ĭdis (abl. -idi, -ide)|oisif, inoccupé, nonchalant, indolent, qui néglige.
+Ge|deses|dēses|sidis|Rührigkeit müßig, träge, untätig, lungernd - der Lungerer
+FG|deses|deses idis (desideo), oisif, inoccupé.
+Lw|deses|(dēses)|idis||adj.|inactive, indolent, idle||||deses
+YO|
+PO|
+WW||deses, desidis||
+|emathis|Ēmăthis|Ēmăthis|15|Ēmăthĭd||ĭdis
+LS|Emathis|Ēmăthis|ĭdis||adj.|Macedonian;|Emathia|i. q. Emathia, 
+GG|Emathis|Emăthis|ĭdis||adj.|d'Émathie|Emathia|-this
+GJ|Emathis|Ēmăthis|ĭdis|d'Emathie, de Macédoine.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gnosis|Gnōsis|Gnōsis|15|Gnōsĭd||ĭdis
+LS|Gnosis|Gnōsis|ĭdis||adj.|fem., the Gnosian, Ariadne|Gnosus|(
+GG|Gnosis|Gnōsis|ĭdis||adj.|de Gnosse, de Crète|Gnossus|ōsis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hepatitis|hēpătītis|hēpătītis|15|hēpătītĭd||ĭdis
+LS|hepatitis|hēpătītis|ĭdis||adj.|like the liver, liver-colored|hepatitis|0
+GG|hepatitis|hēpătītis|ĭdis||adj.|de la nature du foie, analogue au foie|hepatitis|
+GJ|hepatitis|hēpătītis|ītĭdis|de la nature du foie, analogue au foie.
+Ge|hepatitis|hēpatītis|idis|leberartig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|illyris|Illўris|Īllўris|15|Īllўrĭd||ĭdis
+LS|Illyris|Illўris|ĭdis|||Illyrian|Illyrii|0
+GG|Illyris|Illўris|ĭdis||adj.|d'Illyrie|Illyris|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inachis|Īnăchis|Īnăchis|15|Īnăchĭd||ĭdis
+LS|Inachis|Īnăchis|ĭdis||adj.|Inachian|Inachus|0
+GG|Inachis|Inăchis|ĭdis||adj.|du fleuve Inachus|Inachis|
+GJ|Inachis|Īnăchĭs|ĭdis (ĭdos)|- 1 - de l'Inachus (fleuve). - 2 - de la race d'Inachus.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|indeses|indēsĕs|īndēsĕs|15|īndēsĭd||ĭdis
+LS|indeses|indēsĕs|ĭdis||adj.|not inactive, free from indolence|indeses|0
+GG|indeses|indēsĕs|ĭdis|||non indolent, actif, diligent|indeses|
+GJ|indeses|indēsĕs|ĭdis|non indolent, actif, diligent.
+Ge|indeses|indēses|sidis|unträge
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|labeatis|Lăbĕātis|Lăbĕātis|15|Lăbĕātīd||īdis
+LS|Labeatis|Labĕātis|īdis||adj.|of or belonging to the Labeates|Labeates|0
+GG|Labeatis|Lăbĕātis|ĭdis||adj.|adj. f., des Labéates|Labeates|-ātis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|latois|Lātōĭs|Lātōĭs|15|Lātōĭd||ĭdis
+LS|Latois|Lātōĭs|ĭdis or ĭdos||adj.|of or belonging to Latona, Latonian|Latona|(
+GG|Latois|Lātōis|ĭdis ou ĭdos||adj.|de Latone|Latois|Lātōis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lelegeis|Lĕlĕgēis|Lĕlĕgēis|15|Lĕlĕgēĭd||ĭdis
+LS|Lelegeis|Lĕlĕgēis|ĭdis||adj.|Lelegeian, Asiatic|Leleges|0
+GG|Lelegeis|Lĕlĕgēis|ĭdis||adj.|des Lélèges|Leleges|Lĕlĕgēis
+GJ|Lelegeis|Lĕlĕgēis|ĭdis, adj. [Leleges]|des Lélèges.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|letois|Lētōis|Lētōis|15|Lētōĭd||ĭdis
+LS|Letois|Lētōis|ĭdis or ĭdos||adj.|of or belonging to Latona, Latonian|Latona|and 
+GG|Letois|Lētōis|ĭdis ou ĭdos||adj.|de Latone|Latois|Lēt-
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|libethris|Lībēthris|Lībēthris|15|Lībēthrĭd||ĭdis
+LS|Libethris|Lībēthris|ĭdis||adj.|Libethrian|Libethra|0
+GG|Libethris|Lībēthris|ĭdis||adj.|de Libethra|Libethra|Lībēthris
+GJ|Libethris|Lībēthris|ĭdis|de Libèthre.
+Ge|
+FG|
+Lw|Libethris|Lībēthris|idis||adj.|of Libethrus (on Mt. Helicon)||||Libethris
+YO|
+PO|
+WW||||
+|ligustis|Lĭgustis|Lĭgūstis|15|Lĭgūstĭd||ĭdis
+LS|Ligustis|Lĭgustis|ĭdis||adj.|Ligurian|Ligures|0
+GG|Ligustis|Lĭgustis|ĭdis|||Ligurienne|Ligustis|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|marathonis|Mărăthōnis|Mărăthōnis|15|Mărăthōnĭd||ĭdis
+LS|Marathonis|Mărăthōnis|ĭdis||||Marathon|0
+GG|Marathonis|Mărăthōnis|ĭdis||adj.|adj. f., de Marathon|Marathon|-ōnis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|parrhasis|Parrhăsis|Pārrhăsis|15|Pārrhăsĭd||ĭdis
+LS|Parrhasis|Parrhăsis|ĭdis||adj.|Parrhasian;, Arcadian|Parrhasia|0
+GG|Parrhasis|Parrhăsis|ĭdis|||d'Arcadie / subst. f., la Parrhasienne, l'Arcadienne = Callisto|Parrhasis|
+GJ|Parrhasis|Parrhăsis|ĭdis|de Parrhasie; d'Arcadie.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pegasis|Pēgăsis|Pēgăsis|15|Pēgăsĭd||ĭdis
+LS|Pegasis|Pēgăsis|ĭdis||adj.|-I. of Pegasus, -II. Subst. a fountain-nymph|Pegasus1|0
+GG|Pegasis|Pēgăsis|ĭdis||adj.|adj. f., de Pégase / subst. f., Naïade / pl., les Muses|Pegasis|
+GJ|
+Ge|
+FG|Pegasis|Pegasis idis, adjectif féminin de Pégase.
+Lw|
+YO|
+PO|
+WW||||
+|ptolemais|Ptŏlĕmāis|Ptŏlĕmāis|15|Ptŏlĕmāĭd||ĭdis
+LS|Ptolemais|Ptŏlĕmāis|ĭdis||adj.|Ptolem&oelig;an, Egyptian|Ptolemaeus|0
+GG|Ptolemais|Ptŏlĕmāis|ĭdis||adj.|des Ptolémées, Égyptienne|Ptolemais|Ptŏlĕmāis
+GJ|Ptolemais|Ptŏlĕmāis|ĭdis, adj.|1 - des Ptolémées, Egyptienne.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sarmatis|Sarmătis|Sārmătis|15|Sārmătĭd||ĭdis
+LS|Sarmatis|Sarmătis|ĭdis||adj.|f., Sarmatian|Sarmatia|and 
+GG|Sarmatis|Sarmătis|ĭdis||adj.|adj. f., de Sarmatie|Sarmatis|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scordotis|scordŏtis|scōrdŏtis|15|scōrdŏtidi||idis
+LS|scordotis|scordŏtis|||||scordotis|v. scordion.
+GG|scordotis|scordŏtis|is|f.|S.|c. scordion, v. scordilon.|scordium|scordŏtis
+GJ|
+Ge|scordotis|scordōtīs|idis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sicelis|Sīcĕlis|Sīcĕlis|15|Sīcĕlĭd||ĭdis
+LS|Sicelis|Sīcĕlis|ĭdis||adj.|Sicilian; subst., a Sicilian woman|Sicelis|0
+GG|Sicelis|Sīcĕlis|ĭdis|||de Sicile|Sicelis|
+GJ|Sicelis|Sicelis|ĭdis|de Sicile, sicilienne; une Sicilienne.
+Ge|
+FG|Sicelis|Sicelis idis féminin, de Sicile.
+Lw|Sicelis|Sīcelis|idis||adj.|Sicilian, a Sicilian woman||||Sicelis
+YO|
+PO|
+WW||||
+|sithonis|Sīthŏnis|Sīthŏnis|15|Sīthŏnĭd||ĭdis
+LS|Sithonis|Sīthŏnis|ĭdis||adj.|Sithonian, Thracian|Sithonii|0
+GG|Sithonis|Sīthŏnis|ĭdis|||de Thrace|Sithonis|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|spercheis|Sperchēis|Spērchēis|15|Spērchēĭd||ĭdis
+LS|Spercheis|Sperchēis|ĭdis||adj.|f., of or belonging to the Spercheos|Spercheos|0
+GG|Spercheis|Sperchēis|ĭdis||adj.|adj. f., du Sperchius|Spercheis|
+GJ|Spercheis|Sperchēis|ĭdis|du Sperchius.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|strymonis|Strȳmŏnis|Strȳmŏnis|15|Strȳmŏnĭd||ĭdis
+LS|Strymonis|Strȳmŏnis|ĭdis||adj.|f., of or belonging to Thrace; subst., a Thracian woman|Strymon|0
+GG|Strymonis|Strȳmōnis|ĭdis||adj.|du Strymon, de Thrace, amazone|Strymo|-nis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tartessis|Tartessis|Tārtēssis|15|Tārtēssĭd||ĭdis
+LS|Tartessis|Tartessis|ĭdis||adj.|f., Tartessian|Tartessus|(
+GG|Tartessis|Tartessis|ĭdis||adj.|adj. f., de Tartesse|Tartessus|-tessis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|telmessis|Telmessis|Tēlmēssis|15|Tēlmēssĭd||ĭdis
+LS|Telmessis|Telmessis|ĭdis||adj.|f., Telmessian|Telmessus|0
+GG|Telmessis|Telmessis|ĭdis||adj.|adj. f., de Telmesse|Telmessicus|Telmessis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tricuspis|trĭcuspĭs|trĭcūspĭs|15|trĭcūspĭd||ĭdis
+LS|tricuspis|trĭcuspis|ĭdis||adj.|having three, points, tines, three-pointed, three-tine&agrave;, tricuspid|tricuspis|0
+GG|tricuspis|trĭcuspĭs|ĭdis|||qui a trois pointes|tricuspis|
+GJ|tricuspis|tricuspis|ĭdis|qui a trois pointes.
+Ge|tricuspis|tricuspis|idis|drei Spitzen habend, dreispitzig
+FG|tricuspis|tricuspis idis, qui a trois pointes.
+Lw|tricuspis|(tricuspis, idis)|||adj.|with three points, three-tined, tricuspid, the trident||||tricuspis
+YO|
+PO|tricuspis|tricuspis, tricuspidis : a
+WW||tricuspis, tricuspidis||
+|trinacris|Trīnā̆cris|Trīnā̆cris|15|Trīnā̆crĭd||ĭdis
+LS|Trinacris|Trīnā̆cris|ĭdis||adj.|Trinacrian, Sicilian|Trinacria|(sc. insula), 
+GG|Trinacris|Trīnăcris|ĭdis|||de Sicile|Trinacria|Trīnăcris
+GJ|
+Ge|
+FG|
+Lw|Trinacris|Trīnacris|idis||adj.|of Trinacria, Sicilian||||Trinacris
+YO|
+PO|
+WW||||
+|troglodytis|Trōglŏdўtĭs|Trōglŏdўtĭs|15|Trōglŏdўtĭd||ĭdis
+LS|Troglodytis|Trōglŏdўtis|ĭdis||adj.|f., Troglodytic|Troglodytae|or 
+GG|Troglodytis|Trōglŏdўtĭs|ĭdis||adj.|adj. f., des Troglodytes|Troglodytae|-dўtĭs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|typhois|Tўphōis|Tўphōis|15|Tўphōĭd||ĭdis
+LS|Typhois|Tўphōis|ĭdis||adj.|f., of Typhōeus, Typh&oelig;an|Typhoeus|0
+GG|Typhois|Tўphōis|ĭdis ou ĭdos||adj.|adj. f., de Typhée|Typhois|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anteris|antēris|āntēris|15|āntēridi||idis
+LS|
+GG|
+GJ|
+Ge|anteris|antēris|idis|die Gegenstütze - der Strebepfeiler
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cephissis|Cēphissis|Cēphīssis|15|Cēphīssĭd||ĭdis
+LS|Cephissis|Cēphissis|ĭdis||adj.|fem., of Cephisus|Cephisus|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|phaetis|Phăĕtis|Phăĕtis|15|Phăĕtĭd||ĭdis
+LS|
+GG|Phaetis|Phăĕtis|ĭdis|||de Phaéton / d'ambre jaune|Phaethon|-tis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|phylacies|Phўlăciēs|Phўlăcĭēs|15|Phўlăcĭĭd||ĭdis
+LS|
+GG|Phylacies|Phўlăciēs|ĭdis||adj.|subst. f. = Laodamie|Phylace|-iēs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|phylleis|Phyllēis|Phȳllēis|15|Phȳllēĭd||ĭdis
+LS|Phylleis|Phyllēis|ĭdis||adj.|f., of or from the city of Phyllus, in Thessaly|Phylleis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pyrenis|Pȳrēnis|Pȳrēnis|15|Pȳrēnĭd||ĭdis
+LS|
+GG|Pyrenis|Pȳrēnis|ĭdis||adj.|adj. f., des Pyrénées|Pyrene|Pȳrēnis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|serbonis|Serbōnis|Sērbōnis|15|Sērbōnĭd||ĭdis
+LS|
+GG|Serbonis|Serbōnis|ĭdis||adj.|λίμνη), d'un lac de la basse Égypte|Serbonis|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|synechitis|synechītis|synechītis|15|synechītidi||idis
+LS|
+GG|
+GJ|
+Ge|synechitis|synechītis|idis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tartesis|Tartēsis|Tārtēsis|15|Tārtēsĭd||ĭdis
+LS|Tartesis|Tartēsis|ĭdis||adj.|f., Tartessian|Tartessus|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|telebois|Tēlĕbŏis|Tēlĕbŏis|15|Tēlĕbŏĭd||ĭdis
+LS|Telebois|Tēlĕbŏis|ĭdis||adj.|of Telebo&aelig;, Teleboic.&mdash;Plur|Teleboae|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trogodytis|Trōgŏdўtis|Trōgŏdўtis|15|Trōgŏdўtĭd||ĭdis
+LS|Trogodytis|Trōgŏdўtis|ĭdis||adj.|f., Troglodytic|Troglodytae|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cephisis|Cēphīsis|Cēphīsis|15|Cēphīsĭd||ĭdis
+LS|Cephisis|Cēphīsis|ĭdis||adj.|fem., of Cephisus|Cephisus|or 
+GG|Cephisis|Cēphīsis|ĭdis||adj.|du Céphise|Cephisus|Cēphīsis
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|colchis|Colchĭs|Cōlchĭs|15|Cōlchĭd||ĭdis
+LS|Colchis|Colchĭs|ĭdis||adj.|Colchian, subst., a Colchian woman, Medea|Colchis|0
+GG|Colchis|Colchis|idis||adj.|de Colchide / femme de Colchide = Médée|Colchis|Colchis
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|curetis|Cūrētis|Cūrētis|15|Cūrētĭd||ĭdis
+LS|Curetis|Cūrētis|ĭdis||adj.|pertaining to the Curetes; Cretan|Curetes|0
+GG|Curetis|Cūrētis|ĭdis|||des Curètes, Crétoise|2 Curetis|
+GJ|Curetis|Curetis||(Lebaigue P. 317)
+Ge|
+FG|
+Lw|Curetis|Cūrētis|idis|||of the Curetes||||Curetis
+Y§|
+PO|
+WW||||
+|gnossias|Gnossĭăs|Gnōssĭăs|15|Gnōssĭnos||ădis (Cnosis
+LS|Gnossias|Gnossĭas|ădis||adj.|Gnosian, Cretan|Gnosus|(
+GG|Gnossias|Gnossiăs|ădis||adj.|de Gnosse, de Crète|Gnossus|-ossiăs
+GJ|Gnossias|Gnossĭas|ădis (Cnosis, ĭdis, acc. - ida)|de Gnosse, de Cnossos, de Crète.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|gnossis|Gnossis|Gnōssis|15|Gnōssĭd||ĭdis
+LS|Gnossis|Gnossis|ĭdis||adj.|Gnosian, Cretan|Gnosus|(
+GG|Gnossis|Gnossis|ĭdis||adj.|de Gnosse, de Crète|Gnossus|-ossis
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|oaxis|Ŏaxis|Ŏāxis|15|Ŏāxĭd||ĭdis
+LS|Oaxis|Ŏaxis|ĭdis||adj.|of or belonging to the Oaxes;, Cretan|Oaxes|0
+GG|Oaxis|Ŏaxis|ĭdis||adj.|adj. f., de l'Oaxès, de la Crète|Oaxes|-xis
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|sidonis|Sīdō̆nis|Sīdō̆nis|15|Sīdō̆nĭd||ĭdis
+LS|Sidonis|Sīdō̆nis|ĭdis||adj.|Sidonian;, Ph&oelig;nician|Sidon|0
+GG|Sidonis|Sīdŏnis|ĭdis|||de Sidon, de Tyr / subst. f., = Europe, Didon et sa soeur Anne [originaires de Sidon]|Sidonis|Sīdŏnis
+GJ|Sidonis|Sīdōnis|ĭdis|- a - de Sidon. - b - de Tyr. - c - de Phénicie.
+Ge|
+FG|Sidonis|Sidonis (-onis) idis féminin, de Sidon, de Tyr ; substantif féminin, la Tyrienne, c'est-à-dire Europe, Didon et sa soeur Anne (originaires de Sidon).
+Lw|Sidonis|Sīdōnis|idis||adj.|Sidonian, Phoenician||||Sidonis
+Y§|
+PO|
+WW||||
+|syrtis|Syrtis|Sȳrtis|15|Sȳrtĭd||ĭdis
+LS|Syrtis|Syrtis|ĭdis||adj.|f., Syrtian|Syrtis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|thebais2|Thēbăis2|Thēbăis|15|Thēbăĭd||ĭdis
+LS|Thebais|Thēbăis|ĭdis||adj.|Theban|Thebae|0
+GG|Thebais|Thēbăis|ĭdis||adj.|adj. f., de Thèbes [en Béotie]|1 Thebais|
+GJ|
+Ge|
+FG|Thebais|Thebais idis, adjectif féminin, de Thèbes (en Béotie) ; substantif féminin,
+Lw|
+Y§|
+PO|
+WW||||
+|phasis2|Phāsis2|Phāsis|15|Phāsĭd||ĭdis
+LS|Phasis|Phāsis|ĭdis||adj.|-I. the Colchian -II. Phasian|Phasis1|0
+GG|Phasis|Phāsis|ĭdis||adj.|du Phase / Subst. f. : femme du Phase = Médée|1 Phasis|
+GJ|Phasis|Phāsis|ĭdis|- 1 - adj. fém. du Phase; de la Colchide. - 2 - subst. au fém. Ov. la femme du Phase (= Médée).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|dymantis2|Dўmantis2|Dўmāntis|15|Dўmāntĭd||ĭdis
+LS|Dymantis|Dўmantis|ĭdis||adj.|of Dymas|Dymas|0
+GG|
+GJ|Dymantis|Dymantis|ĭdis|de Dymas.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|persis2|Persis2|Pērsis|15|Pērsĭd||ĭdis
+LS|Persis|Persis|ĭdis||adj.|Persian|Persae|0
+GG|Persis|Persis|ĭdis et ĭdŏs||adj.|de la Perse|Persis|
+GJ|Persis|Persis|ĭdis|de Perse.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||Persis, Persidis||
+|phaeacis2|Phaeācis2|Phāeācis|15|Phāeācĭd||ĭdis
+LS|Phaeacis|Phaeācis|ĭdis||adj.|Ph&oelig;acian|Phaeaces|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|phoronis2|Phŏrōnis2|Phŏrōnis|15|Phŏrōnĭd||ĭdis
+LS|Phoronis|Phŏrōnis|ĭdis||adj.|Phoronean, Argive|Phoroneus|0
+GG|Phoronis|Phŏrōnis|ĭdis et ĭdos||adj.|du Phoronée [fleuve d'Argolide dont Phoronée était le dieu]|Phoronis|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tritonis3|Trītōnis3|Trītōnis|15|Trītōnĭd||ĭdis
+LS|Tritonis|Trītōnis|ĭdis or ĭdos||adj.|of or belonging to Lake Triton;, to Pallas, Palladian|Triton|0
+GG|
+GJ|Tritonis|Trītōnis|ĭdis|du Triton; de Minerve, de Pallas.
+Ge|
+FG|
+Lw|Tritonis|Trītōnis|idis or idos||adj.|of Lake Triton, of Pallas, Palladian||||Tritonis
+Y2|
+PO|
+WW||||

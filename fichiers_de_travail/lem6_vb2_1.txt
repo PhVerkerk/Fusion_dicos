@@ -1,0 +1,1720 @@
+|absorbeo|absorbĕo|ābsōrbĕo|18|ābsōrbŭ,ābsōrps|ābsōrpt|bui, (psi), ptum, 2
+LS|absorbeo|absorbĕo|bui, (psi), ptum, 2||v. a.|to swallow down any thing, to devour.|absorbeo|0
+GG|absorbeo|absorbĕo|bŭi, ĕre||tr.|tr., faire disparaître en avalant, absorber, engloutir|absorbeo|
+GJ|absorbeo|absorbĕo|ēre, bŭi, sorptum|- tr. - absorber, avaler, engloutir.
+Ge|absorbeo|absorbeo|buī, Ere|hinunterschlürfen - schlürfend hinunterschlucken, verschlucken, verschlingen - Feuchtigkeit einschlürfen, aufsaugen
+FG|absorbeo|absorbeo ere bui, transitif, absorber, engloutir.
+Lw|absorbeo|ab-sorbeō|buī, ptus, ēre|||to swallow down, devour:||||absorbeo
+YO|
+PO|absorbeo|absorbeo_, absorbe_re, absorbui_/absorpsi_, absorptum : v2
+WW|||absorbeo, absorbui|absorbeo, absorptum
+|abstergeo|abstergĕo|ābstērgĕo|18|ābstērs|ābstērs|rsi, rsum, 2
+LS|abstergeo|abstergĕo|rsi, rsum, 2||v. a.|to wipe off, away, to dry by wiping.|abstergeo|0
+GG|abstergeo|abstergĕo|tersi, tersum, ēre||tr.|essuyer [des larmes, du sang, de la poussière] / [fig.] effacer, balayer, dissiper [la douleur, les ennuis, etc.] / emporter, balayer|abstergeo|
+GJ|abstergeo|abstergĕo|ēre, tersi, tersum|- tr. - 1 - enlever en essuyant, essuyer. 2 - fig. effacer, balayer, dissiper [la douleur, les ennuis, etc.]. 3 - emporter, balayer.
+Ge|abstergeo|abstergeo|tersī, tersum, Ere|abwischen, abtrocknen - benehmen, vertreiben
+FG|abstergeo|abstergeo ere tersi tersum, transitif, 1. essuyer (des larmes, du sang de la poussière) ; 2. (figuré) effacer, balayer, dissiper (la douleur, les ennuis...) ; 3. emporter, balayer.
+Lw|abstergeo|abs-tergeō|tersī, tersus, ēre|||to wipe off, cleanse by wiping:||||abstergeo
+YO|
+PO|abstergeo|abstergeo_, absterge_re, abstersi_, abstersum : v2
+WW|||abstergeo, abstersi|abstergeo, abstersum
+|accieo|accĭĕo|āccĭĕo|18|āccīv|āccīt|ēre, 2
+LS|accieo|accĭĕo|ēre, 2||v. a.|to fetch, to bring|accieo|0
+GG|accieo|accĭĕo|īvi, ītum, ēre||tr.|et cieo) tr., faire venir|accieo|
+GJ|accieo|accĭĕo|ēre, īvi, ĭtum|- tr. - faire venir.
+Ge|accieo|accieo|Ivī, Ere|herbeirufen, herbeiholen
+FG|
+Lw|
+YO|
+PO|
+WW|||accieo, acci(v)i|accieo, accitum
+|aceo|ăcĕo|ăcĕo|18|ăcŭ||ui, 2, intr.
+LS|aceo|ăcĕo|ui, 2||v. n.|to be sour.|aceo|0
+GG|aceo|ăceo|ăcui, ĕre||intr.|cf. acer, acerbus), int., être aigre|aceo|
+GJ|aceo|ăcĕo|ēre, ăcui|[ac-, cf. acer, acerbus] - intr. - être aigre.
+Ge|aceo|aceo|acuī, Ere|sauer sein - unangenehm sein
+FG|aceo|aceo acui ere, intransitif, être aigre.
+Lw|
+YO|
+PO|
+WW||||
+|adaugeo|ădaugĕo|ădāugĕo|18|ădāux|ădāuct|xi, ctum, 2
+LS|adaugeo|ădaugĕo|xi, ctum, 2||v. a.|to make greater by adding to, to increase, augment.|adaugeo|0
+GG|adaugeo|ădaugeo|auxi, auctum, ēre||tr.|tr., augmenter [en ajoutant]|adaugeo|
+GJ|adaugeo|ădaugĕo|ēre, auxi, auctum|- tr. - ajouter, augmenter (en ajoutant).
+Ge|adaugeo|adaugeo|auxī, auctum, Ere|noch dazu vermehren, vergrößern - zur Verherrlichung darbringen
+FG|adaugeo|adaugeo ere auxi auctum, transitif, augmenter.
+Lw|adaugeo|ad-augeō|auxī, auctus, ēre|||to increase by adding, augment:||||adaugeo
+YO|
+PO|adaugeo|adaugeo_, adauge_re, adauxi_, adauctum : v2
+WW|||adaugeo, adauxi|adaugeo, adauctum
+|addoceo|addŏcĕo|āddŏcĕo|18|āddŏcŭ|āddōct|cui, ctum, 2
+LS|addoceo|addŏcĕo|cui, ctum, 2||v. a.|to teach something in addition to, to teach|addoceo|0
+GG|addoceo|addŏceo|ēre||tr.|tr., enseigner [en complétant]|addoceo|
+GJ|addoceo|addŏcĕo|ēre, cŭi, doctum|- tr. - Hor. enseigner (en plus de ce qui a été appris).
+Ge|addoceo|addoceo|ēre|noch dazu-, noch weiter lehren
+FG|addoceo|addoceo ere, transitif, enseigner (en complétant).
+Lw|addoceo|ad - doceō|&mdash;, &mdash;, ēre|||to teach in addition (once):||||addoceo
+YO|
+PO|
+WW|||addoceo, addocui|
+|adimpleo|ădimplĕo|ădīmplĕo|18|ădīmplēv|ădīmplēt|ēvi, ētum, 2
+LS|adimpleo|ădimplĕo|ēvi, ētum, 2||v. a.|to fill up, to fill full|adimpleo|0
+GG|adimpleo|ădimplĕo|ēvi, ēre||tr.|tr., remplir / combler / accomplir|adimpleo|
+GJ|adimpleo|ădimplĕo|ēre, ēvi, ētum|- tr. - 1 - remplir. - 2 - accomplir.
+Ge|adimpleo|adimpleo|Evī, Etum, Ere|noch dazu anfüllen, vollfüllen - ganz erfüllen - erfüllen = vollenden - vollziehen, halten
+FG|
+Lw|
+YO|
+PO|
+WW|||adimpleo, adimplevi|adimpleo, adimpletum
+|admordeo|admordĕo|ādmōrdĕo|18|ādmomōrd|ādmōrs|rsum, 2
+LS|admordeo|admordĕo|rsum, 2||v. a.|to bite at, gnaw, to bite into|admordeo|0
+GG|admordeo|admordĕo|momordi, morsum, ēre||tr.|tr., mordre après, entamer par une morsure|admordeo|
+GJ|admordeo|admordĕo|ēre, admŏmordi, admorsum|- tr. - mordre après, entamer par une morsure.
+Ge|admordeo|admordeo||anbeißen, annagen - anzapfen
+FG|
+Lw|
+YO|
+PO|
+WW|||admordeo, admordi|admordeo, admorsum
+|amaneo|āmănĕo|āmănĕo|18|āmāns||mansi, ēre
+LS|
+GG|amaneo|āmănĕo|mansi, ēre||tr. intr.|int., découcher / tr., attendre|amaneo|
+GJ|amaneo|amanĕo|ēre, mansi|- intr. - découcher.
+Ge|Amaneo|Amaneo|mānsī, Ere, a)|auswärts übernachten - abwarten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|areo|ārĕo|ārĕo|18|ārŭ||ēre, intr.
+LS|areo|ārĕo|ēre||v. n.|to be dry|areo|0
+GG|areo|ārĕo|ŭi, ēre||intr.|être sec / être desséché, fané|areo|
+GJ|areo|ārĕo|ēre, ārŭi|- intr. - être sec, être fané, être desséché, être altéré.
+Ge|Areo|Areo|uī, Ere|trocken, dürr sein - vertrocknet sein, vor Durst schmachten, lechzen
+FG|areo|areo ere ui, intransitif, 1. être sec ; 2. être desséché, fané.
+Lw|areo|āreō|uī, &mdash;, ēre|||to be dry, be parched||||areo
+YO|
+PO|areo|a_reo_, a_re_re : v2
+WW|||areo, arui|
+|beneplaceo|bĕnĕplăcĕo|bĕnĕplăcĕo|18|bĕnĕplăcŭ|bĕnĕplăcĭt|ŭi, ĭtum, 2, intr.
+LS|beneplaceo|bĕnēplăcĕo|ŭi, ĭtum, 2||v. n.|to please|beneplaceo|0
+GG|beneplaceo|bĕnĕplăceo|uī, ĭtum, ēre||intr.|int., plaire|beneplaceo|
+GJ|beneplaceo|bĕnĕplăcĕo|ēre, cŭi, cĭtum|- intr. avec dat. - plaire à, être agréable à.
+Ge|beneplaceo|beneplaceo|uī, itum, Ere|wohl gefallen - wohlgefällig - das Wohlgefallen, Belieben
+FG|
+Lw|
+YO|
+PO|
+WW|||beneplaceo, beneplacui|beneplaceo, beneplacitum
+|ceveo|cēvĕo|cēvĕo|18|cēv||ēre, intr.
+LS|ceveo|cēveo|ēre||v. n.|To move the haunches|ceveo|0
+GG|ceveo|cēvĕo|cēvi, cēvēre||intr.|int., remuer le derrière / faire des avances comme un mignon|ceveo|
+GJ|ceveo|cēvĕo|ēre, cēvi|- intr. - 1 - remuer le derrière, remuer les fesses, frétiller (comme les chiens). - 2 - faire des avances comme un mignon.
+Ge|ceveo|cēveo|ēre|beim Beischlaf den Hintern drehen - renken - schmeicheln
+FG|
+Lw|ceveo|ceveō|&mdash;, &mdash;, ēre|||to move the haunches, Iu.||||ceveo
+YO|
+PO|
+WW|||ceveo, cevi|
+|cilleo|cillĕo|cīllĕo|18|||ēre
+LS|
+GG|cilleo|cillĕo|ēre|||mouvoir|cilleo|cillĕo
+GJ|cilleo|cillĕo|ēre ou cillo, ĕre [cio]|mouvoir.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circumfulgeo|circumfulgĕo|cīrcūmfūlgĕo|18|cīrcūmfūls|cīrcūmfūls|ēre
+LS|circumfulgeo|circumfulgĕo|ēre||v. n.|to shine around|circumfulgeo|0
+GG|circumfulgeo|circumfulgĕo|fulsi, ēre||tr.|tr., briller autour|circumfulgeo|
+GJ|circumfulgeo|circumfulgĕo|ēre|- intr. - briller autour, briller de tous côtés, rayonner de toutes parts.
+Ge|circumfulgeo|circumfulgeo|fulsī, fulsum, Ere|rings umglänzen, - umstrahlen
+FG|circumfulgeo|circumfulgeo ere fulsi, transitif, briller autour.
+Lw|
+YO|
+PO|
+WW|||circumfulgeo, circumfulsi|
+|circumteneo|circumtĕnĕo|cīrcūmtĕnĕo|18|cīrcūmtĕnŭ||ēre
+LS|circumteneo|circumtĕnĕo|ēre|||to keep around, to possess|circumteneo|0
+GG|circumteneo|circumtĕnĕo|ŭi, ēre||tr.|tr., renfermer dans son pourtour / [fig.] assiéger de tous côtés|circumteneo|
+GJ|circumteneo|circumtenĕo|ēre|- tr. - tenir enfermé, contenir.
+Ge|circumteneo|circumteneo|tenuī, Ere|ringsum halten, ringsum innehaben
+FG|
+Lw|
+YO|
+PO|
+WW|||circumteneo, circumtenui|circumteneo, circumtentum
+|coherceo|cŏhercĕo|cŏhērcĕo|18|cŏhērcŭ|cŏhērcĭt|ēre, cŏhercŭi, cŏhercitum
+LS|
+GG|coherceo|cŏherceo||||v. coerceo|coherceo|
+GJ|coherceo|cŏhercĕo|ēre, cŏhercŭi, cŏhercitum|- tr. - 1 - enfermer, resserrer, maintenir, réprimer, arrêter, contenir, modérer. - 2 - élaguer. - 3 - châtier, punir, corriger, réprimer.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW|||coherceo, cohercui|coherceo, cohercitum
+|commulceo|commulcĕo|cōmmūlcĕo|18|cōmmūls|cōmmūls|ēre
+LS|commulceo|commulcĕo|ēre||v. a.|to caress, coax, soothe much.|commulceo|0
+GG|commulceo|commulcĕo|lsi, lsum, ēre||tr.|tr., caresser / [fig.] flatter|commulceo|
+GJ|commulceo|commulcĕo|ēre|- tr. - caresser, flatter.
+Ge|commulceo|commulceo|mulsī, mulsum, Ere|streicheln - liebkosen - Sinne schmeicheln
+FG|
+Lw|
+YO|
+PO|
+WW|||commulceo, commulsi|commulceo, commulsum
+|concaleo|concălĕo|cōncălĕo|18|cōncălŭ||ŭi, 2, intr.
+LS|concaleo|concălĕo|ŭi, 2||v. n.|to be thoroughly warm|concaleo|0
+GG|concaleo|concălĕo|ēre||intr.|int., être très chaud|concaleo|
+GJ|concaleo|concalĕo|ēre, calui|- intr. - être très chaud, être en feu; être embrasé (d'amour).
+Ge|concaleo|concaleo|ēre|durch und durch-, ganz warm sein
+FG|
+Lw|
+YO|
+PO|
+WW|||concaleo, concalui|
+|concieo|concĭĕo|cōncĭĕo|18|cōncīv|cōncĭt|cīvi, cĭtum, 2
+LS|concieo|concĭĕo|cīvi, cĭtum, 2||||concieo|0
+GG|concieo|concĭĕo|cĭtum, ēre||tr.|et, plus ordint,|concieo|concĭĕo
+GJ|concieo|concĭĕo|concĭēre, concĭtum (souvent concĭo, īre, īvi, ĭtum)|- tr. - assembler, réunir, mettre en mouvement, produire (une émotion), soulever (une foule, une personne), exciter.
+Ge|concieo|concieo|citum, Ere|anregen, aufregen - wo in rege Bewegung setzen - in raschen Lauf setzen - auf die Beine (in Auflauf) bringen, herbeiziehen, herbeirufen, aufbieten, aufbringen - aufregen, erschüttern - aufregen, aufwiegeln, zum Aufstand bewegen - verleiten - gemütlich aufregen, aufbringen, aufreizen - Zustände erregen, aufsteigen machen - Zustände erregen, anregen, veranlassen
+FG|concieo|concieo ere citum, et plus ordinairement,
+Lw|concieo|con-cieō||||see 1 concio.||||concieo
+YO|
+PO|concieo|concieo_, concie_re, conci_vi_, concitum : v2
+WW|||concieo, conci(v)i|concieo, concitum
+|condoceo|condŏcĕo|cōndŏcĕo|18|cōndŏcŭ|cōndŏct|cŭi, ctum, 2
+LS|condoceo|condŏcĕo|cŭi, ctum, 2||v. a.|to exercise, train, instruct, Mi., Co.|condoceo|0
+GG|condoceo|condŏcĕo|doctum, ēre||tr.|tr., dresser, former|condoceo|
+GJ|condoceo|condocĕo|ēre, docŭi, doctum|- tr. - dresser, façonner.
+Ge|condoceo|condoceo||einüben, einexerzieren, abrichten - mit unterrichten
+FG|
+Lw|
+YO|
+PO|
+WW|||condoceo, condocui|condoceo, condoctum
+|condoleo|condŏlĕo|cōndŏlĕo|18|cōndolŭ||ēre, intr.
+LS|condoleo|condŏlĕo|ēre||v. n.|to feel severe pain, to suffer greatly|condoleo|0
+GG|condoleo|condŏlĕo|ēre||intr.|int., souffrir ensemble / souffrir vivement / compatir à [dat.]|condoleo|
+GJ|condoleo|condolĕo|ēre, dolui|- intr. - 1 - souffrir beaucoup. - 2 - souffrir avec, souffrir ensemble, ressentir la même douleur.
+Ge|condoleo|condoleo|uī, Ere = συµπάσκω|Mitgefühl - Leid haben, Mitleid haben
+FG|condoleo|condoleo ere, intransitif, souffrir vivement.
+Lw|
+YO|
+PO|
+WW|||condoleo, condolui|condoleo, condolitum
+|conferveo|confervĕo|cōnfērvĕo|18|cōnfērbŭ||ēre, intr.
+LS|conferveo|confervĕo|ēre||v. n.|to seethe, boil together|conferveo|0
+GG|conferveo|confervĕo|bŭi, ēre||intr.|bouillir ensemble / se consolider [médec.]|conferveo|
+GJ|conferveo|confervĕo|ēre|- intr. - 1 - bouillir ensemble. - 2 - se consolider (en parl. des os).
+Ge|conferveo|cōnferveo|buī, Ere|zusammensieden, -kochen - zusammenheilen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|confoveo|confŏvĕo|cōnfŏvĕo|18|cōnfōv|cōnfōt|ēre
+LS|confoveo|confŏvĕo|ēre||v. a.|to warm, foster, cherish assiduously|confoveo|0
+GG|confoveo|confŏvĕo|fōvi, fōtum, ēre||tr.|tr., réchauffer, ranimer|confoveo|
+GJ|confoveo|confovĕo|ēre, fovi, fotum|- tr. - réchauffer, ranimer, restaurer; délasser.
+Ge|confoveo|cōnfoveo|fōtus, Ere|eifrig wärmen, -pflegen
+FG|
+Lw|
+YO|
+PO|
+WW|||confoveo, confovi|confoveo, confotum
+|conlubeo|conlŭbĕo|cōnlŭbĕo|18|cōnlŭbŭ|cōnlŭbĭt|ŭi, ēre, intr.
+LS|
+GG|conlubeo|conlubĕo|ŭi, ēre||intr.|int., plaire, être du goût de|collibeo|conlub-
+GJ|conlubeo|conlŭbĕo|ēre, lĭbŭit (lĭbĭtum est)|- intr. avec dat. - être du goût de, plaire à.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|conniveo|connīvĕo|cōnnīvĕo|18|cōnnīv,cōnnīx||nīvi or nixi, 2, intr.
+LS|conniveo|connīvĕo|nīvi or nixi, 2||v. n.|to close, shut.|connitor|(less correctly 
+GG|
+GJ|conniveo|connīvĕo|ēre, nīvi (nixi)|cf. nictare, faire un signe des yeux - intr. - 1 - se fermer. 2 - en parl. des pers. elles-mêmes fermer les yeux. 3 - fermer les yeux, laisser faire avec indulgence, tolérer, être de connivence.
+Ge|
+FG|
+Lw|
+YO|
+PO|conniveo|conni_veo_, conni_ve_re, conni_vi_/conni_xi_ : v2
+WW|||conniveo, conni(v)i|
+|consedeo|cōnsĕdĕo|cōnsĕdĕo|18|cōnsēd||ēre, intr.
+LS|
+GG|consedeo|consĕdĕo|ēre||intr.|int., être assis avec / être assis ensemble|consedeo|
+GJ|consedeo|consĕdĕo|ēre|- intr. - 1 - être assis avec. - 2 - être assis ensemble.
+Ge|consedeo|cōnsedeo|sēdī, Ere|beisammensitzen - mitsitzen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consideo|consĭdĕo|cōnsĭdĕo|18|||sĭdēre
+LS|
+GG|consideo|consĭdĕo|sĭdēre|||c. consedeo|consideo|
+GJ|consideo|consĭdĕo|ēre|c. consedeo.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consuadeo|consŭādĕo|cōnsŭādĕo|18|cōnsŭās|cōnsŭās|ēre
+LS|consuadeo|consŭādĕo|ēre||v. a.|to advise, counsel strongly|consuadeo|0
+GG|consuadeo|consuādĕo|ēre||tr. intr.|tr., conseiller fortement / int., donner un avis favorable|consuadeo|
+GJ|consuadeo|consuadĕo|ēre|- 1 - tr. - conseiller vivement. - 2 - intr. - donner un avis favorable (à qqn, alicui).
+Ge|consuadeo|cōnsuādeo|sī, sum, Ere|nachdrücklich raten, -anraten - (wem?)
+FG|
+Lw|
+YO|
+PO|
+WW|||consuadeo, consuasi|consuadeo, consuasum
+|conterreo|conterrĕo|cōntērrĕo|18|cōntērrŭ|cōntērrĭt|ŭi, ĭtum, 2
+LS|conterreo|conterrĕo|ŭi, ĭtum, 2||v. a.|to terrify greatly, to frighten, absol.|conterreo|0
+GG|conterreo|conterrĕo|ŭi, ĭtum, ēre||tr.|tr., frapper de terreur, épouvanter|conterreo|
+GJ|conterreo|conterrĕo|ēre, rŭi, ĭtum|- tr. - frapper de terreur, épouvanter, effrayer.
+Ge|conterreo|conterreo|terruī, territum, Ere|in Schrecken jagen, einschüchtern - angst und bange machen
+FG|conterreo|conterreo ere ui itum, transitif, frapper de terreur, épouvanter.
+Lw|conterreo|con-terreō|uī, itus, ēre|||to terrify, frighten, subdue by terror||||conterreo
+YO|
+PO|conterreo|conterreo_, conterre_re, conterrui_, conterritum : v2
+WW|||conterreo, conterrui|conterreo, conterritum
+|contorreo|contorrĕo|cōntōrrĕo|18|cōntōrrŭ||ŭi, 2
+LS|contorreo|contorrĕo|ŭi, 2||v. a.|to dry up entirely, to parch, scorch|contorreo|0
+GG|contorreo|contorrĕo|ŭi, ēre||tr.|tr., consumer entièrement|contorreo|
+GJ|contorreo|contorrĕo|ēre, torrŭi|- tr. - brûler entièrement.
+Ge|contorreo|contorreo|torruī, Ere|ausdörren, austrocknen
+FG|
+Lw|
+YO|
+PO|
+WW|||contorreo, contorrui|contorreo, contostum
+|convoveo|convŏvĕo|cōnvŏvĕo|18|cōnvōv|cōnvōt|vōvi, vōtum, 2
+LS|convoveo|convŏvĕo|vōvi, vōtum, 2||v. a.|to devour together|convoveo|0
+GG|convoveo|convŏvĕo|ēre||intr.|int., faire les mêmes voeux|convoveo|
+GJ|convoveo|convŏvĕo|ēre, vōvi, vōtum|- intr. - faire les mêmes voeux.
+Ge|convoveo|convoveo|vōvī, vōtum, Ere|sich durch ein gemeinschaftliches Gelübde verbinden
+FG|
+Lw|
+YO|
+PO|
+WW|||convoveo, convovi|convoveo, convotum
+|dedoceo|dēdŏcĕo|dēdŏcĕo|18|dēdŏcŭ|dēdōct|ēre
+LS|dedoceo|dēdŏcĕo|ēre||v. a.|to cause, to unlearn, to unteach, teach the opposite of|dedoceo|0
+GG|dedoceo|dēdŏcĕo|cŭi, ctum, ēre||tr.|tr., faire oublier ce qu'on a appris faire désapprendre|dedoceo|
+GJ|dedoceo|dēdŏcĕo|ēre, dŏcŭi, doctum|- tr. faire désapprendre (qqch à qqn, aliquem aliquid), faire oublier, apprendre à ne ... pas.
+Ge|dedoceo|dēdoceo|ēre|etwas verlernen - sich abgewöhnen lassen - Sache entwöhnen - durch Belehrung von seiner - Ansicht abbringen - eines Bessern belehren
+FG|dedoceo|dedoceo ere cui ctum, transitif, faire oublier ce qu'on a appris, faire désapprendre.
+Lw|dedoceo|dē-doceō|ēre, uī, ctus|||to cause to unlearn, unteach, teach the opposite of||||dedoceo
+YO|
+PO|
+WW|||dedoceo, dedocui|dedoceo, dedoctum
+|dedoleo|dēdŏlĕo|dēdŏlĕo|18|dēdŏlŭ||ui, 2, intr.
+LS|dedoleo|dēdŏlĕo|ui, 2||v. n.|to give over grieving, grieve no more|dedoleo|0
+GG|dedoleo|dēdŏlĕo|ŭi, ēre||intr.|int., cesser de s'affliger, mettre fin à sa douleur|dedoleo|
+GJ|dedoleo|dēdŏlĕo|ēre, dŏlui|- intr. - cesser de se plaindre, cesser de s'affliger.
+Ge|dedoleo|dēdoleo|doluī, Ere|seinen Schmerz-, seinen Kummer enden
+FG|dedoleo|dedoleo ere ui, intransitif, cesser de s'affliger, mettre fin à sa douleur.
+Lw|dedoleo|de-doleō|uī, ēre|||to cease grieving||||dedoleo
+YO|
+PO|dedoleo|de_doleo_, de_dole_re, de_dolui_ : v2
+WW|||dedoleo, dedolui|
+|dehibeo|dĕhĭbĕo|dĕhĭbĕo|18|dĕhĭbŭ|dĕhĭbĭt|ŭi, ĭtum, 2
+LS|dehibeo|dĕhĭbĕo|ŭi, ĭtum, 2||v. a.|infra, to have, keep from some one, habet, debet, retinet, to owe|dehibeo|v. debeo 
+GG|dehibeo|dĕhĭbĕo||||v. debeo|dehibeo|
+GJ|dehibeo|dehibĕo|arch.|c. debeo.
+Ge|dehibeo|dehibeo|hibuī, Ere|schulden, schuldig sein
+FG|
+Lw|
+YO|
+PO|
+WW|||dehibeo, dehibui|dehibeo, dehibitum
+|demordeo|dēmordĕo|dēmōrdĕo|18|dēmōrd|dēmōrs|mordi, morsum, 2
+LS|demordeo|dēmordĕo|no perf., morsum, 2||v. a.|to bite off|demordeo|no 
+GG|demordeo|dēmordĕo|morsum, ēre||tr.|tr., entamer avec les dents, ronger|demordeo|
+GJ|demordeo|dēmordĕo|ēre|- tr. - entamer, enlever avec les dents.
+Ge|demordeo|dēmordeo|mordī, morsum, Ere|abbeißen - wovon?
+FG|
+Lw|
+YO|
+PO|
+WW||||demordeo, demorsum
+|depleo|dēplĕo|dēplĕo|18|dēplēv|dēplēt|ēvi, 2
+LS|depleo|dēplĕo|ēvi, 2||v. a.|to empty out, to draw off, to exhaust|depleo|0
+GG|depleo|dēplĕo|ēvi, ētum, ēre||tr.|désemplir, vider / [fig.] vider, épuiser / tirer [un liquide]|depleo|
+GJ|depleo|deplĕo|ēre, evi, etum|- tr. - désemplir, vider.
+Ge|depleo|dēpleo|plēvī, plētum, Ere|ausschöpfen, ausleeren
+FG|
+Lw|
+YO|
+PO|
+WW|||depleo, deplevi|depleo, depletum
+|derigeo|dērĭgĕo|dērĭgĕo|18|dērĭgŭ||rigui, ēre
+LS|derigeo|dērĭgeo|ēre||v. a.|to remove hardness, to soften|derigeo|0
+GG|derigeo|dērĭgĕo|ēre||intr.|être glacé|derigeo|dērĭgĕo
+GJ|derigeo|derigĕo|ēre, rigui|c. derigesco.
+Ge|derigeo|dērigeo|ēre|das Starre (Harte) benehmen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|desideo|dēsĭdĕo|dēsĭdĕo|18|dēsēd|dēsēss|sēdi, sessum, 2, intr.
+LS|desideo|dēsĭdĕo|sēdi, 2||v. n.|to remain, continue sitting, to sit long;, to sit idle, to remain inactive|desideo|0
+GG|desideo|dēsĭdĕo|sēdi, ēre||intr.|int., rester assis ou séjourner de manière inactive / rester oisif / aller à la selle|desideo|
+GJ|desideo|dēsidĕo|ēre, sēdi, sessum|- intr. - 1 - rester assis, être assis, demeurer, se tenir quelque part. - 2 - être oisif, rester oisif, rester sans rien faire. - 3 - Cels. aller à la selle.
+Ge|desideo|dēsideo|sēdi, sessum, Ere|sitzend verweilen, -verharren - Rührigkeit still-, müßig dasitzen, müßig verweilen, die Hände müßig in den Schoß legen - zu Stuhle sitzen
+FG|desideo|desideo ere sedi, intransitif, rester assis ou séjourner d'une manière inactive ; rester oisif.
+Lw|desideo|dēsideō|sēdī, &mdash;, ēre|||to sit long, sit idle, remain inactive||||desideo
+YO|
+PO|
+WW|||desideo, desedi|desideo, desessum
+|detorreo|dētorrĕo|dētōrrĕo|18|dētōrrŭ||ēre
+LS|detorreo|dētorrĕo|ēre||v. a.|to scorch, to burn|detorreo|0
+GG|detorreo|dētorrĕo|ēre||tr.|tr., consumer [au fig.]|detorreo|
+GJ|detorreo|detorrĕo|ēre|- tr. - brûler entièrement, consumer (au fig.).
+Ge|detorreo|dētorreo|torruī, Ere|völlig versengen
+FG|
+Lw|
+YO|
+PO|
+WW|||detorreo, detorrui|detorreo, detostum
+|diluceo|dīlūcĕo|dīlūcĕo|18|||ēre, intr.
+LS|diluceo|dīlūcĕo|ēre||v. n.|to be clear, evident|diluceo|0
+GG|diluceo|dīlūcĕo|ēre||intr.|int., être clair, évident|diluceo|
+GJ|diluceo|dīlūcĕo|ēre [dis + luceo]|- intr. - 1 - être éclairé. - 2 - être évident, être clair.
+Ge|diluceo|dīlūceo|ēre|vor Augen liegen, klar sein
+FG|diluceo|diluceo ere (dis luceo), intransitif, être clair, évident ; satis dilucet, plus proposition infinitive, il est bien clair que.
+Lw|diluceo|dī-lūceō|&mdash;, &mdash;, ēre|||to be clear, be evident||||diluceo
+YO|
+PO|
+WW|||diluceo, diluxi|
+|diribeo|dĭrĭbĕo|dĭrĭbĕo|18|dĭrĭbŭ|dĭrĭbĭt|no perf., ĭtum, 2
+LS|diribeo|dĭrĭbĕo|no perf., ĭtum, 2||v. a.|to lay apart, separate, divide, sort, absol.|diribeo|no 
+GG|diribeo|dĭrĭbĕo|bĭtum, ēre||tr.|tr., trier, compter, dénombrer / [fig.] partager, distribuer|diribeo|
+GJ|diribeo|dĭrĭbĕo|ēre, bŭi, bĭtum [dis + habeo|<tenir séparé>] : - tr. - 1 - trier, compter (les suffrages, les bulletins), classer, dénombrer. - 2 - partager, distribuer.
+Ge|diribeo|diribeo|buī, Ere|auseinander teilen - nach verteilen, austeilen - Gerichten sondern
+FG|diribeo|diribeo ere bitum (dis habeo), transitif, trier, compter, dénombrer.
+Lw|diribeo|diribeō|&mdash;, itus, ēre|||to separate, sort, canvass||||diribeo
+YO|
+PO|
+WW||||diribeo, diribitum
+|dirigeo|dīrĭgĕo|dīrĭgĕo|18|dīrĭgŭ||ēre, intr.
+LS|
+GG|dirigeo|dīrĭgĕo|ēre||intr.|être glacé|derigeo|dīr-
+GJ|dirigeo|dīrĭgĕo|ēre, rigui|c. derigesco.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dispareo|dispārĕo|dīspārĕo|18|dīspārŭ||ŭi, ēre, intr.
+LS|
+GG|dispareo|dispārĕo|ŭi, ēre||intr.|int., disparaître|dispareo|
+GJ|
+Ge|dispareo|dispāreo|pāruī, Ere|verschwinden
+FG|
+Lw|
+YO|
+PO|
+WW|||dispareo, disparui|dispareo, disparitum
+|distineo|distĭnĕo|dīstĭnĕo|18|dīstĭnŭ|dīstēnt|tĭnŭi, tentum, 2
+LS|distineo|distĭnĕo|tĭnŭi, tentum, 2||v. a.|To keep asunder, to separate, divide.|distineo|0
+GG|distineo|distĭnĕo|tĭnŭi, tentum, ēre||tr.|tenir séparé, séparer, tenir éloigné / les pieux étaient tenus écartés / [fig.] déchirer, partager / tenir à l'écart, retenir, tenir occupé, empêcher|distineo|
+GJ|distineo|distĭnĕo|ēre, tĭnŭi , tentum [dis + teneo]|- tr. - 1 - tenir des deux côtés; tenir séparé, tenir éloigné, tenir à distance. - 2 - déchirer, partager. - 3 - tenir occupé, retenir, empêcher.
+Ge|distineo|distineo|tinuī, tentum, Ere|auseinander-, getrennt halten, trennen - sie aufhalten, hinhalten, verzögern - an der Konzentrierung seiner - geistigen Kräfte hindern - Feind an der Konzentrierung - Streitkräfte hindern - Streitkräfte vereinzeln, auf mehrere Punkte zerstreuen - Aufmerksamkeit - Tätigkeit mehrseitig in Anspruch nehmen - ihn vielseitig beschäftigen - ihn zerstreuen
+FG|distineo|distineo ere tinui tentum (dis teneo), transitif,
+Lw|distineo|distineō|tinuī, tentus, ēre|||to keep asunder, separate, part, hold back, To keep back, hinder, detain, occupy, engage, employ, divert, kept from uniting, To hinder, delay, put off, prevent, to distract, perplex||||distineo
+YO|
+PO|distineo|distineo_, distine_re, distinui_, distentum : v2
+WW|||distineo, distinui|distineo, distentum
+|distorqueo|distorquĕo|dīstōrqụĕo|18|dīstōrs|dīstōrt|rsi, rtum, 2
+LS|distorqueo|distorquĕo|rsi, rtum, 2||v. a.|to turn different ways, to twist, distort|distorqueo|0
+GG|distorqueo|distorquĕo|torsi, tortum, ēre||tr.|tourner de côté et d'autre, contourner, tordre / torturer, tourmenter|distorqueo|
+GJ|distorqueo|distorquĕo|ēre, torsi, tortum|- tr. - 1 - tourner de côté et d'autre, tordre, contourner. - 2 - tourmenter, torturer.
+Ge|distorqueo|distorqueo|torsī, tortum, Ere|auseinander drehen, -zerren, verzerren, verdrehen - zermartern, quälen
+FG|distorqueo|distorqueo ere torsi tortum, transitif,
+Lw|distorqueo|dis-torqueō|rsī, rtus, ere|||to turn awry, twist, distort||||distorqueo
+YO|
+PO|distorqueo|distorqueo_, distorque_re, distorsi_, distortum : v2
+WW|||distorqueo, distorsi|distorqueo, distortum
+|dureo|dūrĕo|dūrĕo|18|durŭ||ēre, 2, intr.
+LS|dureo|dūrĕo|ēre, 2||v. n.|to be hard|dureo|0
+GG|dureo|dūrĕo|ēre||intr.|int., être dur|dureo|
+GJ|dureo|durĕo|ēre, durŭi (usité seul. au parf.)|- intr. - être dur.
+Ge|dureo|dūreo|ēre|hart sein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|effleo|efflĕo|ēfflĕo|18|ēfflēv||ēvi, 2
+LS|effleo|efflĕo|ēvi, 2||v. a.|to weep out, exhaust by weeping|effleo|0
+GG|effleo|efflĕo|ēvi, ēre||intr.|int., pleurer abondamment|effleo|
+GJ|effleo|efflĕo|ēre, evi|- intr. - pleurer abondamment.
+Ge|effleo|effleo|flēvī, Ere|ausweinen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|effloreo|efflōrĕo|ēfflōrĕo|18|ēfflōrŭ||ēre, intr.
+LS|effloreo|efflōrĕo|ēre||v. n.|to bloom, blossom forth|effloreo|0
+GG|effloreo|efflōrĕo|ēre||intr.|être en fleur|effloreo|
+GJ|effloreo|efflorĕo|ēre, florui|- intr. - être en fleur.
+Ge|effloreo|efflōreo|ēre|aufblühen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eluceo|ēlūcĕo|ēlūcĕo|18|ēlūx||xi, 2, intr.
+LS|eluceo|ēlūcĕo|xi, 2||v. n.|to shine out, shine forth|eluceo|0
+GG|eluceo|ēlūcĕo|uxi, ēre||intr.|luire, briller / [en gén. avec un nom abstrait ou nom de chose comme sujet] être éclatant, se montrer brillamment, se révéler, se manifester|eluceo|
+GJ|eluceo|elucĕo|ēre, luxi|- intr. - 1 - luire, briller. - 2 - au fig. briller, être éclatant. - 3 - éclater, se révéler, se manifester.
+Ge|Eluceo|Elūceo|lūxī, Ere|hervorleuchten, hervorstrahlen - hervorleuchten, hervorschimmern, sichtbar in die Augen fallen, recht sichtbar hervortreten, sich recht bemerkbar machen - andern hervorleuchten
+FG|eluceo|eluceo ere uxi, intransitif,
+Lw|eluceo|ē-lūceō|ūxī, &mdash;, ēre|||to shine out, shine forth, gleam||||eluceo
+YO|
+PO|eluceo|e_lu_ceo_, e_lu_ce_re, e_lu_xi_ : v2
+WW|||eluceo, eluxi|
+|emaneo|ēmănĕo|ēmănĕo|18|ēmăns|ēmāns|nsi, 2, intr.
+LS|emaneo|ēmănĕo|nsi, 2||v. n.|To stay without, remain beyond|emaneo|0
+GG|emaneo|ēmănĕo|mansi, mansum, ēre||intr.|int., rester longtemps hors de / rester hors du camp, s'absenter au-delà du temps prescrit|emaneo|
+GJ|emaneo|ēmănĕo|ēre, ēmansi, ēmansum|- intr. - 1 - rester longtemps hors de. - 2 - s'absenter hors du temps prescrit.
+Ge|Emaneo|Emaneo|mānsī, mānsum, Ere|herausbleiben - ausbleiben - über die Urlaubszeit wegbleiben
+FG|
+Lw|
+YO|
+PO|
+WW|||emaneo, emansi|emaneo, emansum
+|emulgeo|ēmulgĕo|ēmūlgĕo|18|ēmūls|ēmūls|no perf., lsum, 2
+LS|emulgeo|ēmulgĕo|no perf., lsum, 2||v. a.|to milk out.|emulgeo|no 
+GG|emulgeo|ēmulgĕo|sum, ēre||tr.|tr., traire / [fig.] épuiser|emulgeo|
+GJ|emulgeo|ēmulgĕo|ēre, ēmulsi, ēmulsum|- tr. - 1 - Col. traire (complètement). - 2 - Catul. épuiser, assécher, vider.
+Ge|Emulgeo|Emulgeo|mulsum, Ere|ausmelken, abmelken
+FG|
+Lw|emulgeo|ē-mulgeō|&mdash;, ulsus, ēre|||to drain out, exhaust||||emulgeo
+YO|
+PO|
+WW||||
+|excieo|excĭĕo|ēxcĭĕo|18|ēxcīv,ēxcĭ|ēxcīt|ēre
+LS|excieo|excĭĕo|ēre||||excieo|0
+GG|excieo|excĭĕo|īvi ou ĭi, ītum, īre|||c. excio :|excieo|
+GJ|excieo|exciĕo|ēre, īvi (ĭi), ītum|c. excio.
+Ge|excieo|excieo|cīvī, citum, Ere|Stellung heraus-, hervor-, fortbewegen - auf-, forttreiben, jagen, -scheuchen - wohin heraus- - herbei-, hervorrufen, aufrufen, berufen, auf- - entbieten, bescheiden, kommen lassen - zitieren - bescheiden, vorladen - aufrufen, herbeirufen, berufen, aufbieten, aufstöbern - Tätigkeit anregen, rege machen, vermögen, veranlassen, reizen - Schlafe aufwecken, aufscheuchen - Schlafe erwachen - leidenschaftlich aufregen, aufscheuchen, erschrecken - hervorlocken, entlocken - hervorlocken, erzeugen, entlocken - Leidenschaft verursachen, erregen - aufrütteln, erschüttern
+FG|excieo|excieo ere ivi (ii) itum, cf. excio.
+Lw|excieo|ex-cieō and ex-ciō|īvī, ītus and itus, īre, (ēre)|||to call out, summon forth, rouse||||excieo
+YO|
+PO|excieo|excieo_, excie_re, exci_vi_, exci_tum : v2
+WW||||
+|exhorreo|exhorrĕo|ēxhōrrĕo|18|ēxhōrrŭ||ēre
+LS|exhorreo|exhorrĕo|ēre||v. a.|to tremble, shudder exceedingly at, to be terrified at, to dread|exhorreo|0
+GG|exhorreo|exhorrĕo|ēre||tr. intr.|int., frissonner [pr. et fig.] / tr., redouter vivement|exhorreo|exhorrĕo
+GJ|exhorreo|exhorrĕo|ēre|- tr. - frissonner en présence de, avoir horreur de.
+Ge|exhorreo|exhorreo|ēre|aufschaudern, sich entsetzen
+FG|
+Lw|exhorreo|ex-horreō|uī, &mdash;, ēre|||to tremble before, shudder at, dread||||exhorreo
+YO|
+PO|
+WW|||exhorreo, exhorrui|
+|exibeo|exĭbĕo|ēxĭbĕo|18|ēxĭbŭ|ēxĭbĭt|ŭi, itum, 2
+LS|exibeo|exibeo|ŭi, itum, 2||v. a.|To hold forth, tender, present; to deliver, give up, produce|exhibeo|(
+GG|exibeo|exĭbĕo||||v. exhibeo.|exibeo|
+GJ|
+Ge|
+FG|
+Lw|exibeo|exibeō|see exhib-.|||AD||||exibeo
+YO|
+PO|
+WW||||
+|exmoveo|exmŏvĕo|ēxmŏvĕo|18|ēxmōv|ēxmōt|mōvi, mōtum, 2
+LS|exmoveo|exmŏvĕo|mōvi, mōtum, 2||v. a.|to move out, move away, remove|exmoveo|(
+GG|exmoveo|exmŏvĕo||||v. emoveo|exmoveo|
+GJ|
+Ge|exmoveo|exmoveo|mōvī, mōtum, Ere = emoveo|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|extorpeo|extorpĕo|ēxtōrpĕo|18|ēxtōrpŭ||ēre
+LS|
+GG|extorpeo|extorpĕo|ēre|||c. torpeo|extorpeo|
+GJ|
+Ge|extorpeo|extorpeo|uī, Ere|erstarren
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fidejubeo|fĭdējŭbĕo|fĭdējŭbĕo|18|fĭdējūss|fĭdējūss|jussi, jussum, 2, intr.
+LS|fidejubeo|fĭdĕjŭbĕo|jussi, jussum, 2||v. n.|to be surety, bail, to give, go bail for, Pass. impers.|fidejubeo|(also separately 
+GG|fidejubeo|fĭdējŭbĕo|jussi, jussum, ēre|||se porter garant|fidejubeo|
+GJ|fidejubeo|fĭdējŭbĕo|ēre, jussi, jussum|- intr. - se porter garant.
+Ge|fideiubeo|fideiubeo|iussī, iussum, Ere|gutsagen - Bürge sein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frendeo|frendeo|frēndĕo|18|frēndŭ|frēs,frēss|frendui, frēsum and fressum, 2
+LS|frendeo|frendeo|frendui, frēsum and fressum, 2||v. n. and a.|I. Neutr., to gnash the teeth II. Act., To crush, bruise, or grind to pieces;To lament over with rage, gnash the teeth at|frendo|and 
+GG|frendeo|frendeo||||v. frendo|frendeo|
+GJ|frendeo|frendĕo|ēre|c. frendo.
+Ge|
+FG|
+Lw|
+YO|
+PO|frendeo|frendeo_, frende_re, fre_sum : v2
+WW||||
+|hebeo|hĕbĕo|hĕbĕo|18|||ēre, intr.
+LS|hebeo|hĕbĕo|ēre||v. n.|to be blunt, dull|hebeo|0
+GG|hebeo|hĕbĕo|ēre||intr.|être émoussé / [fig.] être engourdi / être abasourdi|hebeo|
+GJ|hebeo|hĕbĕo|ēre (ordint aux 3e pers. de l'ind. prés.)|- intr. - 1 - être émoussé. 2 - fig. être engourdi. 3 - être abasourdi.
+Ge|hebeo|hebeo|-Ere|stumpf sein - stumpf sein
+FG|hebeo|hebeo ere, intransitif (ordinairement aux troisièmes personnes de l'indicatif présent), être émoussé ; (figuré) être engourdi.
+Lw|hebeo|hebeō|&mdash;, &mdash;, ēre|||to be blunt, be dull, to be sluggish, be inactive||||hebeo
+YO|
+PO|hebeo|hebeo_, hebe_re : v2
+WW||||
+|impermisceo|impermiscĕo|īmpērmīscĕo|18||īmpērmīxt|mixtus, ēre, 2
+LS|impermisceo|impermiscĕo|mixtus, ēre, 2||v.|to mix in, mingle|impermisceo|0
+GG|impermisceo|impermiscĕo|mixtum, ēre||tr.|tr., mêler, mélanger|impermisceo|
+GJ|
+Ge|impermisceo|impermisceo|permixtus, Ere|einmischen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inferveo|infervĕo|īnfērvĕo|18|īnfērbŭ||ēre, intr.
+LS|inferveo|infervĕo|ēre||v. n.|to boil in, to boil, seethe|inferveo|0
+GG|inferveo|infervĕo|ferbŭi, ēre||intr.|int., bouillir dans|inferveo|
+GJ|inferveo|infervĕo|ēre|- intr. - être chauffé, bouillir dans, bouillir sur.
+Ge|Inferveo|Inferveo|ferbuī, Ere|sich erhitzen, aufsieden, kochen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|infrendeo|infrendĕo|īnfrēndĕo|18|||ēre, intr.
+LS|infrendeo|infrendĕo|ēre||||infrendeo|0
+GG|infrendeo|infrendĕo|ēre ĕre||intr.|int., grincer ; [avec ou sans dentibus] grincer des dents|infrendeo|
+GJ|infrendeo|infrendĕo|ēre (infrendo, ĕre)|- intr. - 1 - grincer (des dents). - 2 - Tert. être furieux (contre qqn, alicui).
+Ge|
+FG|infrendeo|infrendeo ere, intransitif, grincer ; (avec ou sans dentibus) grincer des dents.
+Lw|
+YO|
+PO|
+WW||||
+|infulgeo|infulgĕo|īnfūlgĕo|18|īnfūls||fulsi, ēre, intr.
+LS|
+GG|infulgeo|infulgĕo|fulsi, ēre||intr.|int., briller sur [fig.]|infulgeo|
+GJ|
+Ge|Infulgeo|Infulgeo|fulsī, Ere|aufleuchten
+FG|
+Lw|
+YO|
+PO|
+WW|||infulgeo, infulsi|
+|inhorreo|ĭnhorrĕo|ĭnhōrrĕo|18|ĭnhōrrŭ||ŭi, 2, intr.
+LS|inhorreo|ĭnhorrĕo|ŭi, 2||v. n.|to stand on end, stand erect, bristle.|inhorreo|0
+GG|inhorreo|ĭnhorrĕo|ēre||intr.|être hérissé de qqch / se dresser, se hérisser|inhorreo|
+GJ|inhorreo|inhorrĕo|ēre|- intr. avec dat. - être hérissé de, se hérisser de.
+Ge|inhorreo|inhorreo|ēre|starren - emporstarren - sich emporsträuben
+FG|inhorreo|inhorreo ere, intransitif, être hérissé de quelque chose.
+Lw|inhorreo|in-horreō|&mdash;, &mdash;, ēre|||to stand erect, bristle||||inhorreo
+YO|
+PO|
+WW|||inhorreo, inhorrui|inhorreo, inhorritum
+|intepeo|intĕpĕo|īntĕpĕo|18|īntĕpŭ||ŭi, 2, intr.
+LS|intepeo|intĕpĕo|ŭi, 2||v. n.|to be lukewarm|intepeo|0
+GG|intepeo|intĕpĕo|ēre||intr.|int., être tiède / [fig.] être enflammé [d'amour]|intepeo|
+GJ|intepeo|intĕpĕo|ēre|- intr. - 1 - être tiède, devenir tiède, s'échauffer. - 2 - s'enflammer (d'amour).
+Ge|intepeo|intepeo|ēre|lau sein
+FG|
+Lw|intepeo|in-tepeō|&mdash;, &mdash;, ēre|||to be lukewarm||||intepeo
+YO|
+PO|
+WW||||
+|interjaceo|interjăcĕo|īntērjăcĕo|18|īntērjăcŭ||2
+LS|interjaceo|interjăcĕo|2||v. n. and a.|to lie between;, inter, dat., acc., inter|interjaceo|0
+GG|interjaceo|interjăcĕo|ēre||intr.|int., être placé entre|interjaceo|
+GJ|interjaceo|interjăcĕo|ēre|- tr. et intr. - être placé entre, se trouver entre, s'étendre entre.
+Ge|interiaceo|interiaceo|ēre|dazwischenliegen
+FG|interjaceo|interjaceo ere, intransitif, être placé entre (avec datif) ; (avec accusatif).
+Lw|interiaceo|inter-iaceō|uī, &mdash;, ēre|||to lie between||||interiaceo
+YO|
+PO|interjaceo|interjaceo_, interjace_re : v2
+WW|||interjaceo, interjacui|interjaceo, interjacitum
+|interluceo|interlūcĕo|īntērlūcĕo|18|īntērlūx||luxi, 2, intr.
+LS|interluceo|interlūcĕo|luxi, 2||v. n.|to shine, glitter forth|interluceo|0
+GG|interluceo|interlūcĕo|lūxi, ēre||intr.|briller à travers / briller entre, apparaître / se montrer par intervalles, être clairsemé|interluceo|
+GJ|interluceo|interlucĕo|ēre, luxi|- intr. - 1 - luire, briller à travers. - 2 - briller parmi. - 3 - être espacé, être clairsemé, laisser des vides, laisser des jours.
+Ge|interluceo|interlūceo|lūxī, Ere|dazwischen - hier - da hervorscheinen, -schimmern - hervorscheinen, erblickt werden, sich zeigen - durchscheinen, durchsichtig sein
+FG|interluceo|interluceo ere luxi, intransitif,
+Lw|interluceo|inter-lūceō|lūxī, &mdash;, ēre|||to shine in the midst||||interluceo
+YO|
+PO|
+WW|||interluceo, interluxi|interluceo, interluctum
+|interniteo|internĭtĕo|īntērnĭtĕo|18|īntērnĭtŭ||2, intr.
+LS|interniteo|internĭtĕo|2||v. n.|to shine among, shine forth|interniteo|0
+GG|interniteo|internĭtĕo|ēre||intr.|int., briller entre, à travers, par places|interniteo|
+GJ|interniteo|internitĕo|ēre|- intr. - briller entre, briller à travers; briller par intervalles.
+Ge|interniteo|interniteo|nituī, Ere|zwischen - etwas hindurchscheinen, -schimmern - Fläche an einzelnen Stellen (hin und wieder) hervorleuchten, -schimmern
+FG|interniteo|interniteo ere, intransitif, briller entre, à travers, par places.
+Lw|interniteo|inter-niteō|&mdash;, &mdash;, ēre|||to shine through, shine at intervals||||interniteo
+YO|
+PO|
+WW||||
+|intersileo|intersĭlĕo|īntērsĭlĕo|18|īntērsĭlŭ||ui, intr.
+LS|intersileo|intersĭlĕo|ui||v. n.|to be silent in the meanwhile|intersileo|0
+GG|intersileo|intersĭlĕo|ŭi, ēre||intr.|int., se taire|intersileo|
+GJ|intersileo|intersĭlĕo|ŭi, ēre|- int. - se taire, faire une pause.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|intondeo|intondĕo|īntōndĕo|18|īntōnd|īntōns|tondi, tonsum, 2
+LS|intondeo|intondĕo|tondi, tonsum, 2||v. a.|to clip off|intondeo|0
+GG|intondeo|intondĕo|ēre||tr.|tr., couper, tondre autour|intondeo|
+GJ|intondeo|intondĕo|ēre|- tr. - tondre autour, couper autour.
+Ge|intondeo|intondeo||bescheren, beschneiden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inurgeo|ĭnurgĕo|ĭnūrgĕo|18|ĭnūrs||ursi, 2
+LS|inurgeo|ĭnurgĕo|ursi, 2||v. a.|to push, thrust; to obtrude|inurgeo|0
+GG|inurgeo|ĭnurgĕo|ēre||tr.|tr., se lancer contre, poursuivre / [fig.] lancer contre, lancer|inurgeo|
+GJ|inurgeo|inurgĕo|ēre, ursi|- intr. et tr. - 1 - presser, poursuivre, se lancer (contre). - 2 - lancer (des mots).
+Ge|inurgeo|inurgeo|ursī, Ere|hindrängen - hineindrängen
+FG|inurgeo|inurgeo ere, transitif, se lancer contre, poursuivre.
+Lw|
+YO|
+PO|
+WW||||
+|mineo|mĭnĕo|mĭnĕo|18|||ēre, false reading for meant, intr.
+LS|mineo|mĭnĕo|ēre, false reading for meant||||mineo|0
+GG|mineo|mĭnĕo|ēre||intr.|faire saillie, avancer|mineo|
+GJ|mineo|mĭnĕo|ēre (= immineo)|- intr. - faire saillie, avancer.
+Ge|mineo|mineo*|ēre|ragen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|misereo|mĭsĕrĕo|mĭsĕrĕo|18|mĭsĕrŭ|mĭsĕrĭt,mĭsērt|ŭi, ĭtum, 2, intr.
+LS|misereo|mĭsĕrĕo|ŭi, ĭtum, 2||v. n.||misereo|0
+GG|misereo|mĭsĕrĕo|ŭi, ĕrĭtum ou ertum, ēre||intr.|avoir pitié, c. misereor|misereo|
+GJ|misereo|miserĕo|ēre, ŭi, eritum (ertum), arch. = misereor|avoir pitié de.
+Ge|misereo|misereo|seruī, seritum|Mitleid-, Barmherzigkeit fühlen - haben - sich erbarmen - ich fühle - habe Mitleid (Barmherzigkeit) - es jammert-, es dauert-, es erbarmt mich
+FG|
+Lw|misereo|(misereō)|see miseret.|||||||misereo
+YO|
+PO|
+WW|||misereo, miserui|misereo, miseritum
+|muceo|mūcĕo|mūcĕo|18|mūcŭ||ui, 2, intr.
+LS|muceo|mūcĕo|ui, 2||v. n.|to be mouldy, musty|muceo|0
+GG|muceo|mŭcĕo|ēre||intr.|int., être moisi, gâté [en parl. du vin]|muceo|
+GJ|muceo|mūcĕo|ēre|- intr. - être moisi, être gâté.
+Ge|muceo|mūceo|ēre|kahmig sein, schimmelig sein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|niveo|nĭvĕo|nĭvĕo|18|||ēre, intr.
+LS|
+GG|niveo|nĭvĕo|ēre||intr.|int., être blanc comme la neige|niveo|
+GJ|niveo|nĭvĕo|ēre [nix]|- intr. - être blanc comme la neige.
+Ge|niveo|niveo|ēre|schneeweiß sein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|objaceo|objăcĕo|ōbjăcĕo|18|ōbjăcŭ||ŭi, 2, intr.
+LS|objaceo|objăcĕo|ŭi, 2||v. n.|to lie before, over against|objaceo|0
+GG|objaceo|objăcĕo|ŭi, ēre||intr.|int., être couché devant / être situé devant ou auprès|objaceo|
+GJ|objaceo|objăcĕo|ēre, jăcŭi|- intr. - être couché devant, être situé devant.
+Ge|obiaceo|obiaceo|iacuī, Ere|vorliegen, vor - bei - etwas liegen
+FG|objaceo|objaceo ere ui, intransitif, être situé devant ou auprès (avec datif).
+Lw|
+YO|
+PO|objaceo|objaceo_, objace_re, objacui_ : v2
+WW|||objaceo, objacui|objaceo, objacitum
+|obsoleo|obsŏlĕo|ōbsŏlĕo|18|ōbsŏlēv|ōbsŏlēt|ēre, intr.
+LS|obsoleo|obsŏleo|ēre||||obsoleo|0
+GG|
+GJ|obsoleo|obsolĕo|ēre, evi, etum|- intr. - 1 - n'être plus en usage, être tombé en désuétude. - 2 - perdre de sa force.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|obsorbeo|obsorbĕo|ōbsōrbĕo|18|ōbsōrbŭ||ŭi, 2
+LS|obsorbeo|obsorbĕo|ŭi, 2||v. a.|to sup, drink up, to swallow, gulp down|obsorbeo|0
+GG|obsorbeo|obsorbĕo|bŭi, ēre||tr.|tr., avaler / [fig.] engloutir|obsorbeo|
+GJ|obsorbeo|obsorbĕo|ēre, bŭi|- tr. - 1 - avaler avidement. - 2 - au fig. engloutir, absorber.
+Ge|obsorbeo|obsorbeo|uī, Ere|hinunterschlürfen, einschlürfen
+FG|obsorbeo|obsorbeo ere bui, transitif, avaler ; engloutir.
+Lw|
+YO|
+PO|
+WW|||obsorbeo, obsorbui|obsorbeo, obsorbitum
+|obstupeo|obstŭpĕo|ōbstŭpĕo|18|||ēre
+LS|
+GG|obstupeo|obstŭpĕo|ēre||tr. intr.|int., [fig.] être frappé de stupeur, rester interdit / tr., frapper de stupeur|obstupeo|
+GJ|obstupeo|obstŭpĕo|ēre|- 1 - intr. - fig. être frappé de stupeur, rester interdit. - 2 - tr. - frapper de stupeur.
+Ge|obstupeo|obstupeo|ēre, a) intr. = θαµβοῦµαι|in Staunen versetzt werden - in Staunen versetzen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|obticeo|obtĭcĕo|ōbtĭcĕo|18|ōbtĭcŭ||ēre, intr.
+LS|obticeo|obtĭcĕo|ēre||v. n.|to be silent|obticeo|0
+GG|obticeo|obtĭcĕo|ēre||intr.|int., se taire, garder le silence|obticeo|
+GJ|obticeo|obticĕo|ēre, obticui|- intr. - se taire, garder le silence.
+Ge|
+FG|
+Lw|obticeo|obticeō|&mdash;, &mdash;, ēre|||to be silent||||obticeo
+YO|
+PO|
+WW||||
+|obtorqueo|obtorquĕo|ōbtōrqụĕo|18|ōbtōrs|ōbtōrt|si, tum, 2
+LS|obtorqueo|obtorquĕo|si, tum, 2||v. a.|To turn towards; to turn|obtorqueo|0
+GG|obtorqueo|obtorquĕo|torsi, tortum, ēre||tr.|tr., tourner, faire tourner / serrer violemment / tordre|obtorqueo|
+GJ|obtorqueo|obtorquĕo|ēre, torsi, tortum|- tr. - tourner, faire tourner, serrer, tordre.
+Ge|obtorqueo|obtorqueo|torsī, tortum, Ere|hindrehen - herumdrehen, umdrehen
+FG|obtorqueo|obtorqueo ere torsi tortum, transitif, tourner, faire tourner ; serrer violemment ; tordre.
+Lw|obtorqueo|(ob-torqueō)|torsī, tortus, ere|||to twist, writhe, wrench.&mdash;Only P. perf.||||obtorqueo
+YO|
+PO|obtorqueo|obtorqueo_, obtorque_re, obtorsi_, obtortum : v2
+WW|||obtorqueo, obtorsi|obtorqueo, obtortum
+|pelliceo|pellĭcĕo|pēllĭcĕo|18|pēllĭcŭ||ēre
+LS|pelliceo|pellĭcĕo|ēre||v. a.|to allure, entice, inveigle, decoy, coax, wheedle|pelliceo|0
+GG|pelliceo|pellĭcĕo|ŭi, ēre|||c. pellicio|pelliceo|
+GJ|pelliceo|pellĭcĕo|ēre, cŭi, arch.|Prisc. c. pellicio.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pelluceo|pellūcĕo|pēllūcĕo|18|pēllūx||xi, 2, intr.
+LS|pelluceo|pellūcĕo|xi, 2||v. n.|to shine through, shine forth, be visible; to be seen through, to be transparent, pellucid|perluceo|v. perluceo.
+GG|pelluceo|pellūceo|uxi, ēre||intr.|être transparent, diaphane / être à jour / paraître à travers / [fig.] se montrer, se manifester|pelluceo|pellūceo
+GJ|pelluceo|pellūcĕo|ēre, luxi|- intr.
+Ge|
+FG|pelluceo|pelluceo et perluceo ere uxi, intransitif,
+Lw|pelluceo|pellūceō, pellūcidus|see perluc-.|||M SARDINIA||||pelluceo
+YO|
+PO|
+WW||||
+|perardeo|pĕrardĕo|pĕrārdĕo|18|pĕrārs||si, 2, intr.
+LS|perardeo|pĕrardĕo|si, 2||v. n.|to burn violently|perardeo|0
+GG|perardeo|pĕrardĕo|ēre||intr.|int., brûler (être brûlé) entièrement|perardeo|
+GJ|
+Ge|perardeo|perardeo|arsī, Ere|durchbrennen, sehr brennen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|percenseo|percensĕo|pērcēnsĕo|18|pērcēnsŭ||ŭi, 2
+LS|percenseo|percensĕo|ŭi, 2||v. a.|to go through, over|percenseo|0
+GG|percenseo|percensĕo|ŭi, ēre||tr.|tr., faire le dénombrement complet de, passer en revue complètement / examiner successivement, parcourir [pr. et fig.]|percenseo|
+GJ|percenseo|percensĕo|ēre, censui|- tr. - 1 - faire le dénombrement complet de, dénombrer, compter. - 2 - passer en revue, examiner en détail, énumérer. - 3 - parcourir, traverser, visiter d'un bout à l'autre.
+Ge|percenseo|percēnseo|cēnsuī, Ere|etwas durchmustern, durchgehen - zählend durchgehen - berechnen, überschlagen, durchzählen, herzählen, der Reihe nach hernennen - besichtigend durchmustern, besichtigen, betrachten - beurteilend beleuchten, kritisieren - durchgehen - durchwandern, durchreisen
+FG|percenseo|percenseo ere ui, transitif, faire le dénombrement complet de, passer en revue complètement ; examiner successivement.
+Lw|percenseo|per-cēnseō|uī, &mdash;, ēre|||to count over, reckon up, enumerate||||percenseo
+YO|
+PO|
+WW|||percenseo, percensui|percenseo, percensitum
+|percieo|percĭĕo|pērcĭĕo|18|pērcīv,pērcĭ|pērcĭt|cīvi and ii, ĭtum, 2
+LS|percieo|percĭĕo|cīvi and ii, ĭtum, 2||||percieo|0
+GG|percieo|percĭĕo|ēre||tr.|tr., ébranler, remuer fortement / insulter|percieo|percĭĕo
+GJ|percieo|perciĕo|ēre|c. percio.
+Ge|
+FG|
+Lw|percieo|(percieō, &mdash;, itus, ēre)|see percitus.|||||||percieo
+YO|
+PO|percieo|percieo_, percie_re : v2
+WW||||
+|perdoceo|perdŏcĕo|pērdŏcĕo|18|pērdŏcŭ|pērdōct|cui, ctum, 2
+LS|perdoceo|perdŏcĕo|cui, ctum, 2||v. a.|to teach, instruct thoroughly, object-clause|perdoceo|0
+GG|perdoceo|perdŏcĕo|cŭi, ctum, ēre||tr.|tr., enseigner (instruire) à fond|perdoceo|
+GJ|perdoceo|perdŏcĕo|ēre, dŏcŭi, doctum|- tr. - 1 - instruire à fond (qqn.) - 2 - enseigner à fond (qqch.). - 2 - démontrer, prouver.
+Ge|perdoceo|perdoceo|docuī, doctum, Ere|ausführlich lehren, - unterrichten, -zeigen
+FG|perdoceo|perdoceo ere cui ctum, transitif, enseigner (instruire) à fond.
+Lw|perdoceo|per-doceō|cuī, ctus, ēre|||to teach thoroughly, instruct well||||perdoceo
+YO|
+PO|perdoceo|perdoceo_, perdoce_re, perdocui_, perdoctum : v2
+WW|||perdoceo, perdocui|perdoceo, perdoctum
+|perdoleo|perdŏlĕō|pērdŏlĕō|18|pērdŏlŭ|pērdŏlĭt|ŭi, ĭtum, 2, intr.
+LS|perdoleo|perdŏlĕo|ŭi, ĭtum, 2||v. n.|to pain, grieve greatly|perdoleo|0
+GG|
+GJ|perdoleo|perdŏlĕo|ēre, perdŏlŭi, perdŏlĭtum (usité au parf.)|éprouver une vive douleur, être extrêmement affligé.
+Ge|perdoleo|perdoleo|doluī, dolitum, Ere|sehr-, tief schmerzen
+FG|
+Lw|perdoleo|(per-doleō)|uī, &mdash;, ēre|||to pain deeply, grieve greatly||||perdoleo
+YO|
+PO|
+WW|||perdoleo, perdolui|perdoleo, perdolitum
+|perextimeo|pĕrextĭmĕo|pĕrēxtĭmĕo|18|pĕrēxtĭmŭ||ŭi, 2
+LS|perextimeo|pĕrextĭmĕo|ŭi, 2||v. n.||perextimeo|0
+GG|perextimeo|pĕrextĭmĕo|ēre||tr.|tr., craindre fort vivement|perextimeo|pĕrextĭmĕo
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perhorreo|pĕrhorrĕo|pĕrhōrrĕo|18|pĕrhōrrŭ||ui, 2
+LS|perhorreo|pĕrhorrĕo|ui, 2||v. a.|to tremble, shudder greatly at, to have a great horror of|perhorreo|0
+GG|perhorreo|pĕrhorrĕo|ēre||tr.|tr., frissonner devant qqch, redouter|perhorreo|
+GJ|perhorreo|pĕrhorrĕo|ēre|- tr. - frissonner devant qqch, redouter.
+Ge|perhorreo|perhorreo|ēre|sich heftig - etwas entsetzen
+FG|
+Lw|perhorreo|per-horreō|&mdash;, &mdash;, ēre|||to shudder at||||perhorreo
+YO|
+PO|
+WW|||perhorreo, perhorrui|perhorreo, perhorritum
+|perimpleo|pĕrimplĕo|pĕrīmplĕo|18|pĕrīmplēv||ēvi, ēre
+LS|
+GG|perimpleo|pĕrimplĕo|ēvi, ēre||tr.|tr., remplir entièrement|perimpleo|
+GJ|perimpleo|pĕrimplĕo|ēre, ēvi|- tr. - remplir entièrement.
+Ge|perimpleo|perimpleo|plēvī, Ere|vollständig angeben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perindigeo|pĕrindĭgĕo|pĕrīndĭgĕo|18|pĕrīndĭgŭ||ēre, intr.
+LS|perindigeo|pĕrindĭgĕo|ēre||v. n.|to need very much, to be in great need|perindigeo|0
+GG|perindigeo|pĕrindĭgĕo|ēre||intr.|int., être dans un dénuement complet|perindigeo|
+GJ|perindigeo|pĕrindĭgĕo|ēre|- intr. - être dans un dénuement complet.
+Ge|perindigeo|perindigeo|uī, Ere|sehr bedürfen, sehr bedürftig sein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perlateo|perlătĕo|pērlătĕo|18|pērlătŭ||ŭi, ēre, intr.
+LS|perlateo|perlătĕo|ŭi, ēre||v. n.|to lie completely hid, lie hid always|perlateo|0
+GG|perlateo|perlătĕo|ŭi, ēre||intr.|int., rester caché constamment|perlateo|
+GJ|perlateo|perlătĕo|ēre, lătŭi|- intr. - se tenir constamment caché.
+Ge|perlateo|perlateo|uī, Ere|immer verborgen bleiben
+FG|
+Lw|perlateo|per-lateō|uī, &mdash;, ēre|||to remain hidden||||perlateo
+YO|
+PO|
+WW|||perlateo, perlatui|perlateo, perlatitum
+|perluceo|perlūcĕo|pērlūcĕo|18|pērlūx||xi, 2, intr.
+LS|perluceo|perlūcĕo|xi, 2||v. n.|to shine through, shine forth, be visible; to be seen through, to be transparent, pellucid|perluceo|(
+GG|perluceo|perlūceo|uxi, ēre||intr.|être transparent, diaphane / être à jour / paraître à travers / [fig.] se montrer, se manifester|pelluceo|perlūceo
+GJ|perluceo|perlūcĕo|ēre, luxi|- intr. 1 - être transparent, diaphane. 2 - être à jour. 3 - paraître à travers.4 - se montrer, se manifester.
+Ge|perluceo|perlūceo|lūxī, Ere|durchscheinen, durchschimmern, hervorschimmern, hervorscheinen - durchscheinen, durchschimmern, sichtbar sein, hervorleuchten - durchscheinen, durchsichtig sein, das Licht durchlassen - durchsichtig
+FG|
+Lw|perluceo|per-lūceō (pell-)|lūxī, &mdash;, ēre|||to shine through, glimmer||||perluceo
+YO|
+PO|perluceo|perlu_ceo_, perlu_ce_re : v2
+WW|||perluceo, perluxi|
+|permereo|permĕrĕo|pērmĕrĕo|18|pērmĕrŭ||ŭi, 2, intr.
+LS|permereo|permĕrĕo|ŭi, 2||v. n.|to go through service, to serve out|permereo|0
+GG|permereo|permĕrĕo|ŭi, ēre||intr.|int., faire son service militaire jusqu'au bout|permereo|
+GJ|permereo|permĕrĕo|ēre, mĕrŭi|- intr. - faire son service militaire jusqu'au bout.
+Ge|permereo|permereo|uī, Ere|durchdienen, seine Kriegsdienste tun
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perneo|pernĕo|pērnĕo|18|pērnēv|pērnēt|nēvi, nētum, 2
+LS|perneo|pernĕo|nēvi, nētum, 2||v. a.|to spin out, spin to an end|perneo|0
+GG|perneo|pernĕo|ēvi, ētum, ēre||tr.|tr., achever de filer, filer jusqu'au bout [fig. en parl. des Parques]|perneo|
+GJ|perneo|pernĕo|ēre, nevi, netum|- tr. - filer jusqu'au bout (en parl. des Parques).
+Ge|perneo|perneo|nēvī, nētum, Ere|abspinnen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peroleo|pĕrŏlĕo|pĕrŏlĕo|18|pĕrŏlēv||ēre, intr.
+LS|peroleo|pĕrŏlĕo|ēre||v. n.|to emit a penetrating odor|peroleo|0
+GG|peroleo|pĕrŏlĕo|ēvi, ēre||intr.|int., répandre une odeur infecte|1 peroleo|
+GJ|peroleo|perolĕo|ēre|- intr. - répandre une odeur forte, avoir une odeur infecte, puer.
+Ge|peroleo|peroleo|lēvī, Ere|einen durchdringenden üblen Geruch haben
+FG|
+Lw|
+YO|
+PO|
+WW|||peroleo, perolui|peroleo, perolitum
+|perplaceo|perplăcĕo|pērplăcĕo|18|pērplăcŭ||ēre, intr.
+LS|perplaceo|perplăcĕo|ēre||v. n.|to please greatly|perplaceo|0
+GG|perplaceo|perplăcĕo|ŭi, ēre||intr.|int., plaire beaucoup|perplaceo|
+GJ|perplaceo|perplacĕo|ēre|- intr. - plaire beaucoup.
+Ge|perplaceo|perplaceo|ēre|recht - gar wohl-, überaus gefallen
+FG|perplaceo|perplaceo ere ui, intransitif, plaire beaucoup.
+Lw|perplaceo|per-placeō|&mdash;, &mdash;, ēre|||to please greatly||||perplaceo
+YO|
+PO|
+WW||||
+|persideo|persĭdĕo|pērsĭdĕo|18|pērsēd|pērsēss|sēdi, sessum, 2, intr.
+LS|persideo|persĭdĕo|sēdi, sessum, 2||v. n.|to continue sitting, remain long sitting|persideo|0
+GG|persideo|persĭdĕo|ēre||intr.|int., être assis ; séjourner|persideo|
+GJ|persideo|persĭdĕo|ēre, sēdi|- intr. - 1 - être assis longtemps. - 2 - séjourner.
+Ge|
+FG|persideo|persideo ere, intransitif, être assis ; séjourner.
+Lw|persideo|persideō|see persedeo.|||trict||||persideo
+YO|
+PO|
+WW||||
+|persorbeo|persorbĕo|pērsōrbĕo|18|pērsōrbŭ||bui, 2
+LS|persorbeo|persorbĕo|bui, 2||v. a.|to suck, drink up, to absorb|persorbeo|0
+GG|persorbeo|persorbĕo|ŭi, ēre||intr.|int., absorber|persorbeo|
+GJ|
+Ge|persorbeo|persorbeo|ēre|einschlürfen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pertergeo|pertergĕo|pērtērgĕo|18|pērtērs|pērtērs|tersi, tersum, 2
+LS|pertergeo|pertergĕo|tersi, tersum, 2||||pertergeo|0
+GG|pertergeo|pertergĕo|tersi, tersum, ēre||tr.|tr., essuyer parfaitement. / [fig.] effleurer|pertergeo|
+GJ|pertergeo|pertergĕo|ēre, tersi, tersum|- tr. - 1 - essuyer parfaitement. - 2 - fig. effleurer.
+Ge|pertergeo|pertergeo|tersī, tersum, Ere|abwischen, abtrocknen - leicht berühren - anstoßen
+FG|pertergeo|pertergeo ere tersi tersum, transitif, essuyer parfaitement.
+Lw|pertergeo|per-tergeō|tersī, &mdash;, ēre|||to wipe off, wipe dry||||pertergeo
+YO|
+PO|
+WW||||
+|perterreo|perterrĕo|pērtērrĕo|18|pērtērrŭ|pērtērrĭt|ui, ĭtum, 2
+LS|perterreo|perterrĕo|ui, ĭtum, 2||v. a.|to frighten, terrify thoroughly|perterreo|0
+GG|perterreo|perterrĕo|terrŭi, terrĭtum, ēre||tr.|tr., glacer d'épouvante, épouvanter|perterreo|
+GJ|perterreo|perterrĕo|ēre, terrŭi, terrĭtum|- tr. - glacer d'épouvante, épouvanter.
+Ge|perterreo|perterreo|terruī, territum, Ere|gewaltig in Schrecken (Furcht) setzen, -erschrecken, einschüchtern
+FG|perterreo|perterreo ere terrui territum, transitif, glacer d'épouvante, épouvanter.
+Lw|perterreo|per-terreō|&mdash;, itus, ēre|||to frighten thoroughly, terrify||||perterreo
+YO|
+PO|perterreo|perterreo_, perterre_re, perterrui_, perterritum : v2
+WW|||perterreo, perterrui|perterreo, perterritum
+|pertimeo|pertĭmĕo|pērtĭmĕo|18|pērtĭmŭ||ŭi, 2
+LS|pertimeo|pertĭmĕo|ŭi, 2||v. n.|to fear greatly, to be very timid|pertimeo|0
+GG|pertimeo|pertĭmĕo|ēre||tr.|tr., redouter beaucoup|pertimeo|
+GJ|pertimeo|pertĭmĕo|ēre|- tr. - redouter beaucoup.
+Ge|pertimeo|pertimeo|ēre|sich sehr fürchten, angst u. bange sein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perurgeo|pĕrurgĕo|pĕrūrgĕo|18|pĕrūrs||ursi, 2
+LS|perurgeo|pĕrurgĕo|ursi, 2||v. a.|To press upon greatly, to oppress, distress|perurgeo|0
+GG|perurgeo|pĕrurgĕo|ursi, ēre||tr.|tr., presser vivement, harceler / accuser|perurgeo|
+GJ|perurgeo|perurgĕo|ēre|- tr. - presser vivement, poursuivre, harceler.
+Ge|perurgeo|perurgeo|ursī, Ere|sehr drängen - feindlich sehr drängen, hart zusetzen - Worten sehr drängen, hart zusetzen, in - sehr dringen - ihm eifrig obliegen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pervideo|pervĭdĕo|pērvĭdĕo|18|pērvīd|pērvīs|vīdi, vīsum, 2
+LS|pervideo|pervĭdĕo|vīdi, vīsum, 2||v. a.|to look over, look on, overlook, survey.|pervideo|0
+GG|pervideo|pervĭdĕo|vīdi, ēre||tr.|voir d'un bout à l'autre, complètement / inspecter / voir clairement, distinguer nettement|pervideo|
+GJ|pervideo|pervĭdĕo|ēre, vīdi, vīsum|- tr. - 1 - voir complètement, voir tout. - 2 - voir clairement, distinguer, démêler, reconnaître, constater.
+Ge|pervideo|pervideo|vīdī, Ere|überblicken, überschauen - überblicken - Augen genau erkennen, unterscheiden - erforschen - durchschauen, erkennen, einsehen
+FG|pervideo|pervideo ere vidi, transitif,
+Lw|pervideo|pervideō|vīdī, vīsus, ēre|||to look over, look on, overlook, survey||||pervideo
+YO|
+PO|pervideo|pervideo_, pervide_re, pervi_di_, pervi_sum : v2
+WW|||pervideo, pervidi|pervideo, pervisum
+|pervigeo|pervĭgĕo|pērvĭgĕo|18|pērvĭgŭ||gŭi, 2, intr.
+LS|pervigeo|pervĭgĕo|gŭi, 2||v. n.|to continue blooming, to bloom to the last, remained in constant possession of|pervigeo|0
+GG|pervigeo|pervĭgĕo|gŭi, ēre||intr.|int., être puissant, florissant|pervigeo|
+GJ|pervigeo|pervigĕo|ēre, vigŭi|- intr. - être florissant, être puissant.
+Ge|pervigeo|pervigeo|uī, Ere|fort und fort blühen
+FG|
+Lw|pervigeo|per-vigeō|uī, ēre|||to continue blooming, flourish to the last||||pervigeo
+YO|
+PO|
+WW|||pervigeo, pervigui|
+|poeniteo|poenĭtĕo|pōenĭtĕo|18|pōenĭtŭ||ui, no sup., ēre, 2
+LS|poeniteo|poenĭtĕo|ui, no sup., ēre, 2||v. a.|Act., to cause to repent, to displease; Neutr., to repent, be sorry|paeniteo|(less correctly 
+GG|poeniteo|poenĭtĕo||||v. paeniteo, etc.|poeniteo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW|||poeniteo, poenitui|
+|polluceo|pollūcĕo|pōllūcĕo|18|pōllūx|pōllūct|xi, ctum, 2
+LS|polluceo|pollūcĕo|xi, ctum, 2||v. a.|to place upon the altar as a sacrifice to the deity, to offer, offer up|polluceo|0
+GG|polluceo|pollŭcĕo|uxi, uctum, ēre||tr.|offrir en sacrifice, offrir / servir [sur table] / régaler / [fig.] faire participer à|polluceo|
+GJ|polluceo|pollūcĕo|ēre, luxi, luctum|- intr. et tr. - 1 - offrir en sacrifice, offrir; offrir un sacrifice. - 2 - offrir (à table), servir.
+Ge|polluceo|pollūceo|luctum, Ere|aufsetzen - Opfer vorsetzen, darbringen, opfern - der Opferschmaus - das Opfer
+FG|polluceo|polluceo ere uxi uctum, transitif, offrir en sacrifice, offrir.
+Lw|
+YO|
+PO|
+WW|||polluceo, polluxi|polluceo, polluctum
+|praedoceo|praedŏcĕo|prāedŏcĕo|18|prāedŏcŭ|prāedōct|cŭi, ctum, 2
+LS|praedoceo|praedŏcĕo|cŭi, ctum, 2||v. a.|to teach, instruct, inform beforehand|praedoceo|0
+GG|praedoceo|praedŏcĕo|doctum, ēre||tr.|tr., instruire d'avance|praedoceo|
+GJ|praedoceo|praedocĕo|ēre, doctum|- tr. - enseigner, instruire d'avance.
+Ge|praedoceo|praedoceo|doctus, Ere|vorher unterrichten - etwas vorher bekanntmachen
+FG|praedoceo|praedoceo ere doctum, transitif, instruire d'avance.
+Lw|
+YO|
+PO|
+WW||||
+|praeemineo|praeēmĭnĕo|prăeēmĭnĕo|18|prăeēmĭnŭ||ēre
+LS|praeemineo|praeēmĭnĕo|ēre||v. n. and a.|to project forwards, be prominent.|praeemineo|(
+GG|praeemineo|praeēmĭnĕo|ēre||tr. intr.|int., être élevé au-dessus, être proéminent / [fig.] l'emporter sur [avec dat.] / tr. [fig.] dépasser|praeemineo|praeēmĭnĕo
+GJ|praeemineo|praeeminĕo|ēre, minui|- tr. et intr. - 1 - être élevé au-dessus, dominer. - 2 - l'emporter sur, dépasser.
+Ge|praeemineo|praeēmineo|ēre|hervorragen, hervorstehen - überragen, übertreffen
+FG|
+Lw|praeemineo|prae-ēmineō|see praemineo.|||g, delightful||||praeemineo
+YO|
+PO|
+WW||||
+|praefloreo|praeflōrĕo|prāeflōrĕo|18|prāeflōrŭ||ēre, intr.
+LS|praefloreo|praeflōrĕo|ēre||v. n.|to flower, blossom before the time|praefloreo|0
+GG|praefloreo|praeflōrĕo|flōrŭi, ēre||intr.|int., fleurir hâtivement|praefloreo|
+GJ|praefloreo|praeflorĕo|ēre|- intr. - fleurir hâtivement.
+Ge|praefloreo|praeflōreo|flōruī, Ere|vorher-, zeitig blühen
+FG|praefloreo|praefloreo ere florui, intransitif, fleurir hâtivement.
+Lw|
+YO|
+PO|
+WW||||
+|praejaceo|praejăcĕo|prāejăcĕo|18|prāējăcŭ||ŭi, 2
+LS|praejaceo|praejăcĕo|ŭi, 2||v. n.|to lie before, be situated in front of|praejaceo|0
+GG|praejaceo|praejăcĕo|ŭi, ēre||tr. intr.|int., être situé devant [av. dat.]|praejaceo|
+GJ|praejaceo|praejăcĕo|ēre, jăcŭi|- intr. et qqf. tr. - être étendu devant, être situé devant, s'étendre devant.
+Ge|praeiaceo|praeiaceo|ēre|vorliegen, vor - liegen
+FG|praejaceo|praejaceo ere ui,
+Lw|praeiaceo|prae-iaceō|&mdash;, ēre|||to lie before||||praeiaceo
+YO|
+PO|
+WW|||praejaceo, praejacui|praejaceo, praejacitum
+|praemoneo|praemŏnĕo|prāemŏnĕo|18|prāemŏnŭ|prāemŏnĭt|ŭi, ĭtum, 2
+LS|praemoneo|praemŏnĕo|ŭi, ĭtum, 2||v. a.|to forewarn, to advise, admonish beforehand, to remind beforehand, to premonish, aliquem, ut, ne, subj., quod, de, aliquid, ut|praemoneo|0
+GG|praemoneo|praemŏnĕo|ŭi, ĭtum, ēre||tr.|annoncer d'avance, avertir auparavant, prévenir / prédire, présager|praemoneo|
+GJ|praemoneo|praemonĕo|ēre, monŭi, monitum|- tr. - 1 - avertir d'avance, annoncer d'avance, prévenir. - 2 - prédire, présager, pronostiquer.
+Ge|praemoneo|praemoneo|uī, itum, Ere|vorher - zum voraus) erinnern, -bemerken, -raten, -bedeuten (anleiten), -warnen, -warnend zeigen - Zukünftiges vorher andeuten, im voraus anzeigen, -verkünden
+FG|praemoneo|praemoneo ere ui itum, transitif,
+Lw|praemoneo|prae-moneō|uī, itus, ēre|||to forewarn, admonish beforehand||||praemoneo
+YO|
+PO|praemoneo|praemoneo_, praemone_re, praemonui_, praemonitum : v2
+WW|||praemoneo, praemonui|praemoneo, praemonitum
+|praemordeo|praemordĕo|prāemōrdĕo|18|prāemōrs|prāemōrs|morsi and mordi, morsum, 2
+LS|praemordeo|praemordĕo|morsi and mordi, morsum, 2||v. a.|to bite in front, to bite at the end;, to bite|praemordeo|0
+GG|praemordeo|praemordĕo|mordi, morsum, ēre||tr.|tr., mordre par le bout, mordre / [fig.] rogner, retrancher|praemordeo|
+GJ|praemordeo|praemordĕo|ēre, mordi, morsum|- tr. - 1 - mordre (par le bout). - 2 - rogner, entamer; retrancher, déduire.
+Ge|praemordeo|praemordeo|mordī, morsum, Ere|vorn - beißen - vorn abbeißen - abzwacken
+FG|praemordeo|praemordeo ere mordi morsum, transitif, mordre par le bout, mordre.
+Lw|praemordeo|prae-mordeō|&mdash;, &mdash;, ēre|||to bite off, snip off||||praemordeo
+YO|
+PO|
+WW|||praemordeo, praemorsi|praemordeo, praemorsum
+|praemoveo|praemŏvĕo|prāemŏvĕo|18||prāemōt|no perf., mōtum, 2
+LS|praemoveo|praemŏvĕo|no perf., mōtum, 2||v. a.|to move beforehand, to stir greatly|praemoveo|no 
+GG|praemoveo|praemŏvĕo|mōtum, ēre||tr.|tr., mouvoir en avant|praemoveo|
+GJ|praemoveo|praemovĕo|ēre, motum|mouvoir auparavant; mouvoir fortement.
+Ge|praemoveo|praemoveo||vorher bewegen
+FG|
+Lw|
+YO|
+PO|
+WW|||praemoveo, praemovi|praemoveo, praemotum
+|praemulceo|praemulcĕo|prāemūlcĕo|18||prāemūls|mulsum, ēre
+LS|
+GG|praemulceo|praemulcĕo|mulsum, ēre||tr.|les cheveux sur le front ayant été doucement arrangés|praemulceo|
+GJ|praemulceo|praemulcĕo|ēre, mulsum|- tr. - passer doucement la main sur.
+Ge|praemulceo|praemulceo|mulsus, Ere|vornwegstreichen, hinterstreichen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praetimeo|praetĭmĕo|prāetĭmĕo|18|prāetĭmŭ||ŭi, 2
+LS|praetimeo|praetĭmĕo|ŭi, 2||v. a. and n.|to fear beforehand, to be in fear, be afraid|praetimeo|0
+GG|praetimeo|praetĭmĕo|ŭi, ēre||tr.|tr., craindre d'avance|praetimeo|
+GJ|praetimeo|praetĭmĕo|ēre|- tr. - craindre d'avance.
+Ge|praetimeo|praetimeo|ēre|vorher fürchten, -in Furcht sein
+FG|
+Lw|
+YO|
+PO|
+WW|||praetimeo, praetimui|
+|praetondeo|praetondĕo|prāetōndĕo|18|prāetŏtōnd||tŏtondi, 2
+LS|praetondeo|praetondĕo|tŏtondi, 2||v. a.|to clip in front|praetondeo|0
+GG|praetondeo|praetondĕo|tŏtondi, ĕre||tr.|tr., couper (tailler) par-devant|praetondeo|
+GJ|praetondeo|praetondĕo|ēre|- tr. - couper (tailler) par-devant.
+Ge|praetondeo|praetondeo|totondī, Ere|vorn abscheren
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praetorqueo|praetorquĕo|prāetōrqụĕo|18||prāetōrt|no perf., tum, 2
+LS|praetorqueo|praetorquĕo|no perf., tum, 2||v. a.|to twist forwards, twist round|praetorqueo|no 
+GG|praetorqueo|praetorquĕo|tortus||tr.|tr., tordre auparavant ou par-devant|praetorqueo|
+GJ|praetorqueo|praetorquĕo|ēre, tortum|- tr. - tordre auparavant.
+Ge|praetorqueo|praetorqueo|tortus, Ere|vorwärts drehen, umdrehen
+FG|
+Lw|
+YO|
+PO|
+WW|||praetorqueo, praetorsi|praetorqueo, praetortum
+|praevideo|praevĭdĕo|prāevĭdĕo|18|prāevīd|prāevīs|vīdi, vīsum, 2
+LS|praevideo|praevĭdĕo|vīdi, vīsum, 2||v. a.|to see first, beforehand, to foresee.|praevideo|0
+GG|praevideo|praevĭdĕo|vīdi, vīsum, ēre||tr.|voir auparavant, apercevoir d'avance / [fig.] prévoir|praevideo|
+GJ|praevideo|praevidĕo|ēre, vīdi, vīsum|- tr. - 1 - voir d'avance, apercevoir d'avance. - 2 - prévoir.
+Ge|praevideo|praevideo|vīdī, vīsum, Ere|schon zuvor (früher) sehen, -erblicken - vorher-, voraussehen - Vorsorge tragen
+FG|praevideo|praevideo ere vidi visum, transitif,
+Lw|praevideo|prae-videō|vīdī, vīsus, ēre|||to see first, see beforehand, foresee||||praevideo
+YO|
+PO|praevideo|praevideo_, praevide_re, praevi_di_, praevi_sum : v2
+WW|||praevideo, praevidi|praevideo, praevisum
+|prandeo|prandĕo|prāndĕo|18|prānd|prāns|di, sum, 2
+LS|prandeo|prandĕo|di, sum, 2||v. n. and a.|I. Neutr., to take breakfast, to breakfast II. Act., to breakfast on any thing, to take as a breakfast or luncheon|prandeo|0
+GG|prandeo|prandĕo|di, sum, ēre||tr. intr.|int., déjeuner, faire le repas du matin / tr., manger à son déjeuner, déjeuner de ou avec|prandeo|
+GJ|prandeo|prandĕo|ēre, prandi, pransum|- tr. et intr. - déjeuner, prendre le petit déjeuner, déjeuner de.
+Ge|prandeo|prandeo|prandī, prānsum, Ere|ein Frühstück einnehmen, frühstücken - frühstücken, als Imbiß genießen
+FG|prandeo|prandeo ere di sum,
+Lw|prandeo|prandeō|prandī, prānsus, ēre|||to take breakfast, breakfast, eat for luncheon||||prandeo
+YO|
+PO|prandeo|prandeo_, prande_re, prandi_, pransum : v2
+WW|||prandeo, prandi|prandeo, pransum
+|procieo|prōcĭĕo|prōcĭĕo|18||prōcĭt|no perf., cĭtum, 2
+LS|procieo|prōcĭĕo|no perf., cĭtum, 2||v. a.|to call forth, demand|procieo|no 
+GG|procieo|prōcĭĕo|cĭtum, ēre||tr.|tr., appeler hors, demander|procieo|
+GJ|
+Ge|procieo|prōcieo||hervorfordern, hervorrufen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|proliceo|prōlĭcĕo|prōlĭcĕo|18|prōlĭcŭ||cui, 2, intr.
+LS|proliceo|prōlĭcĕo|cui, 2||v. n.|to run, flow forth|proliceo|0
+GG|proliceo|prōlĭcĕo|prolicui, ēre||intr.|int., couler|proliceo|
+GJ|proliceo|prōlĭcĕo|ēre, cŭi|- intr. - Gloss. couler.
+Ge|proliceo|prōliceo|uī, Ere|hervorrinnen, hervorfließen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|promineo|prōmĭnĕō|prōmĭnĕō|18|prōmĭnŭ||ŭi, 2, intr.
+LS|promineo|prōmīnĕo|ŭi, 2||v. n.|to stand, jut out, be prominent, to overhang, project, ext.;|promineo|0
+GG|promineo|prōmĭnĕo|mĭnŭi, ēre||intr.|être saillant, proéminent / faire saillie, s'avancer, déborder en avant|promineo|
+GJ|promineo|prōmĭnĕo|ēre, mĭnŭi|- intr. - 1 - être saillant, être proéminent, faire saillie, s'avancer, se prolonger; s'élever, se montrer au-dessus, surplomber. - 2 - au fig. s'étendre jusqu'à, se prolonger jusqu'à.
+Ge|promineo|prōmineo|minuī, Ere|hervorragen, hervortreten, stehen, hineinragen, hinüberragen, vorspringen
+FG|promineo|promineo ere minui, intransitif,
+Lw|promineo|prō-mineō|uī, &mdash;, ēre|||to stand out, jut, be prominent, overhang, project, extend||||promineo
+YO|
+PO|promineo|pro_mineo_, pro_mine_re, pro_minui_ : v2
+WW|||promineo, prominui|
+|promisceo|prōmīscĕo|prōmīscĕo|18|prōmīxt||ēre
+LS|
+GG|promisceo|prōmiscĕo|ēre||tr.|tr., mêler avant|promisceo|
+GJ|promisceo|prōmiscĕo|ēre|- tr. - mêler avant, mélanger avant.
+Ge|promisceo|promīsceo|mīxtus, Ere|vorher mischen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|promoneo|prōmŏnĕo|prōmŏnĕo|18|prōmŏnŭ|prōmŏnĭt|ŭi, ĭtum, 2
+LS|promoneo|prōmŏnĕo|ŭi, ĭtum, 2||v. a.|to warn, admonish further|promoneo|0
+GG|promoneo|prōmŏnĕo|ēre||tr.|tr., c. praemoneo|promoneo|
+GJ|promoneo|prōmŏnĕo|ēre|- tr. - c. praemoneo
+Ge|promoneo|prōmoneo|ēre|im voraus aufmerksam machen
+FG|
+Lw|promoneo|prō-moneō|&mdash;, &mdash;, ēre|||to forewarn||||promoneo
+YO|
+PO|
+WW||||
+|propendeo|prōpendĕo|prōpēndĕo|18|prōpēnd|prōpēns|di, sum, 2, intr.
+LS|propendeo|prōpendeo|di, sum, 2||v. n.|to hang forth, forward, hang down.|propendeo|0
+GG|propendeo|prōpendĕo|di, sum, ēre||intr.|être penché en avant / être pendant, pendre / descendre [en parlant du plateau d'une balance], pencher / être plus pesant, l'emporter / [fig.] pencher, avoir une propension|propendeo|
+GJ|propendeo|propendĕo|ēre, pendi, pensum|- intr. - 1 - pendre en avant, être penché en avant. - 2 - pencher, descendre (en parl. du plateau de la balance), prévaloir, l'emporter. - 3 - être bien disposé, être favorable (à qqn, in aliquem).
+Ge|propendeo|prōpendeo|pendī, pēnsum, Ere|hervor-, herüberhangen
+FG|propendeo|propendeo ere di sum, intransitif,
+Lw|propendeo|prō-pendeō|&mdash;, ēnsus, ēre|||to hang down, preponderate||||propendeo
+YO|
+PO|
+WW|||propendeo, propendi|propendeo, propensum
+|putreo|pū̆trĕo|pū̆trĕo|18|pū̆trŭ||ēre, intr.
+LS|putreo|pū̆trĕo|ēre||v. n.|to be rotten, putrid|putreo|0
+GG|putreo|pŭtrĕo|ŭi, ēre||intr.|int., être pourri ; [fig.], être en ruine [par l'âge]|putreo|
+GJ|
+Ge|putreo|putreo|truī, Ere|morsch-, mürbe sein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|recaleo|rĕcălĕo|rĕcălĕo|18|rĕcălŭ||ēre, intr.
+LS|recaleo|rĕcălĕo|ēre||v. n.|to grow warm again, to remain warm, be warm, still run warm|recaleo|0
+GG|recaleo|rĕcălĕo|ēre||intr.|int., être échauffé de nouveau, réchauffé / [fig.] être toujours vivace [à l'oreille, dans le coeur]|recaleo|
+GJ|recaleo|rĕcălĕo|ēre, călŭi|- intr. - 1 - être réchauffé, se réchauffer. - 2 - être ravivé, se représenter à l'esprit.
+Ge|recaleo|recaleo|ēre|wieder und wieder-, fort und fort warm sein
+FG|recaleo|recaleo ere, intransitif, être réchauffé.
+Lw|recaleo|re-caleō|&mdash;, &mdash;, ēre|||to grow warm again||||recaleo
+YO|
+PO|recaleo|recaleo_, recale_re, recalui_ : v2
+WW|||recaleo, recalui|
+|redhibeo|rĕdhĭbĕo|rĕdhĭbĕo|18|rĕdhĭbŭ|rĕdhĭbĭt|no perf., ĭtum, 2
+LS|redhibeo|rĕdhĭbĕo|no perf., ĭtum, 2||v. a.|to take back, to carry, give back;, to receive back, to take, receive back|redhibeo|(
+GG|redhibeo|rĕdhĭbĕo|bŭĭ, bĭtum, ēre||tr.|faire reprendre une chose vendue, rendre / reprendre une chose vendue|redhibeo|
+GJ|redhibeo|rĕdhĭbĕo|ēre, hĭbŭi, hĭbĭtum [re + habeo]|- tr. - 1 - faire reprendre, rendre (un objet vendu). 2 - reprendre (un objet vendu).
+Ge|redhibeo|redhibeo|uī, itum, Ere|zurück-, wiedergeben, zurückerstatte - zurückgehen lassen, zurückgeben - den Kauf - rückgängig machen - etwas zurückgeben - zurücknehmen
+FG|redhibeo|redhibeo ere bui bitum (red habeo), transitif, faire reprendre une chose vendue, rendre.
+Lw|redhibeo|redhibeō|&mdash;, itus, ēre|||to give back, cancel the sale of||||redhibeo
+YO|
+PO|
+WW|||redhibeo, redhibui|redhibeo, redhibitum
+|remisceo|rĕmiscĕo|rĕmīscĕo|18|rĕmīscŭ|rĕmīst,rĕmīxt|no perf., mistum, 2
+LS|remisceo|rĕmiscĕo|no perf., mistum, 2||v. a.|to mix, mingle again, to mix up, intermingle|remisceo|no 
+GG|remisceo|rĕmiscĕo|ŭi, mixtum et mistum, ēre||tr.|tr., remêler / [fig.] mêler, mélanger [à diverses reprises, complètement]|remisceo|
+GJ|remisceo|rĕmiscĕo|ēre, miscŭi, mixtum (mistum)|- tr. - 1 - mélanger de nouveau. - 2 - mêler, mélanger, allier.
+Ge|remisceo|remīsceo|mīscuī, mīstum|wieder mischen, -vermischen - vermischen
+FG|remisceo|remisceo ere ui mixtum (mistum), transitif, remêler ; mêler, mélanger.
+Lw|remisceo|re-misceō|mīxtus, ēre|||to mingle again, mix up, intermingle||||remisceo
+YO|
+PO|
+WW|||remisceo, remiscui|remisceo, remistum
+|remordeo|rĕmordĕo|rĕmōrdĕo|18|rĕmōrd|rĕmōrs|no perf., rsum, 2
+LS|remordeo|rĕmordeo|no perf., rsum, 2||v. a.|to bite again;, to vex, torment, disturb, absol.|remordeo|no 
+GG|remordeo|rĕmordĕo|morsum, ēre|||[fig.] mordre à son tour / ronger en retour [le coeur], mordre de nouveau|remordeo|rĕmordĕo
+GJ|remordeo|rĕmordĕo|ēre, morsum|- tr. - 1 - mordre à son tour, rendre morsure pour morsure. - 2 - mordre de nouveau. - 3 - ronger, causer des remords, causer des soucis, tourmenter, inquiéter, peiner.
+Ge|remordeo|remordeo|mordī, morsum, Ere|wiederbeißen - ätzen, zusammenziehen
+FG|remordeo|remordeo ere morsum, transitif, mordre à son tour ; ronger en retour, mordre de nouveau.
+Lw|remordeo|re-mordeō|&mdash;, orsus, ēre|||to bite again, strike back, attack in return||||remordeo
+YO|
+PO|remordeo|remordeo_, remorde_re, remorsum : v2
+WW||||remordeo, remorsum
+|resplendeo|rēsplendĕo|rēsplēndĕo|18|rēsplēndŭ||ēre, intr.
+LS|resplendeo|rēsplendĕo|ēre||v. n.|to shine brightly; to glitter, be resplendent|resplendeo|0
+GG|resplendeo|resplendĕo|dŭi, ēre||intr.|int., renvoyer la clarté, resplendir, reluire|resplendeo|
+GJ|resplendeo|resplendĕo|ēre, dui|- intr. - resplendir, reluire.
+Ge|resplendeo|resplendeo|uī, Ere|einen Widerschein geben, widerstrahlen
+FG|resplendeo|resplendeo ere dui, intransitif, renvoyer la clarté, resplendir, reluire.
+Lw|resplendeo|re-splendeō|&mdash;, &mdash;, ēre|||to shine back, glitter, be resplendent||||resplendeo
+YO|
+PO|resplendeo|resplendeo_, resplende_re : v2
+WW|||resplendeo, resplendui|
+|retergeo|rĕtergĕo|rĕtērgĕo|18|rĕtērs||si, 2
+LS|retergeo|rĕtergeo|si, 2||v. a.|to wipe out, cleanse, clear|retergeo|0
+GG|retergeo|rĕtergĕo|tersi, ĕre||tr.|tr., nettoyer|retergeo|
+GJ|retergeo|retergĕo|ēre, tersi|- tr. - 1 - nettoyer (une plaie). - 2 - déblayer (un fossé).
+Ge|retergeo|retergeo|tersī, ere|wieder aus- - abwischen, reinigen, säubern
+FG|retergeo|retergeo ere tersi, transitif, nettoyer.
+Lw|
+YO|
+PO|
+WW||||
+|semoveo|sēmŏvĕo|sēmŏvĕo|18|sēmōv|sēmōt|mōvi, mōtum, 2
+LS|semoveo|sēmŏvĕo|mōvi, mōtum, 2||v. a.|to move apart, to put aside, remove, separate|semoveo|0
+GG|semoveo|sēmŏvĕo|mōvi, mōtum, ēre||tr.|tr., écarter, éloigner [pr. et fig.], ab aliquo, ab aliqua re, de qqn, de qqch|semoveo|
+GJ|semoveo|semovĕo|ēre, movi, motum|- tr. - éloigner, séparer, écarter, bannir, exclure.
+Ge|semoveo|sēmoveo|mōvī, mōtum, ere|beiseite schaffen, absondern, entfernen - absondern, ausschließen, beseitigen
+FG|semoveo|semoveo ere movi motum, transitif, écarter, éloigner, ab aliquo, ab aliqua re, de quelqu'un, de quelque chose.
+Lw|semoveo|sē-moveō|movī, mōtus, ēre|||to move apart, put aside, remove, separate||||semoveo
+YO|
+PO|
+WW|||semoveo, semovi|semoveo, semotum
+|sordeo|sordĕo|sōrdĕo|18|sōrdŭ||ēre, intr.
+LS|sordeo|sordĕo|ēre||v. n.|to be dirty, filthy, foul|sordeo|0
+GG|sordeo|sordĕo|ŭi, ēre||intr.|être sale, malpropre / avoir de la chassie / être misérable, sans valeur / être méprisable pour qqn|sordeo|
+GJ|sordeo|sordĕo|ēre, sordŭi|- intr. - 1 - être malpropre, être sale. - 2 - être avare, être mesquin. - 3 - être méprisable, être dédaigné, déplaire.
+Ge|sordeo|sordeo|uī, Ere|schmutzig-, unsauber-, unflätig sein - schlecht beschaffen-, niedrig-, zu gering sein - verächtlich sein, anekeln, anwidern, für - den Reiz verloren haben
+FG|sordeo|sordeo ere ui (sordes), intransitif,
+Lw|sordeo|sordeō|&mdash;, &mdash;, ēre|||to be dirty, be mean, be despised, be unvalued, appear worthless, seems to me no adequate price||||sordeo
+YO|
+PO|sordeo|sordeo_, sorde_re : v2
+WW|||sordeo, sordui|sordeo, sorditum
+|subinvideo|sŭbinvĭdĕo|sŭbīnvĭdĕo|18||sŭbīnvīs|no perf., sum, 2
+LS|subinvideo|sŭbinvĭdĕo|no perf., sum, 2||v. a.||subinvideo|no 
+GG|subinvideo|sŭbinvĭdĕo|ĕre|||porter un peu envie à [dat.]|subinvideo|
+GJ|subinvideo|sŭbinvidĕo|ēre|- intr. - porter un peu envie (à qqn, alicui), envier un peu (qqn, alicui).
+Ge|subinvideo|subinvideo|ēre|ein wenig eifersüchtig sein - etwas verhaßt
+FG|
+Lw|subinvideo|sub-invideō|&mdash;, &mdash;, ēre|||to be somewhat envious of||||subinvideo
+YO|
+PO|
+WW||||subinvideo, subinvisum
+|subluceo|sublūcĕo|sū̆blūcĕo|18|sū̆blūx||ēre, intr.
+LS|subluceo|sublūcĕo|ēre||v. n.|to shine a little, to gleam faintly, to glimmer|subluceo|0
+GG|subluceo|sublūcĕo|luxi, ēre||intr.|int., briller par-dessous, de dessous, à travers|subluceo|
+GJ|subluceo|sublūcĕo|ēre, luxi|- intr. - briller par-dessous; luire un peu.
+Ge|subluceo|sublūceo|lūxī, Ere|unten hervorleuchten, -schimmern
+FG|subluceo|subluceo ere luxi, intransitif, briller par-dessous, de dessous, à travers.
+Lw|subluceo|sub-lūceō|&mdash;, &mdash;, ēre|||to shine a little, gleam faintly, glimmer||||subluceo
+YO|
+PO|subluceo|sublu_ceo_, sublu_ce_re : v2
+WW||||
+|subremaneo|subrĕmănĕo|sū̆brĕmănĕo|18|sū̆brĕmāns||ēre, intr.
+LS|subremaneo|subrĕmănĕo|ēre||v. n.|to remain behind|surremaneo|(
+GG|subremaneo|subrĕmănĕo|ēre||intr.|int., rester en arrière, demeurer|subremaneo|
+GJ|subremaneo|subrĕmănĕo|ēre|- intr. - Tert. rester, demeurer.
+Ge|subremaneo|subremaneo|mānsī, Ere|zurückbleiben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subtorqueo|subtorquĕo|sūbtōrqụĕo|18|sūbtōrs||torsi, ēre
+LS|
+GG|subtorqueo|subtorquĕo|torsi, ēre||tr.|tr., tordre|subtorqueo|
+GJ|
+Ge|subtorqueo|subtorqueo|torsī, Ere|verdrehen, verrenken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|succenseo|succensĕo|sūccēnsĕo|18|sūccēnsŭ|sūccēns|sŭi, sum, 2
+LS|succenseo|succensĕo|sŭi, sum, 2||v. n.|to be inflamed with anger, to be angry, irritated, enraged|succenseo|and 
+GG|succenseo|succensĕo|censŭi, censum, ēre||intr.|être enflammé / [fig.] être irrité, courroucé, en colère / [av. prop. inf.] s'irriter de ce que / avec pron. n. id, nihil, aliquid, en cela, en rien, en qqch|suscenseo|succ-
+GJ|succenseo|succensĕo|ēre, censŭi, censum|- intr. avec dat. ou acc. de relation. - 1 - être enflammé de colère, se mettre en colère, s'irriter, s'indigner de. - 2 - tr. - irriter.
+Ge|
+FG|succenseo|succenseo, cf. suscenseo.
+Lw|succenseo|succēnseō|see suscenseo.|||s||||succenseo
+YO|
+PO|succenseo|succe_nseo_, succe_nse_re, succe_nsui_, succe_nsum : v2
+WW||||
+|suscenseo|suscensĕo|sūscēnsĕo|18|sūscēnsŭ|sūscēns|sŭi, sum, 2
+LS|suscenseo|suscensĕo|sŭi, sum, 2||v. n.|to be inflamed with anger, to be angry, irritated, enraged|succenseo|v. succenseo.
+GG|suscenseo|suscensĕo|censŭi, censum, ēre||intr.|être enflammé / [fig.] être irrité, courroucé, en colère / [av. prop. inf.] s'irriter de ce que / avec pron. n. id, nihil, aliquid, en cela, en rien, en qqch|suscenseo|suscensĕo
+GJ|suscenseo|suscensĕo|ēre, censŭi, censum|- intr. avec dat. ou acc. de relation. - 1 - être enflammé de colère, se mettre en colère, s'irriter, s'indigner de. - 2 - tr. - irriter.
+Ge|suscenseo|suscēnseo|cēnsuī, cēnsum, Ere|aufgebracht-, zornig-, böse sein
+FG|suscenseo|suscenseo (succ-) ere censui censum, intransitif, être enflammé ; être irrité, courroucé, en colère ; alicui quod, s'irriter contre quelqu'un, en raison de ce que ; avec pronom neutre, id, nihil, aliquid, en cela, en rien, en quelque chose.
+Lw|suscenseo|suscēnseō or succēnseō|suī, &mdash;, ēre|||to be angry, be indignant, be enraged, be provoked||||suscenseo
+YO|
+PO|
+WW|||suscenseo, suscensui|suscenseo, suscensum
+|transmoveo|transmŏvĕo|trānsmŏvĕo|18|trānsmōv|trānsmōt|no perf., ōtum, 2
+LS|transmoveo|transmŏvĕo|no perf., ōtum, 2||v. a.|to remove|transmoveo|no 
+GG|transmoveo|transmŏvĕo|mōtum, ēre||tr.|tr., transporter / déplacer, reporter sur|transmoveo|
+GJ|transmoveo|transmovĕo|ēre, movi, motum|- tr. - 1 - transporter. - 2 - déplacer sur, rejeter sur.
+Ge|transmoveo|trānsmoveo|mōvī, mōtum, Ere|hinüberschaffen - wohin versetzen, verlegen - übertragen
+FG|transmoveo|transmoveo ere motum, transitif, transporter.
+Lw|transmoveo|trāns-moveō|&mdash;, &mdash;, ēre|||to remove, transfer||||transmoveo
+YO|
+PO|
+WW|||transmoveo, transmovi|transmoveo, transmotum
+|vieo|vĭĕo|vĭĕo|18||vĭēt|no perf., ētum, 2
+LS|vieo|vĭĕo|no perf., ētum, 2||v. a.|to bend, twist together, to plait, weave|vieo|no 
+GG|vieo|vĭĕo|ētum, ēre||tr.|tr., tresser, lier, attacher|vieo|
+GJ|vieo|viĕo|ēre, etum|- tr. - lier (avec l'osier), attacher.
+Ge|vieo|vieo|ētum, Ere|binden, flechten
+FG|vieo|vieo ere etum, transitif, tresser, lier, attacher.
+Lw|
+YO|
+PO|
+WW||||vieo, vietum
+|coareo|cŏārĕo|cŏārĕo|18|cŏārŭ||ŭi, ēre, intr.
+LS|
+GG|coareo|cŏārĕo|ŭi, ēre||intr.|int., sécher ensemble|coareo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|concandeo|concandĕo|cōncāndĕo|18|cōncāndŭ||ēre, candui, intr.
+LS|
+GG|
+GJ|concandeo|concandĕo|ēre, candui|- intr. - être embrasé.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|confleo|conflĕo|cōnflĕo|18|cōnflēv||ēvī, ēre
+LS|
+GG|confleo|conflĕo|ēvī, ēre||tr.|tr., pleurer ensemble|confleo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|constupeo|constŭpĕo|cōnstŭpĕo|18|cōnstŭpŭ||ŭi, 2, intr.
+LS|constupeo|constŭpĕo|ŭi, 2||v. n.|to be very much astonished|constupeo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW|||constupeo, constupui|
+|irrauceo|irraucĕo|īrrāucĕo|18|īrrāus||ēre, irrausi, intr.
+LS|
+GG|
+GJ|irrauceo|irraucĕo|ēre, irrausi|- intr. - s'enrouer, être enroué, prendre une voix rauque.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|parreo|parrĕo|pārrĕo|18|pārrŭ|pārrĭt|ŭi, ĭtum, 2, intr.
+LS|parreo|parrĕo|ŭi, pārĭtum, 2||v. n.|to come forth, appear, be visible, show one's self; to be present, at hand.|pareo|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|percalleo|percalleo|pērcāllĕo|18|pērcāllŭ||ŭi, ēre
+LS|percalleo|percalleo|ŭi, ēre||v. a.|to know, understand well|percalleo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perteneo|pertĕnĕo|pērtĕnĕo|18|pērtĕnŭ||ŭi, 2
+LS|perteneo|pertĕnĕo|ŭi, 2||v. a.|to hold constantly, keep hold of, hold fast|perteneo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praeclareo|praeclārĕo|prāeclārĕo|18|prāeclārŭ||ui, 2, intr.
+LS|praeclareo|praeclārĕo|ui, 2||v. n.|to shine forth|praeclareo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praemadeo|praemădĕo|prāemădĕo|18|prāemădŭ||ŭi, ēre, intr.
+LS|
+GG|praemadeo|praemădĕo|ŭi, ēre||intr.|int., être très humecté, ivre|praemadeo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praetepeo|praetĕpĕo|prāetĕpĕo|18|prāetĕpŭ||ŭi, 2, intr.
+LS|praetepeo|praetĕpĕo|ŭi, 2||v. n.|to glow before|praetepeo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW|||praetepeo, praetepui|praetepeo, praetepitum
+|proluceo|prōlūcĕo|prōlūcĕo|18|prōlūx||xi, 2, intr.
+LS|proluceo|prōlūcĕo|xi, 2||v. n.|to shine forth|proluceo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rethibeo|rĕthĭbĕo|rĕthĭbĕo|18||rĕthĭbĭt|no perf., ĭtum, 2
+LS|rethibeo|rĕthĭbĕo|no perf., ĭtum, 2||v. a.|to take back, to carry, give back;, to receive back, to take, receive back|rethibeo|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+!|subpleo|subplĕo|sūbplĕo|18|sūbplēv|sūbplēt|ēvi, ētum, 2
+LS|subpleo|subplĕo|ēvi, ētum, 2||v. a.|to fill up, make full, whole, to make good, to complete, supply|suppleo|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|subpleo|subpleo_, subple_re, subple_vi_, subple_tum : v2
+WW||||
+|surrideo|surrīdĕo|sūrrīdĕo|18|sūrrīs||si, 2, intr.
+LS|surrideo|surrīdĕo|si, 2||v. n.|to smile|surrideo|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|neo|nĕo|nĕo|18|nēv|nēt|ēvi, ētum, 2
+LS|neo|nĕo|ēvi, ētum, 2||v. a.|to spin.|neo1|0
+GG|neo|nĕo|ēvi, ētum, ēre||tr.|tr., filer / tisser, entrelacer, mêler|1 neo|
+GJ|
+Ge|neo|neo|nēvī, nētum, Ere|spinnen - das Gesponnene - das Gespinst - weben
+FG|neo|neo ere evi etum, transitif, filer ; tisser, entrelacer, mêler.
+Lw|neo|neō||||to spin, To interlace, entwine||||neo
+Y§|
+PO|neo|neo_, ne_re, ne_vi_, ne_tum : v2
+WW|||neo, nevi|neo, netum
+|leo2|lĕo2|lĕo|18|lēv|lēt|ēvi, ētum, ēre
+LS|
+GG|leo|lĕo|ēvi, ētum, ēre|||primitif inusité de deleo|1 leo|
+GJ|
+Ge|leo|leo|Ere|tilgen
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|accenseo=adcenseo|accensĕo|āccēnsĕo|18|āccēnsŭ|āccēns|ŭi, nsum, 2
+LS|accenseo|accensĕo|ŭi, nsum, 2||v. a.|to reckon to, among, to add to;, verb. faccensi|accenseo|(
+GG|accenseo|accensĕo|censum, ēre||tr.|tr., mettre au nombre de, rattacher à, alicui, alicui rei, à qqn, à qqch|accenseo|accensĕo
+GJ|accenseo|accensĕo|ēre, accensum|- tr. - joindre à, mettre au nombre de, rattacher à.
+Ge|accenseo|accēnseo|cēnsum, Ere|zurechnen, zugesellen
+FG|accenseo|accenseo (adcenseo) ere censum, transitif, mettre au nombre de, rattacher à, alicui, alicui rei, à quelqu'un, à quelque chose.
+Lw|accenseo|accēnseō|&mdash;, cēnsus, ēre|||to reckon to, count among (rare):||||accenseo
+YO|
+PO|accenseo|acce_nseo_, acce_nse_re, acce_nsui_, acce_nsum : v2
+WW|||accenseo, accensui|accenseo, accensum
+|appendeo=adpendeo|appendĕo|āppēndĕo|18|||ēre
+LS|appendeo|appendeo|ēre||v. a.|To hang, upon, to suspend on|appendeo|(
+GG|appendeo|appendĕo|ēre|||c. appendo|appendeo|
+GJ|appendeo|appendĕo|ēre|- 1 - tr. - suspendre. - 2 - intr. - peser. - 3 - être incertain.
+Ge|appendeo|appendeo|ēre, I) v. intr.|daran hangen - Räuchern aufhängen, räuchern - zuwägen, wiegen
+FG|
+Lw|
+YO|
+PO|
+WW|||appendeo, appendi|
+|attondeo=adtondeo|attondĕo|āttōndĕo|18|āttōnd|āttōns|tondi, tonsum, 2
+LS|attondeo|attondĕo|tondi, tonsum, 2||v. a.|to shave, shear, clip, crop, to gnaw at, nibble, shorn, diminished, lessened, to cheat, fleece|attondeo|(better than 
+GG|attondeo|attondĕo|tondī, tonsum, ēre||tr.|tr., tondre / tondre (brouter) / tondre (émonder) / tondre, escroquer / à la décad. formes de la 3e conj.|adtondeo|att-
+GJ|attondeo|attondĕo|(adtondĕo), ēre, tondi, tonsum|- tr. - 1 - tondre, couper auprès, raser, élaguer. - 2 - au fig. tondre, plumer, escroquer, écornifler; qqf. étriller.
+Ge|attondeo|attondeo|tondī, tōnsum, Ere|bescheren, beschneiden - befressen, benagen
+FG|adtondeo|adtondeo (att-) ere tondi tonsum, transitif, tondre ; brouter ; émonder.
+Lw|attondeo|attondeō (adt-)|tondī, tōnsus, ēre|||to shave, shear, to prune, to crop, depreciated||||attondeo
+YO|
+PO|attondeo|attondeo_, attonde_re, attondi_, atto_nsum : v2
+WW|||attondeo, attondi|attondeo, attonsum
+|corrideo=conrideo|corrīdĕo|cōrrīdĕo|18|||ēre, intr.
+LS|corrideo|corrīdĕo|ēre||v. n.|to laugh together, aloud|corrideo|(
+GG|corrideo|corrīdĕo|ēre||intr.|int., rire ensemble|corrideo|corrīdĕo
+GJ|corrideo|corrīdĕo|ēre [cum + rideo]|- intr. - rire ensemble.
+Ge|corrideo|corrīdeo|ēre|auflachen - mitlachen
+FG|
+Lw|
+YO|
+PO|
+WW|||corrideo, corrisi|corrideo, corrisum
+|illuceo=inluceo|illūcĕo|īllūcĕo|18|īllūx||ēre
+LS|illuceo|illūcĕo|ēre||v. n.|to shine in, on, to light up, illuminate, give light|illuceo|(
+GG|illuceo|illūcĕo|cēre||intr.|int., luire, briller sur / briller|illuceo|illūcĕo
+GJ|illuceo|illūcĕo|ēre, luxi|- intr. - briller sur, briller dans, éclairer, briller. - tr. - éclairer (qqn, aliquem).
+Ge|illuceo|illūceo|ēre|leuchten - erhellen
+FG|
+Lw|
+YO|
+PO|
+WW|||illuceo, illuxi|
+|immordeo=inmordeo|immordĕo|īmmōrdĕo|18||īmmōrs|sum, 2
+LS|immordeo|immordĕo|sum, 2||v. a.|to bite into|immordeo|(
+GG|immordeo|immordĕo|ēre|||v. immorsus.|immordeo|
+GJ|
+Ge|
+FG|
+Lw|immordeo|(immordeō or in-m-)|&mdash;, sus, ēre|||to bite into||||immordeo
+YO|
+PO|
+WW||||
+|offulgeo=obfulgeo|offulgĕo|ōffūlgĕo|18|ōffūls||si, 2, intr.
+LS|offulgeo|offulgĕo|si, 2||v. n.|to shine against, upon; to appear|offulgeo|(
+GG|offulgeo|offulgĕo|fulsi, ēre||intr.|int., briller devant, briller aux yeux|offulgeo|
+GJ|offulgeo|offulgĕo|ēre, fulsi|- intr. - briller, luire, apparaître.
+Ge|offulgeo|offulgeo|fulsī, Ere|entgegenglänzen, - scheinen, erscheinen
+FG|offulgeo|offulgeo ere fulsi (ob fulgeo), intransitif, briller devant, briller aux yeux.
+Lw|offulgeo|offulgeō|sī, &mdash;, ēre|||to shine upon, appear||||offulgeo
+YO|
+PO|offulgeo|offulgeo_, offulge_re, offulsi_ : v2
+WW|||offulgeo, offulsi|
+|adfulgeo=affulgeo|adfulgĕo|ādfūlgĕo|18|ādfūls||ulsi, 2, intr.
+LS|adfulgeo|adfulgĕo|ulsi, 2||v. n.|to shine on|affulgeo|(better 
+GG|adfulgeo|adfulgĕo|fulsi, ēre||intr.|apparaître en brillant / [fig.] apparaître, se montrer, luire|adfulgeo|
+GJ|adfulgeo|adfulgĕo|ēre, fulsi|- intr. - 1 - apparaître en brillant. 2 - fig. briller d'une façon favorable, apparaître, se montrer, luire.
+Ge|affulgeo|affulgeo|fulsī, Ere|entgegenstrahlen, - leuchten, strahlend erscheinen - entgegenstrahlen - entgegenleuchten, leuchten, emporleuchtcn, heraufdämmern, aufgehen, erscheinen
+FG|adfulgeo|adfulgeo ere fulsi, intransitif, 1. apparaître en brillant ; 2. (figuré) apparaître, se montrer, luire.
+Lw|adfulgeo|(adfulgeō or aff-)|ulsī, &mdash;, ēre|||to shine upon, beam, glitter, appear bright, be radiant:||||adfulgeo
+YO|
+PO|affulgeo|affulgeo_, affulge_re, affulsi_ : v2
+WW|||adfulgeo, adfulsi|
+|adluceo=alluceo|adlūcĕo|ādlūcĕo|18|ādlūx||xi, 2, intr.
+LS|adluceo|adlūceo|xi, 2||v. n.|to shine upon|alluceo|(
+GG|adluceo|adlūcĕo|lūxi, ēre||intr.|int., briller, luire auprès, en outre / briller (à) pour qqn [alicui] / [impers.]|adluceo|adlūcĕo
+GJ|adluceo|adlūcĕo|ēre, lūxi|- intr. - briller, luire auprès, en outre.
+Ge|alluceo|allūceo|lūxī, Ere|anleuchten, dazu-, daneben leuchten
+FG|adluceo|adluceo (alluc-) ere luxi, intransitif, luire auprès, en outre ; (impersonnel) : nobis adluxit, la lumière a lui pour nous (nous avons un heureux présage).
+Lw|
+YO|
+PO|
+WW|||adluceo, adluxi|
+|exsorbeo=exorbeo|exsorbĕo|ēxsōrbĕo|18|ēxsōrbŭ||ŭi, 2
+LS|exsorbeo|exsorbĕo|ŭi, 2||v. a.|to suck out, suck, sup up, suck in, drain|exsorbeo|or 
+GG|exsorbeo|exsorbĕo|ŭi, ēre||tr.|tr., boire en entier, avaler, engloutir|exsorbeo|
+GJ|exsorbeo|exsorbĕo|ēre, bŭi|- tr. - 1 - boire en entier, avaler, engloutir, dévorer; faire disparaître, dissiper. 2 - épuiser, vider, exténuer.
+Ge|exsorbeo|exsorbeo|sorbuī|ausschlürfen, einsaugen - einschlucken, verwinden - verschlingen - aussaugen, entkräften
+FG|exsorbeo|exsorbeo ere ui, transitif, boire en entier, avaler, engloutir.
+Lw|exsorbeo|ex-sorbeō or exorbeō|uī, &mdash;, ēre|||to suck out, suck up, drain, drink||||exsorbeo
+YO|
+PO|
+WW||||
+|submoneo=summoneo|submŏnĕo|sūbmŏnĕo|18|sūbmŏnŭ|sūbmŏnĭt|ŭi, 2
+LS|submoneo|submŏnĕo|ŭi, 2||v. n.|to remind privily, give a hint|summoneo|(
+GG|submoneo|submŏnĕo|ŭi, ēre||tr.|tr., avertir secrètement|submoneo|submŏnĕo
+GJ|submoneo|submŏnĕo|ēre, mŏnŭi, mŏnitum|- tr. - avertir secrètement, avertir à demi mot, avertir à mot couvert, faire savoir en sous main, donner à entendre, suggérer.
+Ge|submoneo|submoneo|monuī, Ere|unter der Hand erinnern
+FG|submoneo|submoneo (summ-) ere ui, transitif, avertir secrètement.
+Lw|submoneo|sub-moneō (summ-)|uī, &mdash;, ēre|||to remind privily, hint||||submoneo
+YO|
+PO|
+WW||||

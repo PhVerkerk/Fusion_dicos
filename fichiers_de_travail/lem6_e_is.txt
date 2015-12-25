@@ -1,0 +1,1990 @@
+|aequidiale|aequĭdĭāle|āeqụĭdĭāle|8|āeqụĭdĭāl||is, n.
+LS|aequidiale|aequĭdiāle|is|n.||the equinox|aequidiale|0
+GG|aequidiale|aequĭdĭāle|is|n.||équinoxe|aequidiale|
+GJ|aequidiale|aequĭdĭāle|is, n. [aequus + dies]|(Lebaigue P. 40) équinoxe.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|agnile|agnīle|āgnīle|8|āgnīl||is, n.
+LS|
+GG|agnile|agnīle|is|n.||bergerie|agnile|
+GJ|agnile|agnīle|is, n. [agnus]|Gloss. bergerie.
+Ge|agnile|agnīle|is, n.|der Lämmerstall
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|alveare|alvĕāre|ālvĕāre|8|ālvĕār||is, n.
+LS|alveare|alveāre|is|n.||A beehive|alvearium|0
+GG|alveare|alvĕāre|is|n.||ruche d'abeilles|alveare|
+GJ|alveare|alvĕāre|is, (alvĕārĭum, ĭi) n.|- 1 - ruche d'abeilles. - 2 - rangée de ruches, endroit on l'on a placé les ruches. - 3 - pétrin.
+Ge|alveare|alveāre|is, n.|der Bienenkorb, - stock - der Backtrog
+FG|alveare|alveare is neutre, voir alvarium.
+Lw|
+YO|
+PO|
+WW||||
+|amburbale|amburbāle|āmbūrbāle|8|āmbūrbāl||is, n.
+LS|amburbale|amburbāle|is|n.|||amburbale|0
+GG|amburbale|amburbāle|is|||c. amburbium|amburbale|
+GJ|
+Ge|amburbale|amburbāle|is, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ancorale|ancŏrāle|āncŏrāle|8|āncŏrāl||is, n.
+LS|ancorale|ancŏrāle|is|n.||a cable|ancoralis|0
+GG|ancorale|ancŏrāle|is|n.|S.|câble de l'ancre|ancoralis|-rāle
+GJ|ancorale|ancŏrāle|is, n.|- 1 - câble de l'ancre. - 2 - corde de la bouée.
+Ge|
+FG|
+Lw|ancorale|ancorāle|is|n||an anchor-cable||||ancorale
+YO|
+PO|ancorale|ancora_le, ancora_lis : n
+WW||||
+|antemurale|antĕmūrāle|āntĕmūrāle|8|āntĕmūrāl||is, n.
+LS|antemurale|antĕmūrāle|is|n.||a protecting wall, an outwork, breastwork|antemurale|0
+GG|antemurale|antĕmūrāle|is|n.||rempart, avant-mur|antemurale|
+GJ|antemurale|antĕmurale|is, n.|boulevard, rempart.
+Ge|antemurale|antemūrāle|is, n.|die Vormauer - das Außenwerk
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aplustre|ā̆plustrĕ|ā̆plūstrĕ|8|ā̆plūstr||is, n.
+LS|aplustre|ā̆plustre|is|n.||nom. plur., the curved stern of a ship, with its ornaments, ribbons, streamers, and little flags upon a pole|aplustre|0
+GG|aplustre|ăplustrĕ|is|n.|S.|aplustre [ornement de la poupe d'un vaisseau]|aplustre|ăplustrĕ
+GJ|aplustre|ăplustre|is, n.|aplustre (ornement de la poupe d'un vaisseau).
+Ge|aplustre|aplustre|is, n.|der Schiffsknauf, Spiegel des Schiffes
+FG|aplustre|aplustre is neutre, ordinairement au pluriel aplustria um et aplustra orum, aplustre (ornement de la poupe d'un vaisseau).
+Lw|aplustre|aplustre|is|n||an ornament of wood on the stern of a ship:||||aplustre
+YO|
+PO|aplustre|aplustre, aplustris : n
+WW||||
+|aquale|ăquāle|ăqụāle|8|ăqụāl||is, n.
+LS|
+GG|aquale|ăquāle|is|n.||aiguière|aquale|
+GJ|aquale|aquale|is, n.|aiguière.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aquiminale|ăquĭmĭnāle|ăqụĭmĭnāle|8|ăqụĭmĭnāl||is, n.
+LS|aquiminale|ăquĭmĭnāle|is|n.||a waterbasin, wash-basin|aquiminarium|0
+GG|aquiminale|ăquĭmĭnāle|is|n.|S.|bassin pour laver les mains|aquimanile|ăquĭmĭnāle
+GJ|aquiminale|aquiminale|is, n.|(= aquaemanalis) : aiguière, cuvette (pour se laver les mains).
+Ge|aquiminale|aquimināle|is, n., aquiminārium, I, n.|ein Geschirr zum Waschen - das Waschbecken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|armile|armīle|ārmīle|8|ārmīl||is, n.
+LS|armile|armīle|is||||armile|0
+GG|
+GJ|armile|armile|is, n.|arsenal.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ateste|Ăteste|Ătēste|8|Ătēst||is, n.
+LS|Ateste|Ăteste|is|n.||a town in the country of the Venetians, Este;|Ateste|0
+GG|Ateste|Ateste|is|n.|S.|ville de Vénétie (auj. Este)|Ateste|Ateste
+GJ|Ateste|Ateste|is, n.|Ateste (= Este, ville des Vénètes).
+Ge|ateste|ateste|is, n.|atestinisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|atramentale|ātrāmentāle|ātrāmēntāle|8|ātrāmēntāl||is, n.
+LS|
+GG|atramentale|ātrāmentāle|is|m.||encrier|atramentale|
+GJ|atramentale|ātrāmentāle|is, n. [atramentum]|encrier.
+Ge|Atramentale|Atrāmentāle|is, n.|das Tintenfaß
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bibracte|Bibractĕ|Bī̆brāctĕ|8|Bī̆brāct||is, n.
+LS|Bibracte|Bibracte|is|n.||the chief town of the &AElig;dui, Augustodunum, Autun, a goddess|Bibracte|0
+GG|Bibracte|Bibractĕ|is|n.||Bibracte [ville de la Gaule, chez les Éduens]|Bibracte|
+GJ|Bibracte|Bibracte|is, n. (abl. -e ou -i)|(Lebaigue P. 140 et P. 141) Bibracte, principale ville des Eduens, appelée plus tard Augustodunum (Autun).
+Ge|Bibracte|Bibracte|is, n.|
+FG|Bibracte|Bibracte is neutre, Bibracte (ville de la Gaule, chez les Éduens, aujourd'hui Autun).
+Lw|
+YO|
+PO|
+WW||||
+|bipedale|bĭpĕdāle|bĭpĕdāle|8|bĭpĕdāl||is, n.
+LS|bipedale|bĭpĕdāle|is|n.||a tile, flag-stone two feet long|bipedalis|0
+GG|bipedale|bĭpĕdāle|is|n.|S.|c. bipeda|bipedalis|-le
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|brachiale|brāchĭāle|brāchĭāle|8|brāchĭāl||is, n.
+LS|brachiale|brachĭāle|is|n.||an armlet, bracelet|bracchialis|(
+GG|brachiale|brāchĭāle|is|n.|S.|bracelet|brachialis|-le
+GJ|brachiale|brachiale|is, n.|bracelet.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bracile|brācīle|brācīle|8|brācīl||is, n.
+LS|bracile|brācīle|||||bracile|v. redimiculum.
+GG|bracile|brācīle|is|n.||ceinture|bracile|
+GJ|
+Ge|bracile|brācīle|is, n.|der Schurz - die Schürze
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|breve|brĕvĕ|brĕvĕ|8|brĕv||is, n.
+LS|breve|brĕve|is|n.||a short catalogue, summary|brevis|0
+GG|breve|brĕvĕ|is|n.|S.|liste abrégée, sommaire|breve|brĕvĕ
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bubile|būbīle|būbīle|8|būbīl||is, n.
+LS|bubile|būbīle|is|n.||a stall for oxen|bubile|(access. form 
+GG|bubile|būbīle|is|n.||étable à boeufs|bubile|
+GJ|bubile|bubile|is, n. (bubilis, is, m.)|étable à boeufs.
+Ge|bubile|būbīle|is, n.|
+FG|
+Lw|bubile|būbīle|is|n||a stall for oxen||||bubile
+YO|
+PO|
+WW||||
+|bucale|būcāle|būcāle|8|būcāl||is, n.
+LS|
+GG|bucale|būcāle|is|n.||muselière en fer|bucale|
+GJ|
+Ge|bucale|būcāle|is, n.|eiserner Maulkorb
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bucculare|buccŭlāre|būccŭlāre|8|būccŭlār||is, n.
+LS|
+GG|bucculare|buccŭlāre|is|n.||vase à mettre sur le feu|bucculare|
+GJ|
+Ge|bucculare|bucculāre|is, n. = buccellare|der Kochtopf
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|buvile|bŭvīle|bŭvīle|8|bŭvīl||is, n.
+LS|
+GG|buvile|bŭvīle||||var. de bovile|buvile|
+GJ|buvile|buvile|is, n.|étable (à boeufs).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caepe|caepe|cāepe|8|cāep||is, n.
+LS|caepe|caepe|is|n.||gen., gen.|caepa|(
+GG|caepe|caepe||n.|S.|usité seult au nom. et à l'acc. sing.|caepa|caepe
+GJ|caepe|caepe|is, n.|oignon.
+Ge|
+FG|
+Lw|caepe|caepe (cēpe)||n||an onion, H., Iu.||||caepe
+YO|
+PO|caepe|caepe, caepis : n
+WW||||
+|campestre|campestre|cāmpēstre|8|cāmpēstr||is, n.
+LS|campestre|campestre|is|n.|||campester|0
+GG|campestre|campestre|is|n.||espèce de caleçon que portent ceux qui s'exercent dans le Champ de Mars|campestre|
+GJ|campestre|campestre|is, n.|le campestre (caleçon que portaient les soldats romains, dans les exercices du Champ de Mars).
+Ge|
+FG|
+Lw|
+YO|
+PO|campestre|campestre, campestris : n
+WW||||
+|capillare|căpillāre|căpīllāre|8|căpīllār||is, n.
+LS|capillare|căpillāre|is|n.||an unguent for the hair, pomatum|capillaris|0
+GG|capillare|căpillāre|is|n.||pommade pour les cheveux|capillare|
+GJ|capillare|căpillāre|is, n.|pommade pour les cheveux.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|capitale|căpĭtāle|căpĭtāle|8|căpĭtāl||is, n.
+LS|capitale|căpĭtāle||||Plur.|capitalis|(postAug. sometimes 
+GG|capitale|căpĭtāle|is|n.||oreiller|capitale|
+GJ|capitale|căpĭtāle|is, n.|1 - crime capital. 2 - oreiller.
+Ge|capitale|capitāle|is, n.|das Kopfkissen, Kopfpolster
+FG|
+Lw|capitale|capitāle|is|n||(late for capital), a capital offence, Ta.||||capitale
+YO|
+PO|
+WW||||
+|capitulare|căpĭtŭlāre|căpĭtŭlāre|8|căpĭtŭlār||is, n.
+LS|capitulare|căpĭtŭlāre|is|n.|adj.|a head-, poll-tax|capitulare|0
+GG|capitulare|căpĭtŭlāre|is|n.||coiffure, capuchon  2)|capitulare|
+GJ|capitulare|căpĭtŭlāre|is, n.|capitation, taxe par tête.
+Ge|capitulare|capitulāre|is, n.|der Kopfschmuck
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caprile|căprīle|căprīle|8|căprīl||is, n.
+LS|caprile|căprīle|is|n.||an enclosure, stall for goats, Adj.|caprile|0
+GG|caprile|caprīle|is|n.|S.|étable à chèvres|caprilis|caprīle
+GJ|caprile|caprile|is, n.|étable à chèvres.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cassidile|cassĭdīle|cāssĭdīle|8|cāssĭdīl||is, n.
+LS|cassidile|cassĭdīle|is|n.||a small bag, wallet|cassidile|0
+GG|cassidile|cassĭdīle|is|n.||sac, havresac|cassidile|
+GJ|cassidile|cassĭdīle|is, n.|sac, havresac.
+Ge|cassidile|cassidīle|is, n.|helmähnliches Säckchen, Reisetäschchen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cavile|căvīle|căvīle|8|căvīl||is, n.
+LS|cavile|căvīle|||||cavile|v. caulae.
+GG|
+GJ|cavile|cavile|is, n. [cavus]|petite cavité.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cepe|cēpĕ|cēpĕ|8|cēp||is, n.
+LS|cepe|cēpe|is|n.||gen., gen.|caepa|(
+GG|cepe|cēpĕ|is|n.||v. caepe.|cepe|
+GJ|cepe|cēpe|is, n.|oignon.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cerebellare|cĕrĕbellāre|cĕrĕbēllāre|8|cĕrĕbēllār||is, n.
+LS|cerebellare|cĕrĕbellāre|is|n.||a brain-covering, a head-covering;|cerebellare|0
+GG|cerebellare|cĕrĕbellāre|is|n.||sorte de coiffe pour la tête|cerebellare|
+GJ|
+Ge|cerebellare|cerebellāre|is, n.|eine Gehirn- - Kopfbedeckung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ceriolare|cērĭŏlāre|cērĭŏlāre|8|cērĭŏlār||is, n.
+LS|ceriolare|cērĭŏlāre|is|n.||a candlestick for wax tapers|ceriolarium|0
+GG|ceriolare|cērĭŏlāre|is|n.||candélabre|ceriolare|
+GJ|
+Ge|ceriolare|cēriolāre|is, n.|der Leuchter für Wachskerzen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cervicale|cervīcāle|cērvīcāle|8|cērvīcāl||is, n.
+LS|cervicale|cervīcāle|is|n.||a pillow, bolster|cervical|(
+GG|cervicale|cervīcāle|is|n.|S.|oreiller, coussin|cervical|cervīcāle
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circummurale|circummūrālĕ|cīrcūmmūrālĕ|8|cīrcūmmūrāl||is, n.
+LS|
+GG|circummurale|circummūrālĕ|is|n.||enceinte de fortifications|circummurale|
+GJ|
+Ge|circummurale|circummūrāle|is, n.|die Ummauerung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|clabulare|clābŭlāre|clābŭlāre|8|clābŭlār||is, n.
+LS|clabulare|clābŭlāre|is|n.||a large, open wagon, probably with sides of wicker-work|clabulare|0
+GG|clabulare|clābŭlāre|is|n.||clavula), fourgon pour le transport des troupes|clabulare|
+GJ|clabulare|clābŭlāre|is, n. [clabula, p. clavula|treillage] : fourgon pour le transport des troupes (vaste chariot découvert dont les côtés étaient faits de treillage).
+Ge|clabulare|clābulāre|is, n.|offener Transportwagen, Gesellschaftswagen - auf Transportwagen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coagulare|cŏāgŭlāre|cŏāgŭlāre|8|cŏāgŭlār||is, n.
+LS|coagulare|cŏāgŭlāre|is|n.||the colon|coagulare|0
+GG|coagulare|cŏāgŭlāre|is|n.||le côlon [intestin]|coagulare|
+GJ|coagulare|cŏagulare|is, n. (s.-ent. intestinum)|côlon, partie du gros intestin.
+Ge|coagulare|coāgulāre|is, n.|der Grimmdarm
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cochleare|cŏchlĕāre|cŏchlĕāre|8|cŏchlĕār||is, n.
+LS|
+GG|cochleare|cŏchlĕāre|is|n.|S.|cuillerée, mesure pour les liquides|cochlear|cŏchlĕāre
+GJ|cochleare|cochleare|is, n. (abl. -i)|- 1 - cuiller. - 2 - cuillerée (mesure pour les liquides).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|commune|commūne|cōmmūne|8|cōmmūn||is, n.
+LS|commune|commūne|is|n.|||communis|0
+GG|commune|commūne|is|n.||ce qui est en commun, bien commun / communauté, ensemble d'un pays / in commune, pour l'usage général / en général (v. communiter)|commune|
+GJ|commune|commune|is, n.|- 1 - ce qui appartient à plusieurs ou à tous, ce qui est commun ou public. - 2 - corps de nation, cité, commune, Etat.
+Ge|
+FG|commune|commune is neutre, de communis, pris substantivement,
+Lw|commune|commūne|is|n||that which is common, publicity, the sole credit for common achievements, A community, state, for common use, for all, for a common object, for the general advantage, equally upon patricians and plebeians, halves!, in general, all, commonplaces||||commune
+YO|
+PO|
+WW||||
+|compostile|compostĭle|cōmpōstĭle|8|cōmpōstĭl||is, n.
+LS|
+GG|compostile|compostĭle|is|n.||sorte de boîte à compartiments servant à entreposer des plats, des assiettes|compostile|
+GJ|compostile|compostĭle|is, n.|sorte de boîte à compartiments servant à entreposer des plats, des assiettes.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|condate|Condātĕ|Cōndātĕ|8|Cōndāt||is, n.
+LS|Condate|Condāte|is|f.||a town of Aquitania, Condat|Condate|0
+GG|Condate|Condātĕ|is|n.|part.|nom de villes en Gaule et en Bretagne ; [en part.] ville d'Aquitaine / ville des Aulerques / ville des Redones / ville de Bretagne|Condate|Condātĕ
+GJ|Condate|Condate|is, f.|Condate (nom de plusieurs villes en Gaule).
+Ge|Condate|Condātē|is, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|confine|confīnĕ|cōnfīnĕ|8|cōnfīn||is, n.
+LS|confine|confīne|is|n.||that which borders upon, a boundary, border, confine, neighborhood|confinis|0
+GG|confine|confīnĕ|is|n.||partie qui avoisine, voisinage / homoeoteleuton|confine|
+GJ|confine|confīnĕ|is, n. (surtout au plur.)|- 1 - partie qui avoisine, voisinage. - 2 - c. homœoteleuton.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|conflatile|conflātĭle|cōnflātĭle|8|cōnflātĭl||is, n.
+LS|conflatile|conflātĭle|is|n.||a molten image|conflatilis|0
+GG|conflatile|conflātĭle|is|n.|S.|ouvrage en métal fondu|conflatilis|-tĭle
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cortinale|cortīnālĕ|cōrtīnālĕ|8|cōrtīnāl||is, n.
+LS|cortinale|cortīnāle|is|n.||the caldron-room, the place where new wine was boiled down in the|cortinale|0
+GG|cortinale|cortīnālĕ|ĭs|n.||emplacement pour les cuves et les chaudières|cortinale|
+GJ|cortinale|cortīnāle|is, n. [cortina]|emplacement pour les cuves et les chaudières.
+Ge|cortinale|cortīnāle|is, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|crinale|crīnāle|crīnāle|8|crīnāl||is, n.
+LS|crinale|crīnāle|is|n.|||crinalis|0
+GG|crinale|crīnāle|is|n.||aiguille de tête, peigne|crinale|
+GJ|
+Ge|
+FG|crinale|crinale is neutre, aiguille à cheveux, peigne.
+Lw|
+YO|
+PO|
+WW||||
+|culicare|cŭlĭcārĕ|cŭlĭcārĕ|8|cŭlĭcār||is, n.
+LS|
+GG|culicare|cŭlĭcārĕ|is|n.||moustiquaire|culicare|
+GJ|culicare|cŭlĭcāre|is, n.|moustiquaire.
+Ge|culicare|culicāre|is, n.|das Mückennetz
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|culiculare|cŭlĭcŭlārĕ|cŭlĭcŭlārĕ|8|cŭlĭcŭlār||is, n.
+LS|culiculare|cŭlĭcŭlārĕ|is|n.||a fly-net|culiculare|0
+GG|culiculare|cŭlĭcŭlāre|is|n.||c. culicare.|culiculare|
+GJ|culiculare|cŭlĭcŭlāre|is, n. (c. culicare)|moustiquaire.
+Ge|culiculare|culiculāre|is, n. = culicare, Itala Iudith 16, 23|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cumulare|cŭmŭlāre|cŭmŭlāre|8|cŭmŭlār||is, n.
+LS|cumulare|cŭmŭlāre|is|n.|||cumulare|0
+GG|cumulare|cŭmŭlāre|is|n.||articulation sacro-vertébrale|cumulare|
+GJ|cumulare|cŭmŭlare|is, n. (= commissura renum, Veg.)|jointure des reins.
+Ge|cumulare|cumulāre|is, n.|die Verbindung der Nieren
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|declive|dēclīve|dēclīve|8|dēclīv||is, n.
+LS|declive|dēclīve|is|n.||a declivity|declivis|0
+GG|declive|dēclīve|is|n.||pente|declivis|
+GJ|declive|dēclīve|is, n.|pente, déclivité.
+Ge|
+FG|
+Lw|declive|dēclīve|is|n.||a declivity, slope||||declivis
+YO|
+PO|declive|decli_ve, decli_vis : n
+WW||||
+|dentale|dentāle|dēntāle|8|dēntāl||is, n.
+LS|dentale|dentāle|is||||dentale|0
+GG|dentale|dentāle|is|n.||v. dentalia.|dentale|
+GJ|dentale|dentale|is, n.|c. dentalia.
+Ge|
+FG|
+Lw|
+YO|
+PO|dentale|denta_le, denta_lis : n
+WW||||
+|dextrale|dextrālĕ|dēxtrālĕ|8|dēxtrāl||is, n.
+LS|dextrale|dextrāle|is|n.||a bracelet, med.|dextrale|0
+GG|dextrale|dextrālĕ|is|n.||bracelet|dextrale|
+GJ|dextrale|dextrale|is, n. [dexter]|bracelet.
+Ge|dextrale|dextrāle|is, n.|das Armband
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exemplare|exemplāre|ēxēmplāre|8|ēxēmplār||is, n.
+LS|exemplare|exemplāre|is||||exemplare|0
+GG|exemplare|exemplāre|is|n.||arch. pour exemplar)|exemplare|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|falere|fălērĕ|fălērĕ|8|fălēr||is, n.
+LS|falere|fălēre|is|n.||a pile, pedestal|falere|0
+GG|falere|fălērĕ|is|n.||pilier|falere|
+GJ|falere|falere|is, n.|Varr. pilier.
+Ge|falere|falēre|is, n.|von Erhöhung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|faselare|făsēlāre|făsēlāre|8|făsēlār||is, n.
+LS|
+GG|faselare|făsēlāre|is|n.||haricot confit au vinaigre|faselare|
+GJ|faselare|faselare|is, n.|haricot confit au vinaigre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fictile|fictĭle|fīctĭle|8|fīctĭl||is, n.
+LS|fictile|fictĭle|is||||fictilis|0
+GG|fictile|fictĭle|is|n.||vase en terre, vaisselle de terre|fictile|
+GJ|fictile|fictĭle|is, n. [fictilis)|v. fictillis.
+Ge|
+FG|fictile|fictile is neutre (fictilis), vase en terre, vaisselle de terre ; (surtout au pluriel) fictilia, ium.
+Lw|
+YO|
+PO|
+WW||||
+|focale|fōcālĕ|fōcālĕ|8|fōcāl||is, n.
+LS|focale|fōcāle|is|n.||a neck-cloth, cravat|focale|0
+GG|focale|fōcālĕ|is|n.||cravate [pour protéger la gorge]|focale|
+GJ|focale|focale|is, n.|cravate de laine, écharpe (pour les maux de gorge).
+Ge|focale|fōcāle|is, n.|ein Halstuch - eine Halsbinde
+FG|
+Lw|focale|fōcāle|is|n||a neck-cloth||||focale
+YO|
+PO|
+WW||||
+|foculare|fŏcŭlārĕ|fŏcŭlārĕ|8|fŏcŭlār||is, n.
+LS|foculare|fŏcŭlāre|is|n.||a small hearth, fire-place|foculare|0
+GG|foculare|fōcŭlārĕ|is|n.||réchaud|foculare|
+GJ|foculare|foculare|is, n.|réchaud.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|folliculare|follĭcŭlāre|fōllĭcŭlāre|8|fōllĭcŭlār||is, n.
+LS|folliculare|follĭcŭlāre||||appellatur pars remi, quae folliculo est tecta, a quo vita follicularis|folliculare|
+GG|folliculare|follĭcŭlāre|is|n.||partie de la rame revêtue de cuir|folliculare|
+GJ|folliculare|folliculare|is, n.|Fest. partie de la rame garnie de cuir.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fretale|frĕtāle|frĕtāle|8|frĕtāl||is, n.
+LS|fretale|frĕtāle|is|n.||a frying-pan|fretale|0
+GG|fretale|frĕtāle|is|n.||poêle [à frire]|fretale|
+GJ|fretale|fretale|is, n.|Apic. poêle à frire.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fulcrale|fulcrāle|fūlcrāle|8|fūlcrāl||is, n.
+LS|
+GG|fulcrale|fulcrāle|is|n.||ornement de bois de lit|fulcrale|
+GJ|fulcrale|fulcrāle|is, n. [fulcrum]|ornement de bois de lit.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gausape|gausăpĕ|gāusăpĕ|8|gāusăp||is, n.
+LS|gausape|gausăpe|is||||gausapa|0
+GG|gausape|gausăpĕ|is|n.|S.|[fig.] barbe fournie|gausapa|-ăpĕ
+GJ|gausape|gausăpĕ|gausăpēs|v. gausapa.
+Ge|
+FG|gausape|gausape, cf. gausapa.
+Lw|gausape|gausape||n||a rough woollen cloth||||gausape
+YO|
+PO|gausape|gausape, gausapis : n
+WW||||
+|genitale|gĕnĭtāle|gĕnĭtāle|8|gĕnĭtāl||is, n.
+LS|genitale|gĕnĭtāle|is|n.|adv.||genitalis|0
+GG|genitale|gĕnĭtāle||n.|S.|et surtout pl|genitalis|gĕnĭtāle
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|humerale|hŭmĕrāle|hŭmĕrāle|8|hŭmĕrāl||is, n.
+LS|humerale|hŭmĕrāle|is|n.||a covering for the shoulders, a, cape|humerale|(not 
+GG|humerale|hŭmĕrāle|is|n.|S.|cape, pèlerine|humerale|hŭmĕrāle
+GJ|humerale|hŭmĕrāle|is, n.|pèlerine, cape, casaque.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ile|īlĕ|īlĕ|8|īl||is, n.
+LS|ile|īle|is|n.||that part of the abdomen which extends from the lowest ribs to the pubes, the groin, flank.|ile|0
+GG|ile|īlĕ|is|n.||v. ilia.|ile|
+GJ|ile|īle|is, (īleum, ei; īlĭum, ĭi), n.|ordin. au plur. ilia.
+Ge|Ile|Ile|is, n.|der Unterleib - die Weichen, Dünnen - der Magen - die Gedärme - die Eingeweide - der Bauch
+FG|
+Lw|ile|(īle|is|n||see ilia||||ile
+YO|
+PO|
+WW||||
+|impenetrale|impĕnĕtrāle|īmpĕnĕtrāle|8|īmpĕnĕtrāl||is, n.
+LS|impenetrale|impĕnĕtrāle|cujus ultimum penetrale intrare non licet||||impenetrale|0
+GG|impenetrale|impĕnĕtrāle|is|n.||lieu où il est interdit d'entrer|impenetrale|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incile|incīle|īncīle|8|īncīl||is, n.
+LS|incile|incīle|is|n.|||incilis|0
+GG|incile|incīle|is|n.||fossé d'évacuation, rigole / [fig.] fossé de drainage, bourbier|incile|
+GJ|incile|incīle|is, n. [p. incidile ---> incido]|- 1 - Cato. rigole, fossé (de drainage, d'évacuation). - 2 - fig. Cic. bourbier.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|injectionale|injectĭōnāle|īnjēctĭōnāle|8|īnjēctĭōnāl||is, n.
+LS|injectionale|injectĭōnāle|is|n.||neutr., a clyster, injection|injectionale|0
+GG|injectionale|injectiōnāle|is|n.||injection|injectionale|
+GJ|
+Ge|iniectionale|iniectiōnāle|is, n.|das Klistier
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|involucre|invŏlūcrĕ|īnvŏlūcrĕ|8|īnvŏlūcr||is, n.
+LS|involucre|invŏlūcre|false reading for involucri||||involucre|0
+GG|involucre|invŏlūcrĕ|is|n.||enveloppe, peignoir|involucre|
+GJ|involucre|involucre|is, n.|linge (pour la barbe).
+Ge|involucre|involūcre|is, n.|die Serviette
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lacte|lactĕ|lāctĕ|8|lāct||is, n.
+LS|lacte|lacte||n.||milk|lacte|Enn. ap. 
+GG|lacte|lactĕ|is|||v. lac|lacte|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laqueare|lăquĕāre|lăqụĕāre|8|lăqụĕār||is, n.
+LS|laqueare|lăquĕāre|ii|n.||a panelled, fretted ceiling|laquear|0
+GG|laqueare|laquĕāre|is|n.|S.||laquear|laquĕāre
+GJ|laqueare|lăquĕāre|is, n. (surtout au plur.)|lambris, plafond lambrissé, plafond à caissons.
+Ge|
+FG|
+Lw|
+YO|
+PO|laqueare|laquea_re, laquea_ris : n
+WW||||
+|librile|lībrīle|lībrīle|8|lībrīl||is, n.
+LS|librile|lībrīle|is|n.|||librilis|0
+GG|librile|lībrīle|is|n.||fléau d'une balance / balance|librile|
+GJ|librile|lībrīle|is, n.|- 1 - fléau d'une balance. - 2 - balance.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lumbare|lumbāre|lūmbāre|8|lūmbār||is, n.
+LS|lumbare|lumbāre|is|n.||an apron for the loins|lumbare|0
+GG|lumbare|lumbāre|is|n.||ceinture, caleçon|lumbare|
+GJ|lumbare|lumbāre|is, n.|ceinture, caleçon.
+Ge|lumbare|lumbāre|is, n.|der Lendenschurz
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mamillare|mămillāre|mămīllāre|8|mămīllār||is, n.
+LS|mamillare|mămillāre|is|n.||a breast-cloth, stomacher, in lemm|mamillare|0
+GG|mamillare|mămillāre|is|n.||c. strophium|mamillare|
+GJ|mamillare|mămillāre|is, n.|bande pour soutenir le sein, sorte de corset.
+Ge|mamillare|mamillāre|is, n.|die Busenbinde - das Busentuch, Brusttuch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|manale|mānāle|mānāle|8|mānāl||is, n.
+LS|manale|mānāle|is|n.||a ewer|manalis1|0
+GG|manale|mānāle|is|n.||aiguière|manale|
+GJ|manale|mānāle|is, n. [manalis]|Non. aiguière, cruche.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mantele|mantēlĕ|māntēlĕ|8|māntēl||is, n.
+LS|mantele|mantēle|is|n.|||mantele|(
+GG|mantele|mantēlĕ|is|n.|S.|essuie-mains, serviette / nappe|mantele|mantēlĕ
+GJ|mantele|mantēle|is, n. [manus + tela]|serviette, essuie-mains.
+Ge|mantele|mantēle|is, n.|das Handtuch - das Tischtuch
+FG|mantele|mantele (-tile) is neutre, et mantelium ii neutre, essuie-mains, serviette.
+Lw|mantele|mantēle (-tīle)|is|n||a towel, napkin, with clipped nap||||mantele
+YO|
+PO|mantele|mante_le, mante_lis : n
+WW||||
+|mantile|mantīlĕ|māntīlĕ|8|māntīl||is, n.
+LS|mantile|mantīle|is|n.|||mantele|and 
+GG|mantile|mantīlĕ|is|n.|S.|essuie-mains, serviette / nappe|mantele|-tīlĕ
+GJ|mantile|mantīle|is, n. [manus + tela]|serviette, essuie-mains.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|manuale|mănŭāle|mănŭāle|8|mănŭāl||is, n.
+LS|manuale|mănŭāle|is|n.|||manualis|0
+GG|manuale|mănŭāle|is|n.||étui de livre / livre portatif [manuel]|manuale|
+GJ|manuale|mănŭāle|is, n.|- 1 - Mart. étui de livre. - 2 - Gloss. livre portatif, manuel.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mediale|mĕdĭāle|mĕdĭāle|8|mĕdĭāl||is, n.
+LS|mediale|mĕdĭāle|is|n.||the middle|medialis1|0
+GG|mediale|mĕdĭāle|is|n.||le milieu, le coeur [d'un arbre]|mediale|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|memoriale|mĕmŏrĭāle|mĕmŏrĭāle|8|mĕmŏrĭāl||is, n.
+LS|memoriale|mĕmŏrĭāle|is|n.||memorial, that which keeps in remembrance|memorialis|0
+GG|memoriale|mĕmŏrĭāle|is|n.||monument, souvenir|memoriale|
+GJ|memoriale|mĕmŏrĭāle|is, n.|ce qui fait souvenir, monument, souvenir.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|missile|missĭle|mīssĭle|8|mīssĭl||is, n.
+LS|missile|missĭle|is|n.||a missile weapon, missile, a javelin|missilis|0
+GG|missile|missĭle|is|n.|S.|toute arme de jet [flèche, javelot]|missile|missĭle
+GJ|missile|missile|is, n.|arme de jet.
+Ge|
+FG|missile|missile is, neutre (missilis), toute arme de jet ; (surtout au pluriel) missilia.
+Lw|
+YO|
+PO|
+WW||||
+|moene|moene|mōene|8|mōen||is, n.
+LS|moene|moene|||||moene|v. moenia 
+GG|moene|moene|is|||anc. sing. de moenia|moene|
+GJ|
+Ge|moene|moene|is, n.|die Mauer - die Mauer - Stadtmauer, Stadtmauern - die Wände - der äußerliche Umfang - die Schutzwehr - die Gebäude - die Stadt - einzelnes Gebäude - ein Wohnsitz
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|molile|mŏlīle|mŏlīle|8|mŏlīl||is, n.
+LS|molile|mŏlīle|is|n.||the drawing-ropes, traces|molile|0
+GG|molile|mŏlīle|is|n.||attache de l'âne tournant la meule|molile|
+GJ|molile|mŏlīle|is, n.|Cato. l'attache (de l'âne tournant le moulin).
+Ge|molile|molīle|is, n.|etwa Ziehseil
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|molle|molle|mōlle|8|mōll||is, n.
+LS|molle|molle|is|n.|adv.|Weak, untrustworthy|mollis|0
+GG|
+GJ|molle|molle|adv.|- 1 - d'une manière souple, flexible. - 2 - mollement, doucement.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mulctrale|mulctrāle|mūlctrāle|8|mūlctrāl||is, n.
+LS|mulctrale|mulctrāle|is|n.||a milking-pail|mulctrarium|0
+GG|mulctrale|mulctrāle|is|n.||vase à traire|mulctrale|
+GJ|mulctrale|mulctrāle|is, n.|Serv. vase à traire.
+Ge|mulctrale|mulctrāle|is, n.|das Melkfaß - die Melkgelte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mulgare|mulgāre|mūlgāre|8|mūlgār||is, n.
+LS|mulgare|mulgāre|is|n.||a milkingpail|mulgare|0
+GG|mulgare|mulgāre|is|n.||c. mulctrale|mulgare|
+GJ|
+Ge|mulgare|mulgāre|is, n.|das Melkfaß - die Melkgelte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|natale|nātāle|nātāle|8|nātāl||is, n.
+LS|natale|nātāle|is|n.|||natalis1|0
+GG|natale|natale||||lieu de naissance|1 natalis|natale
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|naturale|nātūrāle|nātūrāle|8|nātūrāl||is, n.
+LS|naturale|nātūrāle|is|n.|||naturalis|0
+GG|naturale|nātūrāle|is|n.||besoin naturel / parties naturelles|naturale|
+GJ|naturale|naturale|is, n.|nature, parties sexuelles.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nemorense|Nĕmŏrense|Nĕmŏrēnse|8|Nĕmŏrēns||is, n.
+LS|Nemorense|Nĕmŏrense|is|n.|||nemorensis|0
+GG|Nemorense|Nemorense||n.|S.|maison de campagne d'Aricie|2 Nemorensis|Nemorense
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nepete|Nĕpĕte|Nĕpĕte|8|Nĕpĕt||is, n.
+LS|Nepete|Nĕpĕte|is|n.||a city in Etruria, Nepi|Nepeta1|0
+GG|Nepete|Nĕpĕte|is|n.|S.|ville d'Étrurie|Nepete|Nĕpĕte
+GJ|Nepete|Nĕpĕte|is, n.|Népé (auj. Népi, ville d'Etrurie).
+Ge|Nepete|Nepete|is, n.|nepesinisch - die Nepesiner
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|novale|nŏvāle|nŏvāle|8|nŏvāl||is, n.
+LS|novale|nŏvāle|is|n.|||novalis|0
+GG|novale|nŏvāle|is|n.||novale, terre nouvellement défrichée / jachère / champ cultivé [poét.] / les moissons sur pied|novale|
+GJ|novale|novale|is, n. (s.-ent. solum)|- 1 - terre nouvellement défrichée, jachère. - 2 - au plur. champs cultivés.
+Ge|
+FG|novale|novale is neutre (novus), terre nouvellement défrichée ; jachère ; champ cultivé.
+Lw|
+YO|
+PO|novale|nova_le, nova_lis : n
+WW||||
+|noxale|noxāle|nōxāle|8|nōxāl||is, n.
+LS|noxale|noxāle|is|n.||an action on account of an injury|noxalis|0
+GG|noxale|noxāle|is|n.|S.|action en dommages-intérêts|noxalis|noxāle
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nubilare|nūbĭlāre|nūbĭlāre|8|nūbĭlār||is, n.
+LS|nubilare|nūbĭlāre|is|n.||a shed, barn|nubilarium|0
+GG|nubilare|nūbĭlāre|is|n.||c. nubilarium|nubilare|
+GJ|nubilare|nūbĭlāre|is, n. [nubilum]|c. nubilarium.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oculare|ŏcŭlāre|ŏcŭlāre|8|ŏcŭlār||is, n.
+LS|oculare|ŏcŭlāre|is|n.||a medicament for the eyes, eye-salve|ocularis|0
+GG|oculare|oculare||||pommade pour les yeux|ocularis|oculare
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|orbile|orbīlĕ|ōrbīlĕ|8|ōrbīl||is, n.
+LS|orbile|orbīle|||||orbile|a false read. for orbis ... ligneus, 
+GG|orbile|orbīlĕ|is|n.||jante [d'une roue]|orbile|
+GJ|
+Ge|orbile|orbīle||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ovile|ŏvīle|ŏvīle|8|ŏvīl||is, n.
+LS|ovile|ŏvīle|is|n.||A sheepfold|ovile|0
+GG|ovile|ŏvīle|is|n.||étable de brebis, bergerie / étable à chèvres / emplacement dans le Champ de Mars fermé par des barrières, où l'on votait lors des comices|ovile|
+GJ|ovile|ŏvīle|is, n.|- 1 - bergerie. - 2 - étable des chèvres. - 3 - portion du Champ de Mars fermée par des barrières, où se rassemblaient les tribus pour les comices.
+Ge|ovile|ovīle||
+FG|ovile|ovile is neutre (ovilis), étable de brebis, bergerie ; étable à chèvres ; emplacement dans le Champ de Mars fermé par des barrières, où l'on votait lors des comices.
+Lw|ovile|ovīle|is|n||a sheepfold, A fold for goats, An enclosure in the Campus Martius, where the votes were cast at the comitia||||ovile
+YO|
+PO|ovile|ovi_le, ovi_lis : n
+WW||||
+|pane|pānĕ|pānĕ|8|pān||is, n.
+LS|pane|pāne|is|n.||bread, a loaf.|panis|0
+GG|pane|pānĕ|is|n.||c. panis.|pane|
+GJ|pane|pāne|is, n.|Plaut. c. panis.
+Ge|pane|pāne||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pectorale|pectŏrāle|pēctŏrāle|8|pēctŏrāl||is, n.
+LS|pectorale|pectŏrāle|is|n.||a breast-plate|pectoralis|0
+GG|pectorale|pectŏrāle|is|n.||cuirasse|pectorale|
+GJ|pectorale|pectorale|is, n. |v. pectoralis.
+Ge|
+FG|pectorale|pectorale is neutre (pectoralis), cuirasse.
+Lw|
+YO|
+PO|
+WW||||
+|peremne|pĕremne|pĕrēmne|8|pĕrēmn||is, n.
+LS|peremne|pĕremne|is|n.||the auspices taken by magistrates on crossing a river or a spring|peremnis|0
+GG|peremne|pĕremne|is|n.|S.|et surtout pl|peremne|pĕremne
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pingue|pingue|pīngụe|8|pīngụ||is, n.
+LS|pingue|pingue|is|n.||fat, grease|pinguis|0
+GG|pingue|pingue|is|n.||graisse, embonpoint / graisse [provenant d'un animal]|pingue|
+GJ|pingue|pingue|is, n.|graisse, gras, partie grasse, embonpoint.
+Ge|
+FG|pingue|pingue is neutre (pinguis), graisse, embonpoint.
+Lw|
+YO|
+PO|
+WW||||
+|ponderale|pondĕrāle|pōndĕrāle|8|pōndĕrāl||is, n.
+LS|ponderale|pondĕrāle|is|n.||the public scales|ponderale|0
+GG|ponderale|pondĕrāle|is|n.|S.|balance publique|ponderale|pondĕrāle
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praeneste|Praenestĕ|Prāenēstĕ|8|Prāenēst||is, n.
+LS|Praeneste|Praeneste|is|n.||one of the most ancient and important cities of Latium, famed for the beauty of its roses, for its nuts, and still more for its temple of Fortune and the oracle connected with it, Palestrina; abl.|Praeneste|0
+GG|Praeneste|Praenestĕ|is|n.|S.|Préneste, ville du Latium|Praeneste|Praenestĕ
+GJ|Praeneste|Praeneste|is, n. (Praenestis, is, f.)|Préneste (ville du Latium, auj. Palestrina).
+Ge|Praeneste|Praeneste|is, n.|pränestinisch, aus Präneste - ein Pränestiner - die Pränestiner
+FG|Praeneste|Praeneste is neutre, Préneste (ville du Latium) ; -tinus a um, de Préneste.
+Lw|
+YO|
+PO|
+WW||||
+|praesepe|praesēpĕ|prāesēpĕ|8|prāesēp||is, n.
+LS|praesepe|praesēpe|is|n.|||praesaepe|(
+GG|praesepe|praesēpĕ|is|n.|S.|parc pour les bestiaux ; [ordint] étable, écurie / crèche, mangeoire / [fig.] lieu où l'on mange, maison où l'on dîne, table / habitation, logis [surt. au pl.] / ruche / mauvais lieu, taverne|praesepe|praesēpĕ
+GJ|praesepe|praesepe|is, n. ou praesepes (praesaepis), is, f. ou praesepis, is, f. ou praesepĭa, ae, f. ou praesepium (praesaepium), ii, n.|- 1 - toute espèce d'enceinte ou d'enclos; étable, parc à moutons, écurie; qqf. râtelier, mangeoire, crèche. - 2 - habitation, logis, habitation, demeure. - 3 - maison où l'on mange, maison où l'on dîne, table. - 4 - lieu de débauche, mauvais lieu.
+Ge|
+FG|praesepe|praesepe (-saepe) is neutre, praesepes (-saepes) is féminin, praesepis (-saepis) is féminin, praesepium (-saepium) ii neutre,
+Lw|praesepe|praesēpe, praesēpiō|see praesaep-.|||||||praesepe
+YO|
+PO|praesepe|praese_pe, praese_pis : n
+WW||||
+|promulsidare|prōmulsĭdārĕ|prōmūlsĭdārĕ|8|prōmūlsĭdār||is, n.
+LS|promulsidare|prōmulsĭdāre|is|n.||a tray on which the, was served|promulsidare|0
+GG|promulsidare|prōmulsĭdārĕ|is|n.||plat dans lequel on sert une entrée|promulsidare|
+GJ|promulsidare|prōmulsĭdāre|is, n.|plat dans lequel on sert une entrée.
+Ge|promulsidare|prōmulsidāre|is, n.|das Schüsselbrett zum Auftragen des ersten Ganges, -des Vorgerichts, der Tafelaufsatz für das Vorgericht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|promurale|prōmūrāle|prōmūrāle|8|prōmūrāl||is, n.
+LS|
+GG|promurale|prōmūrāle|is|n.||contre-mur|promurale|
+GJ|promurale|prŏmūrāle|is, n.|contre-mur.
+Ge|promurale|prōmūrāle|is, n.|das Vorwerk
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|puteale|pŭtĕāle|pŭtĕāle|8|pŭtĕāl||is, n.
+LS|puteale|pŭtĕāle|is|n.||A stone curb round the mouth of a well|puteal|(collat. form &Dagger; 
+GG|puteale|pŭtĕāle|is|n.||c. puteal|puteale|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ramale|rāmālĕ|rāmālĕ|8|rāmāl||is, n.
+LS|ramale|rāmāle|is|n.||twigs, shoots, sticks, brushwood;|ramale|0
+GG|ramale|rămālĕ|is|n.||bois sec ; branchages / surt. au plur. ramalia|ramale|
+GJ|ramale|rāmāle|is, n. (surtout au plur.)|bois sec, branchages, fagots.
+Ge|ramale|rāmāle|is, n.|das Geäst, Gezweige, Ast-, Zweigwerk, Reisig, Reisholz
+FG|ramale|ramale is neutre (ramus), bois sec ; branchages ; surtout au pluriel ramalia.
+Lw|
+YO|
+PO|
+WW||||
+|rationale|rătĭōnāle|rătĭōnāle|8|rătĭōnāl||is, n.
+LS|rationale|rătĭōnāle|is|n.||the oracular breastplate|rationalis|0
+GG|rationale|rătĭōnāle|is|n.||rational [ornement du grand prêtre des juifs]|rationale|
+GJ|rationale|rătĭōnāle|is, n. [ratio]|rational, pectoral (morceau d'étoffe carré, de la grandeur de la main, que le grand prêtre, chez les Juifs, portait sur la poitrine).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|reate|Rĕātĕ|Rĕātĕ|8|Rĕāt||is, n.
+LS|Reate|Rĕāte|is|n.||a very ancient town of the Sabines, Rieti|Reate|0
+GG|Reate|Rĕātĕ|is|n.|S.|ville des Sabins [auj. Rieti]|Reate|Rĕātĕ
+GJ|Reate|Rĕātĕ|is, n.|Réate (ville des Sabins, auj. Rieti).
+Ge|Reate|Rēate|n.|reatinisch - ein Reatiner - die Reatiner - das Gebiet von Reate
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salsare|salsāre|sālsāre|8|sālsār||is, n.
+LS|
+GG|salsare|salsāre|is|n.||vase à mettre de la salaison|salsare|
+GJ|salsare|salsare|is, n.|vase (pour la salaison).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salutare|sălūtāre|sălūtāre|8|sălūtār||is, n.
+LS|salutare|sălūtāre|is|n.|adv.||salutaris|0
+GG|salutare|sălūtāre|is|n.||moyen de salut|salutare|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sauracte|Sauracte|Sāurācte|8|Sāurāct||is, n.
+LS|Sauracte|Sauracte|is|n.||a high mountain in Etruria, on which was a temple of Apollo, Monte S. Oreste, Masc.|Soracte|(
+GG|Sauracte|Sauracte||||c. Soracte.|Sauracte|
+GJ|Sauracte|Sauracte|is, n.|le Soracte (mont des Falisques).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scutale|scūtālĕ|scūtālĕ|8|scūtāl||is, n.
+LS|scutale|scūtāle|is|n.||the thong of a sling|scutale|0
+GG|scutale|scūtālĕ|is|n.||poche de la fronde|scutale|
+GJ|scutale|scutale|is, n.|la poche de la fronde.
+Ge|scutale|scūtāle|is, n.|rautenförmige Schleuderleder
+FG|scutale|scutale is neutre (scutum), poche de la fronde.
+Lw|scutale|scūtāle|is|n||a thong, leathern strap, lash||||scutale
+YO|
+PO|
+WW||||
+|secale|sĕcāle|sĕcāle|8|sĕcāl||is, n.
+LS|secale|sĕcāle|is|n.||a kind of grain, rye;, black spelt|secale|0
+GG|secale|sĕcāle|is|n.||seigle|secale|
+GJ|secale|sĕcāle|is, n. [seco]|Plin. seigle.
+Ge|secale|secāle|is, n.|unser Korn - Roggen - den schwarzen Spelt
+FG|secale|secale is neutre (seco), seigle.
+Lw|
+YO|
+PO|
+WW||||
+|segestre|sĕgestre|sĕgēstre|8|sĕgēstr||is, n.
+LS|segestre|sĕgestre|is|n.|||segestre|0
+GG|segestre|sĕgestre|is|n.||natte, couverture de paille tressée|segestre|
+GJ|segestre|segestre|is, n. (segestrĭa, ae, f.; segestra, ae, f.)|- 1 - natte (de paille). - 2 - couverture (en peau). - 3 - toile d'emballage. - 4 - manteau d'étoffe grossière.
+Ge|segestre|segestre|is, n.|die Decke - Umhüllung - (die Matte)
+FG|segestre|segestre is neutre, couverture de paille tressée.
+Lw|
+YO|
+PO|
+WW||||
+|sessibile|sessĭbĭle|sēssĭbĭle|8|sēssĭbĭl||is, n.
+LS|sessibile|sessĭbĭle|is|n.|||sessibulum|0
+GG|sessibile|sessĭbĭle|is|n.|S.|siège|sessibile|sessĭbĭle
+GJ|sessibile|sessibile|is, n.|siège, chaise.
+Ge|sessibile|sessibile||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|simile|sĭmĭlĕ|sĭmĭlĕ|8|sĭmĭl||is, n.
+LS|simile|sĭmĭle|is|n.||A comparison, likeness, parallel case, example|similis|0
+GG|simile|sĭmĭlĕ|is|n.||chose semblable, analogue, analogie, comparaison / ressemblance|simile|
+GJ|simile|sĭmĭlĕ|is, n. de similis, pris substt|- 1 - chose semblable, analogue, analogie, comparaison. - 2 - ressemblance.
+Ge|
+FG|simile|simile is, neutre de similis pris substantivement, chose semblable, analogue, analogie, comparaison.
+Lw|simile|simile|is|n||a comparison, likeness, parallel, simile||||simile
+YO|
+PO|
+WW||||
+|sirpe|sirpĕ|sīrpĕ|8|sīrp||is, n.
+LS|sirpe|sirpe|is|n.||a plant, called also, and, asaf&oelig;tida|sirpe|0
+GG|sirpe|sirpĕ|is|n.||c. laser|sirpe|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|spetile|spētĭle|spētĭle|8|spētĭl||is, n.
+LS|spetile|spētĭle||||vocatur infra umbilicum suis, quod est carnis, proprii cujusdam habitus, exos|spetile|(or 
+GG|spetile|spētĭle|is|n.|S.|un morceau de la panse du porc|spectile|spetĭlĕ
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subalare|sŭbālārĕ|sŭbālārĕ|8|sŭbālār||is, n.
+LS|subalare|sŭbālāre|is|n.||an under-girdle|subalaris|0
+GG|subalare|sŭbālārĕ|is|n.||baudrier|subalare|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subventrile|subventrīlĕ|sūbvēntrīlĕ|8|sūbvēntrīl||is, n.
+LS|subventrile|subventrīle|is|n.||the lower belly, the abdomen|subventrile|0
+GG|subventrile|subventrīlĕ|is|n.||ventre (de lièvre)|subventrile|
+GJ|
+Ge|subventrile|subventrīle|is, n.|der Unterleib
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suile|sŭīlĕ|sŭīlĕ|8|sŭīl||is, n.
+LS|suile|sŭīle|is|n.||a hog-sty|suile|0
+GG|suile|sŭīlĕ|is|n.||étable à cochons, porcherie|suile|
+GJ|suile|suile|is, n.|étable à porcs, porcherie.
+Ge|suile|suīle|is, n.|der Schweinestall
+FG|suile|suile is neutre (sus), porcherie.
+Lw|
+YO|
+PO|
+WW||||
+|superhumerale|sŭpĕrhŭmĕrāle|sŭpĕrhŭmĕrāle|8|sŭpĕrhŭmĕrāl||is, n.
+LS|superhumerale|sŭpĕrhŭmĕrāle|||||superhumerale|v. super-umerale.
+GG|superhumerale|sŭpĕrhŭmĕrāle|is|n.||éphode, vêtement de dessus du grand prêtre des Juifs|superhumerale|
+GJ|superhumerale|sŭpĕrhŭmĕrāle|is, n.|Hier. l'éphode (vêtement du grand prêtre des Juifs).
+Ge|superhumerale|superhumērale|is, n.|das Obergewand
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superliminare|sŭperlīmĭnāre|sŭpērlīmĭnāre|8|sŭpērlīmĭnār||is, n.
+LS|superliminare|sŭperlīmĭnāre|is|n.||a lintel|superliminare|0
+GG|superliminare|sŭperlīmĭnāre|is|n.|S.||superlimen|sŭperlīmĭnāre
+GJ|superliminare|sŭperlīmĭnāre|is, n.|Vulg. linteau d'une porte.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|supparile|suppărĭlĕ|sūppărĭlĕ|8|sūppărĭl||is, n.
+LS|
+GG|supparile|suppărĭlĕ|is|n.|S.|paronomase [fig. de rhét.]|supparile|suppărĭlĕ
+GJ|supparile|suppărĭle|is, n.|Auct. paronomase.
+Ge|supparile|supparile|is, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tapete|tăpētĕ|tăpētĕ|8|tăpēt||is, n.
+LS|tapete|tăpēte|is|n.||sing. acc. m., acc. m., a carpet, tapestry, hangings, coverlet, sing. nom.|tapete|0
+GG|tapete|tăpētĕ|is|n.|S.|tapis, tapisserie [pour recouvrir toute espèce de choses]|tapete|tăpētĕ
+GJ|tapete|tăpētĕ|is, n.|tapis, tapisserie.
+Ge|tapete|tapēte|is, n.|der Teppich
+FG|tapete|tapete is neutre, et tapetum i neutre, tapis, tapisserie.
+Lw|
+YO|
+PO|tapete|tape_te, tape_tis : n
+WW||||
+|teate|Tĕātĕ|Tĕātĕ|8|Tĕāt||is, n.
+LS|Teate|Tĕāte|is|n.||a town on the Adriatic Sea, near Corfinium, Chieti|Teate|0
+GG|Teate|Tĕātĕ|is|n.|S.|ville d'Apulie|Teate|Tĕātĕ
+GJ|Teate|Tĕātĕ|is, n.|Téate (ville d'Apulie).
+Ge|Teate|Teāte|is, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tegeste|tĕgestĕ|tĕgēstĕ|8|tĕgēst||is, n.
+LS|
+GG|tegeste|tĕgestĕ|is|n.||ce qui sert à couvrir|tegeste|
+GJ|tegeste|tĕgestĕ|is, n. [tego]|ce qui sert à couvrir.
+Ge|tegeste|tegeste|is, n.|Bedeckungsstoff
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tegile|tĕgĭlĕ|tĕgĭlĕ|8|tĕgĭl||is, n.
+LS|tegile|tĕgĭle|is|n.||a covering, cover|tegile|0
+GG|tegile|tĕgīlĕ|is|n.||ce qui couvre, vêtement|tegile|
+GJ|tegile|tĕgĭlĕ|is, n.|ce qui couvre, vêtement.
+Ge|tegile|tegīle|is, n.|die Decke, Hülle
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|textile|textĭle|tēxtĭle|8|tēxtĭl||is, n.
+LS|textile|textĭle|is|n.||plaited, braided, interwoven, intertwined, constructed|textilis|0
+GG|textile|textĭle|is|n.||pris substt, tissu|textile|
+GJ|
+Ge|
+FG|textile|textile is (textilis), neutre pris substantivement, tissu.
+Lw|
+YO|
+PO|
+WW||||
+|tibiale|tībĭāle|tībĭāle|8|tībĭāl||is, n.
+LS|tibiale|tībĭāle|is|n.||a warm wrappage about the shins, stockings, leggings|tibialis|0
+GG|tibiale|tībĭāle|is|n.||sorte de bas, bandes qui enveloppaient la jambe pour la tenir chaude|tibiale|
+GJ|tibiale|tībĭāle|is, n.|Suet. un bas (bandes qui couvraient la jambe pour la tenir chaude).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tribunale|trĭbūnāle|trĭbūnāle|8|trĭbūnāl||is, n.
+LS|tribunale|trĭbūnāle|is|n.|||tribunal|(moleste diligentibus permittamus et tribunale dicere, 
+GG|tribunale|trĭbūnāle|is|n.||c. tribunal|tribunale|
+GJ|tribunale|trĭbūnāle|is, n.|Inscr. c. tribunal.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|umerale|ŭmĕrāle|ŭmĕrāle|8|ŭmĕrāl||is, n.
+LS|umerale|ŭmĕrāle|is|n.||a covering for the shoulders, a, cape|umerale|(not 
+GG|umerale|ŭmĕrāle|is|n.|S.|cape, pèlerine|humerale|ŭm-
+GJ|umerale|ŭmĕrāle|is, n.|pèlerine, cape, casaque.
+Ge|Umerale|Umerale|is, n.|die Schulterbedeckung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ventrale|ventrālĕ|vēntrālĕ|8|vēntrāl||is, n.
+LS|ventrale|ventrāle|is|n.|||ventralis|0
+GG|ventrale|ventrālĕ|is|n.||ceinture|ventrale|
+GJ|ventrale|ventrale|is, n.|ceinture, ventrière.
+Ge|
+FG|ventrale|ventrale is neutre (venter), ceinture.
+Lw|
+YO|
+PO|
+WW||||
+|volucre|vŏlū̆cre|vŏlū̆cre|8|vŏlū̆cr||is, n.
+LS|volucre|vŏlū̆cre||||a kind of worm, caterpillar that wraps itself up in vineleaves|volucra|and 
+GG|volucre|vŏlūcre|is|n.|S.|c. volucra|volucre|vŏlūcre
+GJ|volucre|vŏlūcre|is, n.|c. volucra.
+Ge|
+FG|volucre|volucre is féminin (volucer), oiseau ; Junonis, l'oiseau de Junon, le paon.
+Lw|
+YO|
+PO|
+WW||||
+|ancule|ancŭle|āncŭle|8|āncŭl||is, n.
+LS|ancule|ancŭle|is|n.||gen. plur., the shield that was said to have fallen from heaven in the reign of Numa, and on the preservation of which the prosperity of Rome was declared to depend;, Adj.|ancile|(also 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|annulare|annŭlāre|ānnŭlāre|8|ānnŭlār||is, n.
+LS|
+GG|
+GJ|annulare|annŭlāre|is, n.|blanc pour la peinture.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aquaemanale|ăquaemănāle|ăqụāemănāle|8|ăqụāemănāl||is, n.
+LS|
+GG|aquaemanale|ăquaemănāle|is|n.|S.|bassin pour laver les mains|aquimanile|ăquaemănāle
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aquimanile|ăquĭmănīle|ăqụĭmănīle|8|ăqụĭmănīl||is, n.
+LS|
+GG|aquimanile|ăquĭmănīle|is|n.|S.|bassin pour laver les mains|aquimanile|ăquĭmănīle
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|astile|astīle|āstīle|8|āstīl||is, n.
+LS|astile|astīle|is|n.||the shaft of a spear, javelin.|hastile|(also 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|buccellare|buccellāre|būccēllāre|8|būccēllār||is, n.
+LS|buccellare|buccellāre|is|n.||a cooking utensil|buccellaris|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|carpentoracte|Carpentŏracte|Cārpēntŏrācte|8|Cārpēntŏrāct||is, n.
+LS|
+GG|Carpentoracte|Carpentŏracte|is|n.||ville de la Gaule Narbonnaise|Carpentoracte|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|civile|cīvīle|cīvīle|8|cīvīl||is, n.
+LS|civile|cīvīle|is|n.|adv.||civilis1|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cocleare|cŏclĕāre|cŏclĕāre|8|cŏclĕār||is, n.
+LS|cocleare|cŏclĕāre|is|n.||a spoon, a measure for liquids, a spoonful|coclear|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|comprehensibile|comprĕhensĭbĭle|cōmprĕhēnsĭbĭle|8|cōmprĕhēnsĭbĭl||is, n.
+LS|comprehensibile|comprĕhensĭbĭle|is|n.|||comprehensibilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cottonare|Cottonare|Cōttonare|8|Cōttonar||is, n.
+LS|
+GG|Cottonare|Cottonare|is|n.||port d'Éthiopie|Cottonare|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coxale|coxāle|cōxāle|8|cōxāl||is, n.
+LS|
+GG|coxale|coxāle|is|n.||ceinture|coxale|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cumatile|cūmātĭle|cūmātĭle|8|cūmātĭl||is, n.
+LS|cumatile|cūmātĭle|is|n.|||cumatilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diacherale|dĭăcherālĕ|dĭăcherālĕ|8|dĭăcherāl||is, n.
+LS|
+GG|diacherale|dĭăcherālĕ|is|n.||sorte de collyre|diacherale|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|digitale|dĭgĭtālē|dĭgĭtālē|8|dĭgĭtāl||is, n.
+LS|
+GG|digitale|dĭgĭtālē|is|n.||c. digitabulum|digitale|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|discriminale|discrīmĭnāle|dīscrīmĭnāle|8|dīscrīmĭnāl||is, n.
+LS|discriminale|discrīmĭnāle|is|n.||a head-dress|discriminalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|faenile|faenīlĕ|fāenīlĕ|8|fāenīl||is, n.
+LS|
+GG|faenile|faenīlĕ|is|n.|S.|fenil [lieu où l'on serre le foin] / champ de foin|fenile|faen-
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|femorale|fĕmŏrāle|fĕmŏrāle|8|fĕmŏrāl||is, n.
+LS|femorale|fĕmŏrāle|is|n.||a covering for the thigh|femorale|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frontale|frontāle|frōntāle|8|frōntāl||is, n.
+LS|
+GG|
+GJ|
+Ge|frontale|frontāle|is, n.|das Stirnblatt - die vorderen Partien - die Vorderseite
+FG|
+Lw|frontale|frontāle|is|n||a frontlet, metal band for the forehead.&mdash;Plur||||frontale
+YO|
+PO|
+WW||||
+|genuale|genuāle|genŭāle|8|genŭāl||is, n.
+LS|
+GG|
+GJ|
+Ge|genuale|genuāle|is, n.|das Knieband - die Kniebinde
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hostile|hostīle|hōstīle|8|hōstīl||is, n.
+LS|hostile|hostīle|is|n.||hostile country, the enemy's land, soil|hostilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|humile|hŭmĭle|hŭmĭle|8|hŭmĭl||is, n.
+LS|humile|hŭmĭle|is|n.||low, mean|humilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incorporale|incorpŏrāle|īncōrpŏrāle|8|īncōrpŏrāl||is, n.
+LS|incorporale|incorpŏrāle|is|n.|adv.|-I. an incorporeal thing, that which is unsubstantial, immaterial -II. an intangible possession, a right|incorporalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insile|Insile|Īnsile|8|Īnsil||is, n.
+LS|
+GG|
+GJ|
+Ge|Insile|Insile|is, n.|die Spule
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laudabile|laudābĭle|lāudābĭle|8|lāudābĭl||is, n.
+LS|laudabile|laudābĭle|is|n.||the praiseworthy, Comp., fin|laudabilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|malvane|Malvane|Mālvane|8|Mālvan||is, n.
+LS|
+GG|Malvane|Malvane|is|n.||fleuve d'Afrique, sortant de l'Atlas|Malvane|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mavorte|māvorte|māvōrte|8|māvōrt||is, n.
+LS|
+GG|mavorte|māvorte|is|n.|S.|c. mafors, maforte.|mavortis|-te
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|memorabile|mĕmŏrābĭle|mĕmŏrābĭle|8|mĕmŏrābĭl||is, n.
+LS|memorabile|mĕmŏrābĭle|is|n.||a noteworthy fact, strange occurrence|memorabilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mictuale|mictŭāle|mīctŭāle|8|mīctŭāl||is, n.
+LS|mictuale|mictŭāle|is|n.||a diuretic|mictualis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mirabile|mīrābĭle|mīrābĭle|8|mīrābĭl||is, n.
+LS|mirabile|mīrābĭle|is|n.||a miracle, wondrous deed|mirabilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|moechile|moechīle|mōechīle|8|mōechīl||is, n.
+LS|moechile|moechīle|is|n.||a place where adultery is committed|moechile|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|narniense|Narniense|Nārnĭēnse|8|Nārnĭēns||is, n.
+LS|
+GG|Narniense|Narniense|is|n.|S.|propriété à Narnia|Narnia|Narniense
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nasale|nāsāle|nāsāle|8|nāsāl||is, n.
+LS|
+GG|nasale|nāsāle|is|n.||frein pour le naseau d'un cheval|nasale|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|omne|omne|ōmne|8|ōmn||is, n.
+LS|omne|omne|is|n.|adv.|every thing|omnis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|paleare|pălĕăre|pălĕăre|8|pălĕăr||is, n.
+LS|
+GG|paleare|pălĕăre|is|n.||tas de paille|paleare|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|parimembre|parimembre|parimēmbre|8|parimēmbr||is, n.
+LS|
+GG|
+GJ|
+Ge|parimembre|parimembre|is, n.|gleichgebildete Redeglieder
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pedale|pĕdālĕ|pĕdālĕ|8|pĕdāl||is, n.
+LS|
+GG|pedale|pĕdālĕ|is|n.||chaussure / bande de toile pour envelopper les pieds / mesure d'un pied|pedale|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pedule|pĕdūle|pĕdūle|8|pĕdūl||is, n.
+LS|pedule|pĕdūle|is|n.||a sole|pedulis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|plumatile|plūmātĭle|plūmātĭle|8|plūmātĭl||is, n.
+LS|plumatile|plūmātĭle|is|n.||an embroidered garment|plumatile|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|reptile|reptĭle|rēptĭle|8|rēptĭl||is, n.
+LS|reptile|reptĭle|is|n.||a reptile|reptilis|0
+GG|reptile|reptĭle|is|n.||reptile|reptilis|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|restibile|restĭbĭle|rēstĭbĭle|8|rēstĭbĭl||is, n.
+LS|restibile|restĭbĭle|is|n.||fallow land|restibilis|0
+GG|restibile|restĭbĭle|is|n.||terre qui produit tous les ans|restibilis|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scalare|scālāre|scālāre|8|scālār||is, n.
+LS|
+GG|scalare|scālāre|is|n.|S.|escalier, degrés|scalare|scālāre
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sculptile|sculptĭle|scūlptĭle|8|scūlptĭl||is, n.
+LS|sculptile|sculptĭle|is|n.||a carved image, statue|sculptilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|solemne|sōlemne|sōlēmne|8|sōlēmn||is, n.
+LS|
+GG|
+GJ|solemne|sōlemne|is, n.|- 1 - fête solennelle, cérémonie solennelle, solennité. - 2 - chose habituelle, habitude, usage.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sponsale|sponsāle|spōnsāle|8|spōnsāl||is, n.
+LS|sponsale|sponsāle|is|n.|||sponsalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+!|subparile|subpărĭlĕ|sūbpărĭlĕ|8|sūbpărĭl||is, n.
+LS|
+GG|subparile|subpărĭlĕ|is|n.|S.|paronomase [fig. de rhét.]|supparile|sub-
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superumerale|sŭpĕrumerale|sŭpĕrumerale|8|sŭpĕrumeral||is, n.
+LS|superumerale|sŭpĕrumerale|is|n.||the upper garment of a Jewish priest, an ephod|superumerale|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tadute|Tadutĕ|Tadutĕ|8|Tadut||is, n.
+LS|
+GG|Tadute|Tadutĕ|is|n.|S.|ville de Numidie|Taduti|Tadutĕ
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tenue|tĕnŭe|tĕnŭe|8|tĕnŭ||is, n.
+LS|tenue|tĕnŭe|is|n.||weak, trifling, insignificant, mean, low|tenuis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trimestre|trĭmestre|trĭmēstre|8|trĭmēstr||is, n.
+LS|
+GG|trimestre|trĭmestre|is|n.|S.|v. Keil|trimestris|-tre
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vardacate|Vardacate|Vārdacate|8|Vārdacat||is, n.
+LS|
+GG|Vardacate|Vardacate|is|n.||ville de Vénétie|Vardacate|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|virginale|virgĭnāle|vīrgĭnāle|8|vīrgĭnāl||is, n.
+LS|virginale|virgĭnāle|is|n.|||virginalis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|volatile|vŏlātĭlĕ|vŏlātĭlĕ|8|vŏlātĭl||is, n.
+LS|volatile|vŏlātĭlĕ|is|n.||a fowl|volatilis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|futtile|futtĭle|fūttĭle|8|fūttĭl||is, n.
+LS|futtile|futtĭle|is|n.||a water-vessel, broad above and pointed below, used at sacrifices to Vesta and Ceres|futtilis|0
+GG|futtile|futtĭle|is|n.|S.|aiguière, vase à eau|2 futile|futt-
+GJ|
+Ge|
+FG|
+Lw|futtile|futtile|is|n||a water-vessel, broad above and pointed below, used in sacrifices||||futtile
+Y§|
+PO|
+WW||||
+|inane|ĭnānĕ|ĭnānĕ|8|ĭnān||is, n.
+LS|inane|ĭnāne|is|n.||an empty space, a void; that which is empty or vain; emptiness, vanity, inanity|inanis|0
+GG|inane|ĭnānĕ|is|n.||le vide / vide, néant|2 inane|
+GJ|inane|ĭnānĕ|is, n.|- a - l'étendue de l'air, le vide. - b - futilité, vanité.
+Ge|
+FG|inane|inane is neutre pris substantivement,
+Lw|inane|ināne|is|n||an empty space, void, open space, vanity, worthlessness, as an idle show||||inane
+Y§|
+PO|
+WW||||
+|leucate2|Leucāte2|Lēucāte|8|Lēucāt||is, n.
+LS|Leucate|Leucāte|is|n.||a promontory in the island of Leucadia, now Capo Ducato|Leucata|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|proclive|prōclīvĕ|prōclīvĕ|8|prōclīv||is, n.
+LS|proclive|prōclīve|is|n.||a slope, descent, declivity|proclivis|0
+GG|proclive|prōclīvĕ|is|n.||pente|2 proclive|
+GJ|proclive|proclīve|is, n.|- a - pente, descente, penchant. - b - ce qui est facile.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|sale|sălĕ|sălĕ|8|săl||is, n.
+LS|sale|sălĕ|is|n.||salt|sal|0
+GG|sale|sălĕ|is|n.||v. sal|1 sale|
+GJ|sale|sale|is, n. arch.|c. sal.
+Ge|sale|sale|is, n.|das Salz
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|sale2|Săle2|Săle|8|Săl||is, n.
+LS|Sale|Săle|is|n.||a lake in Lydia|Sale2|0
+GG|Sale|Săle|is|n.||lac en Lydie|2 Sale|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|sublime|sublīmĕ|sū̆blīmĕ|8|sū̆blīm||is, n.
+LS|sublime|sublīme|is|n.||Height, lofty, exalted, eminent, distinguished.|sublimis|0
+GG|sublime|sublīmĕ|is|n.||hauteur|2 sublime|
+GJ|sublime|sublīmĕ|is, n.|hauteur, les airs, l'espace.
+Ge|
+FG|sublime|sublime is, neutre de sublimis pris substantivement, hauteur.
+Lw|
+Y§|
+PO|
+WW||||
+|triste2|triste2|trīste|8|trīst||is, n.
+LS|triste|triste|is|n.||a sad thing|tristis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|viride|vĭrĭde|vĭrĭde|8|vĭrĭd||is, n.
+LS|viride|vĭrĭde|is|n.||Green color, greenness, verdure|viridis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|turpe2|turpĕ2|tūrpĕ|8|tūrp||is, n.
+LS|turpe|turpĕ|is|n.|adv.|subj.-clause|turpis|0
+GG|turpe|turpĕ|is|n.|S.|les choses honteuses|turpis|turpĕ
+GJ|
+Ge|
+FG|turpe|turpe is, neutre pris substantivement ; turpia, les choses honteuses.
+Lw|
+Y§|
+PO|
+WW||||
+|patibile|pătĭbĭle|pătĭbĭle|8|pătĭbĭl||is, n.
+LS|
+GG|patibile|pătĭbĭle|is|n.||l'insensible|patibilis|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|volupe2|volupe2|volupe|8|volup||is, n.
+LS|
+GG|
+GJ|volupe|volupe|is, n.|chose agréable, plaisir.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bracchiale|bracchĭāle|brācchĭāle|8|brācchĭāl||is, n.
+LS|bracchiale|bracchĭāle|is|n.||an armlet, bracelet|bracchialis|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||

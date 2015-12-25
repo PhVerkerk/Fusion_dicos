@@ -1,0 +1,860 @@
+|aequidies|aequĭdĭēs|āeqụĭdĭēs|10|||ei, m.
+LS|
+GG|aequidies|aequĭdĭēs|ei|m.||équinoxe|aequidies|
+GJ|aequidies|aequĭdĭēs|ēi, f.|Gloss. équinoxe.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|almities|almĭtĭēs|ālmĭtĭēs|10|||ei, f.
+LS|almities|almĭties||||benignity, kind behavior|almities|
+GG|almities|almĭtĭēs|ēī|f.||grâce, beauté|almities|
+GJ|almities|almĭtĭēs|ēi, f. [almus]|grâce, beauté.
+Ge|almities|almitiēs|ēi, f.|das holde Ansehen - die Holdseligkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amarities|ămārĭtĭēs|ămārĭtĭēs|10|||ei, f.
+LS|amarities|ămārĭtĭes|ēi|f.||bitterness|amarities|0
+GG|amarities|ămārĭtĭēs|ei|f.||amertume|amarities|
+GJ|amarities|ămārĭtĭēs|ēi, f.|Catul. amertume.
+Ge|amarities|amāritiēs|ēi, f.|die Bitterkeit
+FG|
+Lw|amarities|amāritiēs|&mdash;|f||bitterness:||||amarities
+YO|
+PO|
+WW||||
+|amicities|ămīcĭtĭēs|ămīcĭtĭēs|10|||ei, f.
+LS|amicities|ămīcĭtĭes|ēi|f.|||amicities|0
+GG|amicities|ămīcĭtĭēs|ēi|f.||c. amicitia|amicities|
+GJ|amicities|ămīcĭtĭēs|ēi, f. (arch.)|c. amicitia.
+Ge|amicities|amīcitiēs|ēi, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|attemperies|attempĕrĭes|āttēmpĕrĭes|10|||ei, f.
+LS|attemperies|attempĕrĭes|ēi|f.|||attemperies|0
+GG|attemperies|attempĕries||||c. temperies|attemperies|
+GJ|attemperies|attemperĭēs|ēi, f.|action de modérer.
+Ge|attemperies|attemperiēs|ēī, f.|die Mäßigung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|avarities|ăvārĭtĭēs|ăvārĭtĭēs|10|||ei, f.
+LS|avarities|ăvārĭtĭes|ēi|f.||avarice|avarities|0
+GG|avarities|ăvārĭtĭēs|ēi|f.||c. le précéd.|avarities|
+GJ|avarities|ăvārĭtĭēs|ēi, f.|Lucr. c. avaritia.
+Ge|avarities|avāritiēs|ēī, f.|
+FG|avarities|avarities ei féminin, cf. le précédent.
+Lw|
+YO|
+PO|
+WW||||
+|barbaries|barbărĭēs|bārbărĭēs|10|||ei, f.
+LS|barbaries|barbărĭes||f.||a foreign country|barbaria|0
+GG|barbaries|barbarĭēs||||c. barbaria|barbaries|
+GJ|barbaries|barbărĭēs|ēi, f.|c. barbaria. -em Ov. M. 15, 829 ; Tr. 5, 1, 16 ; abl. -ie Ov. A. A. 2, 552.
+Ge|
+FG|barbaries|barbaries, cf. barbaricus.
+Lw|barbaries|barbariēs|see barbaria.|||||||barbaries
+YO|
+PO|barbaries|barbarie_s, barbarie_i_ : f
+WW||||
+|benevolenties|bĕnĕvŏlentĭēs|bĕnĕvŏlēntĭēs|10|||ei, f.
+LS|
+GG|benevolenties|bĕnĕvŏlentĭēs|ēi|f.||c. benevolentia|benevolenties|
+GJ|benevolenties|bĕnĕvŏlentĭēs|ēi, f.|c. benevolentia.
+Ge|benevolenties|benevolentiēs||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|blandities|blandĭtĭēs|blāndĭtĭēs|10|||ei, f.
+LS|blandities|blandĭtĭes|ēi|f.||The quality of one, a caressing, flattering, flattery|blandities|v. blanditia.
+GG|
+GJ|blandities|blanditĭēs|ēi, f.|c. blanditia.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calvities|calvĭtĭēs|cālvĭtĭēs|10|||ei, f.
+LS|calvities|calvĭtĭes|ēi|f.||baldness|calvities|). 
+GG|calvities|calvĭtĭēs|ēi|f.||calvitie|calvities|
+GJ|calvities|calvĭtĭēs|ēi, f.|Petr. calvitie.
+Ge|calvities|calvitiēs|ēī, f.|die Kahlheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|crassities|crassĭtĭēs|crāssĭtĭēs|10|||ei, f.
+LS|crassities|crassĭtĭes|ēi|f.||thickness, density|crassities|0
+GG|crassities|crassĭtĭēs|ēi|f.||épaisseur|crassities|
+GJ|crassities|crassĭtĭēs|ēi, f.|Apul. épaisseur.
+Ge|crassities|crāssitiēs||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|delicies|dēlĭcĭēs|dēlĭcĭēs|10|||ei, f.
+LS|
+GG|delicies|dēlĭcĭēs||||c. deliciae|delicies|
+GJ|delicies|delicĭēs|ēi, f. Apul.|c. deliciae.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|desidies|dēsĭdĭēs|dēsĭdĭēs|10|||ei, f.
+LS|desidies|dēsĭdĭes|ei|f.||no., idleness|desidies|0
+GG|desidies|dēsĭdĭēs|ēi|f.||c. desidia 1|desidies|
+GJ|desidies|dēsidĭēs|ēi, f.|- 1 - position d'une personne qui reste longtemps assise, longue position assise. - 2 - paresse, indolence, apathie. - 3 - repos (de la terre).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|digeries|dīgĕrĭēs|dīgĕrĭēs|10|||ei, f.
+LS|digeries|dīgĕrĭes|ēi|f.||an orderly distribution, a disposition, arrangement|digeries|0
+GG|digeries|dīgĕrĭēs|ēi|f.||disposition / digestion [fig.]|digeries|
+GJ|digeries|dīgĕrĭēs|ēi, f.|- 1 - arrangement, disposition. - 2 - digestion (fig.).
+Ge|digeries|dīgeriēs|ēī, f.|die Einteilung, Ordnung - die Verdauung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diluvies|dīlŭvĭēs|dīlŭvĭēs|10|||ei, f.
+LS|diluvies|dīlŭvĭes|ēi|f.|||diluvies|0
+GG|diluvies|dīlŭvĭēs|ēi|f.||inondation, débordement, déluge|diluvies|
+GJ|diluvies|diluvĭēs|ēi, f.|inondation, déluge.
+Ge|diluvies|dīluviēs|ēi, f.|die Überschwemmung, Wasserflut
+FG|diluvies|diluvies ei féminin (diluo), inodation, débordement, déluge.
+Lw|diluvies|dīluviēs|&mdash;|f||an inundation, flood, deluge||||diluvies
+YO|
+PO|diluvies|di_luvie_s, di_luvie_i_ : f
+WW||||
+|dolies|dŏlĭēs|dŏlĭēs|10|||ei, f.
+LS|
+GG|dolies|dŏlĭēs|ēi|f.||douleur, chagrin|dolies|
+GJ|dolies|dŏlĭēs|ēi, f.|Inscr. douleur, chagrin.
+Ge|dolies|doliēs|ēī, f.|der Schmerz - die Betrübnis
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|durities|dūrĭtĭēs|dūrĭtĭēs|10|||ei, f.
+LS|durities|dūrĭtĭes||f.||acc.; abl., hardness.|durities|v. duritia 
+GG|durities|dūrĭtĭēs|ēi|f.||c. duritia [forme rare]|durities|
+GJ|
+Ge|durities|dūritiēs|ēī, f.|die Härte - ein harter Stoff - die Verhärtung - die Härte, Gefühllosigkeit
+FG|durities|durities ei féminin (forme rarei) cf. duritia.
+Lw|durities|(dūritiēs)|see duritia.|||g||||durities
+YO|
+PO|durities|du_ritie_s, du_ritie_i_ : f
+WW||||
+|egeries|ēgĕrĭēs|ēgĕrĭēs|10|||ei, f.
+LS|egeries|ēgĕrĭes|em, e|f.||excrement, dung|egeries|0
+GG|egeries|ēgĕrĭēs|ēi|f.||déjections|egeries|
+GJ|egeries|ēgĕrĭēs|em, e, f.|déjections, excréments, fiente, fumier.
+Ge|Egeries|Egeriēs|ēī, f.|der Kotauswurf, Mist
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eluvies|ēlŭvĭēs|ēlŭvĭēs|10|||ei, f.
+LS|eluvies|ēlŭvĭes|em, e|f.||a washing away, a flowing off, discharge.|eluvies|0
+GG|eluvies|ēlŭvĭēs|ēi|f.||eau qui coule, débordée / ravin, fondrière / écoulement des eaux sales / cours de ventre / [en parl. d'une loi néfaste] ruine, perte|eluvies|
+GJ|eluvies|eluvĭēs|ēi, f.|- 1 - eau qui coule, ruisseau, torrent, ravin, fondrière, écoulement des eaux sales, égoût, inondation, déluge. - 2 - perte, ruine.
+Ge|Eluvies|Eluviēs|ēī, f.|die Ausspülung - das Herausspülen - der Ausfluß - das Austreten,Übertreten - die Überschwemmung, Überflutung - ausgespülten Unreinlichkeiten - der Schlamm - das Schmutzwasser - der Schmutz - übergetretene Lache - ausgewaschene Schlucht
+FG|eluvies|eluvies ei féminin (eluo), eau qui coule, débordée ; ravin, fondrière ; ruine, perte.
+Lw|eluvies|ēluviēs|&mdash;, em, ē|f||an overflow, inundation, A washing away, discharge, removal of sewage||||eluvies
+YO|
+PO|
+WW||||
+|esuries|ēsŭrĭēs|ēsŭrĭēs|10|||ei, f.
+LS|esuries|ēsŭrĭes|ēi|f.||hunger|esuries|0
+GG|esuries|ēsŭrĭēs|ēi|f.||faim, appétit|esuries|
+GJ|esuries|ēsŭrĭēs|ēi, f.|faim, appétit.
+Ge|Esuries|Esuriēs|ēī, f.|der Hunger
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fallacies|fallācĭēs|fāllācĭēs|10|||ei, f.
+LS|fallacies|fallācĭes|ēi||||fallacies|0
+GG|fallacies|fallācĭēs|ēi|f.||c. fallacia|fallacies|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|imbalnities|imbalnĭtĭēs|īmbālnĭtĭēs|10|||ei, f.
+LS|imbalnities|imbalnĭtĭes|ēi|f.||an unbathed condition, filthiness|imbalnities|0
+GG|imbalnities|imbalnĭtĭēs|ēi|f.||saleté|imbalnities|
+GJ|imbalnities|imbalnĭtĭēs|ēi, f.|saleté, malpropreté.
+Ge|imbalnities|imbalnitiēs|ēī, f.|im Bade nicht abgewaschene Schmutz
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|immundities|immundĭtĭēs|īmmūndĭtĭēs|10|||ei, f.
+LS|immundities|immundĭtĭes|ēi||||immunditia|0
+GG|immundities|immundĭtĭēs|ēi|f.||impureté|immundities|
+GJ|immundities|immunditĭēs|ēi, f.|impureté, souillure.
+Ge|immundities|immunditiēs|ēī, f.|die Unreinlichkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|indigeries|indīgĕrĭēs|īndīgĕrĭēs|10|||ei, f.
+LS|
+GG|indigeries|indīgĕrĭēs|ēi|f.||dyspepsie|indigeries|
+GJ|
+Ge|indigeries|indīgeriēs||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|induvies|indŭvĭēs|īndŭvĭēs|10|||ei, f.
+LS|
+GG|induvies|indŭvĭes|ei|f.||parure dont qqn est revêtu|induvies|
+GJ|
+Ge|induvies|induviēs|f.|der Beuteschmuck
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|intemperanties|intempĕrantĭēs|īntēmpĕrāntĭēs|10|||ei, f.
+LS|
+GG|intemperanties|intempĕrantĭēs|ēi|f.||c. intemperantia|intemperanties|
+GJ|intemperanties|intempĕrantĭēs|ēi, f.|c. intemperantia.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|intergeries|intergĕrĭēs|īntērgĕrĭēs|10|||ei, f.
+LS|intergeries|intergĕrĭes|ēi|f.||a partition, party-wall|intergeries|0
+GG|intergeries|intergĕrĭēs|ēi|f.||mur mitoyen|intergeries|
+GJ|intergeries|intergĕrĭēs|ēi, f.|mur mitoyen.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interluvies|interlŭvĭēs|īntērlŭvĭēs|10|||ei, f.
+LS|interluvies|interlŭvĭes|ēi|f.||water that flows between, a strait|interluvies|0
+GG|interluvies|interlŭvĭēs|ēi|f.||bras de mer, détroit|interluvies|
+GJ|interluvies|interluvĭēs|ēi, f.|détroit, bras de mer.
+Ge|interluvies|interluviēs|ēī, f.|ein dazwischenfließendes Wasser
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|internecies|internĕcĭēs|īntērnĕcĭēs|10|||ei, f.
+LS|internecies|internĕcĭes|ēi|f.||slaughter, death, destruction|internecies|0
+GG|internecies|internĕcĭēs|ēi|f.||mort, meurtre|internecies|
+GJ|internecies|internecĭēs|ēi, f.|meurtre, mort.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interstities|interstĭtĭēs|īntērstĭtĭēs|10|||ei, f.
+LS|
+GG|interstities|interstĭtĭēs|ēi|f.||interstice|interstities|
+GJ|interstities|interstĭtĭēs|ēi, f. [intersisto]|interstice.
+Ge|interstities|interstitiēs|ēī, f.|der Zwischenraum
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laetities|laetĭtĭēs|lāetĭtĭēs|10|||ei, f.
+LS|
+GG|laetities|laetĭtĭēs|ēi|f.||c. laetitia|laetities|
+GJ|laetities|laetĭtĭēs|ēi, f.|c. laetitia.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lanities|lānĭtĭēs|lānĭtĭēs|10|||ei, f.
+LS|lanities|lānĭtiēs|ēi|f.||wool|lanicius|or 
+GG|lanities|lānĭtĭēs|ēi|f.||c. lanitia|lanities|
+GJ|
+Ge|lanities|lānitiēs|ēī, f.|die Wolle
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lenities|lēnĭtĭēs|lēnĭtĭēs|10|||ei, f.
+LS|lenities|lēnĭtĭes|ēi|f.||mildness, gentleness|lenities|0
+GG|lenities|lēnĭtĭēs|ēi|f.||douceur|lenities|
+GJ|lenities|lēnĭtĭēs|ēi, f.|douceur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lentities|lentĭtĭēs|lēntĭtĭēs|10|||ei, f.
+LS|lentities|lentĭtĭes|ēi|f.||pliancy, flexibility, toughness, viscosity, stickiness|lentitia|0
+GG|lentities|lentĭtĭēs|ēi|f.||mollesse [du plomb], ductilité|lentities|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|luxuries|luxŭrĭēs|lūxŭrĭēs|10|||ei, f.
+LS|luxuries|luxŭrĭēs|ēi|f.||gen., rankness|luxuria|0
+GG|luxuries|luxŭrĭēs|ēi|f.|S.|exubérance, excès, surabondance / [poét.] excès d'ardeur, fougue / [fig.] somptuosité, profusion, luxe / intempérance dans l'exercice du pouvoir / vie molle, voluptueuse / arch. pour luxuriei|luxuria|-ĭēs
+GJ|luxuries|luxŭrĭēs|ēi, f.|c. luxuria.
+Ge|
+FG|
+Lw|luxuries|lūxuriēs|&mdash;|f||rankness, luxuriance, riotous living, extravagance, profusion, luxury, excess, delicacy||||luxuries
+YO|
+PO|luxuries|luxurie_s, luxurie_i_ : f
+WW||||
+|magnicies|magnĭcĭēs|māgnĭcĭēs|10|||ei, f.
+LS|magnicies|magnĭcĭes|ēi|f.||greatness, size|magnicies|v. magnities.
+GG|magnicies|magnĭcĭēs||||v. magnities.|magnicies|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|magnities|magnĭtĭēs|māgnĭtĭēs|10|||ei, f.
+LS|magnities|magnĭtĭes|ēi|f.||greatness, size|magnities|(
+GG|magnities|magnĭtĭēs|ēi|f.||grandeur|magnities|
+GJ|
+Ge|magnities|māgnitiēs|ēī, f.|die Größe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|malities|mălĭtĭēs|mălĭtĭēs|10|||ei, f.
+LS|
+GG|malities|mălĭtĭēs|ēi|f.||c. malitia|malities|
+GJ|
+Ge|malities|malitiēs|ēi, f. = κακότης|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|minuties|mĭnūtĭēs|mĭnūtĭēs|10|||ei, f.
+LS|minuties|mĭnūtĭes|ēi|f.|||minutia|0
+GG|minuties|mĭnūtĭēs|ēi|f.|S.||minutia|-tĭēs
+GJ|
+Ge|minuties|minūtiēs|ēī, f. = minutia, Lact. 2, 4, 12. Arnob. 2, 49|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mollities|mollĭtĭēs|mōllĭtĭēs|10|||ei, f.
+LS|mollities|mollĭtĭes|ēi|f.||movableness, pliability, flexibility, suppleness; softness|mollitia|(
+GG|mollities|mollĭtĭēs|ēi|||souplesse, flexibilité / douceur, moelleux [de la laine] / mollesse, état d'une chose encore tendre, qui n'a pas encore toute sa fermeté et sa consistance / [fig.] douceur, sensibilité / flexibilité [des sentiments] / faiblesse de caractère, manque d'énergie / mollesse, vie molle, vie efféminée / moeurs efféminées|mollitia|-ĭēs
+GJ|mollities|mollĭtĭēs|ēi, f.|c. mollitia.
+Ge|
+FG|
+Lw|
+YO|
+PO|mollities|mollitie_s, mollitie_i_ : f
+WW||||
+|mundities|mundĭtĭēs|mūndĭtĭēs|10|||ei, f.
+LS|mundities|mundĭtĭes|ēi|f.||cleanness, cleanliness|munditia|0
+GG|mundities|mundĭtĭēs|ēi|f.||c. munditia|mundities|
+GJ|mundities|mundĭtĭēs|ēi, f.|c. munditia.
+Ge|
+FG|
+Lw|
+YO|
+PO|mundities|munditie_s, munditie_i_ : f
+WW||||
+|muries|mŭrĭēs|mŭrĭēs|10|||ei, f.
+LS|muries|mŭrĭes|ēi|f.||salt liquor, brine, pickle|muries|ēi. v infra), 
+GG|muries|mŭrĭēs|ēi|f.||v. muria|muries|
+GJ|muries|mŭrĭēs|ēi, f.|c. muria.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|navities|nāvĭtĭes|nāvĭtĭes|10|||ei, f.
+LS|navities|nāvĭtĭes|ēi|f.||diligence, zeal|navities|0
+GG|navities|nāvĭtĭes|ēi|f.||empressement, soin, diligence|navities|
+GJ|navities|nāvĭtĭēs|ēi, f.|empressement, zèle, ardeur, soin.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nequities|nēquĭtĭēs|nēqụĭtĭēs|10|||ei, f.
+LS|nequities|nēquĭtĭes||f.||gen., bad quality, badness|nequitia|(no 
+GG|nequities|nēquĭtĭēs|ēi|f.||c. nequitia|nequities|
+GJ|nequities|nēquĭtĭēs|ēi, f.|c. nequitia.
+Ge|
+FG|nequities|nequities ei féminin, cf. nequitia.
+Lw|
+YO|
+PO|nequities|ne_quitie_s, ne_quitie_i_ : f
+WW||||
+|nigrities|nī̆grĭtĭēs|nī̆grĭtĭēs|10|||ei, f.
+LS|nigrities|nī̆grĭtĭes|ēi|f.||black color, blackness|nigritia|0
+GG|nigrities|nĭgrĭtĭēs|ēi|f.|S.|le noir, la couleur noire, noirceur|nigritia|nĭgrĭtĭēs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|notities|nōtĭtĭēs|nōtĭtĭēs|10|||ei, f.
+LS|notities|nōtĭtĭes||f.||a being known, celebrity, note, fame|notities|v. notitia 
+GG|notities|nōtĭtĭēs|ēi|f.||§ 1 / § 2|notities|
+GJ|notities|notitĭēs|ēi, f.|c. notitia.
+Ge|notities|nōtitiēs|ēī, f. = notitia, Lucr. 5, 182|
+FG|
+Lw|
+YO|
+PO|notities|no_titie_s, no_titie_i_ : f
+WW||||
+|observanties|observantĭēs|ōbsērvāntĭēs|10|||ei, f.
+LS|
+GG|observanties|observantĭēs|ēi|f.||c. observantia|observanties|
+GJ|
+Ge|observanties|observantiēs||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|permities|permĭtĭēs|pērmĭtĭēs|10|||ei, f.
+LS|permities|permĭtĭes|ēi|f.||a wasting away, perishing; ruin, destruction, decay|permities|(
+GG|permities|permĭtĭēs||||c. pernicies|permities|
+GJ|permities|permĭtĭēs||c. pernicies.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pernities|pernĭtĭēs|pērnĭtĭēs|10|||ei, f.
+LS|
+GG|pernities|pernĭtĭēs||||v. pernicies.|pernities|
+GJ|pernities|pernities|ei, f.|- 1 - destruction, ruine, perte. - 2 - personne ou chose funeste, fléau, peste. - 3 - danger, malheur; maladie; accident.
+Ge|
+FG|
+Lw|pernities|(pernitiēs)|see pernicies.|||||||pernities
+YO|
+PO|
+WW||||
+|pigrities|pī̆grĭtĭēs|pī̆grĭtĭēs|10|||ei, f.
+LS|pigrities|pī̆grĭtĭes|ēi|f.||sloth, sluggishness, laziness, indolence|pigritia|0
+GG|pigrities|pĭgrĭtĭēs|ēi|f.||[à l'acc. sing.], lenteur|pigrities|
+GJ|pigrities|pĭgrĭtĭēs|ēi, f.|c. pigritia.
+Ge|
+FG|
+Lw|
+YO|
+PO|pigrities|pigritie_s, pigritie_i_ : f
+WW||||
+|pinguities|pinguĭtĭēs|pīngụĭtĭēs|10|||ei, f.
+LS|pinguities|pinguĭtĭes|ēi|f.||fatness|pinguitia|0
+GG|pinguities|pinguĭtĭēs|ēi|f.|S.|graisse|pinguitia|-tĭēs
+GJ|pinguities|pinguitĭēs|ēi, f.|c. pinguitia.
+Ge|pinguities|pinguitiēs|ēī, f.|die Fettigkeit - die Dichtheit, dicke Beschaffenheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|proluvies|prōlŭvĭēs|prōlŭvĭēs|10|||ei, f.
+LS|proluvies|prōlŭvĭes|ēi|f.||an overflow, inundation|proluvies|0
+GG|proluvies|prōlŭvĭēs|ēi|f.||inondation, débordement|proluvies|
+GJ|proluvies|prōlŭvĭēs|ēi, f.|- 1 - inondation, débordement. - 2 - flux (de ventre), déjections.
+Ge|proluvies|prōluviēs|ēī, f.|wegspülende Überschwemmung - Unrat
+FG|proluvies|proluvies ei féminin (proluo), débordement.
+Lw|proluvies|prōluviēs|&mdash;|f||an overflow, inundation, Refuse, filth||||proluvies
+YO|
+PO|proluvies|pro_luvie_s, pro_luvie_i_ : f
+WW||||
+|prosapies|prōsāpĭēs|prōsāpĭēs|10|||ei, f.
+LS|prosapies|prōsāpĭes||f.||a stock, race, family, gen. sing.|prosapia|ēi or ēs), 
+GG|prosapies|prōsāpĭēs|ēi|f.||c. prosapia|prosapies|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prosicies|prōsĭcĭes|prōsĭcĭes|10|||ei, f.
+LS|prosicies|prōsĭcĭes|ēi|f.||the flesh cut off for sacrifice|prosicies|0
+GG|prosicies|prōsĭcĭes|ēi|f.|S.|c. prosecta.|prosicies|prōsĭcĭes
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|puerities|pŭĕrĭtĭēs|pŭĕrĭtĭēs|10|||ei, f.
+LS|puerities|pŭĕrĭtĭes|ēi|f.||childhood|puerities|0
+GG|puerities|pŭĕrĭtĭēs|ēi|f.||c. pueritia|puerities|
+GJ|puerities|pŭĕrĭtĭēs|ēi, f.|c. pueritia.
+Ge|puerities|pueritiēs||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pullities|pullĭtĭēs|pūllĭtĭēs|10|||ei, f.
+LS|pullities|pullĭtĭes|ēi|f.||a young brood|pullities|0
+GG|pullities|pullĭtĭēs|ēi|f.||couvée, nichée / essaim|pullities|
+GJ|pullities|pullitĭēs|ēi, f.|Varr. couvaison, nichée.
+Ge|pullities|pullitiēs|ēī, f.|die junge Brut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|recalvities|rĕcalvĭtĭēs|rĕcālvĭtĭēs|10|||ei, f.
+LS|
+GG|recalvities|rĕcalvĭtĭēs|ēi|f.||c. recalvatio|recalvities|
+GJ|
+Ge|recalvities|recalvitīes|ēī, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|saevities|saevĭtĭēs|sāevĭtĭēs|10|||ei, f.
+LS|saevities|saevĭtĭes|ēi||||saevities|0
+GG|saevities|saevĭtĭēs|ēi|f.||c. saevitia|saevities|
+GJ|saevities|saevitĭēs|ēi, f. Tac.|c. saevitia.
+Ge|saevities|saevitiēs|ēī, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|saties|sătĭēs|sătĭēs|10|||ei, f.
+LS|saties|sătĭes|ēi|f.||a sufficiency, abundance, plentifulness.|saties|0
+GG|saties|sătĭēs|ēi|f.||c. satietas|saties|
+GJ|saties|satĭēs|ēi, f.|c. satias.
+Ge|
+FG|saties|saties ei féminin (satis), cf. satietas.
+Lw|
+YO|
+PO|
+WW||||
+|scabies|scăbĭēs|scăbĭēs|10|||ei, f.
+LS|scabies|scăbĭes|em, ē|f.||a roughness, scurf.|scabies|0
+GG|scabies|scăbĭēs|ēi|f.||aspérité, rugosité / gale / gale [des arbres, des plantes] / [fig.] démangeaison, vif désir, envie / démangeaison agréable, séduction|scabies|
+GJ|scabies|scăbĭēs|ēi, f.|1 - rugosité, aspérité. 2 - gale. 3 - Tac. lèpre. 4 - gale (des arbres). 5 - démangeaison, vif désir, cupidité. 6 - Cic. attrait, séduction.
+Ge|scabies|scabiēs|ēī, f.|die Rauhigkeit, Schäbigkeit - das Jucken - der große Reiz - der Wollustreiz - die Räude, Krätze - der Aussatz
+FG|scabies|scabies ei féminin,
+Lw|scabies|scabiēs|em, ē|f||a roughness, scurf, the scab, mange, itch, leprosy, an itching, restless longing, unnatural excitement||||scabies
+YO|
+PO|scabies|scabie_s, scabie_i_ : f
+WW||||
+|scabrities|scā̆brĭtĭēs|scā̆brĭtĭēs|10|||ei, f.
+LS|scabrities|scā̆brĭtĭes|em, ē|f.||roughness, ruggedness|scabritia|0
+GG|scabrities|scăbrĭtĭēs||f.|S.|aspérité, rugosité / gale|scabritia|scăbrĭtĭēs
+GJ|scabrities|scabritĭēs|ēi, f.|c. scabritia.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|segnities|segnĭtĭēs|sēgnĭtĭēs|10|||ei, f.
+LS|segnities|segnĭtĭes|em, ē|f.||slowness, tardiness, dilatoriness, sluggishness, inactivity|segnities|v. segnitia.
+GG|segnities|segnĭtĭēs|ēi|f.||c. segnitia|segnities|
+GJ|
+Ge|
+FG|segnities|segnities ei féminin, cf. segnitia.
+Lw|segnities|sēgnitiēs|&mdash;, em, ē|f||slowness, tardiness, dilatoriness, sluggishness, inactivity||||segnities
+YO|
+PO|segnities|se_gnitie_s, se_gnitie_i_ : f
+WW||||
+|semidies|sēmĭdĭēs|sēmĭdĭēs|10|||ei, m.
+LS|semidies|sēmĭdĭes|ēi|m.||a half-day|semidies|0
+GG|semidies|sēmĭdĭēs|ēi|m.||moitié d'un jour, demi-jour|semidies|
+GJ|semidies|sēmĭdĭēs|ēi, f.|demi-journée.
+Ge|semidies|sēmidiēs|ēī, m.|der halbe Tag
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sordities|sordĭtĭēs|sōrdĭtĭēs|10|||ei, f.
+LS|sordities|sordĭtĭes|ēi|f.||filth|sordities|0
+GG|sordities|sordĭtĭēs|ēi|f.|S.|saleté|sorditia|sordĭtĭēs
+GJ|sordities|sordĭtĭēs||c. sorditia.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|spurcities|spurcĭtĭēs|spūrcĭtĭēs|10|||ei, f.
+LS|spurcities|spurcĭtĭes||f.||filth, dirt, smut, dung|spurcitia|0
+GG|spurcities|spurcĭtĭēs|ēi|f.|S.||spurcitia|spurcĭtĭēs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suberies|sūbĕrĭēs|sūbĕrĭēs|10|||ei, f.
+LS|suberies|sūbĕrĭes|ēi|f.|||suberies|0
+GG|suberies|sūbĕrĭēs|ēi|f.||liège|suberies|
+GJ|suberies|sūbĕrĭēs|ēi, f.|c. suber.
+Ge|suberies|sūberiēs||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subluvies|sublŭvĭēs|sū̆blŭvĭēs|10|||ei, f.
+LS|subluvies|sublŭvĭes|em, e|f.||filth, dirt|subluvies|0
+GG|subluvies|sublŭvĭēs|ēi|f.||boue, vase|subluvies|
+GJ|subluvies|sublŭvĭēs|ēi, f. [sub + luo]|- 1 - vase, boue. - 2 - abcès avec suppuration, plaie suppurante, suppuration.
+Ge|subluvies|subluviēs|ēī, f.|der Unflat, Kot
+FG|subluvies|subluvies ei féminin (sub luo),
+Lw|
+YO|
+PO|
+WW||||
+|superficies|sŭperfĭcĭēs|sŭpērfĭcĭēs|10|||ei, f.
+LS|superficies|sŭperfĭcĭes|ēi|f.||the upper side, the top, surface.|superficies|0
+GG|superficies|sŭperfĭcĭēs|ēi|f.||partie supérieure, surface / constructions sur la surface d'un sol dont on n'a que l'usufruit / superficie / [géom.] surface|superficies|
+GJ|superficies|sŭperfĭcĭēs|ēi, f.|- 1 - partie supérieure (d'une chose), le dessus, le haut; surface, superficie. - 2 - partie bâtie. - 3 - propriété située sur un terrain qui appartient à autrui : maison, vigne...; construction située sur un sol dont on n'a que l'usufruit. - 4 - carapace (d'une tortue). - 5 - toit (d'un temple). - 6 - plateau (d'un candélabre). - 7 - Col. Plin. tout ce qui pousse hors de terre : pousses, jets, branches, cime.
+Ge|superficies|superficiēs|ēī, f.|der obere Teil - das Oberteil - die Oberfläche - hervorragende Gebäude - das Erbpachtgebäude, Erbpachthaus - die Fläche
+FG|superficies|superficies ei féminin (super et facies),
+Lw|superficies|superficiēs|&mdash;|f||the upper side, top, surface, fixtures, improvements, buildings||||superficies
+YO|
+PO|
+WW||||
+|tardities|tardĭtĭēs|tārdĭtĭēs|10|||ei, f.
+LS|tardities|tardĭtĭes|ēi|f.||slowness, tardiness|tardities|0
+GG|tardities|tardĭtĭēs|ēi|f.||c. tarditas ;|tardities|
+GJ|tardities|tardĭtĭēs|ēi, f.|Acc. c. tarditas.
+Ge|tardities|tarditiēs||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|temperies|tempĕrĭēs|tēmpĕrĭēs|10|||ei, f.
+LS|temperies|tempĕrĭes|ēi|f.||a due mingling, mixture, tempering, temperature, temper|temperies|0
+GG|temperies|tempĕrĭēs|ēi|f.||mélange, alliage, combinaison / juste proportion, équilibre|temperies|
+GJ|temperies|tempĕrĭēs|ēi, f.|1 - mélange, alliage, combinaison. 2 - juste proportion, équilibre.
+Ge|temperies|temperiēs|ēī, f.|die rechte Einteilung, rechte-, gehörige Mischung - die rechte-, gehörige-, gemäßigte Beschaffenheit, -Temperatur - die Mäßigung
+FG|temperies|temperies ei féminin (tempero),
+Lw|temperies|temperiēs|&mdash;|f||a due mingling, proper mixture, tempering, temperature, temper, a moderate temperature||||temperies
+YO|
+PO|temperies|temperie_s, temperie_i_ : f
+WW||||
+|vanities|vānĭtĭēs|vānĭtĭēs|10|||ei, f.
+LS|vanities|vānĭtĭes|ēi|f.||emptiness, nullity, folly|vanities|
+GG|vanities|vānĭtĭēs|ēi|f.||c. vanitas|vanities|
+GJ|vanities|vānĭtĭēs|ēi, f. [vanus]|c. vanitas.
+Ge|vanities|vānitiēs|ēī, f.|die Nichtigkeit, Eitelkeit
+FG|vanities|vanities ei féminin (vanus), cf. vanitas.
+Lw|
+YO|
+PO|
+WW||||
+|vastities|vastĭtĭēs|vāstĭtĭēs|10|||ei, f.
+LS|vastities|vastĭtĭes|ēi|f.||ruin, destruction|vastities|0
+GG|vastities|vastĭtĭēs|ēi|f.||destruction|vastities|
+GJ|vastities|vastĭtĭēs|ēi, f. = vastitas|destruction.
+Ge|vastities|vāstitiēs|ēī, f.|die Verwüstung, Zerstörung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|albities|albitĭēs|ālbitĭēs|10|||ei, f.
+LS|
+GG|
+GJ|albities|albitĭēs|ēi, (albitūdo, ĭnis), f.|blancheur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cantabries|cantabriēs|cāntā̆brĭēs|10|||ei, f.
+LS|
+GG|
+GJ|
+Ge|cantabries|cantabriēs|ēī, f.|der Kleiengrind
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|copies|cōpĭēs|cōpĭēs|10|||ei, f.
+LS|
+GG|copies|cōpĭēs|ēi|f.||v. copia|copies|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|impolities|impŏlītĭēs|īmpŏlītĭēs|10|||ei, f.
+LS|
+GG|
+GJ|impolities|impŏlītĭēs|ĭēi, f. [in + polio]|manque de culture.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lanicies|lānĭcĭes|lānĭcĭes|10|||ei, f.
+LS|lanicies|lānĭcĭes|ēi|f.||wool|lanicius|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mollicies|mollĭcĭes|mōllĭcĭes|10|||ei, f.
+LS|mollicies|mollĭcĭes|ēi|f.||movableness, pliability, flexibility, suppleness; softness|mollitia|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|permicies|permĭcĭes|pērmĭcĭes|10|||ei, f.
+LS|permicies|permĭcĭes|ēi|f.||a wasting away, perishing; ruin, destruction, decay|permities|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vinolenties|vīnolentiēs|vīnolēntĭēs|10|||ei, f.
+LS|
+GG|
+GJ|
+Ge|vinolenties|vīnolentiēs|ēī, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|maceries|măcĕrĭēs|măcĕrĭēs|10|||ei, f.
+LS|maceries|măcĕrĭes|ēi|f.||distress, affliction|maceries1|0
+GG|maceries|măcĕrĭēs|ēi|f.||peine, affliction|1 maceries|
+GJ|maceries|măcĕrĭēs|ēi, f. [macer]|affliction, chagrin.
+Ge|maceries|maceriēs|ēī, f.|die Bekümmernis
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|maceries2|mācĕrĭēs2|mācĕrĭēs|10|||ei, f.
+LS|maceries|mācĕrĭes|ēi|f.||an enclosure, a wall|maceria|only 
+GG|maceries|mācĕrĭēs|ēi|f.|S.|mur de clôture [en pierres sèches ; primitt en une sorte de torchis|maceria|mācĕrĭēs
+GJ|maceries|mācĕrĭēs|ēi, f.|mur de clôture (en pierres sèches).
+Ge|
+FG|maceries|maceries ei féminin, cf. maceria.
+Lw|
+Y§|
+PO|
+WW||||
+|tristities|trīstĭtĭēs|trīstĭtĭēs|10|||ei, f.
+LS|tristities|tristĭtĭes|ēi|||sadness, mournfulness, sorrow, grief|tristities|0
+GG|tristities|trīstĭtĭēs|ēi|f.||c. tristitia|1 tristities|
+GJ|tristities|tristĭtĭēs|ēi, f.|c. tristitia.
+Ge|tristities|trīstitiēs|ēi, f. = tristitia, Ter. adelph. 267. Apul. met. 8, 30|
+FG|tristities|tristities ei féminin, cf. tristitia.
+Lw|
+Y§|
+PO|
+WW||||
+|tristities2|Trīstĭtĭēs2|Trīstĭtĭēs|10|||ei, f.
+LS|Tristities|Tristĭtĭes||||the name of a maid of Psyche|tristities|0
+GG|Tristities|Trīstĭtĭēs|ēi|f.||une des suivantes de Psyché|2 Tristities|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|spes2|Spēs2|Spēs|10|||ei, f.
+LS|
+GG|Spes|Spēs|ĕī|f.||l'Espérance [divinité]|2 Spes|
+GJ|
+Ge|
+FG|Spes|Spes ei féminin, l'Espérance (divinité).
+Lw|
+Y§|
+PO|
+WW||||
+|imperfundies=inperfundies|imperfundĭēs|īmpērfūndĭēs|10|||ei, f.
+LS|imperfundies|imperfundĭes|ēi|f.||filth, impurity|imperfundies|(
+GG|imperfundies|imperfundĭēs|ēi|f.||saleté|imperfundies|
+GJ|imperfundies|imperfundĭēs|ēi, f.|saleté.
+Ge|imperfundies|imperfund(it)iēs|ēī, f.|der Unflat - die Unreinlichkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||

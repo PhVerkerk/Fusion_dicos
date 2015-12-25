@@ -1,0 +1,430 @@
+|agricior|agrīcĭor|ā̆grīcĭŏr|15|ā̆grīcĭōr||ōris
+LS|
+GG|agricior|agrīcĭor||||[adj. au compar.], plus agreste|agricior|
+GJ|
+Ge|agricior|agrīcior|ōris, Adi. comp.|bäurischer
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|albicolor|albĭcŏlor|ālbĭcŏlŏr|15|ālbĭcŏlōr||ōris
+LS|albicolor|albĭcŏlor|ōris||adj.|of a white color|albicolor|0
+GG|albicolor|albĭcŏlor|ōris|||de couleur blanche|albicolor|
+GJ|albicolor|albicolor|oris|de couleur blanche.
+Ge|albicolor|albicolor|Oris|weißfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||albicolor, albicoloris||
+|anterior|antĕrĭor|āntĕrĭŏr|15|āntĕrĭōr||ōris
+LS|anterior|antĕrĭor|ōris||adj.|comp., that is before, foremost, previous, former, anterior, Adv.|anterior|0
+GG|anterior|antĕrĭor|ōris||adv.|qui est devant|anterior|antĕrĭor
+GJ|anterior|antĕrĭor|antĕrĭus (gén. -ōris)|qui est devant.
+Ge|anterior|anterior|Oris|der vordere - das Terrain nach vorn hin - der vorige, frühere - der erstere
+FG|anterior|anterior oris (ante), qui est devant.
+Lw|
+YO|
+PO|
+WW||||
+|applicior|applĭcĭor|āpplĭcĭŏr|15|āpplĭcĭŏr||ŏris
+LS|
+GG|applicior|applĭcĭor|ŏris|||adj., au compar., serré plus étroitement|applicior|
+GJ|applicior|applĭcĭor|ĭus, compar. de l'adj. inusitée applex|plus étroit.
+Ge|applicior|applicior|ōris, Adi. compar.|sich anschmiegender
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|atricolor|ātrĭcŏlor|ātrĭcŏlŏr|15|ātrĭcŏlōr||ōris
+LS|atricolor|ātrĭcŏlor|ōris||adj.|blackcolored|atricolor|0
+GG|atricolor|ātrĭcŏlor|ōris|||de couleur noire|atricolor|
+GJ|atricolor|ātrĭcŏlŏr|ōris [ater + color]|de couleur noire.
+Ge|Atricolor|Atricolor|Oris|schwarzfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||atricolor, atricoloris||
+|bicolor|bĭcŏlŏr|bĭcŏlŏr|15|bĭcŏlōr||ōris
+LS|bicolor|bĭcŏlor|ōris||||bicolor|0
+GG|bicolor|bĭcŏlŏr|ōris||adj.|de deux couleurs|bicolor|bĭcŏlŏr
+GJ|bicolor|bicolor|oris (bicolorus, a, um)|de deux couleurs.
+Ge|bicolor|bicolor|Oris|zweifarbig
+FG|bicolor|bicolor oris, de deux couleurs.
+Lw|bicolor|bicolor|ōris||adj.|of two colors, two-colored||||bicolor
+YO|
+PO|bicolor|bicolor, bicolo_ris : a
+WW||bicolor, bicoloris||
+|decolor|dēcŏlŏr|dēcŏlŏr|15|dēcŏlōr||ōris
+LS|decolor|dēcŏlor|ōris|||acc. plur., adj., deprived of it's natural color, discolored, defaced, faded|decolor|0
+GG|decolor|dēcŏlŏr|ōris|||qui a perdu sa couleur naturelle, décoloré, terni, noirci / [fig.] corrompu, gâté|decolor|
+GJ|decolor|decolor|oris (abl. -ori, -ore)|- 1 - décoloré, terni, terne. - 2 - qui n'a pas sa couleur naturelle, noir, noirci, hâlé. - 3 - corrompu, gâté, altéré, vicié.
+Ge|decolor|dēcolor|ōris, Adi.|entfärbt, verfärbt, verdunkelt (gebräunt), getrübt
+FG|decolor|decolor oris, qui a perdu sa couleur naturelle, décoloré, terni, noirci ; (figuré) corrompu, gâté.
+Lw|decolor|dē-color|ōris||adj.|deprived of color, discolored, faded||||decolor
+YO|
+PO|decolor|de_color, de_colo_ris : a
+WW||decolor, decoloris||
+|dedecor|dēdĕcŏr|dēdĕcŏr|15|dēdĕcŏr||ŏris
+LS|dedecor|dēdĕcor|ŏris||adj.|unseemly, unbecoming, shameful, vile|dedecor|0
+GG|dedecor|dēdĕcŏr|ŏris|||adj., laid, honteux, indigne|dedecor|
+GJ|dedecor|dēdĕcŏr|ŏris|- 1 - Sall. qui dépare. - 2 - qui déshonore, honteux, indigne. - 3 - laid, difforme.
+Ge|dedecor|dēdecor|coris|verunzierend, verunehrend, entehrend, schändend
+FG|
+Lw|
+YO|
+PO|
+WW||dedecor, dedecoris||
+|diversicolor|dīversĭcŏlŏr|dīvērsĭcŏlŏr|15|dīvērsĭcŏlōr||ōris
+LS|diversicolor|dīversĭcŏlor|ōris||adj.|of various colors, party-colored|diversicolor|(
+GG|diversicolor|dīversĭcŏlŏr|ōris||adj.|de diverses couleurs|diversicolor|dīversĭcŏlŏr
+GJ|diversicolor|diversicolor|oris (diversicolōrus, a, um)|de diverses couleurs.
+Ge|diversicolor|dīversicolor|ōris|verschiedenfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|flucticolor|fluctĭcŏlŏr|flūctĭcŏlŏr|15|flūctĭcŏlōr||ōris
+LS|flucticolor|fluctĭcŏlor|ōris||adj.|seacolored|flucticolor|0
+GG|flucticolor|fluctĭcŏlŏr|ōris|||de couleur de mer|flucticolor|
+GJ|flucticolor|fluctĭcŏlŏr|ōris [fluctus + colo]|de couleur de mer.
+Ge|flucticolor|flūcticolor|Oris|meerfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frugalior|frūgālĭor|frūgālĭŏr|15|frūgālĭus,||us,
+LS|
+GG|frugalior|frūgālĭor|us, ōris|||qui rapporte davantage / plus sage, plus rangé, plus frugal / est de la décadence|frugalior|
+GJ|frugalior|frūgālĭor|us, ōris|compar. de frugalis. - 1 - Varr. qui rapporte davantage. - 2 - plus sage, plus rangé, plus frugal.
+Ge|
+FG|frugalior|frugalior u, génitif oris, comparatif de l'inusité frugalis,
+Lw|
+YO|
+PO|
+WW||||
+|gloriatior|glōrĭātĭor|glōrĭātĭŏr|15|glōrĭātĭōr||ōris
+LS|
+GG|gloriatior|glōrĭātĭor|ōris|||adj. compar.), un peu vantard|gloriatior|
+GJ|gloriatior|glōrĭātĭor|(adj. compar.)|un peu vantard.
+Ge|gloriatior|glōriātior|ōris, Adi. Compar.|etwas prahlerisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ignicolor|ignĭcŏlŏr|īgnĭcŏlŏr|15|īgnĭcŏlōr||ōris
+LS|ignicolor|ignĭcŏlor|a, um||adj.|fire-colored, flame-colored|ignicolor|or 
+GG|ignicolor|ignĭcŏlŏr|ōris||adj.|qui a la couleur du feu|ignicolor|ignĭcŏlŏr
+GJ|ignicolor|ignĭcŏlŏr|ōris|de la couleur du feu.
+Ge|Ignicolor|Ignicolor|ōris|feuerfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incicur|incĭcur|īncĭcŭr|15|īncĭcŏr||ŏris
+LS|incicur|incĭcur|ŏris||adj.|not tame, wild|incicur|0
+GG|incicur|incĭcur|ŏris|||qui n'est pas apprivoisé, intraitable|incicur|
+GJ|incicur|incĭcur|ŏris|Pacuv. qui n'est pas apprivoisé, intraitable.
+Ge|incicur|incicur|cicoris|ungezähmt, wild
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incolor|incŏlŏr|īncŏlŏr|15|īncŏlōr||ōris
+LS|incolor|incŏlor||||colorless|incolor|
+GG|incolor|incŏlŏr|ōris|||incolore|incolor|
+GJ|incolor|incolor|oris|Gloss. incolore.
+Ge|incolor|incolor|Oris = ἄχροος|farblos
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|indecor|indĕcŏr|īndĕcŏr|15|īndĕcŏr||cŏris
+LS|indecor|indĕcor|cŏris||||indecor|0
+GG|indecor|indĕcŏr|is e|||sans gloire, indigne|indecor|indĕcŏr
+GJ|indecor|indĕcŏr|is, e|sans gloire, indigne.
+Ge|indecor|indecor||
+FG|indecor|indecor et indecoris is e, sans gloire, indigne.
+Lw|
+YO|
+PO|
+WW||indecor, indecoris||
+|iricolor|īrĭcŏlŏr|īrĭcŏlŏr|15|īrĭcŏlōr||ōris
+LS|iricolor|īrĭcŏlor|ōris||adj.|rainbowcolored|iricolor|0
+GG|iricolor|īrĭcŏlŏr|ōris|||irisé|iricolor|
+GJ|iricolor|īrĭcŏlor|ōris|Aus. irisé.
+Ge|Iricolor|Iricolor|ōris|regenbogenfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lacticolor|lactĭcŏlŏr|lāctĭcŏlŏr|15|lāctĭcŏlōr||ōris
+LS|lacticolor|lactĭcŏlor|ōris||adj.|milkcolored|lacticolor|0
+GG|lacticolor|lactĭcŏlŏr|ōris|||blanc comme le lait|lacticolor|
+GJ|lacticolor|lactĭcŏlŏr|ōris|blanc comme le lait.
+Ge|lacticolor|lacticolor|Oris|milchfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|multicolor|multĭcŏlŏr|mūltĭcŏlŏr|15|mūltĭcŏlōr||ōris
+LS|multicolor|multĭcŏlor|ōris||adj.|many-colored|multicolor|0
+GG|multicolor|multĭcŏlŏr|ōris||adj.|qui a beaucoup de couleurs / subst. f., robe de plusieurs couleurs|multicolor|
+GJ|multicolor|multĭcŏlŏr|ōris [multus + color]|multicolore.
+Ge|multicolor|multicolor|Oris|vielfarbig, bunt - ein vielfarbiges (buntes) Kleid
+FG|
+Lw|
+YO|
+PO|
+WW||multicolor, multicoloris||
+|nigricolor|nī̆grĭcŏlŏr|nī̆grĭcŏlŏr|15|nī̆grĭcŏlōr||ōris
+LS|nigricolor|nī̆grĭcŏlor|ōris||adj.|of a black color|nigricolor|0
+GG|nigricolor|nĭgrĭcŏlŏr|ōris|||qui est de couleur noire|nigricolor|
+GJ|
+Ge|nigricolor|nigricolor|Oris|schwarzfarbig, dunkelfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nocticolor|noctĭcŏlŏr|nōctĭcŏlŏr|15|nōctĭcŏlōr||ōris
+LS|nocticolor|noctĭcŏlor|ōris||adj.|nightcolored, black|nocticolor|0
+GG|nocticolor|noctĭcŏlŏr|ōris|||nox, color) / qui est de la couleur de la nuit|nocticolor|
+GJ|nocticolor|noctĭcŏlŏr|ōris [nox + color]|qui est de la couleur de la nuit.
+Ge|nocticolor|nocticolor|Oris|nachtfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ocior|ōcĭŏr|ōcĭŏr|15|ōcĭōr||ōris
+LS|ocior|ōcĭor|ōcĭus|||swifter, fleeter|ocyor|0
+GG|ocior|ōcĭŏr|ĭus|||comparatif sans positif, plus rapide / [av. inf.] plus prompt à / qui mûrit plus vite, plus précoce|ocior|
+GJ|ocior|ōcĭŏr|ōcĭus|plus rapide (ocior, gén. ōcĭōris : comparatif sans positif).
+Ge|Ocior|Ocior|ōris, Adi. Compar.|geschwinder, schneller - zeitiger, eher, früher
+FG|ocior|ocior ius, génitif oris, comparatif sans positif, plus rapide ; (avec infinitif) plus prompt à.
+Lw|ocior|ōcior|ōcius||adj.|swifter, fleeter, premature||||ocior
+YO|
+PO|ocior|o_cior, o_cius : a
+WW||||
+|omnicolor|omnĭcŏlŏr|ōmnĭcŏlŏr|15|ōmnĭcŏlōr||ōris
+LS|omnicolor|omnĭcŏlor|ōris||adj.|of all colors|omnicolor|0
+GG|omnicolor|omnĭcŏlŏr|ōris|||qui est de toutes couleurs|omnicolor|
+GJ|omnicolor|omnicolor|oris|qui est de toutes les couleurs.
+Ge|omnicolor|omnicolor|Oris|von allen Farben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ostricolor|ostrĭcŏlŏr|ōstrĭcŏlŏr|15|ōstrĭcŏlōr||ōris
+LS|ostricolor|ostrĭcŏlor|ōris||adj.|purple-colored|ostricolor|0
+GG|ostricolor|ostrĭcŏlŏr|ōris|||de couleur de pourpre|ostricolor|
+GJ|ostricolor|ostrĭcŏlŏr|ōris|(Lebaigue P. 878) Sid. de la couleur de la pourpre.
+Ge|ostricolor|ostricolor||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|partor|partor|pārtŏr|15|pārtōr||ōris
+LS|partor|partor|ōris||||partor|0
+GG|partor|partor||||v. postpartor.|partor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praememor|praemĕmŏr|prāemĕmŏr|15|prāemĕmŏr||ŏris
+LS|
+GG|praememor|praemĕmŏr|ŏris|||qui se souvient bien|praememor|
+GJ|
+Ge|praememor|praememor|oris|wohl eingedenk
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pudoricolor|pŭdōrĭcŏlŏr|pŭdōrĭcŏlŏr|15|pŭdōrĭcŏlōr||ōris
+LS|pudoricolor|pŭdōrĭcŏlor|ōris||adj.|shamecolored, blushing, ruddy|pudoricolor|0
+GG|pudoricolor|pŭdōrĭcŏlŏr|ōris|||rouge de la pudeur, rose|pudoricolor|
+GJ|pudoricolor|pŭdōrĭcŏlŏr|ōris|rouge de la pudeur, rose.
+Ge|pudoricolor|pudōricolor|Oris|schamrot - rötlich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quadricolor|quădrĭcŏlor|qụădrĭcŏlŏr|15|qụădrĭcŏlōr||ōris
+LS|
+GG|quadricolor|quădrĭcŏlor|ōris|||adj., de quatre couleurs|quadricolor|
+GJ|quadricolor|quădrĭcolor|oris|Isid. de quatre couleurs.
+Ge|quadricolor|quadricolor|Oris|vierfarbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ruboratior|rŭbōrātĭŏr|rŭbōrātĭŏr|15|rŭbōrātĭōr||ōris
+LS|
+GG|ruboratior|rŭbōrātĭŏr|ōris|||adj., qui couvre davantage de honte, plus honteux|ruboratior|
+GJ|
+Ge|ruboratior|rubōrātior|ōris, Adi.|beschämender
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|supereminentior|sŭpĕrēmĭnentĭor|sŭpĕrēmĭnēntĭŏr|15|sŭpĕrēmĭnēntĭōr||ōris
+LS|
+GG|supereminentior|sŭpĕrēmĭnentĭor|ōris||adj.|plus éminent, le plus éminent|supereminentior|sŭpĕrēmĭnentĭor
+GJ|
+Ge|supereminentior|superēminentior|Superl. -entissimus, PAdi.|hervorragender
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|unicolor|ūnĭcŏlŏr|ūnĭcŏlŏr|15|ūnĭcŏlōr||ōris
+LS|unicolor|ūnĭcŏlor|ōris||adj.|acc. plur., of one color, all of one, the same color|unicolor|0
+GG|unicolor|ūnĭcŏlŏr|ōris|||adj. m. f. n., qui est d'une seule couleur|unicolor|
+GJ|unicolor|unicolor|oris|qui est d'une seule couleur.
+Ge|Unicolor|Unicolor|Oris|einfarbig, von einer Farbe
+FG|unicolor|unicolor oris, adjectif, qui est d'une seule couleur.
+Lw|unicolor|ūnicolor|ōris||adj.|of one color, uniform in color||||unicolor
+YO|
+PO|
+WW||unicolor, unicoloris||
+|versicolor|versĭcŏlŏr|vērsĭcŏlŏr|15|vērsĭcŏlōr||ōris
+LS|versicolor|versĭcŏlor|ōris||adj.|that changes its color, of changeable color; of various colors, partycolored|versicolor|0
+GG|versicolor|versĭcŏlŏr|ōris (versus, color)|||qui a des couleurs changeantes, bigarré, chatoyant|versicolor|
+GJ|versicolor|versĭcŏlŏr|ōris [versus + color]|qui a des couleurs changeantes, bigarré, chatoyant.
+Ge|versicolor|versicolor|ōris|schillernd, buntfarbig, buntgewürfelt, bunt - farbiges Gespinst - bunte Segel - bunte Bilder
+FG|versicolor|versicolor oris (versus color), qui a des couleurs changeantes, bigarré, chatoyant.
+Lw|versicolor|versicolor|ōris||adj.|of changeable color, of various colors, partycolored||||versicolor
+YO|
+PO|versicolor|versicolor, versicolo_ris : a
+WW||versicolor, versicoloris||
+|antelongior|antelongior|āntelōngĭŏr|15|āntelōngĭōr||ōris
+LS|
+GG|
+GJ|
+Ge|antelongior|antelongior|ōris|überlang
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|divorsicolor|dīvorsĭcŏlor|dīvōrsĭcŏlŏr|15|dīvōrsĭcŏlōr||ōris
+LS|divorsicolor|dīvorsĭcŏlor|ōris||adj.|of various colors, party-colored|diversicolor|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exsecutior|exsecūtior|ēxsecūtĭŏr|15|ēxsecūtĭōr||ōris
+LS|
+GG|
+GJ|
+Ge|exsecutior|exsecūtior|ōris, PAdi.|ausführlicher
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|floricolor|flōrĭcŏlŏr|flōrĭcŏlŏr|15|flōrĭcŏlōr||ōris
+LS|
+GG|floricolor|flōrĭcŏlŏr|ōris|||qui a l'éclat des fleurs|floricolor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|impressior|impressior|īmprēssĭŏr|15|īmprēssĭōr||ōris
+LS|
+GG|
+GJ|
+Ge|impressior|impressior|ōris, PAdi.|tiefer liegend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insopor|Insopor|Īnsopŏr|15|Īnsopōr||ōris
+LS|
+GG|
+GJ|
+Ge|Insopor|Insopor|ōris|schlaflos
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ponderatior|ponderātior|pōnderātĭŏr|15|pōnderātĭōr||ōris
+LS|
+GG|
+GJ|
+Ge|ponderatior|ponderātior|ōris, PAdi.|gewichtiger - wohlerwogener
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praelatior|praelātior|prāelātĭŏr|15|prāelātĭōr||ōris
+LS|
+GG|
+GJ|
+Ge|praelatior|praelātior|ōris, Adi.|vorzüglicher
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|recessior|rĕcessiŏr|rĕcēssĭŏr|15|rĕcēssĭōr||ōris
+LS|
+GG|
+GJ|recessior|rĕcessiŏr|ōris, compar. de recessus, inusité|Vitr. plus enfoncé.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vomacior|vŏmācĭŏr|vŏmācĭŏr|15|vŏmācĭōr||ōris
+LS|
+GG|
+GJ|vomacior|vŏmācĭŏr|ōris, compar. de l'inusité vomax|qui vomit plus souvent.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|decor2|dĕcŏr2|dĕcŏr|15|dĕcōr||ōris
+LS|decor|dĕcŏr|ōris||adj.|ornamented, adorned, elegant, beautiful, dedecor, indecoris, Adv.|decoris|0
+GG|decor|dĕcŏr|ŏris||adj.|adj., beau, magnifique|2 decor|
+GJ|decor|decŏr|ōris, adj. [decus]|beau, magnifique.
+Ge|decor|decor|oris|zierlich
+FG|
+Lw|
+Y§|
+PO|
+WW||decor, decoris||

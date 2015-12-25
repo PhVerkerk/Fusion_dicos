@@ -1,0 +1,1280 @@
+|absim|absim|ābsĭm|15|ābsĭm||is
+LS|
+GG|absim|absim|is, it|||de absum.|absim|
+GJ|absim|absim|is, it, etc.|subj. prés. de de absum.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|acharis|ăchăris|ăchăris|15|ăchăris+ĭt||itis
+LS|
+GG|acharis|ăchăris|itis||adv.|sans grâce, sans esprit|acharis|
+GJ|acharis|ăchăris|itis|sans grâce, sans esprit.
+Ge|acharis|acharis|itis|undankbar
+FG|
+Lw|
+YO|
+PO|
+WW||acharis, acharis||
+|aequilanx|aequĭlanx|āeqụĭlānx|15|āeqụĭlānc||lancis
+LS|aequilanx|aequĭlanx|lancis|||with equal scale|aequilanx|0
+GG|aequilanx|aequĭlanx|cis|||qui a les deux bassins égaux|aequilanx|
+GJ|aequilanx|aequĭlanx|ancis [equus + lanx]|qui a les deux plateaux égaux.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||aequilanx, aequilancis||
+|aequipar|aequĭpār|āeqụĭpār|15|āeqụĭpār+ăr||ăris
+LS|aequipar|aequĭpar|ăris||adj.|perfectly alike, equal|aequipar|0
+GG|aequipar|aequĭpār|ăris|||égal, pareil|aequipar|
+GJ|aequipar|aequĭpār|ăris [aequus-par]|égal, pareil.
+Ge|aequipar|aequipār|aris|völlig gleich
+FG|
+Lw|
+YO|
+PO|
+WW||aequipar, aequiparis||
+|agragas|Agrăgas|Ā̆grăgas|15|Ā̆grăgas+ānt||antis
+LS|Agragas|Agragas|antis||||Agragas|0
+GG|Agragas|Agrăgas||||v. Acragas.|Agragas|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|alacris|ălăcris|ălăcris|15|ălăcris+ĭs||ĭs
+LS|
+GG|alacris|ălăcris|ĭs ĕ|||alerte, vif, bouillant ; allègre, dispos, gaillard / une heureuse allégresse. le m. alacris est rare|alacer|ălăcris
+GJ|alacris|ălăcris|ălăcris, ălăcre|- 1 - vif, prompt, leste, agile, prêt à, dispos, plein d'entrain, ardent (en parl. du corps et de l'esprit). - 2 - animé, agité, transporté. - 3 - joyeux, gai, allègre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||alacris, alacris||
+|aliquisvis|ălĭquisvīs|ălĭqụīsvīs|15|ălĭqụīsvīs+-qụăv||-quăvis
+LS|
+GG|aliquisvis|ălĭquisvis|-quăvis, -quidvis|||n'importe quel ou quelle, n'importe quoi|aliquisvis|
+GJ|aliquisvis|ălĭquisvis|-quăvis, -quidvis [aliquis, volo]|n'importe quel ou quelle, n'importe quoi. ---- Cass. Var. 1, 4.
+Ge|aliquisvis|aliquisvīs|aliqua-vīs, aliquid-vīs|irgend ein beliebiger
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aliusvis|ălĭusvīs|ălĭūsvīs|15|ălĭūsvīs+ălĭav||ălĭavis
+LS|aliusvis|ălĭusvīs|||||aliusvis|a false read. for alium iis, 
+GG|
+GJ|aliusvis|ălĭusvīs|ălĭavis, ălĭudvis|tout autre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|allasson|allassōn|āllāssōn|15|āllāssōn+ōnt||ontis
+LS|
+GG|allasson|allassōn|ontis|||de couleur changeante|allasson|
+GJ|allasson|allassōn|ontis, adj.|de couleur changeante : Hadr. d. Vopisc. Saturn. 8, 10.
+Ge|allasson|allassōn|ontis|von schillernder Farbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anagon|ănăgōn|ănăgōn|15|ănăgōn+ōn||ōnis
+LS|
+GG|anagon|ănăgōn|ōnis|||qui n'a pas pris part aux courses|anagon|
+GJ|
+Ge|anagon|anagōn|ōnis, c.|nicht trainiert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|astusapes|Astŭsăpēs|Āstŭsăpēs|15|Āstŭsăpēs+āe||ae
+LS|Astusapes|Astŭsăpes||||v. Astapus.|Astusapes|v. Astapus.
+GG|Astusapes|Astusăpēs|ae ou is|||c. Astape|Astusapes|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bicors|bĭcors|bĭcōrs|15|bĭcōrd||cordis
+LS|bicors|bĭcors|cordis||adj.|with two hearts;, dissembling, false|bicors|0
+GG|bicors|bĭcors|cordis|||double, fourbe|bicors|
+GJ|bicors|bicors|cordis|qui a l'âme double, fausse.
+Ge|bicors|bicors|cordis|verschlagen, schlau
+FG|
+Lw|
+YO|
+PO|
+WW||bicors, bicordis||
+|caelebs|caelebs|cāelēbs|15|cāelĭb||lĭbis
+LS|caelebs|caelebs|lĭbis||adj.|unmarried, single|caelebs|(not 
+GG|caelebs|caelebs|ĭbis||adj.|adj., célibataire / [en parl. d'animaux] / arbres non mariés à la vigne|caelebs|
+GJ|caelebs|caelebs|ibis (gén. plur. caelibum)|célibataire, non marié.
+Ge|caelebs|caelebs|libis|unvermählt, ehelos
+FG|caelebs|caelebs ibis, adjectif, célibataire.
+Lw|caelebs|caelebs|||adj.|unmarried, single (whether bachelor or widower):||||caelebs
+YO|
+PO|caelebs|caelebs, caelibis : a
+WW||caelebs, caelibis||
+|centiceps|centĭceps|cēntĭcēps|15|cēntĭcĭpĭt||cĭpĭtis
+LS|centiceps|centĭceps|cĭpĭtis||adj.|hundred-headed|centiceps|0
+GG|centiceps|centĭceps|cĭpĭtis|||qui a cent têtes|centiceps|
+GJ|centiceps|centĭceps|cĭpĭtis [centum + caput]|qui a cent têtes.
+Ge|centiceps|centiceps|cipitis|hundertköpfig
+FG|centiceps|centiceps cipitis (centum caput), qui a cent têtes.
+Lw|centiceps|centiceps|cipitis||adj.|hundred-headed||||centiceps
+YO|
+PO|centiceps|centiceps, centicipitis : a
+WW||centiceps, centcipitis||
+|cicur|cĭcŭr|cĭcŭr|15|cĭcŭr+ŭr||ŭris
+LS|cicur|cĭcur|ŭris||adj.|tame|cicur|0
+GG|cicur|cĭcŭr|ŭris||adj.|adj., apprivoisé, privé, domestique|cicur|
+GJ|cicur|cĭcŭr|cĭcŭris (abl. -ure; gén. plur. -urum)|- 1 - apprivoisé, domestiqué, domestique (en parlant des animaux). - 2 - docile, doux, paisible.
+Ge|cicur|cicur|uris|zahm - mild
+FG|cicur|cicur uris, adjectif, apprivoisé, privé, domestique : cicurum bestiarum (genera), (les espèces) d'animaux domestiques.
+Lw|cicur|cicur|uris||adj.|tame:||||cicur
+YO|
+PO|
+WW||cicur, cicuris||
+|coelebs|coelebs|cōelēbs|15|cōelĭb||lĭbis
+LS|coelebs|coelebs|lĭbis||adj.|unmarried, single|caelebs|(not 
+GG|coelebs|coelebs||||c. caelebs.|coelebs|
+GJ|
+Ge|
+FG|coelebs|coelebs et ses dérivés, cf. caelebs.
+Lw|coelebs|(coelebs, coelō, coelum)|etc., see cael-.|||E||||coelebs
+YO|
+PO|
+WW||||
+|commoris|Commoris|Cōmmoris|15|Cōmmoris||is
+LS|Commoris|Commoris|is|f.||a fortress in Cilicia, near Mount Amanus|Commoris|is 
+GG|Commoris|Commoris|is|f.||village de Cilicie|Commoris|
+GJ|Commoris|Commoris|is f.|Commoris (village de Cilicie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|comparticeps|compartĭceps|cōmpārtĭcēps|15|cōmpārtĭcĭp||tĭcĭpis
+LS|comparticeps|compartĭceps|tĭcĭpis||adj.|partaking, participants together|comparticeps|0
+GG|comparticeps|compartĭceps|cĭpis|||qui participe avec, qui est copartageant|comparticeps|
+GJ|comparticeps|comparticeps|cĭpis|qui partage avec.
+Ge|comparticeps|comparticeps|cipis|mitteilhaftig
+FG|
+Lw|
+YO|
+PO|
+WW||comparticeps, comparticipis||
+|congrex|congrex|cōngrēx|15|cōngrĕg||grĕgis
+LS|congrex|congrex|grĕgis||adj.|Of the same herd, flock|congrex|0
+GG|congrex|congrex|grĕgis|||qui appartient au même troupeau / de la même compagnie, de la même troupe / [fig.] étroitement uni, serré|congrex|
+GJ|congrex|congrex|grĕgis|- 1 - du même troupeau. - 2 - qui est de la même compagnie, de la même troupe. - 3 - uni, serré.
+Ge|congrex|congrex|gregis|zur Herde vereinigt - zusammengeschart, vereinigt - gleichartig, homogen - beteiligt
+FG|
+Lw|
+YO|
+PO|
+WW||congrex, congregis||
+|cops|cops|cōps|15|cōp||cōpis
+LS|cops|cops|cōpis||adj.||cops|0
+GG|cops|cops||||riche, opulent, qui abonde de / formes usitées|cops|cops
+GJ|cops|cops||c. copis.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||cops, copis||
+|cujusvis|cūjusvis|cūjūsvis|15|cūjav||cujavis
+LS|cujusvis|cūjusvis|cujavis, cujumvis|||to whomever pertaining, whosesoever, of any one|cujusvis|0
+GG|cujusvis|cūjusvis|cujavis, cujumvis|||de qui que ce soit|cujusvis|
+GJ|cujusvis|cūjusvis|cūjăvis, cūjumvis|de qui que ce soit, de n'importe qui.
+Ge|cuiusvis|cūiusvīs|cūiavīs, cūiumvīs|wem immer angehörend, wessen immer, eines jeden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|debil|dēbĭl|dēbĭl|15|dēbĭl||is
+LS|
+GG|debil|dēbĭl|is|||c. debilis [arch.]|debil|
+GJ|debil|dēbĭl|ĭlis|arch. Enn. c. debilis.
+Ge|debil|dēbil||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dedux|dēdux|dēdūx|15|dēdūx+ŭc||ŭcis
+LS|dedux|dēdux|ŭcis||adj.|Derived, descended|dedux|0
+GG|dedux|dēdux|ŭcis||adj.|adj., issu de [avec le gén.] / chef, fondateur d'une colonie|dedux|
+GJ|dedux|dēdux|dēdŭcis|dérivé de, issu de.
+Ge|dedux|dēdux|ducis|abgeleitet, abstammend
+FG|
+Lw|
+YO|
+PO|
+WW||dedux, deducis||
+|deprans|dēprāns|dēprāns|15|d||dis
+LS|
+GG|deprans|dēprans|dis||adj.|adj.  à jeun|deprans|
+GJ|
+Ge|deprans|dēprāns|prandis|noch nüchtern
+FG|
+Lw|
+YO|
+PO|
+WW||deprans, deprandis||
+|deseps|dēseps|dēsēps|15|dēsēpsĭp||sĭpis
+LS|deseps|dēseps|sĭpis||adj.|out of one's mind, insane|deseps|0
+GG|
+GJ|
+Ge|deseps|dēseps|sipis|aberwitzig, wahnsinnig
+FG|
+Lw|
+YO|
+PO|
+WW||deseps, desipis||
+|diffors|diffors|dīffōrs|15|dīffōrt||rtis
+LS|diffors|diffors|rtis||adj.|a kind of defence, by which the act charged is admitted, but justified|diffors|-rtis, 
+GG|diffors|diffors|fortis|||[discours] qui admet un fait et le justifie après coup|diffors|
+GJ|diffors|diffors|fortis|(discours) qui admet un fait et le justifie après coup.
+Ge|diffors|diffors|fortis|
+FG|
+Lw|
+YO|
+PO|
+WW||diffors, diffortis||
+|dissors|dissors|dīssōrs|15|dīssōrt||rtis
+LS|dissors|dissors|rtis||adj.|of a different fate, separate, apart, not shared|dissors|0
+GG|dissors|dissors|tis|||qui n'entre point en partage [qui a un lot distinct]|dissors|
+GJ|dissors|dissors|sortis|qui n'entre pas dans le partage, qui n'a rien de commun avec.
+Ge|dissors|dissors|sortis|nicht gemeinsam
+FG|dissors|dissors rtis, qui n'entre point en partage.
+Lw|dissors|dis-sors|rtis||adj.|of a different fate, not in common||||dissors
+YO|
+PO|
+WW||dissors, dissortis||
+|duricors|dūrĭcors|dūrĭcōrs|15|dūrĭcōrs+ōrd||ordis
+LS|
+GG|duricors|dūrĭcors|ordis|||qui a le coeur dur|duricors|
+GJ|duricors|duricors|oris|qui a le coeur dur
+Ge|duricors|dūricors|cordis|hartherzig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dyspar|dyspār|dȳspār|15|dȳspăr||paris
+LS|
+GG|dyspar|dyspar||||v. dispar|dyspar|
+GJ|
+Ge|dyspar|dyspār|paris|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|equestris|ĕquestris|ĕqụēstris|15|ĕqụēstr||tris
+LS|
+GG|Equestris|Equestris cŏlōnĭa||f.|S.|la colonie équestre établie par César en Helvétie [auj. Nyon] / Equestres, habitants de cette colonie|Equestris colonia|Equestris cŏlōnĭa
+GJ|equestris|ĕquestris|tris, tre [eques]|- 1 - de cheval, de cavalier, équestre. - 2 - de la cavalerie. - 3 - des chevaliers.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exheres|exhērēs|ēxhērēs|15|ēxhērēs+ēd||ēdis
+LS|exheres|exhēres|ēdis||adj.|disinherited.&mdash; Subst., a disinherited person|exheres|0
+GG|exheres|exhērēs|ēdis||adj.|déshérité, qui n'hérite pas / [fig.] dépossédé|exheres|
+GJ|exheres|exheres|edis|déshérité, dépossédé, privé.
+Ge|exheres|exhērēs|hērēdis|enterbt, erblos
+FG|exheres|exheres edis masculin ou féminin, déshérité, qui n'hérite pas.
+Lw|exheres|ex-hērēs|ēdis||adj.|disinherited||||exheres
+YO|
+PO|
+WW||exheres, exheredis||
+|impars|impars|īmpārs|15|īmpārs+t||tis
+LS|
+GG|impars|impars|tis|||c. expers|impars|
+GJ|impars|impars|partis|Glos. c. expers.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inanimal|ĭnănĭmal|ĭnănĭmăl|15|ĭnănĭmăl+āl||ālis
+LS|
+GG|inanimal|ĭnănĭmal|ālis|||inanimé|inanimal|
+GJ|
+Ge|inanimal|inanimal|ālis|unbelebt, unbeseelt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incomes|incŏmĕs|īncŏmĕs|15|īncŏmĕs+ĭt||ĭtis
+LS|
+GG|incomes|incŏmĕs|ĭtis|||qui est sans compagnon|incomes|
+GJ|
+Ge|incomes|incomes||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incompos|incompŏs|īncōmpŏs|15|īncōmpŏs+ŏt||ŏtis
+LS|incompos|incompos|ŏtis||adj.|not having control over|incompos|0
+GG|incompos|incompŏs|ŏtis|||qui n'est pas en possession de|incompos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inexpers|ĭnexpers|ĭnēxpērs|15|ĭnēxpērt||pertis
+LS|inexpers|ĭnexpers|pertis||adj.|unacquainted with, having no share in|inexpers|0
+GG|inexpers|ĭnexpers|tis|||qui n'est pas fait à [gén.]|inexpers|
+GJ|
+Ge|inexpers|inexpers|pertis|ganz unteilhaft
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|infelox|infēlōx|īnfēlōx|15|īnfēlōx+ōc||ōcis
+LS|
+GG|infelox|infēlox|ōcis|||c. infelix|infelox|
+GJ|
+Ge|Infelox|Infelōx|ōcis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|injux|injux|īnjūx|15|īnjūx+ŭg||ŭgis
+LS|
+GG|injux|injux|ŭgis|||v. injugis|injux|
+GJ|injux|injux|ŭgis|qui n'a pas encore porté le joug.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insollers|insollers|īnsōllērs|15|īnsōllērs+ērt||ertis
+LS|
+GG|insollers|insollers|ertis|||fait sans art|insollers|
+GJ|
+Ge|Insollers|Insollers|ertis|nicht künstlerisch ausgebildet
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ligus|Lĭgus|Lĭgus|15|Lĭgus+ŭr||ŭris
+LS|Ligus|Lĭgus|ŭris||adj.|-I. adj. comm., Ligurian;, subst., a Ligurian -II. a surname in the gens Aelia and Octavia|Ligures|and 
+GG|Ligus|Lĭgus|ŭris||adj.|adj. m. f., de Ligurie|1 Ligur|Lĭgus
+GJ|Ligus|Lĭgus||c. Ligur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lips|Lips|Līps|15|Līps+ĭb||ĭbis
+LS|Lips|Lips|ĭbis||adj.|Libyan; subst., a Libyan;, Ant&aelig;us|Libs|v. Libs.
+GG|Lips|Lips||||v. Libs|Lips|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mastix|mastix|māstīx|15|māstĭch||mastĭchis
+LS|mastix|mastix|mastĭchis|||mastic, an odoriferous gum from the mastic-tree|mastiche|0
+GG|mastix|mastix|ĭchis|||c. mastiche|mastix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|menceps|menceps|mēncēps|15|mēncēps+ĭp||ĭpis
+LS|menceps|menceps||||out of his senses, mad|menceps|
+GG|menceps|menceps|ĭpis|||qui a perdu l'esprit|menceps|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mundicors|mundĭcors|mūndĭcōrs|15|mūnd||dis
+LS|mundicors|mundĭcors|dis||adj.|clean-hearted|mundicors|0
+GG|mundicors|mundĭcors|dis|||dont le coeur est pur|mundicors|
+GJ|mundicors|mundĭcors|cordis|(Lebaigue P. 798) Aug. dont le coeur est pur.
+Ge|mundicors|mundicors|cordis|reines Herzens
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nefrens|nĕfrens|nĕfrēns|15|nĕfrēns+d||dis
+LS|nefrens|nĕfrens|dis||adj.|that cannot bite, that has no teeth|nefrens|0
+GG|nefrens|nefrens|dis|||qui ne peut pas encore broyer les aliments, qui n'a pas encore de dents|nefrendis|nefrens
+GJ|
+Ge|nefrens|nefrēns|frendis|der noch nicht beißen kann, noch keine Zähne hat
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nyctalops|nyctălops|nȳctălōps|15|nȳctălōps+ōp||ōpis
+LS|nyctalops|nyctălops|ōpis||adj.|That cannot see in the twilight|nyctalops|0
+GG|nyctalops|nyctălops|ōpis|||nyctalope, qui ne voit que dans la nuit / une plante|nyctalops|
+GJ|nyctalops|nyctălops|ōpis, adj.|- 1 - qui ne voit que pendant la nuit, nyctalope. - 2 - subst. Plin. une plante qui luit la nuit (c. nyctegretos).
+Ge|nyctalops|nyctalōps|ōpis|bei Tage blödsichtig - Art Blödsichtigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pelasgias|Pĕlasgĭăs|Pĕlāsgĭăs|15|Pĕlāsgĭăs+ăd||ădis
+LS|Pelasgias|Pĕlasgĭas|ădis||||Pelasgi|0
+GG|Pelasgias|Pĕlasgĭăs|ădis||adj.|adj. f., grecque|Pelasgias|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peranceps|pĕranceps|pĕrāncēps|15|pĕrāncēps+ĭpĭt||ĭpĭtis
+LS|peranceps|pĕranceps|ĭpĭtis||adj.|very doubtful, very uncertain|peranceps|0
+GG|peranceps|pĕranceps|cĭpĭtis||adj.|adj., très douteux|peranceps|
+GJ|peranceps|peranceps|cĭpĭtis|très douteux.
+Ge|peranceps|peranceps|cipitis|sehr bedenklich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perdives|perdīvĕs|pērdīvĕs|15|pērdīvĕs+ĭt||ĭtis
+LS|perdives|perdīvĕs|ĭtis||adj.|very rich|perdives|0
+GG|perdives|perdīvĕs|ĭtis|||très riche|perdives|
+GJ|perdives|perdīvĕs|ĭtis|très riche.
+Ge|perdives|perdīves|itis|sehr reich
+FG|perdives|perdives itis, très riche.
+Lw|perdives|per-dīves|itis||adj.|very rich||||perdives
+YO|
+PO|
+WW||perdives, perdivitis||
+|perpes|perpĕs|pērpĕs|15|pērpĕs+ĕt||ĕtis
+LS|perpes|perpes|ĕtis||adj.|lasting throughout, continuous, uninterrupted, continual, perpetual|perpes|0
+GG|perpes|perpĕs|ĕtis|||ininterrompu, continuel, perpétuel|perpes|
+GJ|perpes|perpĕs|ĕtis|continuel, continu.
+Ge|perpes|perpes|petis = perpetuus|aneinanderhangen - ununterbrochen, fortwährend, beständig
+FG|
+Lw|
+YO|
+PO|
+WW||perpes, perpetis||
+|persenex|persĕnex|pērsĕnēx|15|pērsĕn||sĕnis
+LS|persenex|persĕnex|sĕnis||adj.|very old|persenex|0
+GG|persenex|persĕnex|sĕnis|||très vieux|persenex|
+GJ|persenex|persĕnex|persĕnis|très vieux.
+Ge|persenex|persenex|senis|sehr alt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pertrux|pertrux|pērtrūx|15|pērtrūx+ŭc||ŭcis
+LS|pertrux|pertrux|ŭcis||adj.|very savage, terrible|pertrux|0
+GG|pertrux|pertrux|ŭcis|||très cruel|pertrux|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pervetus|pervĕtus|pērvĕtus|15|pērvĕtus+ĕr||ĕris
+LS|pervetus|pervĕtus|ĕris||adj.|very old|pervetus|0
+GG|pervetus|pervĕtus|ĕris|||très ancien, très vieux / [en parl. d'une pers.] qui a vécu il y a très longtemps|pervetus|
+GJ|pervetus|pervĕtus|ĕris|très vieux, très ancien.
+Ge|pervetus|pervetus|veteris|sehr alt, uralt
+FG|pervetus|pervetus eris, très ancien, très vieux ; qui a vécu il y a très longtemps.
+Lw|pervetus|per-vetus|eris||adj.|very old, most ancient||||pervetus
+YO|
+PO|pervetus|pervetus, perveteris : a
+WW||pervetus, perveteris||
+|praecipes|praecĭpēs|prāecĭpēs|15|prāecĭp||cĭpis
+LS|praecipes|praecĭpes|cĭpis||adj.|headforemost, headlong, headforemost, headlong|praeceps|0
+GG|praecipes|praecĭpēs||||v. praeceps|praecipes|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praecox|praecox|prāecōx|15|prāecŏc||cŏcis
+LS|praecox|praecox|cŏcis||||praecox|0
+GG|praecox|praecox|ŏcis|||précoce [en parl. des fruits et des plantes] / [fig.] qui vient avant le temps, hâtif, prématuré, précoce|praecox|
+GJ|praecox|praecox|ocis|mûr avant le temps, précoce, hâtif, prématuré.
+Ge|praecox|praecox|cocis|frühzeitig - vor der Zeit reif, frühreif - Pfirsiche - vor der Zeit Früchte tragend - zu früh, unzeitig, voreilig
+FG|praecox|praecox ocis (praecoquo),
+Lw|
+YO|
+PO|praecox|praecox, praecocis : a
+WW||praecox, praecocis||
+|praedives|praedīvĕs|prāedīvĕs|15|prāedīvĕs+ĭt||ĭtis
+LS|praedives|praedīvĕs|ĭtis||adj.|very rich, very plentiful|praedives|0
+GG|praedives|praedīvēs|ĭtis|||très opulent, très riche|praedives|
+GJ|praedives|praedives|divitis|très riche.
+Ge|praedives|praedīves|itis|sehr reich
+FG|praedives|praedives itis, très opulent, très riche.
+Lw|praedives|prae-dīves|itis||adj.|very rich, affluent||||praedives
+YO|
+PO|praedives|praedi_ves, praedi_vitis : a
+WW||praedives, praedivitis||
+|praeferox|praefĕrox|prāefĕrōx|15|prāefĕrōx+ōc||ōcis
+LS|praeferox|praefĕrox|ōcis||adj.|very fierce, bold, violent, impetuous, insolent|praeferox|0
+GG|praeferox|praefĕrox|ōcis|||très farouche [de caractère] / plein d'arrogance|praeferox|
+GJ|praeferox|praefērox|ōcis|- 1 - très farouche, très violent, intraitable. - 2 - Suet. plein d'arrogance.
+Ge|praeferox|praeferōx|ōcis|sehr hitzig, -heftig, ungestüm, übermütig
+FG|praeferox|praeferox ocis, très farouche (de caractère) ; plein d'arrogance.
+Lw|praeferox|prae-ferōx|ōcis||adj.|very violent, impetuous, insolent||||praeferox
+YO|
+PO|praeferox|praefero_x, praefero_cis : a
+WW||praeferox, praeferocis||
+|praevelox|praevēlox|prāevēlōx|15|prāevēlōx+ōc||ōcis
+LS|praevelox|praevēlox|ōcis||adj.|very fleet, swift|praevelox|0
+GG|praevelox|praevēlox|ōcis|||très rapide, très léger|praevelox|
+GJ|praevelox|praevēlox|ōcis|Plin. très rapide.
+Ge|praevelox|praevēlōx|ōcis|sehr schnell
+FG|praevelox|praevelox ocis, très rapide, très léger.
+Lw|
+YO|
+PO|
+WW||||
+|quadriceps|quădrĭceps|qụădrĭcēps|15|qụădrĭcĭpĭt||cĭpĭtis
+LS|
+GG|quadriceps|quădrĭceps|cĭpĭtis|||à quatre têtes|quadriceps|
+GJ|quadriceps|quădrĭceps|cĭpĭtis|Aug. à quatre têtes, à quatre sommets.
+Ge|quadriceps|quadriceps|cipitis|vierköpfig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quantusvis|quantusvīs|qụāntūsvīs|15|qụāntăv||tăvis
+LS|quantusvis|quantusvīs|tăvis, tumvis||adj.|as much as you will, as great as you please, however great, ever so great, Neutr. subst.|quantusvis|0
+GG|quantusvis|quantusvīs|-ăvīs, -umvīs|||aussi grand qu'on voudra / gén. de prix|quantusvis|
+GJ|quantusvis|quantusvis|avis, umvis|aussi grand qu'on voudra.
+Ge|quantusvis|quantusvīs|quantavīs, quantumvīs|beliebig groß, - viel, noch so groß, -viel - noch so viel
+FG|quantusvis|quantusvis, -avis, -umvis, aussi grand qu'on voudra, de n'importe quelle grandeur.
+Lw|quantusvis|quantus-vīs|tavīs, tumvīs||adj.|as much as you will, as great as you please, however great||||quantusvis
+YO|
+PO|quantusvis|quantusvi_s, quantavi_s, quantumvi_s : a
+WW||||
+|quarticeps|quartĭceps|qụārtĭcēps|15|qụārtĭcĭpĭt||cĭpĭtis
+LS|quarticeps|quartĭceps|cĭpĭtis||adj.|four-peaked|quarticeps|0
+GG|quarticeps|quartĭceps|cĭpis|||cf. princeps), quatrième|quarticeps|
+GJ|
+Ge|quarticeps|quārticeps|cipis|der vierte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quinquepars|quinquĕpars|qụīnqụĕpārs|15|qụīnqụĕpārs+ārt||artis
+LS|
+GG|quinquepars|quinquĕpars|artis||adj.|adj., divisé en cinq parties [pentamètre]|quinquepars|quinquĕpars
+GJ|quinquepars|quinquĕpars|partis, adj.|Diom. divisé en cinq parties.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quiviscumque|quīviscumquĕ|qụīvīscūmqụĕ|15|qụīvīscūmqụāevīscūmqụe||quaeviscumque
+LS|quiviscumque|quīviscumque|quaeviscumque, quodviscumque||pron. indef.|who, what you please, any whatsoever you will, each, every|quiviscumque|0
+GG|quiviscumque|quīviscumquĕ|quaeviscumquĕ, quodvisc-|||c. quivis|quiviscumque|
+GJ|quiviscumque|quīviscumque|quaeviscumque, quodviscumque|c. quivis.
+Ge|quiviscumque|quīviscumque|quaevīscumque, quodvīscumque|wer es auch nur sei, jeder, jede, jedes
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|recalx|rĕcalx|rĕcālx|15|rĕcālx+ālc||alcis
+LS|
+GG|recalx|rĕcalx|alcis|||récalcitrant|recalx|
+GJ|
+Ge|recalx|recalx|calcis|nach hinten ausschlagend - sich widersetzend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|segrex|sēgrex|sēgrēx|15|sēgrēx+ĕg||ĕgis
+LS|segrex|sēgrex|ĕgis||||segrex|0
+GG|segrex|sēgrex|ĕgis|||séparé [des autres], placé à part, isolé, à l'écart / différent, divers|segrex|
+GJ|segrex|sēgrex|sēgrĕgis [ sē + grex]|1 - séparé, isolé. 2 - différent, divers.
+Ge|segrex|sēgrex|gregis|abgesondert, getrennt
+FG|segrex|segrex egis (se 2, grex), séparé (des autres), placé à part, isolé, à l'écart.
+Lw|
+YO|
+PO|
+WW||||
+|seminex|sēmĭnēx|sēmĭnēx|15|sēmĭnĕc||nĕcis
+LS|
+GG|seminex|sēmĭnex|nĕcis|||à demi mort, tué à demi, qui respire encore|seminex|
+GJ|seminex|seminex|seminecis|à moitié tué, à demi mort, mourant, expirant.
+Ge|seminex|sēminex|necis|halbtot
+FG|seminex|seminex necis, à demi mort, tué à demi.
+Lw|seminex|(sēmi-nēx)|necis||adj.|half-dead||||seminex
+YO|
+PO|seminex|se_minex, se_minecis : a
+WW||seminex, seminecis||
+|semuncideunx|sēmūncĭdĕūnx|sēmūncĭdĕūnx|15|sēmūncĭdĕūnx+ūnc||uncis
+LS|
+GG|semuncideunx|sēmuncĭdĕunx|uncis|||les sept huitièmes de l'once|semuncideunx|
+GJ|
+Ge|semuncideunx|sēmūncideūnx|Uncis|sieben Achtel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|separ|sēpār|sēpār|15|sēpăr||păris
+LS|separ|sēpār|păris||adj.|abl. sing., separate, different|separ|0
+GG|separ|sēpār|ăris|||séparé, à part, distinct|separ|
+GJ|separ|separ|aris (abl. -are ou -ari)|séparé, distinct.
+Ge|separ|sēpār|paris|abgesondert, getrennt, verschieden
+FG|
+Lw|
+YO|
+PO|separ|se_pa_r, se_paris : a
+WW||separ, separis||
+|septiceps|septĭceps|sēptĭcēps|15|sēptĭcēps+ĭpĭt||ĭpĭtis
+LS|
+GG|septiceps|septĭceps|ĭpĭtis|||qui a sept sommets|septiceps|
+GJ|septiceps|septĭceps|ĭpĭtis [septem + caput]|qui a sept sommets.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sesquunx|sesquunx|sēsqụūnx|15|sēsqụūnx+ūnc||uncis
+LS|sesquunx|sesquunx|uncis||||sesquunx|0
+GG|sesquunx|sesquunx||||v. sescunx.|sesquunx|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sispes|sispĕs|sīspĕs|15|sīspĕs+ĭt||ĭtis
+LS|sispes|sispĕs|ĭtis||||sispes|0
+GG|sispes|sispĕs||m. f.||c. sospes|sispes|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|solers|sōlers|sōlērs|15|sōlērs+t||tis
+LS|solers|sōlers|tis||adj.|skilled, skilful, clever, dexterous, adroit, expert|sollers|(
+GG|solers|sōlers|tis|||tout à fait industrieux, habile, adroit / [en parl. de choses] ingénieux, intelligent, habile|sollers|sōlers
+GJ|solers|sōlers|ertis [sollus ou solus + ars]|- 1 - habile, adroit, ingénieux, subtil. - 2 - adroit, rusé. - 3 - Cato. fertile.
+Ge|
+FG|solers|solers, etc., cf. soll-.
+Lw|
+YO|
+PO|
+WW||||
+|solox|sŏlox|sŏlōx|15|sŏlōx+ōc||ōcis
+LS|solox|sŏlox|ōcis||adj.|of a coarse staple, coarse, harsh, bristly|solox|0
+GG|solox|sŏlox|ōcis||adj.|adj., brut, rude [en parl. de la laine coupée ou en toison]|solox|
+GJ|solox|sŏlox|ōcis|- 1 - brut, rude, grossier (en parl. de la laine). - 2 - grossier, rustique.
+Ge|solox|solōx|ōcis|filzig - das filzige Wollkleid
+FG|
+Lw|
+YO|
+PO|
+WW||solox, solocis||
+|spegma|spegma|spēgma|15|spēgmă+ăt||ătis
+LS|spegma|spegma|ătis||||spegma|0
+GG|spegma|spegma||||v. psegma.|spegma|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|struthopus|strūthŏpūs|strūthŏpūs|15|strūthŏpŏd||pŏdis
+LS|struthopus|strūthŏpūs|pŏdis||adj.|sparrow-footed, having small feet|struthopus|0
+GG|
+GJ|
+Ge|struthopus|strūthopūs|podis|sperlingsfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subpar|subpăr|sūbpăr|15|sūbpăr||păris
+LS|subpar|subpar|păris||adj.|nearly equal|suppar|(
+GG|subpar|subpăr||||v. supp-.|subpalp-|subpăr-
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suppar|suppār|sūppār|15|sūppăr||păris
+LS|suppar|suppar|păris||adj.|nearly equal|suppar|(
+GG|suppar|suppār|ăris|||à peu près égal / à peu près conforme|suppar|
+GJ|suppar|suppăr|ăris [sub + par]|- 1 - à peu près semblable, à peu près conforme, à peu près égal. - 2 - Apul. convenable, propre.
+Ge|suppar|suppār|paris|fast gleich, ziemlich gleich - ziemlich entsprechend, -angemessen
+FG|suppar|suppar aris (sub par), à peu près égal.
+Lw|suppar|suppar|paris||adj.|nearly equal, nearly contemporary||||suppar
+YO|
+PO|
+WW||suppar, supparis||
+|tardicors|tardĭcors|tārdĭcōrs|15|tārdĭcōrd||cordis
+LS|tardicors|tardĭcors|cordis||adj.|slow-minded, of a dull, heavy disposition, stupid, stolid|tardicors|0
+GG|tardicors|tardĭcors|ordis|||lent [d'esprit]|tardicors|
+GJ|tardicors|tardĭcors|cordis|Aug. lent d'esprit.
+Ge|tardicors|tardicors|cordis|von trägem Gemüte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|terticeps|tertĭceps|tērtĭcēps|15|tērtĭcēps+ĭp||ĭpis
+LS|terticeps|tertĭceps|ĭpis||adj.|the third, the third hill|terticeps|0
+GG|terticeps|tertĭceps|cĭpis|||troisième colline de Rome|terticeps|
+GJ|
+Ge|terticeps|terticeps|cipis|der dritte Gipfel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thelodives|thĕlŏdīves|thĕlŏdīves|15|thĕlŏdīves+ĭt||ĭtis
+LS|
+GG|thelodives|thĕlŏdīves|ĭtis|||dives), qui veut passer pour riche|thelodives|
+GJ|thelodives|thĕlŏdīves|ĭtis|Aug. qui veut faire le riche.
+Ge|thelodives|thelodīves||sich reich stellend, thelohumilis, sich demütig stellend, thelosapiēns, sich für weise ausgebend - sich demütig stellend, thelosapiēns, sich für weise ausgebend - sich für weise ausgebend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tiburs|Tīburs|Tībūrs|15|Tībūrs+ūrt||urtis
+LS|Tiburs|Tīburs|urtis||adj.|-I. of or belonging to Tibur, Tiburtine -II. Subst. n. the Tiburtine territory|Tibur|0
+GG|Tiburs|Tīburs|urtis||adj.|de Tibur|Tiburs|Tīburs
+GJ|
+Ge|
+FG|Tiburs|Tiburs urtis masculin, féminin ou neutre, de Tibur ; in Tiburti, in Tiburte, dans une propriété à Tibur ; -tes ium masculin, habitants de Tibur.
+Lw|Tiburs|Tīburs|urtis||adj.|of Tibur, Tiburtine||||Tiburs
+YO|
+PO|
+WW||||
+|triceps|trīceps|trīcēps|15|trīcĭpĭt||cĭpĭtis
+LS|triceps|trīceps|cĭpĭtis||adj.|having three heads, triple-headed|triceps|0
+GG|triceps|trĭceps|cĭpĭtis|||qui a trois têtes / [fig.] triple|triceps|
+GJ|triceps|triceps|cĭpĭtis|- 1 - qui a trois têtes. - 2 - Varr. triple.
+Ge|triceps|triceps|cipitis|dreiköpfig - dreifältig, dreierlei
+FG|triceps|triceps cipitis (tres caput), qui a trois têtes.
+Lw|triceps|trīceps|cipitis||adj.|with three heads, triple-headed, of three forms||||triceps
+YO|
+PO|
+WW||||
+|trifaux|trĭfaux|trĭfāux|15|trĭfāūx+c||cis
+LS|trifaux|trĭfaux|cis||adj.|having three throats, triple-throated|trifaux|0
+GG|trifaux|trĭfaux|aucis||adj.|adj., de trois gosiers, triple|trifaux|
+GJ|trifaux|trifaux|trifaucis|venant de trois gorges, de trois gosiers.
+Ge|trifaux|trifaux|faucis|dreischlündig
+FG|trifaux|trifaux aucis (tres faux), adjectif, de trois gosiers, triple.
+Lw|trifaux|trifaux|cis||adj.|having three throats, triple-throated||||trifaux
+YO|
+PO|
+WW||trifaux, trifaucis||
+|tuders|Tŭders|Tŭdērs|15|Tŭdērs+ērt||ertis
+LS|Tuders|Tŭders|ertis||adj.|of or belonging to Tuder; as subst., an inhabitant of Tuder|Tuder|0
+GG|Tuders|Tŭders|tis||adj.|de Tuder|Tuder|Tŭders
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|uniceps|ūnĭceps|ūnĭcēps|15|ūnĭcĭpĭt||cĭpĭtis
+LS|uniceps|ūnĭceps|cĭpĭtis||adj.|one-headed|uniceps|0
+GG|uniceps|ūnĭceps|cĭpĭtis|||ayant une seule tête|uniceps|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|utervis|ŭtervīs|ŭtērvīs|15|ŭtērvīs+ū̆trăv||utrăvis
+LS|utervis|ŭtervīs|utrăvis, utrumvis||pron. indef.|which of the two you will, either one of the two, either, of the two|utervis|0
+GG|utervis|ŭtervis|ŭtrăvis, ŭtrumvis|||pron. indéf., celui des deux que tu voudras, n'importe lequel des deux|utervis|
+GJ|utervis|ŭtervis|ŭtrăvis, ŭtrumvis [uter + vis|tu veux] : celui des deux qu'on voudra, n'importe lequel des deux.
+Ge|utervis|utervīs|utra-vīs, utrum-vīs|einer von beiden, es sei, wer es wolle - beide
+FG|utervis|utervis utravis utrumvis, pronom indéfini, celui des deux que tu voudras, n'importe lequel des deux.
+Lw|utervis|uter-vīs|utravīs, utrumvīs|||which you will, either of the two, either at will||||utervis
+YO|
+PO|
+WW||||
+|vesticeps|vestĭceps|vēstĭcēps|15|vēstĭcĭp||cĭpis
+LS|vesticeps|vestĭceps|cĭpis|||bearded, arrived at puberty, manly, virile|vesticeps|0
+GG|vesticeps|vestĭceps|ĭpis|||comme nous dirions « qui a du poil au menton » = qui a atteint l'âge de puberté / [fig.] corrompu|vesticeps|
+GJ|vesticeps|vestĭceps|cĭpis [vestis + capio]|1 - qui a atteint l'âge de puberté. 2 - qui a perdu son innocence, corrompu.
+Ge|vesticeps|vesticeps|cipis|mannbar - für verbuhlt, verdorben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|acharistio|Acharistĭo|Acharīstĭo|15|Acharīstĭŏ+ōn||ōnis
+LS|
+GG|Acharistio|Acharistĭo|ōnis|||titre d'une pièce perdue de Plaute|Acharistio|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|acrivox|Acrivōx|Ā̆crivōx|15|Ā̆crivōc||vōcis
+LS|
+GG|
+GJ|
+Ge|Acrivox|Acrivōx|vōcis|von scharfer Stimme, kreischend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|britto|Britto|Brītto|15|Brīttŏ+ō̆n||ō̆nis
+LS|Britto|Britto|ō̆nis||||Britanni|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cephissias|Cēphissĭas|Cēphīssĭas|15|Cēphīssĭas+ăd||ădis
+LS|Cephissias|Cēphissĭas|ădis||adj.|fem., of Cephisus, the banks of the Attic Cephisus|Cephisus|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cercyon|Cercyōn|Cērcўōn|15|Cērcўōn+on||onis
+LS|
+GG|
+GJ|
+Ge|Cercyon|Cercyōn|onis|cercyonëisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cluvior|cluvior|cluvĭŏr|15|cluvĭŏr+Ŏr||Oris
+LS|
+GG|
+GJ|
+Ge|cluvior|cluvior|Oris|gepriesener
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coeles|coelĕs|cōelĕs|15|cōelĕs+ĭt||ĭtis
+LS|coeles|coelĕs|ĭtis||adj.|heavenly, celestial|coeles|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||coeles, coelitis||
+|cynodus|cynodūs|cynodūs|15|cynodōnt||dontis
+LS|
+GG|
+GJ|
+Ge|cynodus|cynodūs|dontis|hundszähnig, mit Raffzähnen versehen - Hundszunge
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|derbes|Derbes|Dērbes|15|Dērbes+ēt||ētis
+LS|Derbes|Derbes|ētis||||Derbe|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|disgrex|disgrex|dīsgrēx|15|dīsgrēx+ĕg||ĕgis
+LS|
+GG|disgrex|disgrex|ĕgis|||différent, dissemblable|disgregus|disgrex
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|egrex|ēgrex|ēgrēx|15|ēgrēx+ĕg||ĕgis
+LS|
+GG|egrex|ēgrex|ĕgis|||c. egregius|egrex|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|feminamas|fēmĭnamas|fēmĭnamas|15|fēmĭnamas+ăr||aris
+LS|
+GG|
+GJ|feminamas|fēmĭnamas|aris|v. femina.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|leptorhax|leptorhāx|lēptorhāx|15|lēptorhāg||rhāgis
+LS|
+GG|
+GJ|
+Ge|leptorhax|leptorhāx|rhāgis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|multiceps|multiceps|mūlticēps|15|mūlticipĭt||cipitis
+LS|
+GG|
+GJ|
+Ge|multiceps|multiceps|cipitis|vielköpfig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|novenbris|Nŏvenbris|Nŏvēnbris|15|Nŏvēnbr||bris
+LS|
+GG|
+GJ|Novenbris|Nŏvenbris|bris, bre|de novembre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|phaetias|Phăĕtĭăs|Phăĕtĭăs|15|Phăĕtĭăs+ăd||ădis
+LS|
+GG|Phaetias|Phăĕtĭăs|ădis||adj.|adj. f., de Phaéton|Phaethon|-tĭăs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|potnias|Potnĭas|Pōtnĭas|15|Pōtnĭas+ăd||ădis
+LS|Potnias|Potnĭas|ădis||adj.|f., of Potni&oelig;, Potnian|Potniae|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pravicors|prāvĭcors|prāvĭcōrs|15|prāvĭcōrs+d||dis
+LS|pravicors|prāvĭcors|dis||adj.|that has a depraved heart|pravicordius|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||pravicors, pravicordis||
+|privicloes|prīvicloes|prīvī̆clōes|15|priv||privis
+LS|privicloes|prīvicloes|privis id est singulis||||privicloes|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|propos|prōpōs|prōpōs|15|prōpōs+ŏt||ŏtis
+LS|
+GG|propos|prōpōs|ŏtis|||très puissant|propos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quinquipars|quinquĭpars|qụīnqụĭpārs|15|qụīnqụĭpārs+ārt||artis
+LS|
+GG|quinquipars|quinquĭpars|artis||adj.|adj., divisé en cinq parties [pentamètre]|quinquepars|-quĭpars
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subtercus|subtercus|sūbtērcus|15|sūbtērcus+ŭt||ŭtis
+LS|
+GG|subtercus|subtercus|ŭtis||adj.|sous-cutané|subtercus|subtercus
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caeres|Caerēs|Cāerēs|15|Cāerēs+ĭt||ĭtis
+LS|Caeres|Caeres|ĭtis and ētis||adj.|of or pertaining to C&oelig;re, C&oelig;ritic|Caere|0
+GG|Caeres|Caerēs|ētis, (-ĭtis)||adj.|adj., de Céré|Caere|Caerēs
+GJ|Caeres|Caerēs|ĭtis (ētis)|de Céré, cérite (en récompense de leur participation à la guerre des Gaules, les habitants de Céré avaient le droit de cité mais ils ne bénéficiaient pas du droit de vote - civitas sine suffragio).
+Ge|
+FG|Caeres|Caeres etis (-itis) adjectif, de Céré ; -ites itum masculin, habitants de Céré.
+Lw|Caeres|Caeres|itis or ētis||adj.|of Caere, the rolls of imperfect citizenship, to which Romans might be degraded by the censor||||Caeres
+Y§|
+PO|
+WW||||
+|ligur2|Lĭgŭr2|Lĭgŭr|15|Lĭgŭr+ŭr||ŭris
+LS|Ligur|Lĭgur|ŭris||adj.|adj. comm., Ligurian;, subst., a Ligurian|Ligures|and 
+GG|Ligur|Lĭgŭr|ŭris||adj.|adj. m. f., de Ligurie|1 Ligur|Lĭgŭr
+GJ|Ligur|Lĭgŭr|(Lĭgus), ŭris|adj. m. f. Ligurien, Ligurienne.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|pubis|pūbis|pūbis|15|pūbis+ĕr||ĕris
+LS|pubis|pūbis|ĕris||adj.|that is grown up, of ripe age, adult, pubescent.|pubes1|and 
+GG|pubis|pūbis|ĕris|||c. pubes 1|1 pubis|
+GJ|pubis|pūbis|ĕris|c. pubes, eris.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|synnas|Synnăs|Sȳnnăs|15|Sȳnnăs+ăd||ădis
+LS|Synnas|Synnas|ădis||adj.|f., Synnadic|Synnada|0
+GG|Synnas|Synnăs|ădis||adj.|adj. f., de Synnade|Synnada|Synnăs
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|thynias|Thȳnĭăs|Thȳnĭăs|15|Thȳnĭăs+ăd||ădis
+LS|Thynias|Thȳnĭăs|ădis||adj.|f., Thynian; Bithynian|Thyni|0
+GG|Thynias|Thȳnĭăs|ădis||adj.|de Bithynie|Thynia|Thȳnĭăs
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|deinceps2|dĕinceps2|dĕīncēps|15|dĕīncipĭt||deincipitis
+LS|deinceps|dĕinceps|||adj.|following thereafter, next following|deinceps|(dissyl., 
+GG|deinceps|dĕinceps|deincipitis||adj.|adj., qui vient après|2 deinceps|
+GJ|deinceps|dĕinceps|cĭpĭtis (cĭpis), adj.|qui vient après, suivant.
+Ge|deinceps|deinceps|Adi.|darauf folgend - Reihe nacheinander, hintereinander, demnächst nach-, in der Reihe, in der Reihen folge - Adjektivs (nacheinander folgend, demnächst folgend) - hierauf, nachher, alsdann
+FG|
+Lw|
+Y§|
+PO|
+WW||deinceps, deincipis||
+|ion4|Iōn4|Ĭōn|15|Ĭōn+ōn||ōnis
+LS|
+GG|Ion|Ion|ōnis||adj.|ionique [nom d'un pied en métrique]|2 Ion|
+GJ|Ion|Iōn|ōnis, adj.|ionique (en parl. de métrique).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|libs2|Libs2|Lībs|15|Lībs+ĭb||ĭbis
+LS|Libs|Libs|ĭbis||adj.|Libyan; subst., a Libyan;, Ant&aelig;us|Libs|(
+GG|Libs|Libs|Libis|||de Libye|3 Libs|
+GJ|Libs|Libs|Libis|de Libye.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|quies2|quĭēs2|qụĭēs|15|qụĭēs+ēt||ētis
+LS|quies|quĭes|ētis||adj.|quiet, peaceful|quies1|0
+GG|quies|quĭēs|ētis||adj.|adj. = quietus, calme, paisible|2 quies|
+GJ|quies|quĭēs|ētis, adj. (= quietus)|calme, paisible.
+Ge|quies|quiēs|Etis, Adi.|ruhig
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|immisericors=inmisericors|immĭsĕrĭcors|īmmĭsĕrĭcōrs|15|īmmĭsĕrĭcōrs+ōrd||ordis
+LS|immisericors|immĭsĕrĭcors|ordis||adj.|pitiless, merciless, Adv.|immisericors|(
+GG|immisericors|immĭsĕrĭcors|dis|||qui est sans pitié, impitoyable|immisericors|
+GJ|immisericors|immĭsĕrĭcors|cordis|qui est sans pitié, impitoyable.
+Ge|immisericors|immisericors|cordis|unbarmherzig
+FG|immisericors|immisericors dis (in misericors), qui est sans pitié, impitoyable.
+Lw|immisericors|immisericors (in-m-)|ordis||adj.|pitiless, merciless||||immisericors
+YO|
+PO|
+WW||immisericors, immisericordis||
+|irredux=inredux|irrĕdux|īrrĕdūx|15|īrrĕdūx+ŭc||ŭcis
+LS|irredux|irrĕdux|ŭcis||adj.|that does not bring back|irredux|(
+GG|irredux|irrĕdux|ŭcis|||par où l'on ne doit pas revenir|irredux|
+GJ|irredux|irredux|ucis|par où l'on ne peut revenir.
+Ge|irredux|irredux|ducis|nicht zurückführend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|compes2|compĕs2|cōmpĕs|15|cōmpĕs+ĕt||ĕtis
+LS|
+GG|compes|compĕs|ĕtis|||arch., pour compos|2 compes|
+GJ|compes|compĕs|ĕtis, arch.|pour compos.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|exsors=exors|exsors|ēxsōrs|15|ēxsōrsōrt||sortis
+LS|exsors|exsors|sortis||adj.|without lot, who has not cast a lot, who obtains a thing out of course;, that for which a lot has not been cast, chosen, choice.|exsors|(
+GG|exsors|exsors|tis|||qui n'est pas tiré au sort / qui n'a point de part, exempt, exclu, privé / hors ligne, exceptionnel|exsors|
+GJ|exsors|exsors|(exors), ortis [ex + sors]|1 - qui n'est pas tiré au sort. 2 - qui n'a pas de part, exempt, exclu, privé. 3 - hors ligne, exceptionnel.
+Ge|exsors|exsors|sortis|ohne Los - der allgemeinen Verlosung entzogen, dem Lose nicht unterworfen - nicht mitlosend - ohne Anteil - Sache nicht teilhaftig - ausgeschlossen
+FG|exsors|exsors rtis, qui n'est pas tiré au sort ; qui n'a point de part, exempt, exclu, privé.
+Lw|exsors|ex-sors or exors|sortis||adj.|without lot, not assigned by lot||||exsors
+Y§|
+PO|exsors|exsors, exsortis : a
+WW||exsors, exsortis||
+|subcus|subcus|sūbcus|15|sūbcus+ŭt||ŭtis
+LS|
+GG|subcus|subcus|ŭtis|||c. subcutaneus|subcus|
+GJ|subcus|subcus|utis|c. subcutaneus : Gloss. Isid.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inlex2=illex2|inlex2|īnlēx|15|īnlēx+ēg||ēgis
+LS|inlex|inlex|ēgis||adj.|without law, contrary to law, lawless|illex1|(
+GG|inlex|inlex|ēgis|||sans loi, contraire à la loi|1 illex|inl-
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||inlex, inlegis||
+|semimas2|sēmĭmās2|sēmĭmās|15|sēmĭmās+ăr||ăris
+LS|
+GG|semimas|sēmĭmās|ăris||adj.|qui est à moitié mâle et à moitié femelle, androgyne|semimas|
+GJ|semimas|semimas|aris, adj.|qui est moitié mâle et moitié femelle, hermaphrodite, androgyne.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||semimas, semimaris||
+|arabs2|Ā̆rabs2|Ā̆rābs|15|Ā̆rābs+ăb||ăbis
+LS|Arabs|Ā̆rabs|ăbis||adj.|proceeding from Arabia, Arabian|Arabs|0
+GG|Arabs|Arabs|ăbis||adj.|arabe|Arabs|Arabs
+GJ|Arabs|Ărabs|Ărăbis, adj.|arabe.
+Ge|
+FG|Arabs|Arabs abis, adjectif, arabe ; masculin pluriel, Arabes, um, Arabes ; -bus a um, arabe, arabique ; Arabus i masculin, Arabe.
+Lw|Arabs|Arabs|abis||adj.|Arabian.||||Arabs
+YO|
+PO|
+WW||||
+|mas2|mās2|mās|15|măr||măris
+LS|mas|mās|măris||adj.|male, masculine, of the male sex|mas|0
+GG|
+GJ|mas|mas|maris|mâle, de sexe masculin, masculin. viril, énergique.
+Ge|
+FG|
+Lw|mas|mās|maris||adj.|male, masculine, of the male sex||||mas
+YO|
+PO|
+WW||mas, maris||
+|senex2|sĕnex2|sĕnēx|15|sĕn||sĕnis
+LS|senex|sĕnex|sĕnis||adj.|old, aged, advanced in years|senex|0
+GG|senex|sĕnex|sĕnis||adj.|adj., avec compar. senior, senius, vieux|senex|
+GJ|senex|senex|senis (compar. senior)|vieux, âgé, ancien; qui est sur son déclin.
+Ge|senex|senex|senis, Compar. senior, neutr. senius|alt, bejahrt - reif - der Alte - der Greis - unser Alter - die Alte
+FG|senex|senex senis,
+Lw|senex|senex|senis||adj.|old, aged, advanced in years, more mature||||senex
+YO|
+PO|senex|senex, senis : a
+WW||senex, senis||

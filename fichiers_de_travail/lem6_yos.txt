@@ -1,0 +1,590 @@
+|amphibrachys|amphĭbrăchys|āmphĭbrăchys|109|āmphĭbrăch||ўos, m.
+LS|amphibrachys|amphĭbrăchys|ўos|m.||the foot|amphibrachys|0
+GG|amphibrachys|amphĭbrăchys|yos|m.|S.|amphibraque [pied composé d'une longue entre deux brèves]|amphibrachus|amphĭbrăchys
+GJ|amphibrachys|amphĭbrăchys|yos, m.|amphibraque (pied composé d'une longue entre deux brèves).
+Ge|amphibrachys|amphibrachys||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|attys|Attys|Āttys|109|Ātt||ўos, m.
+LS|Attys|Attys|ўos|m.||-I. a young Phrygian shepherd, whom Cybele loved, and made her priest on condition of perpetual chastity; but he broke his vow, became insane, and emasculated himself -II. A son of Hercules and Omphale, father of Tyrrhenus and Lydus, and ancestor of the Lydian kings, who are therefore called|Attys|v. Attis and Atys.
+GG|
+GJ|Attys|Attys|yos, m.|Atys. - 1 - fils d'Hercule et d'Omphale, père de Tyrhenus et de Lydus, ancêtre des rois de Lydie. - 2 - Liv. un roi d'Albe. - 3 - Virg. fondateur de la gens Atia.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cachry|căchry|căchry|109|căchr||ўos, n.
+LS|
+GG|cachry|căchry|yos|n.|S.|graine de romarin / bourgeon hivernal qui pousse sur le sapin, le noyer, le tilleul, le platane / petite amande qu'on trouve dans la graine du pourpier marin|cachry|căchry
+GJ|
+Ge|cachry|cachry|yos, n.|das Blüten- - Samenkätzchen, Samenzäpfchen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cachrys|căchrys|căchrys|109|căchr||ўos, f.
+LS|cachrys|cachrys|ўos|f.||An appendage to the catkin of certain trees in autumn, a cone|cachrys|0
+GG|cachrys|căchrys|yos|f.|S.|graine de romarin / bourgeon hivernal qui pousse sur le sapin, le noyer, le tilleul, le platane / petite amande qu'on trouve dans la graine du pourpier marin|cachry|-chrys
+GJ|cachrys|cachrys|yos, f. qqf. m.|- 1 - bouton à graines (de certains arbres). - 2 - graine de romarin. - 3 - amande (renfermée dans le fruit du fenouil marin).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chrysophrys|chrȳsŏphrys|chrȳsŏphrys|109|chrȳsŏphr||ўos, f.
+LS|chrysophrys|chrȳsophrys|ўos|f.||a sea-fish with a golden spot over each eye|chrysophrys|0
+GG|chrysophrys|chrȳsŏphrys|yos|f.||daurade [poisson]|chrysophrys|
+GJ|chrysophrys|chrysŏphrys|yos, f.|Plin. la dorade.
+Ge|chrysophrys|chrȳsophrys||
+FG|
+Lw|chrysophrys|chrȳsophrȳs|&mdash;|f||a sea-fish with a golden spot over each eye, O.||||chrysophrys
+YO|
+PO|
+WW||||
+|drys|drys|drys|109|dr||ўos, f.
+LS|
+GG|drys|drys|yos|f.||chêne|drys|
+GJ|drys|drys|dryos, f.|chêne (Lebaigue P. 398).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|erinnys|Erinnȳs|Erīnnȳs|109|Erīnn||ўos, f.
+LS|Erinnys|Erinnys|ўos|f.||one of the Furies|Erinys|(or, less correctly, 
+GG|Erinnys|Erinnȳs|yos|f.|S.|Érinnys [une des furies] / furie, fléau / pl., Érinnyes, les Furies|Erinnys|Erinnȳs
+GJ|Erinnys|Erinnys|yos, f. (acc. sing. -yn)|- 1 - Erinye ou Furie (une des Furies). - 2 - furie, fureur, rage, cause de discorde, fléau.
+Ge|
+FG|Erinnys|Erinnys (Erinys), yos, féminin, Erinnys (une des Furies).
+Lw|
+YO|
+PO|
+WW||||
+|gerys|Gĕrўs|Gĕrўs|109|Gĕr||ўos, m.
+LS|
+GG|Gerys|Gĕrўs|yos|m.||v. Gerrhos|Gerys|
+GJ|Gerys|Gĕrys|yos, m.|v. Gerrhos.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|halys|Hălўs|Hălўs|109|Hăl||ўos, m.
+LS|Halys|Hălys|yos|m.||A river in Asia Minor, flowing between Paphlagonia and Cappadocia, Kisil-Irmak, Acc.|Halys|0
+GG|Halys|Hălўs|yos|m.||l'Halys [grand fleuve de l'Asie Mineure] / nom d'homme|Halys|
+GJ|Halys|Hălys|yos, m.|- 1 - l'Halys (fleuve de l'Asie Mineure). - 2 - Halys (nom d'un guerrier).
+Ge|Halys|Halys|yos|der Hof
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hippys|Hippys|Hīppys|109|Hīpp||ўos, m.
+LS|
+GG|Hippys|Hippys|yos|m.||nom d'un peintre|Hippys|
+GJ|Hippys|Hippys|yos, m.|nom d'un peintre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|itys|Ĭtўs|Ĭtўs|109|Ĭt||ўos, m.
+LS|Itys|Ĭtys|Itўos, Itўn or Itўm|m.||Son of Tereus and Progne; he was killed by his mother and served up to his father for food; whereupon he was changed into a pheasant, Progne into a swallow, and Tereus into an owl|Itys|0
+GG|Itys|Itўs|ўŏs|m.||fils de Térée et de Progné, changé, après sa mort, en faisan ou en chardonneret / nom de guerrier|Itys|
+GJ|Itys|Itys|Ityos, m. (acc. - yn)|Itys (fils de Térée et de Progné).
+Ge|itys|itys|yos|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|moly|mōlў|mōlў|109|mōl||ўos, n.
+LS|moly|mōly|ўos|n.||A plant with a white flower and a black root|moly|0
+GG|moly|mōlў|ўos|n.||moly, espèce d'ail [utilisé contre les enchantements] / morion|moly|
+GJ|moly|mōly|yos, n.|1 - moly (espèce d'ail employé en médecine et contre les enchantements). 2 - morelle à fruits noirs.
+Ge|moly|mōly|yos, n.|
+FG|moly|moly, yos, neutre, moly, espèce d'ail (utilisé contre les enchantements).
+Lw|moly|mōly|&mdash;|n||a magic herb, moly||||moly
+YO|
+PO|
+WW||||
+|napy|nāpy|nāpy|109|nāp||ўos, n.
+LS|napy|nāpy|ўŏs|n.||mustard|napy|0
+GG|napy|nāpy|yos|n.||crucifère indéterminée|napy|
+GJ|napy|nāpy|yos, n. (c. sinapi)|sénevé (graine de moutarde)
+Ge|napy|nāpy|pyos, n.|Senf
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ophrys|ŏphrўs|ŏphrўs|109|ŏphr||ўos, f.
+LS|ophrys|ŏphrys|ўos|f.||a plant with two leaves, twiblade, bifoil|ophrys|0
+GG|ophrys|ŏphrўs|ўos|f.||sorte de plante|ophrys|
+GJ|
+Ge|ophrys|ophrȳs|phryos, f.|das Zweiblatt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ostrys|ostrys|ōstrys|109|ōstr||ўos, f.
+LS|ostrys|ostrys|ўos|f.||a tree with hard wood, hornbeam|ostrya|0
+GG|ostrys|ostrys|yos|f.|S.|ostrye [sorte d'arbre semblable au frêne]|ostrya|-trys
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|othrys|Othrўs|Othrўs|109|Othr||ўos, m.
+LS|Othrys|Othrys|ўos|m.||a mountain in Thessaly, Ierako|Othrys|0
+GG|Othrys|Othrўs|ўŏs|m.||l'Othrys [mont de Thessalie]|Othrys|
+GJ|Othrys|Othrys|yos, m.|l'Othrys (montagne de Thessalie.
+Ge|othrys|othrys||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oxys|oxўs|ōxўs|109|ōx||ўos, m.
+LS|oxys|oxys|ўos|m.||Common wood-sorrel|oxys|0
+GG|oxys|oxўs|ўos|m.||espèce d'oseille / sorte de jonc|oxys|
+GJ|oxys|oxys|yos, m.|- 1 - Plin. oxalide commune. - 2 - Plin. sorte de jonc.
+Ge|oxys|oxys||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|platys|plătys|plătys|109|plăt||ўos, m.
+LS|platys|plătys|ўos||adj.|broad|platys|0
+GG|platys|plătys|yos|m.||nom d'un nerf (al. platus)|platys|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|probrachys|prŏbrăchўs|prŏbrăchўs|109|prŏbrăch||ўos, m.
+LS|probrachys|probrăchўs|ўos|m.||a metrical foot, consisting of one short and four long syllables|probrachys|0
+GG|probrachys|prŏbrăchўs||m.||pied composé d'une brève suivie de quatre longues|probrachys|
+GJ|
+Ge|probrachys|probrachys||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|stachys|stăchys|stăchys|109|stăch||ўos, f.
+LS|stachys|stăchys|ўos|f.||a plant, horsemint|stachys|0
+GG|stachys|stăchys|ўos|f.||épiaire [plante]|stachys|
+GJ|stachys|stăchys|yos, f.|Plin. stachyde (plante).
+Ge|stachys|stachys|yos, f.|der Roßpolei
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tribrachys|trĭbrăchўs|trĭbrăchўs|109|trĭbrăch||ўos, m.
+LS|tribrachys|trĭbrăchys|ўos|m.||a poetical foot consisting of three short syllables, a tribrach|tribrachys|0
+GG|tribrachys|trĭbrăchўs|yos|m.|S.|tribraque [pied composé de trois brèves]|tribrachus|trĭbrăchўs
+GJ|
+Ge|tribrachys|tribrachys||der Tribrachys
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ichthys|Ichthўs|Ichthўs|109|Ichth||ўos, m.
+LS|
+GG|Ichthys|Ichthўs|yos|m.||promontoire de l'Élide|Ichthys|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|atthis2|Atthis2|Ātthis|109|Ātth||ўos, m.
+LS|Atthis|Atthis|ўos|m.||a young Phrygian shepherd, whom Cybele loved, and made her priest on condition of perpetual chastity; but he broke his vow, became insane, and emasculated himself|Attis|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|botrys|bō̆trys|bō̆trys|109|bō̆tr||ўos, f.
+LS|botrys|bō̆trys|ўos|f.|||botrys1|0
+GG|botrys|botrys|yos|f.||armoise [plante]|1 botrys|
+GJ|botrys|botrys|yos, f.|armoise (plante).
+Ge|botrys|botrys|tryos, f.|die Weinbeere - Beifuß - das Traubengestirn
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|botrys2|Bō̆trys2|Bō̆trys|109|Bō̆tr||ўos, f.
+LS|Botrys|Bō̆trys|ўos|f.||a town in Ph&oelig;nicia, the village of Batron|Botrys2|0
+GG|Botrys|Botrys||f.||ville de Phénicie|2 Botrys|
+GJ|
+Ge|Botrys|Botrys|yos, f.|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|libys|Lĭbўs|Lĭbўs|109|Lĭb||ўos, m.
+LS|Libys|Lĭbys|ўos|m.||a Libyan|Libya|0
+GG|Libys|Lĭbўs|yos|m.||Libyen, adj., de Libye|2 Libys|
+GJ|Libys|Lĭbys|yos, m.|voir Libya.
+Ge|
+FG|Libys|Libys yos,
+Lw|
+Y§|
+PO|
+WW||||
+|mys|mȳs|mȳs|109|m||ўos, m.
+LS|mys|mys|mўos|m.||a sea-mussel|mys1|0
+GG|mys|mȳs|ўos|m.||huître perlière|1 mys|
+GJ|
+Ge|mys|mȳs|myos|die Miesmuschel
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|mys2|Mȳs2|Mȳs|109|M||ўos, m.
+LS|Mys|Mȳs|Mўos|m.||a famous artist in embossed work|Mys2|0
+GG|Mys|Mȳs|ўos|m.||nom d'un ciseleur|2 Mys|
+GJ|
+Ge|Mys|Mȳs|Myos, m.|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|baris|bāris|bāris|107|bārĭd||idos, f.
+LS|baris|bāris|ĭdos|f.||a small Egyptian row-boat|baris|0
+GG|baris|bāris|ĭdos|f.||barque, toue [dont on se sert sur le Nil]|baris|
+GJ|baris|bāris|ĭdos, f.|barque, toue [dont on se sert sur le Nil].
+Ge|baris|bāris|idos, f.|ein Nachen
+FG|
+Lw|baris|bāris|idos|f||a small row-boat, Pr.||||baris
+YO|
+PO|
+WW||||
+|boebeis|Boebēis|Bōebēis|107|Bōebĭd||idos, f.
+LS|Boebeis|Boebēis||||Lake B&oelig;be&iuml;s, Karla|Boebe|(
+GG|Boebeis|Boebēis|ĭdos|f.|S.|lac de Thessalie|Boebe|Boebēis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cicis|cīcis|cīcis|107|cīcĭd||idos, f.
+LS|
+GG|cicis|cīcis|ĭdos|f.||noix de galle|cicis|
+GJ|cicis|cīcis|ĭdŏs, f.|Plin.-Val. noix de galle.
+Ge|cicis|cīcis|cidos|der Gallapfel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cycneis|Cycnēis|Cȳcnēis|107|Cȳcnēĭd||idos, f.
+LS|
+GG|Cycneis|Cycnēis|ĭdos|f.||Hélène [née d'un cygne]|Cycneis|
+GJ|Cycneis|Cycneis|idos, f.|Hélène (née d'un cygne).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|glaucis|Glaucis|Glāucis|107|Glāucĭd||idos, f.
+LS|
+GG|Glaucis|Glaucis|ĭdos|f.||nom d'une chienne|Glaucis|
+GJ|Glaucis|Glaucis|ĭdos, f.|nom d'une chienne.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hecateis|Hĕcătēis|Hĕcătēis|107|Hĕcătēĭd||idos, f.
+LS|Hecateis|Hĕcătēis|ĭdos|f.|adj.|Hecateian|Hecate|0
+GG|Hecateis|Hĕcătēis|ĭdos|f.|S.|d'Hécate|Hecate|-tēis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|leucophrys|Leucŏphrȳs|Lēucŏphrȳs|109|Lēucŏphr||yos, f.
+LS|
+GG|Leucophrys|Leucŏphrys|yŏs|f.||ancien nom de Ténédos|Leucophrys|
+GJ|
+Ge|Leucophrys|Leucophrȳs|yos, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nepheleis|Nĕphĕlēis|Nĕphĕlēis|107|Nĕphĕlēĭd||idos, f.
+LS|Nepheleis|Nĕphĕlēis|ĭdos|f.||the daughter of Nephele, Helle|Nephele|0
+GG|Nepheleis|Nĕphĕlēis|ĭdos|f.||fille de Néphélé (Hellé)|Nepheleias|Nĕphĕlēis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pittheis|Pitthēis|Pītthēis|107|Pītthēĭd||idos, f.
+LS|Pittheis|Pitthēis|ĭdos|f.||the Pitthe&iuml;d, daughter of Pittheus, &AElig;thra|Pittheus|0
+GG|Pittheis|Pitthēis|ĭdos|f.|S.|de Pitthée,|Pittheus|-thēis
+GJ|Pittheis|Pitthēis|ĭdos, f.|de Pitthée, de Trézène.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|atis|Atis|Atis|107|Atĭd||idos, f.
+LS|
+GG|Atis|Atis|ĭdos|f.|S.|fille d'Athamas [Hellé]|Athamas|-tis
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|homolois|Hŏmŏlōis|Hŏmŏlōis|107|Hŏmŏlōĭd||idos, f.
+LS|Homolois|Hŏmŏlōis|idos||||Homolois|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pityis|pĭtўis|pĭtўis|107|pĭtўĭd||idos, f.
+LS|pityis|pĭtўis|ĭdos|f.||a pine-cone|pityis|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sunias|Sūniăs|Sūnĭăs|107|Sūnĭăd||ados, f.
+LS|
+GG|Sunias|Sūniăs|ădos|f.||de Sunium|Sunias|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|phorcys|Phorcys|Phōrcys|107|Phōrcўd||ўdos, f.
+LS|Phorcys|Phorcys|ўdos|f.||a female descendant of Phorcus|Phorcus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|antistrephon|antistrĕphōn|āntīstrĕphōn|107|āntīstrĕphōnt||ontos, m.
+LS|
+GG|antistrephon|antistrĕphōn|ontos|m.||argument qui peut se retourner|antistrephon|
+GJ|
+Ge|antistrephon|antistrephōn|ontos, m.|die Retorsion
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|melichros|mĕlichrōs|mĕlĭchrōs|107|mĕlĭchrōt||ōtos, m.
+LS|melichros|mĕlichros|ōtos|m.||a precious stone of the color of honey|melichros|0
+GG|melichros|mĕlichrōs||m.|S.|pierre précieuse inconnue|melichros|mĕlichrōs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oenomeli|oenŏmĕli|ōenŏmĕli|107|ōenŏmĕlĭt||ĭtos, n.
+LS|oenomeli|oenŏmĕli|ĭtos||||oenomeli|0
+GG|oenomeli|oenŏmĕli|ĭtos|n.|S.|vin mêlé de miel|oenomeli|oenŏmĕli
+GJ|
+Ge|oenomeli|oenomeli|litos, n.|Weinhonig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monodus|Mŏnŏdūs|Mŏnŏdūs|107|Mŏnŏdōnt||ontos, m.
+LS|Monodus|Mŏnŏdūs|ontos|m.||a son of Prusias, who had only a solid bone instead of teeth, Pyrrhus, king of the Epirot&aelig;, ext.|Monodus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mesomelas|mĕsŏmĕlās|mĕsŏmĕlās|107|mĕsŏmĕlă||ănos, m.
+LS|mesomelas|mĕsŏmĕlas|ănos|f.||a white precious stone with a black stripe|mesomelas|0
+GG|mesomelas|mĕsŏmĕlās|ănos|m.||sorte de pierre précieuse|mesomelas|
+GJ|mesomelas|mĕsŏmĕlas|ănos, m.|(Lebaigue P. 770) mésomélas (une pierre précieuse inconnue).
+Ge|mesomelas|mesomelās|anos, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trachyn|Trāchȳn|Trāchȳn|107|Trāchȳn||ȳnos, f.
+LS|Trachyn|Trāchȳn|ȳnos|f.||a town of Thessaly, on Mount &OElig;ta, where Hercules caused himself to be burned|Trachin|0
+GG|Trachyn|Trāchyn|ynos|||v. Trachin (Τραχύν).|Trachyn|
+GJ|Trachyn|Trachyn||c. Trachin.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|colyx|cŏlyx|cŏlȳx|107|cŏlўc||ўcos, f.
+LS|colyx|cŏlyx|ўcos|f.||a cavern where natron is distilling|colyx|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ema|ema|ĕmă|107|ĕmăt||atos
+LS|
+GG|
+GJ|
+Ge|Ema|Ema|atos|das Blut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mammon|mammon|māmmon|107|māmmon||nos, m.
+LS|mammon|mammon|nos|m.||riches, mammon|mammonas|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|philosarx|phĭlŏsarx|phĭlŏsārx|107|phĭlŏsārc||cos, m.
+LS|
+GG|philosarx|phĭlŏsarx|cos|m.|S.|qui tient à la chair|philosarca|-sarx
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gortyn|Gortȳn|Gōrtȳn|107|Gōrtȳn||ȳnos, f.
+LS|Gortyn|Gortyn|ȳnos|f.||an important and very ancient city of Crete|Gortyna|0
+GG|Gortyn|Gortȳn|ȳnos|||Gortyne [ville de Crète, sur le fleuve Léthé, près de laquelle était le labyrinthe]|Gortyn|Gortȳn
+GJ|Gortyn|Gortyn|ynos, f.|Gortyne (ville de Crète, située près du labyrinthe).
+Ge|
+FG|Gortyn|Gortyn ynos, -na ae ; -nia ae féminin, Gortyne (ville de Crète, sur le fleuve Léthé, près de laquelle était le labyrinthe) ; -niacus a um, et -nis idis féminin, de Gortyne ; -nius a um, de Crète.
+Lw|
+Y§|
+PO|
+WW||||
+|chus|chūs|chūs|107|chŏ||choos, m.
+LS|chus|chūs|ŏos|m.||a measure for liquids|chus|0
+GG|chus|chūs||m.||chus, mesure pour les liquides = un conge|chus|
+GJ|chus|chus|choos, m.|un chus, un conge (mesure pour les liquides).
+Ge|chus|chūs|m.|(χοῦς) = congius
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|melas2|mĕlas2|mĕlas|107|mĕlăn||ănos, m.
+LS|melas|mĕlas|ănos|||a black spot on the skin|melas2|0
+GG|melas|mĕlas|ănos|m.||c. melania 1|1 melas|
+GJ|melas|mĕlas|ănos, m. (c. melania)|Cels. tache noire sur la peau.
+Ge|melas|melās|anos|schwarz
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|ethos|ēthŏs|ēthŏs|108|ēth||ĕos, n.
+LS|ethos|ēthos|ĕos|n.||Manners, morals|ethos|0
+GG|ethos|ēthŏs||n.||moeurs, caractère / morale|ethos|
+GJ|ethos|ēthŏs|n.|- 1 - les moeurs, le caractère. - 2 - Sid. morale.
+Ge|Ethos|Ethos|eos, n.|die Sitte, Moral - Stimmungen und Gefühle
+FG|ethos|ethos, neutre, moeurs, caractère.
+Lw|
+YO|
+PO|
+WW||||
+|glycy|glўcў|glўcў|108|glўc||ĕos, n.
+LS|
+GG|glycy|glўcў|ĕos|n.||raisiné|glycy|
+GJ|glycy|glycy|ĕos, n.|raisiné.
+Ge|glycy|glycy|eos, n.|getrocknete Weintrauben, Rosinen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sory|sōry|sōry|108|sōr||ĕos, n.
+LS|sory|sōry|ĕos|n.||a kind of ore, ink-stone, sory|sory|0
+GG|sory|sōry|ĕos|n.||sory, sulfate de cuivre|sory|
+GJ|
+Ge|sory|sōry|cōs, n.|Atramentstein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|asari|ăsări|ăsări|108|ăsăr||ĕos, n.
+LS|
+GG|asari|ăsări|ĕos|n.||c. asarum|asari|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||

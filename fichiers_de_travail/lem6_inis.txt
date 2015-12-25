@@ -1,0 +1,5180 @@
+|abdumen|abdūmĕn|ābdūmĕn|7|ābdūmĭn||ĭnĭs, n.
+LS|
+GG|abdumen|abdūmen||||abdomen|abdumen|
+GJ|abdumen|abdūmĕn|ĭnĭs, n.|arch. Char. c. abdomen.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|absegmen|absegmen|ābsēgmen|7|ābsēgmĭn||ĭnis, n.
+LS|absegmen|absegmen|ĭnis|n.||a piece, cut off|absegmen|0
+GG|absegmen|absegmen|ĭnis|n.||segment, fragment|absegmen|
+GJ|absegmen|absegmen|ĭnis, n. [seco]|segment, fragment.
+Ge|absegmen|absegmen|minis, n.|ein abgeschnittenes Stück
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|absumedo|absūmēdo|ābsūmēdo|5|ābsūmēdĭn||ĭnis, f.
+LS|absumedo|absūmēdo|ĭnis|f.||a consuming, devouring consumption|absumedo|0
+GG|absumedo|absūmēdo|ĭnis|f.||consommation|absumedo|
+GJ|absumedo|absūmēdo|ĭnis, f.|consommation.
+Ge|absumedo|absūmēdo|inis, f.|das Auszehren
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|acerbitudo|ăcerbĭtūdo|ăcērbĭtūdo|5|ăcērbĭtūdĭn||ĭnis, f.
+LS|acerbitudo|ăcerbĭtūdo|ĭnis|f.|||acerbitudo|0
+GG|acerbitudo|ăcerbĭtūdo|ĭnis|f.||acerbitas|acerbitudo|
+GJ|acerbitudo|ăcerbĭtūdo|ĭnis, f.|c. acerbitas.
+Ge|acerbitudo|acerbitūdo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|acredo|ācrēdo|ācrēdo|5|ācrēdĭn||ĭnis, f.
+LS|acredo|ācrēdo|ĭnis|f.||a sharp, pungent taste|acredo|0
+GG|acredo|ācrēdo|ĭnis|f.||âcreté|acredo|
+GJ|acredo|acrēdo|ĭnis, f.|âcreté.
+Ge|Acredo|Acrēdo|dinis, f.|die Schärfe, der scharfe Geschmack
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|acritudo|ācrĭtūdo|ācrĭtūdo|5|ācrĭtūdĭn||ĭnis, f.
+LS|acritudo|ācrĭtūdo|ĭnis|f.||the quality of, sharpness.|acritudo|0
+GG|acritudo|ācrĭtūdo|ĭnis|f.||aigreur, âpreté / énergie / âprete, rudesse [caractère]|acritudo|
+GJ|acritudo|acrĭtūdo|ĭnis, f.|- 1 - aigreur, âpreté. - 2 - énergie. - 3 - âpreté, rudesse [caractère].
+Ge|Acritudo|Acritūdo|dinis, f.|die Schärfe - die Energie
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adaugmen|ădaugmĕn|ădāugmĕn|7|ădāugmĭn||ĭnĭs, n.
+LS|
+GG|adaugmen|ădaugmĕn|ĭnis|n.||accroissement, augmentation|adaugmen|
+GJ|adaugmen|ădaugmĕn|ĭnĭs, n.|Lucr. accroissement, augmentation.
+Ge|adaugmen|adaugmen|minis, n.|das Wachstum - die Zunahme
+FG|adaugmen|adaugmen inis neutre, accroissement, augmentation.
+Lw|
+YO|
+PO|
+WW||||
+|adhortamen|ădhortāmĕn|ădhōrtāmĕn|7|ădhōrtāmĭn||ĭnĭs, n.
+LS|adhortamen|ădhortāmen|ĭnis|n.||a means of exhortation, an exhortation|adhortamen|0
+GG|adhortamen|ădhortāmĕn|ĭnis|n.||c. adhortatio|adhortamen|
+GJ|adhortamen|ădhortāmĕn|ĭnĭs, n. (c. adhortatio)|exhortation.
+Ge|adhortamen|adhortāmen|minis, n.|ein Aufmunterungsgrund
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adjuvamen|adjŭvāmĕn|ādjŭvāmĕn|7|ādjŭvāmĭn||ĭnis, n.
+LS|
+GG|adjuvamen|adjŭvāmĕn|ĭnis|n.|S.|aide, secours|adjuvamen|adjŭvāmĕn
+GJ|adjuvamen|adjŭvāmen|ĭnis, n.|secours, assistance.
+Ge|adiuvamen|adiuvāmen|minis, n.|die Unterstützung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aequamen|aequāmĕn|āeqụāmĕn|7|āeqụāmĭn||ĭnĭs, n.
+LS|aequamen|aequāmen|ĭnis|n.||an instrument for levelling, smoothing|aequamen|0
+GG|aequamen|aequāmĕn|ĭnis|n.||niveau, instrument pour niveler|aequamen|
+GJ|aequamen|aequāmĕn|ĭnĭs, n.|Varr. niveau, équerre.
+Ge|aequamen|aequāmen|minis, n.|ein Werkzeug zum Ausgleichen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aeramen|aerāmen|āerāmen|7|āerāmĭn||ĭnĭs, n.
+LS|aeramen|aerāmen|inis|n.||aes, copper, bronze;|aeramen|0
+GG|aeramen|aerāmen|ĭnis|n.||airain, bronze / cymbale|aeramen|
+GJ|aeramen|aerāmĕn|ĭnĭs, n. [aer]|- 1 - airain, bronze. - 2 - cymbale.
+Ge|aeramen|aerāmen|inis, n.|das Erz - ehernes Becken, Zimbel - ehernes Geschirr
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aerugo|aerūgo|āerūgo|5|āerūgĭn||ĭnis, f.
+LS|aerugo|aerūgo|ĭnis|f.||Rust of copper|aerugo|0
+GG|aerugo|aerūgo|ĭnis|f.||rouille du cuivre, vert-de-gris / [fig.] fiel, envie / rouille (cupidité) qui ronge le coeur|aerugo|
+GJ|aerugo|aerūgo|ĭnis, f.|- 1 - vert-de-gris, couleur verte. - 2 - envie, médisance, venin. - 3 - cupidité, âpreté au gain.
+Ge|aerugo|aerūgo|ginis, f.|Kupferrost, Grünspan - Grünspan - Mißgunst, Scheelsucht - Habsucht, Gewinnsucht, Eigennutz
+FG|aerugo|aerugo inis féminin (aes), rouille du cuivre, vert-de-gris ; (figuré) fiel, envie ; rouille (cupidité) qui ronge le coeur.
+Lw|aerugo|aerūgō|inis|f||rust of copper, verdigris, Rusty gold, a corroding passion, envy, avarice||||aerugo
+YO|
+PO|aerugo|aeru_go_, aeru_ginis : f
+WW||||
+|agnomen|agnōmen|āgnōmen|7|āgnōmĭn||ĭnĭs, n.
+LS|agnomen|agnōmen|ĭnis|n.||a surname, cognomen|agnomen|(
+GG|agnomen|agnōmen|ĭnis|n.||surnom|agnomen|
+GJ|agnomen|agnōmĕn|ĭnĭs, n.|surnom.
+Ge|agnomen|agnōmen|minis, n.|der Beiname
+FG|agnomen|agnomen inis neutre, surnom ajouté : praenomen, nomen, cognomen, agnomen, ut Publius Cornelius Scipio Africanus, (on distingue) le prénom, le nom, le surnom qui fait corps avec le nom, le surnom qui s'y ajoute, exemple, Publius Cornélius Scipion l'Africain.
+Lw|
+YO|
+PO|agnomen|agno_men, agno_minis : n
+WW||||
+|albamen|albāmĕn|ālbāmĕn|7|ālbāmĭn||ĭnĭs, n.
+LS|
+GG|albamen|albāmen|ĭnis|n.||partie blanche, blanc|albamen|
+GJ|albamen|albamĕn|ĭnĭs, n.|partie blanche, le blanc (de l'oeuf...)
+Ge|albamen|albāmen|inis, n.|das Weiße
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|albedo|albēdo|ālbēdo|5|ālbēdĭn||ĭnis, f.
+LS|albedo|albēdo|ĭnis|f.||white color, whiteness;|albedo|0
+GG|albedo|albēdo|inis|f.||blancheur|albedo|
+GJ|albedo|albedo|ĭnis, f.|blancheur.
+Ge|albedo|albēdo|dinis, f.|die weiße Farbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|albitudo|albĭtūdo|ālbĭtūdo|5|ālbĭtūdĭn||ĭnis, f.
+LS|albitudo|albĭtūdo|ĭnis|f.||white color, whiteness|albitudo|0
+GG|albitudo|albĭtūdo|ĭnis|f.||blancheur|albitudo|
+GJ|
+Ge|albitudo|albitūdo|inis, f.|die Weiße
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|albugo|albūgo|ālbūgo|5|ālbūgĭn||ĭnis, f.
+LS|albugo|albūgo|ĭnis|f.||A white spot, a disease of the eye; film, albugo|albugo|0
+GG|albugo|albūgo|ĭnis|f.||taie blanche sur l'oeil / squames sur la tête|albugo|
+GJ|albugo|albugo|ĭnis, f.|- 1 - tache blanche de l'oeil. - 2 - squames sur la tête, pellicules.
+Ge|albugo|albūgo|inis, f.|das Weiße - der weiße Fleck
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|albumen|albūmen|ālbūmen|7|ālbūmĭn||ĭnĭs, n.
+LS|albumen|albūmen|ĭnis|n.||the white of an egg, albumen|albumen|0
+GG|albumen|albūmen|ĭnis|n.|S.|blanc d'oeuf|albumen|albūmen
+GJ|albumen|albumĕn|ĭnĭs, n.|blanc d'oeuf.
+Ge|albumen|albūmen|inis, n.|das Weiße
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|alcedo|alcēdo|ālcēdo|5|ālcēdĭn||ĭnis, f.
+LS|alcedo|alcēdo|ĭnis||||alcedo|(
+GG|alcedo|alcēdo|ĭnis|f.||alcyon|alcedo|
+GJ|alcedo|alcēdo|ĭnis, f. (= alcyon)|alcyon (oiseau de mer).
+Ge|alcedo|alcēdo|inis, f.|der Eisvogel - die stille, sturmfreie Zeit - Windstille = Ruhe, tiefe Stille
+FG|alcedo|alcedo inis féminin, alcyon.
+Lw|
+YO|
+PO|alcedo|alce_do_, alce_dinis : f
+WW||||
+|aletudo|ălĕtūdo|ălĕtūdo|5|ălĕtūdĭn||ĭnis, f.
+LS|aletudo|ălĕtūdo|ĭnis|f.||fatness|aletudo|0
+GG|aletudo|ălĕtūdo|ĭnis|f.||embonpoint|aletudo|
+GJ|aletudo|aletūdo|ĭnis, f.|Fest. embonpoint.
+Ge|aletudo|aletūdo|inis, f.|die Feistigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|alitudo|ălĭtūdo|ălĭtūdo|5|ălĭtūdĭn||ĭnis, f.
+LS|alitudo|ălĭtūdo|ĭnis|f.||nourishment.|alitudo|0
+GG|alitudo|ălĭtūdo|ĭnis|f.||nourriture|alitudo|
+GJ|alitudo|ălĭtūdo|ĭnis, f.|Gloss. nourriture.
+Ge|alitudo|alitūdo|inis, f.|die Nährung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|alumen|ălūmĕn|ălūmĕn|7|ălūmĭn||ĭnĭs, n.
+LS|alumen|ălūmen|ĭnis|n.||alum|alumen|0
+GG|alumen|ălūmĕn|ĭnis|n.||alun|alumen|
+GJ|alumen|alumĕn|ĭnĭs, n.|alun (espèce de sel).
+Ge|alumen|alūmen|minis, n.|der Alaun
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ambago|ambāgo|āmbāgo|5|āmbāgĭn||ĭnis, f.
+LS|ambago|ambāgo|ĭnis|f.|||ambago|0
+GG|ambago|ambāgo|ĭnis|f.||et ago), ambiguïté, caractère énigmatique|ambago|
+GJ|ambago|ambago|ĭnis, f. |c. ambages.
+Ge|ambago|ambāgo|ginis, f.|Rätselhaftigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ambitudo|ambĭtūdo|āmbĭtūdo|5|āmbĭtūdĭn||ĭnis, f.
+LS|ambitudo|ambĭtūdo|ĭnis|f.||period of revolution|ambitudo|0
+GG|ambitudo|ambĭtūdo|ĭnis|f.||circuit|ambitudo|
+GJ|ambitudo|ambĭtūdo|ĭnis, f.|circuit, révolution.
+Ge|ambitudo|ambitūdo|dinis, f.|der Umlauf
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amicimen|ămĭcīmen|ămĭcīmen|7|ămĭcīmĭn||ĭnĭs, n.
+LS|amicimen|ămĭcīmen|ĭnis|n.||a garment|amicimen|0
+GG|amicimen|ămĭcīmen|ĭnis|n.||c. amictus|amicimen|
+GJ|amicimen|amicimĕn|ĭnĭs, n.|vêtement.
+Ge|amicimen|amicīmen|inis, n.|der Umwurf - das Gewand
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ancorago|ancŏrāgo|āncŏrāgo|5|āncŏrāgĭn||ĭnis, m.
+LS|ancorago|ancŏrāgo|ĭnis|m.||a fish in the Rhine|ancorago|0
+GG|ancorago|ancŏrāgo|ĭnis|f.||poisson du Rhin|ancorago|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|angitudo|angĭtūdo|āngĭtūdo|5|āngĭtūdĭn||ĭnis, f.
+LS|
+GG|angitudo|angĭtūdo|ĭnis|f.||angoisse, chagrin|angitudo|
+GJ|
+Ge|angitudo|angitūdo|inis, m.|die Ängstlichkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anguen|anguĕn|āngụĕn|7|āngụĭn||ĭnĭs, n.
+LS|anguen|anguen|like sanguen for sanguis|m.||Abl., a serpent, a snake|anguis|v. anguis 
+GG|anguen|anguĕn|ĭnis|n.||c. anguis;|anguen|
+GJ|anguen|anguĕn|ĭnĭs, n.|c. anguis.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anxietudo|anxĭĕtūdo|ānxĭĕtūdo|5|ānxĭĕtūdĭn||ĭnis, f.
+LS|anxietudo|anxĭĕtūdo|ĭnis|f.||anxiety, trouble, anguish|anxietudo|v. anxitudo.
+GG|anxietudo|anxĭĕtūdo|ĭnis|f.||c. anxietas|anxietudo|
+GJ|anxietudo|anxĭĕtūdo|ĭnis, f. (arch.)|c. anxietas.
+Ge|anxietudo|anxietūdo|#NOM ?|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anxitudo|anxĭtūdo|ānxĭtūdo|5|ānxĭtūdĭn||ĭnis, f.
+LS|anxitudo|anxĭtūdo|ĭnis|f.|||anxitudo|0
+GG|anxitudo|anxĭtūdo|ĭnis|||c. anxietas|anxitudo|
+GJ|anxitudo|anxitūdo|ĭnis, f. (arch.)|c. anxietas.
+Ge|anxitudo|anxitūdo|inis, f.|die Ängstlichkeit, Angst
+FG|anxitudo|anxitudo inis, cf. anxietas.
+Lw|anxitudo|ānxitūdō|dinis|f||trouble, distress||||anxitudo
+YO|
+PO|
+WW||||
+|aptitudo|aptĭtūdo|āptĭtūdo|5|āptĭtūdĭn||ĭnis, f.
+LS|
+GG|aptitudo|aptĭtūdo|ĭnis|f.||propriété, aptitude|aptitudo|
+GJ|aptitudo|aptitūdo|ĭnis, f.|Boet. propriété, aptitude, convenance.
+Ge|aptitudo|aptitūdo|inis, f.|die Brauchbarkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|arcumen|arcūmen|ārcūmen|7|ārcūmĭn||ĭnis, n.
+LS|
+GG|arcumen|arcūmen|ĭnis|n.||iris|arcumen|
+GJ|arcumen|arcūmen|ĭnis, n.|Isid. iris.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aritudo|ārĭtūdō|ārĭtūdō|5|ārĭtūdĭn||ĭnis, f.
+LS|aritudo|ārĭtūdo|ĭnis|f.||dryness, aridity, drought|aritudo|0
+GG|aritudo|ārĭtūdō|ĭnis|f.||aridité, sécheresse|aritudo|
+GJ|aritudo|aritūdo|ĭnis, f.|aridité, sécheresse.
+Ge|Aritudo|Aritūdo|dinis, f.|die Trockenheit, Dürre
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|asperitudo|aspĕrĭtūdo|āspĕrĭtūdo|5|āspĕrĭtūdĭn||ĭnis, f.
+LS|asperitudo|asperĭtūdo|ĭnis|f.||roughness|asperitudo|v. aspritudo.
+GG|asperitudo|aspĕrĭtūdo||||v. aspritudo|asperitudo|
+GJ|asperitudo|aspĕrĭtūdo|ĭnis, f. (= aspritudo)|âpreté, dureté.
+Ge|asperitudo|asperitūdo|inis, f.|die Rauheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|asperugo|aspĕrūgo|āspĕrūgo|5|āspĕrūgĭn||ĭnis, f.
+LS|asperugo|aspĕrūgo|ĭnis|f.||a plant with prickly leaves|asperugo|0
+GG|asperugo|aspĕrūgo|ĭnis|f.||aparine ou râpette [plante]|asperugo|
+GJ|asperugo|aspĕrūgo|ĭnis, f. [asper]|aparine ou râpette (plante).
+Ge|asperugo|asperūgo|ginis, f.|großes Klebekraut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aspredo|asprēdo|āsprēdo|5|āsprēdĭn||ĭnis, f.
+LS|aspredo|asprēdo|ĭnis|f.||roughness;|aspredo|0
+GG|aspredo|asprēdo|ĭnis|f.||c. asperitas|aspredo|
+GJ|aspredo|asprēdo|ĭnis, f.|c. asperitas.
+Ge|aspredo|asprēdo|dinis, f.|die Rauheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aspritudo|asprĭtūdo|āsprĭtūdo|5|āsprĭtūdĭn||ĭnis, f.
+LS|aspritudo|asprĭtūdo|ĭnis|f.||roughness|aspritudo|(
+GG|aspritudo|asprĭtūdo|ĭnis|f.||âpreté, dureté|aspritudo|
+GJ|aspritudo|asprĭtūdo|ĭnis, f.|âpreté, dureté.
+Ge|aspritudo|aspritūdo|dinis, f.|die Rauheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|astago|astăgo|āstăgo|5|āstăgĭn||ĭnis, f.
+LS|
+GG|astago|astăgo|ĭnis|f.||c. astacus|astago|
+GJ|astago|astago|ĭnis, f.|cancre, écrevisse de mer.
+Ge|astago|astago|ginis, f. = astacus|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|atritudo|ātrĭtūdo|ātrĭtūdo|5|ātrĭtūdĭn||ĭnis, f.
+LS|
+GG|atritudo|ātrĭtūdo|ĭnis|f.||c. le préc.|atritudo|
+GJ|atritudo|ātrĭtūdo|ĭnis, f.|c. le préc.
+Ge|Atritudo|Atritūdo|dinis, f.|die Schwärze
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aucupiamen|aucŭpiāmĕn|āucŭpĭāmĕn|7|āucŭpĭāmĭn||ĭnis, n.
+LS|
+GG|aucupiamen|aucŭpiāmĕn|ĭnis|n.||c. aucupium|aucupiamen|
+GJ|
+Ge|aucupiamen|aucupiāmen||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|augmen|augmĕn|āugmĕn|7|āugmĭn||ĭnĭs, n.
+LS|augmen|augmen|ĭnis|n.||an increase, enlargement, augmentation, growth|augmen|0
+GG|augmen|augmĕn|ĭnis|n.||augmentation / c. augmentum § 2|augmen|
+GJ|augmen|augmĕn|ĭnĭs, n. [augeo]|- 1 - Lucr. augmentation, accroissement. - 2 - Arn. morceau de la victime dont l'offrande était faite à part.
+Ge|augmen|augmen|minis, n.|die Vermehrung - das Wachstum - der Zuwachs
+FG|augmen|augmen inis neutre (augeo), augmentation.
+Lw|
+YO|
+PO|augmen|augmen, augminis : n
+WW||||
+|aurugo|aurūgo|āurūgo|5|āurūgĭn||ĭnis, f.
+LS|aurugo|aurūgo|ĭnis|||f|aurugo|0
+GG|aurugo|aurūgo|ĭnis|f.|S.|jaunisse|aurugo|aurūgo
+GJ|aurugo|aurūgo|(aurīgo), ĭnis, f.|1 - jaunisse. 2 - nielle.
+Ge|aurugo|aurūgo|inis, f.|die Gelbsucht - der Brand - des Getreides
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bellitudo|bellĭtūdo|bēllĭtūdo|5|bēllĭtūdĭn||ĭnis, f.
+LS|bellitudo|bellĭtūdo|ĭnis|f.||beauty, loveliness|bellitudo|0
+GG|bellitudo|bellĭtūdo|ĭnis|f.||beauté, grâce|bellitudo|
+GJ|bellitudo|bellĭtūdo|ĭnis, f. [bellus]|beauté, grâce.
+Ge|bellitudo|bellitūdo|inis, f.|die Nettigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bitumen|bĭtūmĕn|bĭtūmĕn|7|bĭtūmĭn||ĭnĭs, n.
+LS|bitumen|bĭtūmen|ĭnis|n.||bitumen|bitumen|0
+GG|bitumen|bĭtūmĕn|ĭnis|n.||bitume|bitumen|
+GJ|bitumen|bitumĕn|ĭnĭs, n.|bitume.
+Ge|bitumen|bitūmen|inis, n.|das Erdharz, Erdpech, Judenpech - der Bergteer
+FG|bitumen|bitumen inis neutre, bitume.
+Lw|bitumen|bitūmen|inis|n||mineral pitch, bitumen:||||bitumen
+YO|
+PO|bitumen|bitu_men, bitu_minis : n
+WW||||
+|caecitudo|caecĭtūdo|cāecĭtūdo|5|cāecĭtūdĭn||ĭnis, f.
+LS|caecitudo|caecĭtūdo|ĭnis|f.||blindness|caecitudo|0
+GG|caecitudo|caecĭtūdo||f.||c. caecitas|caecitudo|
+GJ|caecitudo|caecitūdo|ĭnis, f.|- 1 - cécité. - 2 - aveuglement, obscurité.
+Ge|caecitudo|caecitūdo|inis, f.|die Blindheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calceamen|calcĕāmĕn|cālcĕāmĕn|7|cālcĕāmĭn||ĭnis, n.
+LS|calceamen|calcĕāmen|ĭnis|n.||a shoe|calceamen|(
+GG|calceamen|calcĕāmĕn|ĭnis|n.|S.|chaussure, soulier|calceamen|calcĕāmĕn
+GJ|calceamen|calceamen|inis, n.|chaussure, soulier.
+Ge|calceamen|calceāmen|minis, n.|der Schuh
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calciamen|calcĭāmĕn|cālcĭāmĕn|7|cālcĭāmĭn||ĭnis, n.
+LS|calciamen|calcĭāmen|ĭnis|n.||a shoe|calceamen|(
+GG|calciamen|calcĭāmĕn|ĭnis|n.|S.|chaussure, soulier|calceamen|-cĭāmĕn
+GJ|calciamen|calciamen|inis, n.|chaussure, soulier.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|canitudo|cānĭtūdo|cānĭtūdo|5|cānĭtūdĭn||ĭnis, f.
+LS|canitudo|cānĭtūdo|ĭnis|f.||a gray color, hoariness, Absol.|canitudo|0
+GG|canitudo|cānĭtūdo|ĭnis|f.||c. canities ; Pl. d.|canitudo|
+GJ|canitudo|cānĭtūdo|ĭnis, f.|c. canities.
+Ge|canitudo|cānitūdo|inis, f.|die (weiß)graue Farbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|capillago|căpillāgo|căpīllāgo|5|căpīllāgĭn||ĭnis, f.
+LS|capillago|căpillāgo|ĭnis|f.||the hair|capillago|0
+GG|capillago|căpillāgo|ĭnis|f.||chevelure|capillago|
+GJ|capillago|capillago|ĭnis, f.|chevelure.
+Ge|capillago|capillāgo|inis, f.|der Haarwuchs
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caprago|căprāgo|căprāgo|5|căprāgĭn||ĭnis, f.
+LS|caprago|căprāgo|ĭnis|f.||a plant, also called|caprago|0
+GG|caprago|caprāgo|ĭnis|f.||espèce d'euphorbe|caprago|
+GJ|caprago|caprago|ĭnis, f.|laitue sauvage.
+Ge|caprago|caprāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|capsilago|capsĭlāgo|cāpsĭlāgo|5|cāpsĭlāgĭn||ĭnis, f.
+LS|
+GG|capsilago|capsĭlāgo|ĭnis|f.||sorte de jusquiame|capsilago|
+GJ|
+Ge|capsilago|capsilāgo|inis, f.|Bilsenkraut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|capudo|căpūdo|căpūdo|5|căpūdĭn||ĭnis, f.
+LS|capudo|căpūdo|ĭnis|f.||a bowl, cup used in sacrifices|capedo|(
+GG|capudo|căpūdo|ĭnis|f.||vase pour les sacrifices, cruche|capudo|
+GJ|capudo|căpudo|inis, f.|cruche à anse.
+Ge|
+FG|capudo|capudo inis féminin, vase pour les sacrifices, crche.
+Lw|capudo|capūdō|inis, see capēdō.|||||||capudo
+YO|
+PO|
+WW||||
+|carrago|carrāgo|cārrāgo|5|cārrāgĭn||ĭnis, f.
+LS|carrago|carrāgo|ĭnis|f.||a fortification, barricade made of wagons|carrago|0
+GG|carrago|carrāgo|ĭnis|f.||barricade formée avec des fourgons / convoi de fourgons|carrago|
+GJ|carrago|carrago|ĭnis, f.|fortification faite avec des chariots.
+Ge|carrago|carrāgo|inis, f.|die Wagenburg
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cartilago|cartĭlāgo|cārtĭlāgo|5|cārtĭlāgĭn||ĭnis, f.
+LS|cartilago|cartĭlāgo|ĭnis|f.||cartilage, gristle;|cartilago|0
+GG|cartilago|cartĭlāgo|ĭnis|f.||cartilage / pulpe, chair des fruits|cartilago|
+GJ|cartilago|cartilago|ĭnis, f.|- 1 - cartilage. - 2 - pulpe (des fruits).
+Ge|cartilago|cartilāgo|inis, f.|der Knorpel
+FG|cartilago|cartilago inis féminin, cartilage ; pulpe, chair des fruits.
+Lw|
+YO|
+PO|
+WW||||
+|castitudo|castĭtūdo|cāstĭtūdo|5|cāstĭtūdĭn||ĭnis, f.
+LS|castitudo|castĭtūdo|ĭnis|f.||moral purity|castitudo|0
+GG|castitudo|castĭtūdo|ĭnis|f.||c. castitas|castitudo|
+GJ|castitudo|castĭtūdo|ĭnis f.|c. castitas.
+Ge|castitudo|castitūdo|inis, f.|moralische Reinheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|catillamen|cătillāmen|cătīllāmen|7|cătīllāmĭn||ĭnĭs, n.
+LS|catillamen|cătillāmen|ĭnis|n.||junket, sweetmeat|catillamen|0
+GG|catillamen|cătillāmen|inis|n.||mets friand|catillamen|
+GJ|catillamen|catillamĕn|ĭnĭs, n.|un mets friand.
+Ge|catillamen|catīllāmen|inis, n.|der Leckerbissen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cavamen|căvāmĕn|căvāmĕn|7|căvāmĭn||ĭnĭs, n.
+LS|cavamen|căvāmen|ĭnis|n.||A hollowing out|cavamen|0
+GG|cavamen|căvāmĕn|ĭnis|n.||excavation, grotte|cavamen|
+GJ|cavamen|căvāmĕn|ĭnĭs, n.|Sol. cavité, grotte.
+Ge|cavamen|cavāmen|inis, n.|die Höhlung - die Höhle
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|celeritudo|cĕlĕrĭtūdo|cĕlĕrĭtūdo|5|cĕlĕrĭtūdĭn||ĭnis, f.
+LS|celeritudo|cĕlĕrĭtūdo|ĭnis|f.||swiftness|celeritudo|0
+GG|celeritudo|cĕlĕrĭtūdo|ĭnis|f.||vitesse|celeritudo|
+GJ|celeritudo|cĕlĕrĭtūdo|ĭnis, f. [celer]|vitesse.
+Ge|celeritudo|celeritūdo|inis, f.|die Schnelligkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|celsitudo|celsĭtūdo|cēlsĭtūdo|5|cēlsĭtūdĭn||ĭnis, f.
+LS|celsitudo|celsĭtūdo|ĭnis|f.||A lofty carriage of the body|celsitudo|0
+GG|celsitudo|celsĭtūdo|ĭnis|f.||élévation, hauteur / [fig.] altesse, grandeur [titre honorifique]|celsitudo|
+GJ|celsitudo|celsĭtūdo|ĭnis, f. [celsus]|1 - élévation, hauteur, taille élevée. 2 - Altesse, Grandeur (titre honorifique qu'on donnait au préfet du prétoire et à d'autres dignitaires).
+Ge|celsitudo|celsitūdo|inis, f.|die Hoheit, Höhe - die hohe, stattliche Haltung - die Höhe - die Höhe - der hohe Berg - Höhe, hoher Standpunkt - unser Hoheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|certitudo|certĭtūdo|cērtĭtūdo|5|cērtĭtūdĭn||ĭnis, f.
+LS|
+GG|certitudo|certĭtūdo|ĭnis|f.||certitude|certitudo|
+GJ|certitudo|certĭtūdo|ĭnis, f. [certus]|Eccl. certitude.
+Ge|certitudo|certitūdo|inis, f.|die Gewißheit - mit Gewißheit, gewiß, sicher - ich weiß ganz gewiß, ich bin fest überzeugt, ohne allen Zweifel - kämpfen, streiten - streiten - Gericht streiten, debattieren, verhandeln - wettkämpfen - wetteifern - tun wetteifern, ernstlich streben, -sich bemühen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chalasticamen|chălastĭcāmĕn|chălāstĭcāmĕn|7|chălāstĭcāmĭn||ĭnĭs, n.
+LS|chalasticamen|chălastĭcāmen|ĭnis|n.||an alleviating remedy|chalasticamen|0
+GG|chalasticamen|chălastĭcāmĕn|ĭnis|n.||remède émollient, lénitif|chalasticamen|
+GJ|chalasticamen|chălastĭcāmĕn|ĭnĭs, n.|remède émollient, lénitif.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chrysolago|chrȳsŏlāgŏ|chrȳsŏlāgŏ|5|chrȳsŏlāgĭn||ĭnis, f.
+LS|
+GG|chrysolago|chrȳsŏlāgŏ|ĭnis|f.||arroche [plante]|chrysolago|
+GJ|chrysolago|chrysŏlāgo|ĭnis, f.|arroche (plante).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cicuticen|cĭcūtĭcĕn|cĭcūtĭcĕn|5|cĭcūtĭcĭn||ĭnĭs, m.
+LS|cicuticen|cĭcūtĭcen|ĭnis|m.||a player upon a reed-pipe|cicuticen|0
+GG|cicuticen|cĭcūtĭcĕn|ĭnis|m.||joueur de chalumeau|cicuticen|
+GJ|cicuticen|cĭcūtĭcĕn|ĭnĭs, m.|Sid. joueur de chalumeau.
+Ge|cicuticen|cicūticen|cinis, m.|der Rohrpfeifenbläser
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circen|circĕn|cīrcĕn|7|cīrcĭn||ĭnis, n.
+LS|circen|circen|ĭnis|n.||a circle, a circular course, a year|circen|0
+GG|circen|circĕn|ĭnis|n.||cercle [du soleil], l'année|circen|
+GJ|
+Ge|circen|circen|inis, n.|der Kreis, Kreislauf
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cirritudo|cirrĭtūdo|cīrrĭtūdo|5|cīrrĭtūdĭn||ĭnis, f.
+LS|
+GG|cirritudo|cirrĭtūdo|ĭnis|f.||arrangement des cheveux en boucle|cirritudo|
+GJ|
+Ge|cirritudo|cirritūdo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|citharicen|cĭthărĭcĕn|cĭthărĭcĕn|5|cĭthărĭcĭn||ĭnĭs, m.
+LS|citharicen|cĭthărĭcen|cĭnis|m.||the player on the cithara|citharicen|0
+GG|citharicen|cĭthărĭcĕn|ĭnis|m.||joueur de cithare|citharicen|
+GJ|citharicen|cĭthărĭcĕn|ĭnĭs, m. [cithara + cano]|joueur de cithare, cithariste.
+Ge|citharicen|citharicen|cinis, m.|der Zitherspieler
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|citrago|cī̆trāgo|cī̆trāgo|5|cī̆trāgĭn||ĭnis, f.
+LS|citrago|cī̆trāgo|ĭnis|f.||the citrus-plant, lemon-balm|citrago|(also 
+GG|citrago|cĭtrāgo||||v. citreago.|citrago|
+GJ|citrago|cĭtrāgo||c. citreago.
+Ge|citrago|citrāgo|inis, f.|Zitronenkraut, Melisse
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|claredo|clārēdo|clārēdo|5|clārēdĭn||ĭnis, f.
+LS|
+GG|claredo|clārēdo|ĭnis|f.||c. claritudo|claredo|
+GJ|claredo|clārēdo|ĭnis, f.|c. claritudo.
+Ge|claredo|clārēdo|dinis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|claudigo|claudīgo|clāudīgo|5|clāudīgĭn||ĭnis, f.
+LS|claudigo|claudīgo|ĭnis|f.||a lameness, limping|claudigo|0
+GG|claudigo|claudīgo|ĭnis|f.||c. clauditas.|claudigo|
+GJ|claudigo|claudigo|ĭnis, f.|claudication.
+Ge|claudigo|claudīgo|inis, f.|das Hinken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|clinamen|clīnāmen|clīnāmen|7|clīnāmĭn||ĭnĭs, n.
+LS|clinamen|clīnāmen|ĭnis|n.||the inclination, turning aside|clinamen|0
+GG|clinamen|clīnāmen|ĭnis|n.||inclinaison, déviation|clinamen|
+GJ|clinamen|clinamĕn|ĭnĭs, n.|déviation, inclinaison.
+Ge|clinamen|clīnāmen|minis, n.|die Neigung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cluden|clūdĕn|clūdĕn|7|clūdĭn||ĭnĭs, n.
+LS|
+GG|cluden|clūdĕn|ĭnis|n.||épée de théâtre dont la lame rentre dans la poignée|cluden|
+GJ|cluden|cludĕn|ĭnĭs, n.|poignard de théâtre (dont la lame rentre dans la poignée).
+Ge|cluden|clūden|dinis, n.|das Schwert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cogitamen|cōgĭtāmen|cōgĭtāmen|7|cōgĭtāmĭn||ĭnĭs, n.
+LS|cogitamen|cōgĭtāmen|ĭnis|n.||thinking, thought|cogitamen|0
+GG|cogitamen|cōgĭtāmen|ĭnis|n.|S.|pensée, réflexion|cogitamen|cōgĭtāmen
+GJ|cogitamen|cōgĭtāmĕn|ĭnĭs, n.|Tert. réflexion, pensée.
+Ge|cogitamen|cōgitāmen|minis, n.|der Gedanke
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|columen|cŏlŭmĕn|cŏlŭmĕn|7|cŏlŭmĭn||ĭnis, n.
+LS|columen|cŏlŭmen|ĭnis|n.|||columen|0
+GG|columen|cŏlŭmĕn|ĭnis|n.||cime, sommet / faîte, comble [d'un toit], chaperon / [fig.] / poutre de support du toit, poinçon / [fig.] pilier, soutien, colonne|columen|
+GJ|columen|columĕn|ĭnis, n.|1 - a - faîte, sommet. - b - comble (d'un toit), pièce de bois sur laquelle sont posés les chevrons. - c - comble, faîte, point capital, le principal, le fort, apogée. - d - colonne. - e - appui, soutien; qui est à la tête. 2 - Columen : Columen (lieu près de l'Algide).
+Ge|columen|columen||die Höhe - der Gipfel - vom Gebirge - die Haube - der Giebel, First - die Spitze - der Gipfel - die Säule - der Balken - der Giebelspieß - die Giebelsäule, Dachstuhlsäule - die Säule - der Grundpfeiler - die Stütze - der Stützpunkt
+FG|columen|columen inis neutre,
+Lw|columen|columen|inis|n||a pillar, column, like an ascending column, a pedestal, the crown, summit, first, chief, A support, prop, stay||||columen
+YO|
+PO|columen|columen, columinis : n
+WW||||
+|compago|compāgo|cōmpāgo|5|cōmpāgĭn||ĭnis, f.
+LS|compago|compāgo|ĭnis|f.||a joining together, a connection, joint, structure|compages|ĭnis; 
+GG|compago|compāgo|ĭnis|f.||c. compages.|compago|
+GJ|compago|compago|ĭnis, f.|assemblage, jointure.
+Ge|compago|compāgo|inis, f.|das Zusammengefüge - das Gefüge - der zusammengefügte Bau
+FG|compago|compago inis féminin, cf. compages.
+Lw|compago|compāgō|inis|f||a joining, joint, fastening||||compago
+YO|
+PO|compago|compa_go_, compa_ginis : f
+WW||||
+|conamen|cōnāmĕn|cōnāmĕn|7|cōnāmĭn||ĭnĭs, n.
+LS|conamen|cōnāmen|ĭnis|n.||an effort, exertion, struggle|conamen|0
+GG|conamen|cōnāmĕn|ĭnis|n.||élan, effort / [fig.] appui|conamen|
+GJ|conamen|cōnāmĕn|ĭnĭs, n.|- 1 - effort, essai, entreprise difficile. - 2 - appui.
+Ge|conamen|cōnāmen|minis, n.|der Ansatz - das Unterfangen - die Bemühung - der Versuch - das Stützmittel - die Stütze
+FG|conamen|conamen inis neutre (conor), élan, effort.
+Lw|conamen|cōnāmen|inis|n||an effort, exertion, struggle, attempts at suicide, A support, prop||||conamen
+YO|
+PO|conamen|co_na_men, co_na_minis : n
+WW||||
+|concinnitudo|concinnĭtūdo|cōncīnnĭtūdo|5|cōncīnnĭtūdĭn||ĭnis, f.
+LS|concinnitudo|concinnĭtūdo|ĭnis|f.||beauty of style|concinnitudo|0
+GG|concinnitudo|concinnĭtūdo|ĭnis|f.||concinnitas|concinnitudo|
+GJ|concinnitudo|concinnitūdo|ĭnis, f.|élégance recherchée (du style).
+Ge|concinnitudo|concinnitūdo||
+FG|concinnitudo|concinnitudo inis féminin = concinnitas.
+Lw|
+YO|
+PO|
+WW||||
+|consiligo|consĭlīgo|cōnsĭlīgo|5|cōnsĭlīgĭn||ĭnis, f.
+LS|consiligo|consĭlīgo|ĭnis|f.||lungwort|consiligo|0
+GG|consiligo|consĭlīgo|ĭnis|f.||pulmonaire [plante]|consiligo|
+GJ|consiligo|consiligo|ĭnis, f.|pulmonaire (plante).
+Ge|consiligo|cōnsilīgo|inis, f.|Lungenkraut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consolamen|consōlāmĕn|cōnsōlāmĕn|7|cōnsōlāmĭn||ĭnĭs, n.
+LS|consolamen|consōlāmen|ĭnis|n.||consolation|consolamen|0
+GG|consolamen|consōlāmĕn|ĭnis|n.||ce qui console, consolation|consolamen|
+GJ|consolamen|consōlāmĕn|ĭnĭs, f. [consolor]|ce qui console, consolation.
+Ge|consolamen|cōnsōlāmen|minis, n.|der Trost
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|contamen|contāmĕn|cōntāmĕn|7|cōntāmĭn||ĭnĭs, n.
+LS|contamen|contāmen|ĭnis|n.||a touching, contact, touch|contamen|0
+GG|contamen|contāmĕn|ĭnis|n.||contact qui souille, souillure|contamen|
+GJ|contamen|contāmĕn|ĭnĭs, n.|contact qui souille, souillure.
+Ge|contamen|contāmen|minis, n.|die Berührung - die Ansteckung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coriago|cŏrĭāgo|cŏrĭāgo|5|cŏrĭāgĭn||ĭnis, f.
+LS|coriago|cŏrĭāgo|ĭnis|f.||a disease of the skin of animals|coriago|0
+GG|coriago|cŏrĭāgo|ĭnis|f.||coriage [maladie des bovins]|coriago|
+GJ|coriago|cŏrĭāgo|ĭnis, f.|coriage [maladie touchant la peau des bovins].
+Ge|coriago|coriāgo|ginis, f.|eine Hautkrankheit - mit der - coriago behaftet
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coronamen|cŏrōnāmĕn|cŏrōnāmĕn|7|cŏrōnāmĭn||ĭnĭs, n.
+LS|coronamen|cŏrōnāmen|ĭnis|n.||a wreathing, crowning|coronamen|0
+GG|coronamen|cŏrōnāmĕn|ĭnis|n.||couronne|coronamen|
+GJ|coronamen|coronamĕn|ĭnĭs, n.|Apul. couronne.
+Ge|coronamen|corōnāmen|minis, n.|die Bekränzung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coruscamen|cŏruscāmen|cŏrūscāmen|7|cŏrūscāmĭn||ĭnĭs, n.
+LS|coruscamen|cŏruscāmen|ĭnis|n.||a glittering, a flash|coruscamen|0
+GG|coruscamen|cŏruscāmen|ĭnis|n.||éclat, splendeur éclatante|coruscamen|
+GJ|coruscamen|cŏruscāmĕn|ĭnĭs, n. [corusco]|éclat, splendeur éclatante.
+Ge|coruscamen|coruscāmen|minis, n.|der Schimmer
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|crassamen|crassāmĕn|crāssāmĕn|7|crāssāmĭn||ĭnĭs, n.
+LS|crassamen|crassāmen|ĭnis|n.||the thick sediment of a liquid, the dregs|crassamen|0
+GG|crassamen|crassāmĕn|ĭnis|n.||sédiment, dépôt|crassamen|
+GJ|crassamen|crassāmĕn|ĭnĭs, n.|Col. dépôt, sédiment, résidu.
+Ge|crassamen|crassāmen|inis, n.|der dicke Bodensatz
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|crassedo|crassēdo|crāssēdo|5|crāssēdĭn||ĭnis, f.
+LS|crassedo|crassēdo|ĭnis|f.||thickness, stupidity|crassedo|0
+GG|crassedo|crassēdo|ĭnis|f.||épaisseur|crassedo|
+GJ|crassedo|crassēdo|ĭnis, f.|- 1 - matière consistante. - 2 - Fulg. pesanteur (d'esprit).
+Ge|crassedo|crassēdo|inis, f.|die Dicke
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|creamen|crĕāmen|crĕāmen|7|crĕāmĭn||ĭnĭs, n.
+LS|creamen|crĕāmen|ĭnis|n.||the elements of which created things consist|creamen|0
+GG|creamen|crĕāmen|ĭnis|n.||création|creamen|
+GJ|creamen|crĕāmĕn|ĭnĭs, n.|création, chose créée.
+Ge|creamen|creāmen|minis, n.|das Geschaffene
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|crebritudo|crēbrĭtūdo|crēbrĭtūdo|5|crēbrĭtūdĭn||ĭnis, f.
+LS|crebritudo|crēbrĭtūdo|ĭnis|f.|||crebritudo|0
+GG|crebritudo|crēbrĭtūdo|ĭnis|f.||c. crebritas.|crebritudo|
+GJ|crebritudo|crēbritūdo|ĭnis, f.|c. crebritas.
+Ge|crebritudo|crēbritūdo|dinis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|crispitudo|crispĭtūdo|crīspĭtūdo|5|crīspĭtūdĭn||ĭnis, f.
+LS|crispitudo|crispĭtūdo|ĭnis|f.||a tremulous, vibratory motion|crispitudo|0
+GG|crispitudo|crispĭtūdo|ĭnis|f.||tortillement|crispitudo|
+GJ|crispitudo|crispĭtūdo|ĭnis, f.|mouvement tortueux, trémoussement, tortillement.
+Ge|crispitudo|crīspitūdo|inis, f.|die zitternde Bewegung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cruciamen|crŭcĭāmĕn|crŭcĭāmĕn|7|crŭcĭāmĭn||ĭnĭs, n.
+LS|cruciamen|crŭcĭāmen|ĭnis|n.||torture, torment, pain|cruciamen|0
+GG|cruciamen|crŭcĭāmĕn|ĭnis|n.||tourment, martyre|cruciamen|
+GJ|cruciamen|crŭcĭāmĕn|ĭnĭs, n.|Prud. martyre, supplice, tourment.
+Ge|cruciamen|cruciāmen|minis, n.|die Marter, Qual
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cunctamen|cunctāmen|cūnctāmen|7|cūnctāmĭn||ĭnĭs, n.
+LS|cunctamen|cunctāmen|ĭnis|n.||a delaying, hesitating|cunctamen|(
+GG|cunctamen|cunctāmen|ĭnis|n.|S.|retard, lenteur|cunctamen|cunctāmen
+GJ|cunctamen|cunctāmĕn|ĭnĭs, n. [cunctor]|P.-Nol. retard, lenteur, hésitation.
+Ge|cunctamen|cunctāmen|minis, n.|das Zögern, Zaudern
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cunilago|cŭnīlāgo|cŭnīlāgo|5|cŭnīlāgĭn||ĭnis, f.
+LS|cunilago|cŭnīlāgo|ĭnis|f.||a species of|cunilago|0
+GG|cunilago|cŭnīlāgo|ĭnis|f.||inule visqueuse [plante]|cunilago|
+GJ|cunilago|cŭnīlāgo|ĭnis, f.|Plin. inule visqueuse (plante).
+Ge|cunilago|cunīlāgo|ginis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cupedo|cūpēdo|cūpēdo|5|cūpēdĭn||ĭnis, f.
+LS|cupedo|cūpēdo|ĭnis|f.||-I. desire, wish, longing, eagerness -II. a tidbit, delicacy|cuppedo2|(
+GG|
+GJ|cupedo|cūpēdo|ĭnis, f.|- 1 - (arch.) = cupido. - 2 - friandise.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cuppedo|cuppēdo|cūppēdo|5|cūppēdĭn||ĭnis, f.
+LS|cuppedo|cuppēdo|ĭnis|f.||-I. desire, wish, longing, eagerness -II. a tidbit, delicacy|cuppedo2|(
+GG|cuppedo|cuppēdo|ĭnis|f.||c. cuppediae,|cuppedo|
+GJ|cuppedo|cuppēdo|ĭnis, f.|- 1 - (arch.) = cupido. - 2 - friandise.
+Ge|cuppedo|cuppēdo|dinis, f.|Näschereien, Leckerbissen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|curvedo|curvēdo|cūrvēdo|5|cūrvēdĭn||ĭnis, f.
+LS|
+GG|curvedo|curvēdo|ĭnis|f.||c. curvatio|curvedo|
+GJ|
+Ge|curvedo|curvēdo|inis, f.|die Krümmung, Wölbung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cyclamen|cyclămĕn|cȳ̆clămĕn|7|cȳ̆clămĭn||ĭnĭs, n.
+LS|
+GG|cyclamen|cyclămĕn|ĭnis|n.|S.|cyclamen [plante]|cyclamen|cyclămĕn
+GJ|cyclamen|cyclamĕn|ĭnĭs, n.|cyclamen (plante).
+Ge|cyclamen|cyclamen|inis, n.|Saubrot
+FG|cyclamen|cyclamen inis neutre, cyclaminos i féminin, et cyclaminum i neutre, cyclamen (plante).
+Lw|
+YO|
+PO|
+WW||||
+|deconsuetudo|dēconsuētūdo|dēcōnsŭētūdo|5|dēcōnsŭētūdĭn||ĭnis, f.
+LS|
+GG|deconsuetudo|dēconsuētūdo|ĭnis|f.||désuétude|deconsuetudo|
+GJ|deconsuetudo|deconsuetūdo|ĭnis, f.|désuétude.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|decoramen|dĕcŏrāmĕn|dĕcŏrāmĕn|7|dĕcŏrāmĭn||ĭnĭs, n.
+LS|decoramen|dĕcŏrāmen|ĭnis|n.||ornament, decoration|decoramen|0
+GG|decoramen|dĕcŏrāmĕn|ĭnis|n.||ornement, parure|decoramen|
+GJ|decoramen|dĕcŏramĕn|ĭnĭs, (decoramentum, i, n.)|ornement, parure.
+Ge|decoramen|decorāmen|inis, n.|die Zierde - der Schmuck
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|depetigo|dēpĕtīgo|dēpĕtīgo|5|dēpĕtīgĭn||ĭnĭs, f.
+LS|depetigo|dēpĕtīgo|ĭnis|f.||a leprosy, scab, no.|depetigo|0
+GG|depetigo|dēpĕtīgo|ĭnĭs|f.||dartre vive, gale|depetigo|
+GJ|depetigo|depetigo|ĭnis, f.|dartre, gale.
+Ge|depetigo|dēpetīgo|inis, f.|verbreitete Aussatz - die Räude
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|desertitudo|dēsertĭtūdo|dēsērtĭtūdo|5|dēsērtĭtūdĭn||ĭnis, f.
+LS|
+GG|desertitudo|dēsertĭtūdo|ĭnis|f.||solitude|desertitudo|
+GJ|
+Ge|desertitudo|dēsertitūdo|inis, f.|die Einöde
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dictamen|dictāmĕn|dīctāmĕn|7|dīctāmĭn||ĭnĭs, n.
+LS|dictamen|dictāmen|inis|n.|||dictamen|0
+GG|dictamen|dictāmĕn|inis|n.||action de dicter|dictamen|
+GJ|dictamen|dictamĕn|ĭnĭs, n. [dicto] (= dictum, praescriptum, praeceptum)|Gloss. parole, précepte, proverbe.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|directitudo|dīrectĭtūdo|dīrēctĭtūdo|5|dīrēctĭtūdĭn||ĭnis, f.
+LS|directitudo|dīrectĭtūdo|ĭnis|f.||rightness, correctness|directitude|0
+GG|directitudo|dīrectĭtūdo|ĭnis|f.||direction|directitudo|
+GJ|directitudo|directitūdo|ĭnis, f.|direction.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|disertitudo|dĭsertĭtūdo|dĭsērtĭtūdo|5|dĭsērtĭtūdĭn||ĭnis, f.
+LS|disertitudo|dĭsertĭtūdo|ĭnis|f.||eloquence, no.|disertitudo|0
+GG|disertitudo|dĭsertĭtūdo|ĭnis|f.||faconde, éloquence|disertitudo|
+GJ|disertitudo|disertitūdo|ĭnis, f.|Hier. faconde, éloquence.
+Ge|disertitudo|disertitūdo|inis, f.|die Beredsamkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dissertitudo|dissertĭtūdo|dīssērtĭtūdo|5|dīssērtĭtūdĭn||ĭnis, f.
+LS|
+GG|dissertitudo|dissertĭtūdo|ĭnis|f.||exposition, style|dissertitudo|
+GJ|
+Ge|dissertitudo|dissertitūdo|inis, f.|die Darstellung, der Stil
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|docimen|dŏcĭmĕn|dŏcĭmĕn|7|dŏcĭmĭn||ĭnis, n.
+LS|docimen|dŏcĭmen|ĭnis|n.|||documen|(
+GG|docimen|dŏcĭmĕn|ĭnis|n.|S.|c. documentum|docimen|dŏcĭmĕn
+GJ|docimen|dŏcĭmĕn|inis, n. Lucr.|c. documentum.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|documen|dŏcŭmĕn|dŏcŭmĕn|7|dŏcŭmĭn||ĭnis, n.
+LS|documen|dŏcŭmen|ĭnis|n.|||documen|(
+GG|documen|dŏcŭmĕn|ĭnis|n.||c. documentum|documen|
+GJ|documen|dŏcŭmĕn|inis, n. Lucr.|c. documentum.
+Ge|documen|documen|inis, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dolamen|dŏlāmen|dŏlāmen|7|dŏlāmĭn||ĭnĭs, n.
+LS|dolamen|dŏlāmen|ĭnis|n.||a hewing|dolamen|0
+GG|dolamen|dŏlāmen|ĭnis|n.||action de tailler avec la dolabre|dolamen|
+GJ|dolamen|dŏlāmĕn|ĭnĭs, n.|emploi de la dolabre.
+Ge|dolamen|dolāmen|inis, n.|das Behauen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|donamen|dōnāmĕn|dōnāmĕn|7|dōnāmĭn||ĭnis, n.
+LS|
+GG|donamen|dōnāmĕn|ĭnis|n.||présent, don|donamen|
+GJ|donamen|dōnāmĕn|ĭnis, n.|Aldh. don.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dulcitudo|dulcĭtūdo|dūlcĭtūdo|5|dūlcĭtūdĭn||ĭnis, f.
+LS|dulcitudo|dulcĭtūdo|ĭnis|f.||sweetness|dulcitudo|0
+GG|dulcitudo|dulcĭtūdo|ĭnis|f.||douceur [goût]|dulcitudo|
+GJ|dulcitudo|dulcitūdo|ĭnis, f.|douceur.
+Ge|dulcitudo|dulcitūdo|dinis, f.|die Süßigkeit - die Annehmlichkeit - die Zärtlichkeit
+FG|dulcitudo|dulcitudo inis féminin (dulcis), douceur, qualité de ce qui est doux au goût.
+Lw|dulcitudo|dulcitūdō|inis|f||sweetness||||dulcitudo
+YO|
+PO|
+WW||||
+|duramen|dūrāmĕn|dūrāmĕn|7|dūrāmĭn||ĭnĭs, n.
+LS|duramen|dūrāmen|ĭnis|n.||hardness, a hardened, ligneous vinebranch|duramen|0
+GG|duramen|dūrāmĕn|ĭnis|n.||durcissement / c. duramentum|duramen|
+GJ|duramen|duramĕn|ĭnĭs, n.|1 - dureté, durcissement, congélation. - 2 - bois dur (de la vigne).
+Ge|duramen|dūrāmen|inis, n.|die Verhärtung - die verhärtete-, zu Holz gewordene Rebe
+FG|duramen|duramen inis neutre (duro), durcissement.
+Lw|
+YO|
+PO|
+WW||||
+|duritudo|dūrĭtūdo|dūrĭtūdo|5|dūrĭtūdĭn||ĭnis, f.
+LS|duritudo|dūrĭtūdo|ĭnis|f.||harshness, cruelty|duritudo|0
+GG|duritudo|dŭrĭtūdo|ĭnis|f.||impudence|duritudo|
+GJ|duritudo|duritūdo|ĭnis, f.|Cato. impudence.
+Ge|duritudo|dūritūdo|dinis, f.|die Härte = Unempfindlichkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ebriamen|ēbrĭāmĕn|ēbrĭāmĕn|7|ēbrĭāmĭn||ĭnĭs, n.
+LS|ebriamen|ēbrĭāmen|ĭnis|n.||intoxicating liquor, strong drink|ebriamen|0
+GG|ebriamen|ēbrĭāmĕn|ĭnis|n.||liqueur enivrante|ebriamen|
+GJ|ebriamen|ēbrĭāmĕn|ĭnĭs, n. [ebrius]|liqueur enivrante.
+Ge|Ebriamen|Ebriāmen|inis, n.|das berauschende Getränk
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|effamen|effāmĕn|ēffāmĕn|7|ēffāmĭn||ĭnĭs, n.
+LS|effamen|effāmen|ĭnis|n.||an enunciation, proposition|effamen|0
+GG|effamen|effāmĕn|ĭnis|n.||parole, expression|effamen|
+GJ|effamen|effamĕn|ĭnĭs, n.|paroles, discours.
+Ge|effamen|effāmen|minis, n.|der Ausspruch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eleusin|Ĕleusin|Ĕlēusin|5|Ĕlēusīn||īnis, f.
+LS|Eleusin|Ĕleusin|īnis|f.||a very ancient city of Attica, famous for its mysteries of Ceres, Lepsina|Eleusin|0
+GG|Eleusin|Eleusin|īnis|f.|S.|Éleusis [ville de l'Attique, fameuse par ses mystères de Cérès] / poét. = Cérès|Eleusis|-sin
+GJ|Eleusin|Eleusin|inis, f. (acc. -in)|- 1 - Eleusis (ville d'Attique, célèbre par les mystères de Déméter). - 2 - Sid. Cérès.
+Ge|eleusin|eleusīn|īnis|eleusinisch - eleusinisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eliquamen|ēlĭquāmĕn|ēlĭqụāmĕn|7|ēlĭqụāmĭn||ĭnĭs, n.
+LS|eliquamen|ēlĭquāmen|||||eliquamen|false read. in 
+GG|
+GJ|eliquamen|eliquamĕn|ĭnĭs, n.|jus, suc.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eritudo|ĕrĭtūdo|ĕrĭtūdo|5|ĕrĭtūdĭn||ĭnis, f.
+LS|eritudo|eritūdo|||||eritudo|(
+GG|eritudo|ĕrĭtūdo||f.||v. heritudo.|eritudo|
+GJ|eritudo|ērĭtŭdo|ĭnis, f.|- 1 - puissance de maître. - 2 - esclavage.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|esurigo|ēsŭrīgo|ēsŭrīgo|5|ēsŭrīgĭn||ĭnis, f.
+LS|esurigo|ēsŭrīgo|ĭnis|f.||hunger|esurigo|0
+GG|esurigo|ēsŭrīgo|ĭnis|f.||faim|esurigo|
+GJ|esurigo|ēsŭrīgo|ĭnis, f.|Varr. faim.
+Ge|Esurigo|Esurīgo|ginis, f.|der Hunger
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|excusamen|excūsāmĕn|ēxcūsāmĕn|7|ēxcūsāmĭn||ĭnis, n.
+LS|
+GG|excusamen|excūsāmĕn|ĭnis|n.||excuse|excusamen|
+GJ|
+Ge|excusamen|excūsāmen|minis, n.|die Entschuldigung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exhortamen|exhortāmĕn|ēxhōrtāmĕn|7|ēxhōrtāmĭn||ĭnĭs, n.
+LS|
+GG|exhortamen|exhortāmĕn|ĭnis|n.|S.|exhortation|exhortamen|exhortāmĕn
+GJ|exhortamen|exhortāmĕn|ĭnĭs, n. (exhortāmentum, i, n.)|exhortation.
+Ge|exhortamen|exhortāmen|minis, n.|die Ermunterung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|famen|fāmĕn|fāmĕn|7|fāmĭn||ĭnĭs, n.
+LS|
+GG|famen|fāmĕn|ĭnis|n.||parole|famen|
+GJ|famen|fāmĕn|ĭnĭs, n.|Inscr. parole.
+Ge|famen|fāmen|inis, n.|die Rede, Anrede, Ansprache
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|faredo|fărēdo|fărēdo|5|fărēdĭn||ĭnis, f.
+LS|faredo|farēdo|ĭnis|f.||a kind of abscess|faredo|0
+GG|faredo|fărēdo|ĭnis|f.||sorte d'abcès|faredo|
+GJ|faredo|faredo|ĭnis, f.|sorte d'abcès.
+Ge|faredo|farēdo|inis, f.|Art Geschwür
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|farrago|farrāgo|fārrāgo|5|fārrāgĭn||ĭnis, f.
+LS|farrago|farrāgo|ĭnis|f.||mixed fodder for cattle, mash.|farrago|0
+GG|farrago|farrāgo|ĭnis|f.||dragée [mélange de divers grains qu'on laisse croître en herbe pour donner aux bestiaux] / compilation, fatras, macédoine, pot pourri / chose de peu de valeur, bagatelle|farrago|
+GJ|farrago|farrago|ĭnis, f.|(Lebaigue P. 486 et P. 487) - 1 - dragée (mélange de grains et d'herbes pour les animaux); méteil, seigle. - 2 - mélange, fatras, recueil, compilation, macédoine. - 3 - bagatelle, chose sans valeur.
+Ge|farrago|farrāgo|inis, f.|das Mengelkorn, Mengfutter, gemischte Futterkorn - vermischter Inhalt - das Mancherlei - geringfügige Sache, Bagatelle
+FG|farrago|farrago inis féminin (far), dragée (mélange de divers grains qu'on laisse croître en herbe pour donner aux bestiaux).
+Lw|farrago|farrāgō|inis|f||mixed fodder, mash, A medley, hodge-podge||||farrago
+YO|
+PO|farrago|farra_go_, farra_ginis : f
+WW||||
+|femen|fĕmĕn|fĕmĕn|7|fĕmĭn||ĭnis, n.
+LS|femen|fĕmen|ĭnis|n.|||femen|0
+GG|femen|fĕmĕn|ĭnis|n.||cuisse [v. femur|femen|
+GJ|femen|fĕmĕn|ĭnis, n. (c. femur, oris)|cuisse.
+Ge|
+FG|femen|femen (nom sans exemple) inis neutre, cuisse (cf. femur).
+Lw|femen|(femen)|inis; see femur.|||||||femen
+YO|
+PO|
+WW||||
+|ferrugo|ferrūgo|fērrūgo|5|fērrūgĭn||ĭnis, f.
+LS|ferrugo|ferrūgo|ĭnis|f.||iron-rust|ferrugo|0
+GG|ferrugo|ferrūgo|ĭnis|f.||rouille [du fer] / couleur de rouille, brun foncé / pourpre foncé, bleu sombre / [fig.] envie, jalousie|ferrugo|
+GJ|ferrugo|ferrugo|ĭnis, f.|- 1 - rouille (de fer). - 2 - couleur de rouille, teinte bleuâtre, couleur pourpre. - 3 - fig. envie, jalousie.
+Ge|ferrugo|ferrūgo|inis, f.|der Eisenrost - der Neid - die Mißgunst, Scheelsucht - die eisengraue, dunkle, dunkelbraune, dunkelblaue, stahlblaue Farbe - das Dunkel
+FG|ferrugo|ferrugo inis féminin (ferrum, cf. aerugo), rouille (du fer) ; couleur de rouille, brun foncé ; pourpre foncé, bleu sombre.
+Lw|ferrugo|ferrūgō|inis|f||iron-rust, the color of iron-rust, dark-red, dark-chestnut, dusky color, gloom, purple||||ferrugo
+YO|
+PO|ferrugo|ferru_go_, ferru_ginis : f
+WW||||
+|ferrumen|ferrūmĕn|fērrūmĕn|7|fērrūmĭn||ĭnis, n.
+LS|ferrumen|ferrūmen|ĭnis|n.||Cement, solder, glue, connection, connecting word|ferrumen|(
+GG|ferrumen|ferrūmĕn|ĭnis|n.|S.|soudure, substance pour souder / [fig.] soudure [adjonction de mots dans un vers traduit]|ferrumen|ferrūmĕn
+GJ|ferrumen|ferrumen|inis, n.|soudure (composition pour souder).
+Ge|ferrumen|ferrūmen|minis, n.|das Bindemittel - der Kitt, Leim, Kleber - ( Gummi
+FG|ferrumen|ferrumen (feru-) inis neutre (ferrum), soudure, substance pour souder.
+Lw|
+YO|
+PO|
+WW||||
+|ferulago|fĕrŭlāgo|fĕrŭlāgo|5|fĕrŭlāgĭn||ĭnis, f.
+LS|ferulago|fĕrŭlāgo|ĭnis|f.||an inferior species of fennel-giant|ferulago|0
+GG|ferulago|fĕrŭlāgo|ĭnis|f.||espèce de férule [plante]|ferulago|
+GJ|ferulago|ferulago|ĭnis, f.|petite férule (plante).
+Ge|ferulago|ferulāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ferumen|fērūmĕn|fērūmĕn|7|fērūmĭn||ĭnis, n.
+LS|ferumen|fērūmen|ĭnis|n.||Cement, solder, glue, connection, connecting word|ferrumen|(
+GG|ferumen|fĕrūmĕn|ĭnis|n.|S.|soudure, substance pour souder / [fig.] soudure [adjonction de mots dans un vers traduit]|ferrumen|fĕrū-
+GJ|ferumen|ferumen|inis, n.|soudure (composition pour souder).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fidamen|fīdāmen|fīdāmen|7|fīdāmĭn||ĭnĭs, n.
+LS|fidamen|fīdāmen|ĭnis|n.||trust, confidence|fidamen|0
+GG|fidamen|fīdāmen|ĭnis|n.||foi, croyance|fidamen|
+GJ|fidamen|fīdāmĕn|ĭnĭs, n.|croyance, foi (religieuse).
+Ge|fidamen|fīdāmen|minis, n.|das Vertrauen - die Zuversicht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|figmen|figmĕn|fīgmĕn|7|fīgmĭn||ĭnĭs, n.
+LS|figmen|figmen|ĭnis|n.||formation, figure, image|figmen|0
+GG|figmen|figmĕn|ĭnis|n.|S.|représentation, image / création / fiction|figmen|figmĕn
+GJ|figmen|figmĕn|ĭnĭs, n. [fingo]|représentation, image.
+Ge|figmen|fīgmen|minis, n.|die Bildung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|filamen|fĭlāmĕn|fĭlāmĕn|7|fĭlāmĭn||ĭnis, n.
+LS|
+GG|filamen|fĭlāmĕn|ĭnis|n.||c. flamen 1|filamen|
+GJ|filamen|fĭlāmĕn|ĭnis, n.|c. flamĕn, ĭnis, m. ---> flamen.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|firmamen|firmāmĕn|fīrmāmĕn|7|fīrmāmĭn||ĭnĭs, n.
+LS|firmamen|firmāmen|ĭnis|n.||a prop, support|firmamen|0
+GG|firmamen|firmāmĕn|ĭnis|n.||appui, support|firmamen|
+GJ|firmamen|firmāmĕn|ĭnĭs, n. [firmo]|appui, support.
+Ge|firmamen|fīrmāmen|minis, n.|die Stütze
+FG|
+Lw|firmamen|fīrmāmen|inis|n||a prop, support||||firmamen
+YO|
+PO|firmamen|firma_men, firma_minis : n
+WW||||
+|flemen|flēmĕn|flēmĕn|7|flēmĭn||ĭnĭs, n.
+LS|
+GG|flemen|flēmĕn|ĭnis|n.|S.|[usité surt. au pl|flemen|flēmĕn
+GJ|flemen|flemĕn|ĭnĭs, n. (surtout au plur. flemina, um)|Plaut. Fest. enflure des jambes (après une longue marche).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|forago|fŏrāgo|fŏrāgo|5|fŏrāgĭn||ĭnis, f.
+LS|forago|fŏrāgo|ĭnis|f.||a dividing-thread|forago|0
+GG|forago|fŏrāgo|ĭnis|f.||fil de couleur [marque dans le tissage]|forago|
+GJ|forago|forago|ĭnis, f.|fil de couleur (pour marquer les divisions du tissu).
+Ge|forago|forāgo|inis, f.|der Fitzfaden - das Fitzband
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|formidamen|formīdāmĕn|fōrmīdāmĕn|7|fōrmīdāmĭn||ĭnĭs, n.
+LS|formidamen|formīdāmen|inis|n.||a fright, a spectre|formidamen|0
+GG|formidamen|formīdāmĕn|ĭnis|n.||forme effrayante|formidamen|
+GJ|formidamen|formīdamĕn|ĭnĭs, n.|Apul. épouvantail, fantôme.
+Ge|formidamen|formīdāmen|inis, n.|das Schreckbild
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frigedo|frīgēdo|frīgēdo|5|frīgēdĭn||ĭnis, f.
+LS|frigedo|frīgēdo|ĭnis|f.||cold|frigedo|0
+GG|frigedo|frigēdo|ĭnis|f.||froid|frigedo|
+GJ|frigedo|frigedo|ĭnis, f.|froid.
+Ge|frigedo|frīgēdo|dinis, f.|die Kälte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frumen|frūmĕn|frūmĕn|7|frūmĭn||ĭnĭs, n.
+LS|frumen|frūmen|ĭnis|n.||A gruel, porridge made of corn, and used in sacrifices|frumen|0
+GG|frumen|frūmĕn|ĭnis|n.||gosier / bouillie pour les sacrifices|frumen|
+GJ|frumen|frūmĕn|ĭnĭs, n.|(Lebaigue P. 527) - 1 - gosier. - 2 - Arn. bouillie de froment (pour les sacrifices).
+Ge|frumen|frūmen|inis, n.|ein Brei - die Kehle - der Schlund
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frustramen|frustrāmĕn|frūstrāmĕn|7|frūstrāmĭn||ĭnĭs, n.
+LS|frustramen|frustrāmen|ĭnis|n.||deception|frustramen|0
+GG|frustramen|frustrāmĕn|ĭnis|n.||tromperie|frustramen|
+GJ|frustramen|frustramĕn|ĭnĭs, m.|tromperie.
+Ge|frustramen|frūstrāmen|inis, n.|die Täuschung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fulcimen|fulcīmĕn|fūlcīmĕn|7|fūlcīmĭn||ĭnĭs, n.
+LS|fulcimen|fulcīmen|ĭnis|n.||a prop, support, pillar|fulcimen|0
+GG|fulcimen|fulcīmĕn|ĭnis|||c. fulcimentum|fulcimen|
+GJ|fulcimen|fulcīmĕn|ĭnĭs, n. (c. fulcimentum) [fulcio]|soutien, appui, étai, support.
+Ge|fulcimen|fulcīmen|inis, n.|die Stütze - der Pfeiler
+FG|
+Lw|fulcimen|fulcīmen|inis|n||a prop, support, pillar||||fulcimen
+YO|
+PO|
+WW||||
+|fundamen|fundāmĕn|fūndāmĕn|7|fūndāmĭn||ĭnĭs, n.
+LS|fundamen|fundāmen|ĭnis|n.||a foundation|fundamen|0
+GG|fundamen|fundāmĕn|ĭnis|n.||fondement|fundamen|
+GJ|fundamen|fundāmĕn|ĭnĭs, n. [fundo, are]|fondement.
+Ge|fundamen|fundāmen|inis, n.|der Grund
+FG|fundamen|fundamen inis neutre (fundo 1), fondement.
+Lw|fundamen|fundāmen|inis|n||a foundation||||fundamen
+YO|
+PO|fundamen|funda_men, funda_minis : n
+WW||||
+|geminitudo|gĕmĭnĭtūdo|gĕmĭnĭtūdo|5|gĕmĭnĭtūdĭn||ĭnis, f.
+LS|geminitudo|gĕmĭnĭtūdo|ĭnis|f.||the difference between twins, mark|geminitudo|0
+GG|geminitudo|gĕmĭnĭtūdo|ĭnis|f.||ressemblance de jumeaux|geminitudo|
+GJ|geminitudo|gĕmĭnitūdo|ĭnis, f. [geminus]|ressemblance de jumeaux.
+Ge|geminitudo|geminitūdo|inis, f.|der Unterschied zwischen Zwillingen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|generamen|gĕnĕrāmĕn|gĕnĕrāmĕn|7|gĕnĕrāmĭn||ĭnis, n.
+LS|
+GG|generamen|gĕnĕrāmĕn|ĭnis|n.||c. generatio|generamen|
+GJ|generamen|gĕnĕrāmĕn|ĭnis, n.|c. generatio.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|genimen|gĕnĭmen|gĕnĭmen|7|gĕnĭmĭn||ĭnĭs, n.
+LS|genimen|gĕnĭmen|ĭnis|n.||product, fruit, progeny|genimen|0
+GG|genimen|gĕnĭmen|ĭnis|n.||production, produit, fruit|genimen|
+GJ|genimen|gĕnĭmĕn|ĭnĭs, n. [geno]|production, produit, fruit.
+Ge|genimen|genimen|inis, n.|das Gewächs - die Frucht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|glando|glando|glāndo|5|glāndĭn||ĭnis, f.
+LS|glando|glando|ĭnis|f.||an acorn|glando|0
+GG|glando|glando|ĭnis|f.||gland|glando|
+GJ|glando|glando|ĭnis, f. (c. glans)|gland.
+Ge|glando|glando|inis, f. = glans, Avien. orb. descr. 285|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|glomeramen|glŏmĕrāmĕn|glŏmĕrāmĕn|7|glŏmĕrāmĭn||ĭnĭs, n.
+LS|glomeramen|glŏmĕrāmen|ĭnis|n.||a rounding;, a round body, ball|glomeramen|0
+GG|glomeramen|glŏmĕrāmĕn|ĭnis|n.||formation en pelote ; agglomération ; peloton, boule / pl., les atomes de forme sphérique|glomeramen|
+GJ|glomeramen|glŏmĕrāmĕn|ĭnĭs, n. [glomero]|1 - corps rond, boule, globe, rond, pelote. 2 - au plur. atomes. 3 - au plur. pilules.
+Ge|glomeramen|glomerāmen|inis, n.|eine zusammengeballte Masse - ein geballtes Kügelchen
+FG|glomeramen|glomeramen inis neutre (glomero),formation en pelote ; agglomération ; peloton, boule.
+Lw|
+YO|
+PO|
+WW||||
+|gracilitudo|grăcĭlĭtūdo|grăcĭlĭtūdo|5|grăcĭlĭtūdĭn||ĭnis, f.
+LS|gracilitudo|grăcĭlĭtūdo|ĭnis|f.||slenderness|gracilitudo|0
+GG|gracilitudo|grăcĭlĭtūdo|ĭnis|f.||maigreur [au pr.]|gracilitudo|
+GJ|gracilitudo|grăcĭlitūdo|ĭnis, f. [gracilis]|maigreur [au pr.].
+Ge|gracilitudo|gracilitūdo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|granditudo|grandĭtūdo|grāndĭtūdo|5|grāndĭtūdĭn||ĭnis, f.
+LS|
+GG|granditudo|grandĭtūdo|ĭnis|f.||grandeur|granditudo|
+GJ|granditudo|grandĭtūdo|ĭnis, f. [grandis]|grandeur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gravamen|grăvāmĕn|grăvāmĕn|7|grăvāmĭn||ĭnĭs, n.
+LS|gravamen|grăvāmen|ĭnis|n.||trouble, physical inconvenience|gravamen|0
+GG|gravamen|grăvāmĕn|ĭnis|n.|S.|incommodité|gravamen|grăvāmĕn
+GJ|gravamen|grăvāmĕn|ĭnĭs, n. [gravo]|incommodité.
+Ge|gravamen|gravāmen|inis, n.|die Beschwerlichkeit, drückende Last
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gravedo|grăvēdo|grăvēdo|5|grăvēdĭn||ĭnis, f.
+LS|gravedo|grăvēdo|ĭnis|f.||Heaviness, cold, catarrh, heaviness in the head produced by intoxication|gravedo|0
+GG|gravedo|grăvēdo|ĭnis|f.|part.|lourdeur des membres, de la tête, pesanteurs / [en part.] coryza, enchifrènement / gestation [de la femme]|gravedo|
+GJ|gravedo|grăvĕdo|ĭnis, f. [gravis]|1 - lourdeur des membres, de la tête, pesanteurs. 2 - coryza, enchifrénement. 3 - gestation [de la femme].
+Ge|gravedo|gravēdo|inis, f.|die Schwere - die Schwere - Schwere der Glieder - die Schwere- - das Eingenommensein des Kopfes - die Betäubung - der Stockschnupfen - die Leibesschwere
+FG|gravedo|gravedo inis féminin (gravis), lourdeur des membres, de la tête, pesanteurs ; coryza, rhume.
+Lw|gravedo|gravēdō|inis|f||a cold, catarrh||||gravedo
+YO|
+PO|gravedo|grave_do_, grave_dinis : f
+WW||||
+|gravitudo|grăvĭtūdo|grăvĭtūdo|5|grăvĭtūdĭn||ĭnis, f.
+LS|gravitudo|grăvĭtūdo|ĭnis|f.||a cold in the head, catarrh|gravitudo|0
+GG|gravitudo|grăvĭtūdo|ĭnis|f.||c. gravedo|gravitudo|
+GJ|gravitudo|grăvĭtūdo||c. gravedo.
+Ge|gravitudo|gravitūdo|inis, f.|die Beschwerde - das Leiden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|grossitudo|grossĭtūdo|grōssĭtūdo|5|grōssĭtūdĭn||ĭnis, f.
+LS|grossitudo|grossĭtūdo|ĭnis|f.||thickness|grossitudo|0
+GG|grossitudo|grossĭtūdo|ĭnis|f.||grosseur, épaisseur|grossitudo|
+GJ|grossitudo|grossĭtūdo|ĭnis, f.|grosseur, épaisseur.
+Ge|grossitudo|grossitūdo|inis, f.|die Dicke
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gumen|gūmĕn|gūmĕn|7|gūmĭn||ĭnĭs, n.
+LS|gumen|gūmen|ĭnis|n.||gum|gumen|0
+GG|gumen|gūmĕn|ĭnis|n.||gomme|gumen|
+GJ|gumen|gūmĕn|ĭnĭs, n.|gomme.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|habitudo|hăbĭtūdo|hăbĭtūdo|5|hăbĭtūdĭn||ĭnis, f.
+LS|habitudo|hăbĭtūdo|ĭnis|f.|P. a.|condition, plight, habit, appearance, figure|habitudo|0
+GG|habitudo|hăbĭtūdo|ĭnis|f.||manière d'être, état, extérieur|habitudo|
+GJ|habitudo|hăbĭtūdo|ĭnis, f. (= habitus)|manière d'être, état, extérieur, apparence.
+Ge|habitudo|habitūdo|inis, f.|Gestalt - das Äußere
+FG|
+Lw|habitudo|habitūdō|inis|f||condition, appearance||||habitudo
+YO|
+PO|
+WW||||
+|halcedo|halcēdo|hālcēdo|5|hālcēdĭn||ĭnis, f. (= alcyon)
+LS|halcedo|halcēdo|ĭnis||||halcedo|and 
+GG|halcedo|halcēdo||||v. alcedo.|halcedo|
+GJ|halcedo|halcēdo|ĭnis, f. (= alcyon)|alcyon (oiseau de mer).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|heritudo|hērĭtūdo|hērĭtūdo|5|hērĭtūdĭn||ĭnis, f.
+LS|heritudo|hērĭtūdo|||||heritudo|v eritudo.
+GG|heritudo|hĕrĭtūdo|ĭnis|f.||puissance de maître / esclavage|heritudo|
+GJ|heritudo|hērĭtŭdo|ĭnis, f.|- 1 - puissance de maître. - 2 - esclavage, servitude.
+Ge|heritudo|hēritūdo|inis, f.|die Herrschaft
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hesperugo|hespĕrūgo|hēspĕrūgo|5|hēspĕrūgĭn||ĭnis, f.
+LS|hesperugo|hespĕrūgo|ĭnis|f.||the evening star|hesperugo|0
+GG|hesperugo|hespĕrūgo|ĭnis|f.||étoile du soir|hesperugo|
+GJ|hesperugo|hespĕrūgo|ĭnis, f. [hesperus]|étoile du soir.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hilaritudo|hĭlărĭtūdo|hĭlărĭtūdo|5|hĭlărĭtūdĭn||ĭnis, f.
+LS|hilaritudo|hĭlărĭtūdo|ĭnis|f.||cheerfulness, merriment|hilaritudo|0
+GG|hilaritudo|hĭlărĭtūdo|ĭnis|f.||c. hilaritas|hilaritudo|
+GJ|hilaritudo|hĭlărĭtūdo|ĭnis, f.|c. hilaritas.
+Ge|hilaritudo|hilaritūdo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hirudo|hĭrūdo|hĭrūdo|5|hĭrūdĭn||ĭnis, f.
+LS|hirudo|hĭrūdo|ĭnis|f.||a leech, blood-sucker|hirudo|0
+GG|hirudo|hĭrūdo|ĭnis|f.||sangsue|hirudo|
+GJ|hirudo|hĭrūdo|ĭnis, f.|sangsue.
+Ge|hirudo|hirūdo|dinis, f.|der Blutegel
+FG|hirudo|hirudo inis féminin, sangsue.
+Lw|hirudo|hirūdō|inis|f||a leech, blood-sucker||||hirudo
+YO|
+PO|hirudo|hiru_do_, hiru_dinis : f
+WW||||
+|honestitudo|hŏnestĭtūdo|hŏnēstĭtūdo|5|hŏnēstĭtūdĭn||ĭnis, f.
+LS|honestitudo|hŏnestĭtūdo|ĭnis|f.||honorableness, virtue|honestitudo|0
+GG|honestitudo|hŏnestĭtūdo|ĭnis|f.||considération|honestitudo|
+GJ|
+Ge|honestitudo|honestitūdo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hortamen|hortāmen|hōrtāmen|7|hōrtāmĭn||ĭnĭs, n.
+LS|hortamen|hortāmen|ĭnis|n.||an incitement, encouragement, exhortation|hortamen|0
+GG|hortamen|hortāmen|ĭnis|n.|S.|exhortation, encouragement|hortamen|hortāmen
+GJ|hortamen|hortamĕn|ĭnĭs, n.|exhortation.
+Ge|hortamen|hortāmen|inis, n.|das Ermunterungsmittel - die Ermunterung
+FG|hortamen|hortamen inis neutre et hortamentum i neutre (hortor), exhortation, encouragement.
+Lw|hortamen|hortāmen|inis|n||an incitement, encouragement, exhortation||||hortamen
+YO|
+PO|hortamen|horta_men, horta_minis : n
+WW||||
+|imitamen|ĭmĭtāmĕn|ĭmĭtāmĕn|7|ĭmĭtāmĭn||ĭnĭs, n.
+LS|imitamen|ĭmĭtāmen|ĭnis|n.||imitation;, a resemblance, likeness, imitation, image|imitamen|0
+GG|imitamen|ĭmĭtāmĕn|ĭnis|n.|S.|imitation, copie|imitamen|ĭmĭtāmĕn
+GJ|imitamen|ĭmĭtāmĕn|ĭnĭs, n.|c. imitamentum.
+Ge|imitamen|imitāmen|minis, n.|die Nachahmung, Kopie
+FG|imitamen|imitamen inis neutre ou -mentum i neutre, imitation, copie.
+Lw|imitamen|imitāmen|inis|n||an imitation, likeness, image||||imitamen
+YO|
+PO|imitamen|imita_men, imita_minis : n
+WW||||
+|incertitudo|incertĭtūdo|īncērtĭtūdo|5|īncērtĭtūdĭn||ĭnis, f.
+LS|
+GG|incertitudo|incertĭtūdo|ĭnis|f.||incertitude|incertitudo|
+GJ|
+Ge|incertitudo|incertitūdo|inis, f.|die Ungewißheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ineptitudo|ĭneptĭtūdo|ĭnēptĭtūdo|5|ĭnēptĭtūdĭn||ĭnis, f.
+LS|ineptitudo|ĭneptĭtūdo|ĭnis|f.||absurdity|ineptitudo|0
+GG|ineptitudo|ĭneptĭtūdo|ĭnis|f.||c. ineptia|ineptitudo|
+GJ|ineptitudo|ĭneptitūdo|ĭnis, f.|c. ineptia.
+Ge|ineptitudo|ineptitūdo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inertitudo|ĭnertĭtūdo|ĭnērtĭtūdo|5|ĭnērtĭtūdĭn||ĭnis, f.
+LS|
+GG|inertitudo|ĭnertĭtūdo|ĭnis|f.||inertie|inertitudo|
+GJ|inertitudo|ĭnertĭtūdo|ĭnis, f.|inertie.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inflamen|inflāmen|īnflāmen|7|īnflāmĭn||ĭnĭs, n.
+LS|inflamen|inflāmen|ĭnis|n.||a state of inflation, puffing out|inflamen|0
+GG|inflamen|inflāmen|ĭnis|n.||action de gonfler [ses joues]|inflamen|
+GJ|inflamen|inflamĕn|ĭnĭs, n.|action d'enfler (les joues).
+Ge|Inflamen|Inflāmen|inis, n.|das Aufgeblasensein - die Aufschwellung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ingratitudo|ingrātĭtūdo|īngrātĭtūdo|5|īngrātĭtūdĭn||ĭnis, f.
+LS|ingratitudo|ingrātĭtūdo|ĭnis|f.||Unthankfulness, ingratitude|ingratitudo|0
+GG|ingratitudo|ingrātĭtūdo|ĭnis|f.||ingratitude / mécontentement|ingratitudo|
+GJ|ingratitudo|ingrātĭtūdo|ĭnis, f. [ingratus]|- 1 - ingratitude. - 2 - mécontentement.
+Ge|ingratitudo|ingrātitūdo|dinis, f.|die Undankbarkeit - das Mißfallen - die Ungnade
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ingravedo|ingrăvēdo|īngrăvēdo|5|īngrăvēdĭn||ĭnis, f.
+LS|
+GG|ingravedo|ingrăvēdo|ĭnis|f.||ennui, inquiétude|ingravedo|
+GJ|ingravedo|ingrăvēdo|ĭnis, f.|ennui, inquiétude.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inguen|inguĕn|īngụĕn|7|īngụĭn||ĭnĭs, n.
+LS|inguen|inguen|inis|n.|||inguen|0
+GG|inguen|inguĕn|ĭnis|n.||aine / bas-ventre / les parties naturelles / tumeur à l'aine / point d'attache d'une branche au tronc|inguen|
+GJ|inguen|inguĕn|ĭnĭs, n.|1 - aine. 2 - bas-ventre. 3 - les parties naturelles. 4 - tumeur à l'aine. 5 - point d'attache d'une branche au tronc.
+Ge|inguen|inguen|inis, n.|die Dünne - die Dünnen, Weichen, Leistengegend, Schamseiten - der Unterleib - das Schamglied - die Schamteile - Geschwulst in der Schamgegend
+FG|inguen|inguen inis neutre, aine ; bas-ventre.
+Lw|inguen|inguen|inis|n||the groin, A swelling, tumor.&mdash;The privy parts||||inguen
+YO|
+PO|inguen|inguen, inguinis : n
+WW||||
+|inquietudo|inquĭētūdo|īnqụĭētūdo|5|īnqụĭētūdĭn||ĭnis, f.
+LS|inquietudo|inquĭētūdo|ĭnis|f.||restlessness, disquietude.|inquietudo|0
+GG|inquietudo|inquĭētūdo|ĭnis|f.||agitation / fièvre|inquietudo|
+GJ|inquietudo|inquĭētūdo|ĭnis, f.|- 1 - agitation. - 2 - trouble, inquiétude.
+Ge|inquietudo|inquiētūdo|dinis, f.|die Unruhe - die Beunruhigung, Belästigung, Anfechtung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insuetudo|insuētūdo|īnsŭētūdo|5|īnsŭētūdĭn||ĭnis, f.
+LS|insuetudo|insuētūdo|ĭnis|f.||a being unaccustomed to|insuetudo|0
+GG|insuetudo|insuētūdo|ĭnis|f.||défaut d'habitude|insuetudo|
+GJ|insuetudo|insuētūdo|ĭnis, f.|Spart. défaut d'habitude.
+Ge|Insuetudo|Insuētūdo|inis, f.|das Ungewohnte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|integritudo|intĕgrĭtūdo|īntĕgrĭtūdo|5|īntĕgrĭtūdĭn||ĭnis, f.
+LS|integritudo|intĕgrĭtūdo|inis|f.||soundness, integrity|integritudo|0
+GG|integritudo|intĕgrĭtūdo|ĭnis|f.||désintéressement|integritudo|
+GJ|integritudo|intĕgrĭtūdo|ĭnis, f.|intégrité, désintéressement.
+Ge|integritudo|integritūdo|inis, f.|die Unverdorbenheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|intercapedo|intercăpēdo|īntērcăpēdo|5|īntērcăpēdĭn||ĭnis, f.
+LS|intercapedo|intercăpēdo|ĭnis|f.||an interruption, intermission, interval, pause, respite, nom. sing.|intercapedo|0
+GG|intercapedo|intercăpēdo|ĭnis|f.||intervalle, interruption, relâche, suspension|intercapedo|
+GJ|intercapedo|intercăpēdo|ĭnis, f. [intercapio]|intervalle, interruption, relâche, suspension.
+Ge|intercapedo|intercapēdo|inis, f.|die Unterbrechung
+FG|intercapedo|intercapedo inis, féminin (intercapio), intervalle, interruption, relâche, suspension.
+Lw|intercapedo|intercapēdō|īnis|f||an interruption, interval, respite||||intercapedo
+YO|
+PO|
+WW||||
+|intercisimen|intercīsīmĕn|īntērcīsīmĕn|7|īntērcīsīmĭn||ĭnĭs, n.
+LS|intercisimen|intercīsīmen|ĭnis|n.||a cutting through, intersection|intercisimen|0
+GG|
+GJ|intercisimen|intercīsīmĕn|ĭnĭs, n.|section, coupure.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|intertrigo|intertrīgo|īntērtrīgo|5|īntērtrīgĭn||ĭnis, f.
+LS|intertrigo|intertrīgo|ĭnis|f.||a chafing, fretting, galling of the skin|intertrigo|0
+GG|intertrigo|intertrīgo|ĭnis|f.||écorchure, excoriation|intertrigo|
+GJ|intertrigo|intertrīgo|ĭnis, f. [inter + tero]|écorchure, excoriation.
+Ge|intertrigo|intertrīgo|trīginis, f.|ein Wolf
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|invaletudo|invălētūdo|īnvălētūdo|5|īnvălētūdĭn||ĭnis, f.
+LS|invaletudo|invălētūdo|inis|f.||infirmity, indisposition, sickness|invaletudo|0
+GG|invaletudo|invălētūdo|ĭnis|f.||mauvaise santé|invaletudo|
+GJ|invaletudo|invaletūdo|ĭnis, f.|mauvaise santé.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|invalitudo|invălĭtūdo|īnvălĭtūdo|5|īnvălĭtūdĭn||ĭnis, f.
+LS|
+GG|invalitudo|invălĭtūdo||||v. invaletudo.|invalitudo|
+GJ|invalitudo|invălĭtūdo|ĭnis, f.|mauvaise santé.
+Ge|invalitudo|invalitūdo|inis, f.|die Schwäche, Kränklichkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|involumen|invŏlūmĕn|īnvŏlūmĕn|7|īnvŏlūmĭn||ĭnis, n.
+LS|involumen|invŏlūmen|ĭnis|n.||a wrapper, cover|involumen|0
+GG|involumen|invŏlūmĕn|ĭnis|n.||enveloppe|involumen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|juvamen|jŭvāmĕn|jŭvāmĕn|7|jŭvāmĭn||ĭnis, n.
+LS|juvamen|jŭvāmen|ĭnis|n.||help, aid. assistance|juvamen|0
+GG|juvamen|jŭvāmĕn|ĭnis|n.||secours, aide, assistance|juvamen|
+GJ|juvamen|jŭvāmĕn|ĭnĭs (jŭvāmentum, i), n.|aide, secours, assistance.
+Ge|iuvamen|iuvāmen|inis, n.|die Hilfe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|karthago|Karthāgo|Kārthāgo|5|Kārthāgĭn||ĭnis, f.
+LS|Karthago|Karthāgo|||||Karthago|v. Carthago.
+GG|Karthago|Karthāgo|ĭnis|f.|S.|Carthage|1 Carthago|Kar-
+GJ|Karthago|Karthāgo||v. Carthago.
+Ge|
+FG|Karthago|Karthago, cf. Carthago
+Lw|
+YO|
+PO|
+WW||||
+|lactilago|lactĭlāgo|lāctĭlāgo|5|lāctĭlāgĭn||ĭnis, f.
+LS|lactilago|lactĭlāgo|ĭnis|f.||a plant|lactilago|0
+GG|lactilago|lactĭlāgo|ĭnis|f.||c. chamaedaphne|lactilago|
+GJ|lactilago|lactĭlāgo|ĭnis, f. (chamaedaphne)|Apul. pervenche (plante).
+Ge|lactilago|lactilāgo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laetamen|laetāmen|lāetāmen|7|lāetāmĭn||ĭnĭs, n.
+LS|laetamen|laetāmen|ĭnis|n.||dung, manure|laetamen|0
+GG|laetamen|laetāmen|ĭnis|n.||engrais [en gén.], fumier|laetamen|
+GJ|laetamen|laetamĕn|ĭnĭs, n.|Plin. engrais, fumier.
+Ge|laetamen|laetāmen|inis, n.|der Dünger
+FG|laetamen|laetamen inis neutre, engrais (en général), fumier.
+Lw|
+YO|
+PO|
+WW||||
+|laetitudo|laetĭtūdo|lāetĭtūdo|5|lāetĭtūdĭn||ĭnis, f.
+LS|laetitudo|laetĭtūdo|ĭnis|f.||joy|laetitudo|0
+GG|laetitudo|laetĭtūdo|ĭnis|f.||joie|laetitudo|
+GJ|laetitudo|laetĭtūdo|ĭnis, f.|Att. joie.
+Ge|laetitudo|laetitūdo|inis, f. = laetitia, Acc. tr. 61|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laevitudo|laevĭtūdo|lāevĭtūdo|5|lāevĭtūdĭn||ĭnis, f.
+LS|laevitudo|laevĭtūdo|ĭnis|f.||smoothness|levitudo|(
+GG|
+GJ|laevitudo|laevĭtūdo|ĭnis, f.|le poli.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lampago|lampāgo|lāmpāgo|5|lāmpāgĭn||ĭnis, f.
+LS|
+GG|lampago|lampago|ĭnis|f.||saxifrage [plante]|lampago|
+GJ|lampago|lampago|ĭnis, f.|Apul. saxifrage (plante).
+Ge|lampago|lampāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lappago|lappāgo|lāppāgo|5|lāppāgĭn||ĭnis, f.
+LS|lappago|lappāgo|ĭnis|f.||a plant resembling a bur|lappago|0
+GG|lappago|lappāgo|ĭnis|f.||sorte de bardane|lappago|
+GJ|lappago|lappāgo|ĭnis, f.|Plin. plante ressemblant à la bardane.
+Ge|lappago|lappāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|largitudo|largĭtūdo|lārgĭtūdo|5|lārgĭtūdĭn||ĭnis, f.
+LS|largitudo|largĭtūdo|ĭnis|f.||liberality|largitudo|0
+GG|largitudo|largĭtūdo|ĭnis|f.||c. largitas|largitudo|
+GJ|largitudo|largĭtūdo|ĭnis, f.|c. largitas.
+Ge|largitudo|largitūdo|inis, f.|die Freigebigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lassamen|lassāmĕn|lāssāmĕn|7|lāssāmĭn||ĭnis, n.
+LS|
+GG|lassamen|lassāmĕn|ĭnis|n.||c. lassitudo|lassamen|
+GJ|lassamen|lassāmĕn|ĭnis, n.|N.-Tir. c. lassitudo.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lateramen|lătĕrāmĕn|lătĕrāmĕn|7|lătĕrāmĭn||ĭnĭs, n.
+LS|lateramen|lătĕrāmen|ĭnis|n.||any thing made like bricks|lateramen|0
+GG|lateramen|lătĕrāmĕn|ĭnis|n.||paroi [d'un vase]|lateramen|
+GJ|lateramen|lătĕrāmĕn|ĭnĭs, n.|Lucr. paroi (d'un vase).
+Ge|lateramen|laterāmen|inis, n.|etwas aus Ziegeln Verfertigtes
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laurago|laurāgo|lāurāgo|5|lāurāgĭn||ĭnis, f.
+LS|laurago|laurāgo|ĭnis|f.||a plant of the laurel kind|laurago|0
+GG|laurago|laurāgo|ĭnis|f.||laurier alexandrin|laurago|
+GJ|laurago|laurāgo|ĭnis, f.|laurier alexandrin.
+Ge|laurago|laurāgo|inis, f.|eine lorbeerartige Pflanze
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|legumen|lĕgūmĕn|lĕgūmĕn|7|lĕgūmĭn||ĭnĭs, n.
+LS|legumen|lĕgūmen|ĭnis|n.||pulse, any leguminous plant|legumen|0
+GG|legumen|lĕgūmĕn|ĭnis|n.||légume [surtout légume à cosse, à gousse], légumineuse|legumen|
+GJ|legumen|lĕgūmĕn|ĭnĭs, n.|légume [surtout légume à cosse, à gousse], légumineuse.
+Ge|legumen|legūmen|inis, n.|die Hülsenfrucht
+FG|legumen|legumen inis neutre, légume (surtout légume à cosse, à gousse), légumineuse.
+Lw|legumen|legūmen|inis|n||pulse, a leguminous plant, the bean||||legumen
+YO|
+PO|legumen|legu_men, legu_minis : n
+WW||||
+|lenimen|lēnīmĕn|lēnīmĕn|7|lēnīmĭn||ĭnĭs, n.
+LS|lenimen|lēnīmen|ĭnis|n.||a softening, soothing remedy; an alleviation, mitigation, solace|lenimen|0
+GG|lenimen|lēnīmĕn|ĭnis|n.||adoucissement, consolation|lenimen|
+GJ|lenimen|lēnīmĕn|ĭnĭs, n.|adoucissement, consolation, charme.
+Ge|lenimen|lēnīmen|inis, n.|Linderungsmittel, Linderung, Besänftigung, Beruhigung
+FG|lenimen|lenimen inis neutre (lenio), adoucissement, consolation.
+Lw|lenimen|lēnīmen|inis|n||a soothing remedy, alleviation, mitigation, solace||||lenimen
+YO|
+PO|lenimen|le_ni_men, le_ni_minis : n
+WW||||
+|lenitudo|lēnĭtūdo|lēnĭtūdo|5|lēnĭtūdĭn||ĭnis, f.
+LS|lenitudo|lēnĭtūdo|ĭnis|f.||softness, mildness, gentleness, calmness|lenitudo|0
+GG|lenitudo|lēnĭtūdo|ĭnis|f.||douceur, bonté / douceur du style|lenitudo|
+GJ|lenitudo|lēnĭtūdo|ĭnis, f.|- 1 - douceur (du style). - 2 - douceur (de caractère), bonté.
+Ge|lenitudo|lēnitūdo|inis, f.|die Milde - Sanftmut
+FG|lenitudo|lenitudo inis féminin (lenis), douceur, bonté.
+Lw|lenitudo|lēnitūdō|inis|f||softness, mildness, gentleness, calmness||||lenitudo
+YO|
+PO|
+WW||||
+|lentigo|lentīgo|lēntīgo|5|lēntīgĭn||ĭnis, f.
+LS|lentigo|lentīgo|ĭnis|f.||a lentil-shaped spot|lentigo|0
+GG|lentigo|lentīgo|ĭnis|f.||lentilles, taches de rousseur / [en gén.] taches de la peau|lentigo|
+GJ|lentigo|lentīgo|ĭnis, f.|taches de rousseur; taches sur la peau.
+Ge|lentigo|lentīgo|inis, f.|der linsenförmige Fleck - Sommersprossen
+FG|lentigo|lentigo inis féminin (lens), lentilles, taches de rousseur.
+Lw|
+YO|
+PO|
+WW||||
+|lentitudo|lentĭtūdo|lēntĭtūdo|5|lēntĭtūdĭn||ĭnis, f.
+LS|lentitudo|lentĭtūdo|ĭnis|f.||slowness, sluggishness, inactivity|lentitudo|0
+GG|lentitudo|lentĭtūdo|ĭnis|f.||mollesse, nature flexible / [fig.] lenteur / froideur, langueur [du style] / apathie, indifférence|lentitudo|
+GJ|lentitudo|lentĭtūdo|ĭnis, f.|- 1 - flexibilité, souplesse, viscosité. - 2 - langueur (du style). - 3 - défaut d'énergie, indolence, indifférence, apathie, lenteur.
+Ge|lentitudo|lentitūdo|inis, f.|die Zähigkeit, Biegsamkeit - die Langsamkeit - der Mangel an Rührigkeit - das Schleppende, Steife - die phlegmatische Unempfindlichkeit, -Gelassenheit, -Gleichgültigkeit
+FG|lentitudo|lentitudo inis féminin (lentus), mollesse, nature flexible ; (figuré) lenteur ; apathie, indifférence.
+Lw|lentitudo|lentitūdō|inis|f||sluggishness, dulness, apathy, insensibility||||lentitudo
+YO|
+PO|lentitudo|lentitu_do_, lentitu_dinis : f
+WW||||
+|levamen|lĕvāmĕn|lĕvāmĕn|7|lĕvāmĭn||ĭnĭs, n.
+LS|levamen|lĕvāmen|ĭnis|n.||an alleviation, mitigation, solace, consolation|levamen|0
+GG|levamen|lĕvāmĕn|ĭnis|n.||soulagement|levamen|
+GJ|levamen|lĕvāmĕn|ĭnĭs, n. [lĕvo]|soulagement.
+Ge|levamen|levāmen|inis, n.|Erleichterungs-, Linderungsmittel
+FG|levamen|levamen inis neutre (levo 2), soulagement.
+Lw|levamen|levāmen|inis|n||an alleviation, mitigation, solace, consolation||||levamen
+YO|
+PO|levamen|leva_men, leva_minis : n
+WW||||
+|levitudo|lēvĭtūdo|lēvĭtūdo|5|lēvĭtūdĭn||ĭnis, f.
+LS|levitudo|lēvĭtūdo|ĭnis|f.||smoothness|levitudo|(
+GG|levitudo|lēvĭtūdo|ĭnis|f.||le poli|levitudo|
+GJ|levitudo|lēvĭtūdo|ĭnis, f.|le poli.
+Ge|levitudo|lēvitūdo|inis, f.|die Glätte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|libamen|lībāmĕn|lībāmĕn|7|lībāmĭn||ĭnĭs, n.
+LS|libamen|lībāmen|ĭnis|n.||that which is poured out in offerings to the gods, a drinkoffering, libation|libamen|0
+GG|libamen|lībāmĕn|ĭnis|n.||libation, offrande aux dieux / [fig.] prémices|libamen|
+GJ|libamen|lībāmĕn|ĭnĭs, n. [libo]|- 1 - libation, offrande aux dieux. - 2 - fig. prémices.
+Ge|libamen|lībāmen|inis, n.|der Opferguß - das Opfer
+FG|libamen|libamen inis neutre (libo), libation, offrande aux dieux.
+Lw|libamen|lībāmen|inis|n||a portion offered to the gods, first-fruits, libation, hairs offered in beginning a sacrifice, the first delights||||libamen
+YO|
+PO|libamen|li_ba_men, li_ba_minis : n
+WW||||
+|libramen|lībrāmĕn|lībrāmĕn|7|lībrāmĭn||ĭnĭs, n.
+LS|libramen|lībrāmen|ĭnis|n.||a balance, poise|libramen|0
+GG|libramen|lībrāmĕn|ĭnis|n.||balance [au fig.]|libramen|
+GJ|libramen|lībrāmĕn|ĭnĭs, n.|- 1 - contrepoids. - 2 - action de peser, examen.
+Ge|libramen|lībrāmen|inis, n.|der Schwung - die Schwungkraft - das Gleichgewicht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ligamen|lĭgāmĕn|lĭgāmĕn|7|lĭgāmĭn||ĭnĭs, n.
+LS|ligamen|lĭgāmen|ĭnis|n.||a band, tie, bandage|ligamen|0
+GG|ligamen|lĭgāmĕn|ĭnis|n.||lien, ruban, cordon / bandage, bande|ligamen|
+GJ|ligamen|lĭgāmĕn|ĭnĭs, n. [ligo]|- 1 - lien, ruban, cordon. - 2 - bande, bandage.
+Ge|ligamen|ligāmen|inis, n.|das Band - die Binde - der Verband
+FG|ligamen|ligamen inis neutre (ligo), lien, ruban, cordon ; bandage, bande.
+Lw|ligamen|ligāmen|inis|n||a tie, bandage||||ligamen
+YO|
+PO|ligamen|liga_men, liga_minis : n
+WW||||
+|lignamen|lignāmĕn|līgnāmĕn|7|līgnāmĭn||ĭnĭs, n.
+LS|
+GG|lignamen|lignāmĕn|ĭnis|n.||boiserie|lignamen|
+GJ|lignamen|lignamĕn|ĭnĭs, n.|Inscr. ouvrage en bois.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|linamen|līnāmĕn|līnāmĕn|7|līnāmĭn||ĭnis, n.
+LS|
+GG|linamen|līnāmĕn|ĭnis|n.||objet en lin|linamen|
+GJ|
+Ge|linamen|līnāmen|inis, n. = linamentum|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|linimen|lĭnīmĕn|lĭnīmĕn|7|lĭnīmĭn||ĭnĭs, n.
+LS|linimen|lĭnīmen|ĭnis|n.||grease|linimen|0
+GG|linimen|lĭnīmĕn|ĭnis|n.||liniment|linimen|
+GJ|linimen|lĭnīmĕn|ĭnĭs, n.|liniment.
+Ge|linimen|linīmen|inis, n.|die Schmiere - die Schmiere
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|linteamen|lintĕāmĕn|līntĕāmĕn|7|līntĕāmĭn||ĭnĭs, n.
+LS|linteamen|lintĕāmen|ĭnis|n.||a linen cloth|linteamen|0
+GG|linteamen|lintĕāmĕn|ĭnis|n.||linge|linteamen|
+GJ|linteamen|lintĕamĕn|ĭnĭs, n. [linteum]|linge.
+Ge|linteamen|linteāmen|inis, n.|Leinenzeug, leinene Wäsche - ein leinenes Tuch - ein Leintuch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lippitudo|lippĭtūdo|līppĭtūdo|5|līppĭtūdĭn||ĭnis, f.
+LS|lippitudo|lippĭtūdo|ĭnis|f.||blearedness, rheum, inflammation of the eyes|lippitudo|0
+GG|lippitudo|lippĭtūdo|ĭnis|f.||lippitude, inflammation des yeux, ophthalmie|lippitudo|
+GJ|lippitudo|lippitūdo|ĭnis, f.|inflammation des yeux, écoulement de la chassie.
+Ge|lippitudo|lippitūdo|inis, f.|der Augenfluß - das Augentriefen - die Augenentzündung, Augenliderblennorrhöe, Augenblennorrhöe - schlimme Augen
+FG|lippitudo|lippitudo inis féminin (lippus), inflammation des yeux, ophtalmie.
+Lw|lippitudo|lippitūdō|inis|f||blearedness, rheum, inflammation of the eyes||||lippitudo
+YO|
+PO|
+WW||||
+|litamen|lĭtāmĕn|lĭtāmĕn|7|lĭtāmĭn||ĭnĭs, n.
+LS|litamen|lĭtāmen|ĭnis|n.||a sacrifice|litamen|0
+GG|litamen|lĭtāmĕn|ĭnis|n.||sacrifice, offrande|litamen|
+GJ|litamen|lĭtāmĕn|ĭnĭs, n.|offrande, sacrifice.
+Ge|litamen|litāmen|inis, n.|das Opfer
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|liticen|lĭtĭcĕn|lĭtĭcĕn|5|lĭtĭcĭn||ĭnĭs, m.
+LS|liticen|lĭtĭcen|ĭnis|m.||a clarionblower, trumpeter|liticen|0
+GG|liticen|lĭtĭcĕn|ĭnis|m.||celui qui sonne du lituus|liticen|
+GJ|liticen|lĭtĭcĕn|ĭnĭs, m. [(lituus + cano]|celui qui sonne du lituus.
+Ge|liticen|liticen|inis, m.|der Zinkenbläser
+FG|
+Lw|liticen|liticen|inis|m||a player on the clarion||||liticen
+YO|
+PO|
+WW||||
+|livedo|līvēdo|līvēdo|5|līvēdĭn||ĭnis, f.
+LS|livedo|līvēdo|ĭnis|f.||blueness, lividness|livedo|0
+GG|livedo|līvēdo|ĭnis|f.||tache bleue, marque d'un coup|livedo|
+GJ|livedo|līvēdo|ĭnis, f. [liveo]|tache bleue, marque d'un coup.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|loligo|lōlīgo|lōlīgo|5|lōlīgĭn||ĭnis, f.
+LS|loligo|lōlīgo|ĭnis|f.||the cuttle-fish|loligo|(
+GG|loligo|lōlīgo|ĭnis|f.|S.|sèche, calmar|lolligo|lōlī-
+GJ|loligo|lōlīgo|īnis, f.|calmar, seiche.
+Ge|
+FG|
+Lw|loligo|lōlīgō|see lolligo.|||||||loligo
+YO|
+PO|
+WW||||
+|lolligo|lollīgō|lōllīgō|5|lōllīgĭn||ĭnis, f.
+LS|
+GG|lolligo|lollīgo|ĭnis|f.|S.|sèche, calmar|lolligo|lollīgo
+GJ|lolligo|lollīgo|īnis, f.|calmar, seiche.
+Ge|lolligo|lollīgo|inis, f.|der Blackfisch, Tintenfisch
+FG|lolligo|lolligo, sèche, calmar.
+Lw|lolligo|lollīgō (lōlī-)|inis|f||a cuttle-fish||||lolligo
+YO|
+PO|
+WW||||
+|lucricupido|lū̆crĭcŭpīdo|lū̆crĭcŭpīdo|5|lū̆crĭcŭpīdĭn||ĭnis, f.
+LS|lucricupido|lū̆crīcŭpīdo|ĭnis|f.||the passion for gain|lucricupido|0
+GG|lucricupido|lŭcrĭcŭpīdo|ĭnis|f.||soif du gain, cupidité|lucricupido|
+GJ|lucricupido|lŭcrĭcŭpīdo|ĭnis, f.|Apul. cupidité, soif du gain.
+Ge|lucricupido|lucricupīdo|inis, f.|die Gewinnsucht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|luctamen|luctāmĕn|lūctāmĕn|7|lūctāmĭn||ĭnĭs, n.
+LS|luctamen|luctāmen|ĭnis|n.||a wrestling|luctamen|0
+GG|luctamen|luctāmĕn|ĭnis|n.||lutte / effort, lutte / [fig.] influence [d'un agent chimique]|luctamen|
+GJ|luctamen|luctāmĕn|ĭnĭs, n.|- 1 - lutte (exercice). - 2 - lutte, combat. - 3 - effort.
+Ge|luctamen|luctāmen|inis, n.|das Ringen - der Ringkampf - das Ringen - die Bemühung, Anstrengung - der Vermischung
+FG|luctamen|luctamen inis neutre (luctor), effort, lutte.
+Lw|luctamen|luctāmen|inis|n||a wrestling, toil, exertion||||luctamen
+YO|
+PO|luctamen|lucta_men, lucta_minis : n
+WW||||
+|lumbago|lumbāgo|lūmbāgo|5|lūmbāgĭn||ĭnis, f.
+LS|lumbago|lumbāgo|ĭnis|f.||lumbago|lumbago|0
+GG|lumbago|lumbāgo|ĭnis|f.||faiblesse des reins|lumbago|
+GJ|lumbago|lumbāgo|ĭnis, f.|Fest. faiblesse des reins.
+Ge|lumbago|lumbāgo|inis, f.|die Lendenlähmung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lustrago|lustrāgo|lūstrāgo|5|lūstrāgĭn||ĭnis, f.
+LS|lustrago|lustrāgo|ĭnis|f.||a plant, also called|lustrago|0
+GG|lustrago|lustrāgo|ĭnis|f.||verveine [plante]|lustrago|
+GJ|lustrago|lustrāgo|ĭnis, f.|verveine.
+Ge|lustrago|lustrāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lustramen|lustrāmĕn|lūstrāmĕn|7|lūstrāmĭn||ĭnĭs, n.
+LS|lustramen|lustrāmen|ĭnis|n.||a means of purification|lustramen|0
+GG|lustramen|lustrāmĕn|ĭnis|n.||objet expiatoire|lustramen|
+GJ|lustramen|lustrāmĕn|ĭnĭs, n.|objet expiatoire.
+Ge|lustramen|lūstrāmen|inis, n.|das Reinigungsmittel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lyricen|lўrĭcĕn|lўrĭcĕn|5|lўrĭcĭn||ĭnĭs, m.
+LS|lyricen|lўrĭcen|ĭnis|m.||a luteplayer, lyrist|lyricen|0
+GG|lyricen|lўrĭcĕn|ĭnis|m.||joueur de lyre|lyricen|
+GJ|lyricen|lyrĭcĕn|ĭnĭs, m. [lyra + cano]|Gloss. joueur de lyre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|machinamen|māchĭnāmĕn|māchĭnāmĕn|7|māchĭnāmĭn||ĭnis, n.
+LS|machinamen|māchĭnāmen|ĭnis|n.||a contrivance, device|machinamen|0
+GG|machinamen|māchĭnāmĕn|ĭnis|n.||manigance, machination|machinamen|
+GJ|
+Ge|machinamen|māchināmen|inis, n.|der Kunstgriff
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|macritudo|mā̆crĭtūdo|mā̆crĭtūdo|5|mā̆crĭtūdĭn||ĭnis, f.
+LS|macritudo|mā̆crĭtūdo|ĭnis|f.||leanness, thinness, meagreness|macritudo|0
+GG|macritudo|măcrĭtūdo|ĭnis|||c. macies|macritudo|
+GJ|
+Ge|macritudo|macritūdo|inis, f.|die Magerkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|maestitudo|maestĭtūdo|māestĭtūdo|5|māestĭtūdĭn||ĭnis, f.
+LS|maestitudo|maestĭtūdo|ĭnis|f.||sadness|maestitudo|(
+GG|maestitudo|maestĭtūdo|ĭnis|||c. maestitia|maestitudo|
+GJ|maestitudo|maestĭtūdo|ĭnis, f.|Plaut. Pall. tristesse, abattement, affliction.
+Ge|maestitudo|maestitūdo|inis, f.|die Traurigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|manamen|mānāmĕn|mānāmĕn|7|mānāmĭn||ĭnĭs, n.
+LS|manamen|mānāmen|ĭnis|n.||a flowing|manamen|0
+GG|manamen|mānāmĕn|ĭnis|n.||écoulement|manamen|
+GJ|manamen|mānāmĕn|ĭnĭs, n. [mano]|Aus. écoulement, flux.
+Ge|manamen|mānāmen|inis, n.|die Strömung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|meditamen|mĕdĭtāmĕn|mĕdĭtāmĕn|7|mĕdĭtāmĭn||ĭnĭs, n.
+LS|meditamen|mĕdĭtāmen|ĭnis|n.||a thinking of, a preparation|meditamen|0
+GG|meditamen|mĕdĭtāmĕn|inis|n.||projet|meditamen|
+GJ|meditamen|mĕdĭtāmĕn|ĭnĭs, n.|méditation, projet.
+Ge|meditamen|meditāmen|inis, n.|das Denken - die Vorbereitung, Anstalt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|melligo|mellīgo|mēllīgo|5|mēllīgĭn||ĭnis, f.
+LS|melligo|mellīgo|ĭnis|f.||A honey-like juice, bee-glue, bees'rosin, hive-dross|melligo|0
+GG|melligo|mellĭgo|ĭnis|f.||propolis [matière résineuse employée par les abeilles] / verjus|melligo|
+GJ|melligo|melligo|ĭnis, f.|- 1 - propolis (résine recueillie par les abeilles). - 2 - verjus.
+Ge|melligo|mellīgo|inis, f.|das Bienenharz, Stopfwachs - der noch nicht reife Saft der Trauben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mentigo|mentīgo|mēntīgo|5|mēntīgĭn||ĭnis, f.
+LS|mentigo|mentīgo|ĭnis|f.||a kind of eruption, scab|mentigo|0
+GG|mentigo|mentīgo|ĭnis|f.||tac, maladie des agneaux|mentigo|
+GJ|mentigo|mentīgo|ĭnis, f.|Col. : le tac (maladie des agneaux)
+Ge|mentigo|mentīgo|inis, f.|ein Ausschlag - die Räude
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|miluago2|mīlŭāgo2|mīlŭāgo|5|mīlŭāgĭn||ĭnis, f.
+LS|miluago|milŭāgo|ĭnis|f.||a kind of fish|miluago|(
+GG|miluago|mīlŭāgo|ĭnis|f.|S.|sorte de dorade [poisson de mer]|milvago|mīlŭāgo
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|milvago|mīlvāgo|mīlvāgo|5|mīlvāgĭn||ĭnis, f.
+LS|
+GG|milvago|milvāgo|ĭnis|f.|S.|sorte de dorade [poisson de mer]|milvago|milvāgo
+GJ|milvago|milvago|ĭnis, f.|dorade (poisson).
+Ge|milvago|mīlvāgo|inis, f. = milvus|der Meerweihe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|miseramen|mĭsĕrāmen|mĭsĕrāmen|7|mĭsĕrāmĭn||ĭnis, n.
+LS|miseramen|mĭsĕrāmen|ĭnis|n.||pity, commiseration|miseramen|0
+GG|miseramen|mĭsĕrāmen|ĭnis|n.||compassion, pitié|miseramen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|miseritudo|mĭsĕrĭtūdo|mĭsĕrĭtūdo|5|mĭsĕrĭtūdĭn||ĭnis, f.
+LS|miseritudo|mĭsĕrĭtūdo|ĭnis|f.||wretchedness, misery|miseritudo|0
+GG|miseritudo|mĭsĕrĭtūdo|ĭnis|f.||compassion, pitié / malheur|miseritudo|
+GJ|miseritudo|miseritūdo|ĭnis, f.|compassion, pitié.
+Ge|miseritudo|miseritūdo|inis, f.|das Elend - die Not - das Bemitleiden, Mitleid
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|moderamen|mŏdĕrāmĕn|mŏdĕrāmĕn|7|mŏdĕrāmĭn||ĭnĭs, n.
+LS|moderamen|mŏdĕrāmen|ĭnis|n.||a means of managing, governing, a rudder, helm|moderamen|0
+GG|moderamen|mŏdĕrāmĕn|ĭnis|n.||ce qui sert à diriger, gouvernail / direction, conduite / [fig.] direction des affaires, gouvernement de l'État|moderamen|
+GJ|moderamen|mŏdĕrāmĕn|ĭnĭs, n. [moderor]|- 1 - ce qui sert à gouverner, à diriger, gouvernail. - 2 - conduite, direction, contrôle, gouvernement (de l'Etat), maniement. - 3 - adoucissement.
+Ge|moderamen|moderāmen|inis, n.|ein Mäßigungsmittel - ein Lenkungsmittel - Lenkung, Regierung
+FG|moderamen|moderamen inis neutre (moderor),
+Lw|moderamen|moderāmen|inis|n||a means of managing, rudder, helm, Management, control, the helm of the state||||moderamen
+YO|
+PO|moderamen|modera_men, modera_minis : n
+WW||||
+|modulamen|mŏdŭlāmĕn|mŏdŭlāmĕn|7|mŏdŭlāmĭn||ĭnĭs, n.
+LS|modulamen|mŏdŭlāmen|ĭnis|n.||melody, euphony|modulamen|0
+GG|modulamen|mŏdŭlāmĕn|ĭnis|n.||cadence, harmonie [du style] / harmonie [des astres]|modulamen|
+GJ|modulamen|mŏdŭlāmĕn|ĭnĭs, n.|- 1 - nombre, harmonie (du style). - 2 - chant, mélodie. - 3 - harmonie (des astres).
+Ge|modulamen|modulāmen|inis, n.|das Melodische - die Melodie - der Wohlklang
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|molimen|mōlīmĕn|mōlīmĕn|7|mōlīmĭn||ĭnĭs, n.
+LS|molimen|mōlīmen|ĭnis|n.||a great exertion, effort, endeavor, attempt, undertaking|molimen|0
+GG|molimen|mōlīmĕn|ĭnis|n.||gros effort|molimen|
+GJ|molimen|mŏlīmĕn|ĭnĭs, n.|- 1 - gros efforts, effort vigoureux. - 2 - apprêts considérables. - 3 - grandeur, importance. - 4 - grands airs, l'air important.
+Ge|molimen|mōlīmen|inis, n.|anstrengende Bemühung, gewaltige Anstrengung, gebrauchte Gewalt - der Bau
+FG|molimen|molimen inis neutre (molior), gros effort.
+Lw|molimen|mōlīmen|inis|n||a great exertion, effort, endeavor, attempt, undertaking, of massive structure, burdens of state||||molimen
+YO|
+PO|molimen|mo_li_men, mo_li_minis : n
+WW||||
+|molligo|mollīgo|mōllīgo|5|mōllīgĭn||ĭnis, f.
+LS|molligo|mollīgo|ĭnis||||molligo|0
+GG|molligo|mollīgo|ĭnis|f.||c. mollugo|molligo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mollitudo|mollĭtūdo|mōllĭtūdo|5|mōllĭtūdĭn||ĭnis, f.
+LS|mollitudo|mollĭtūdo|ĭnis|f.||suppleness, flexibility|mollitudo|0
+GG|mollitudo|mollĭtūdo|ĭnis|f.||souplesse, flexibilité [de la voix] / mollesse, qualité de ce qui est mou [au pr.] / douceur, moelleux [au toucher] / [fig.] la douceur, le poli des manières / douceur, séduction|mollitudo|
+GJ|mollitudo|mollĭtūdo|ĭnis, f.|- 1 - souplesse (de la voix). - 2 - mollesse, nature molle. - 3 - délicatesse. - 4 - séduction, attrait (du vice).
+Ge|mollitudo|mollitūdo|inis, f.|die Beweglichkeit, Biegsamkeit - die Biegsamkeit, Geschmeidigkeit - die Weichheit - die Weichheit - die Zartheit - Empfindsamkeit - die Weichlichkeit, Üppigkeit
+FG|mollitudo|mollitudo inis féminin (mollis),
+Lw|mollitudo|mollitūdō|inis|f||suppleness, flexibility, softness, softness, weakness||||mollitudo
+YO|
+PO|
+WW||||
+|mollugo|mollūgo|mōllūgo|5|mōllūgĭn||ĭnis, f.
+LS|mollugo|mollūgo|ĭnis|f.||a variety of the plant|mollugo|0
+GG|mollugo|mollūgo|ĭnis|f.||bardanette [plante]|mollugo|
+GJ|
+Ge|mollugo|mollūgo|f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|momen|mōmĕn|mōmĕn|7|mōmĭn||ĭnĭs, n.
+LS|momen|mōmen|ĭnis|n.||Movement, motion|momen|0
+GG|momen|mōmĕn|ĭnis|n.||action de se mouvoir, mouvement / impulsion / importance|momen|
+GJ|momen|mōmĕn|ĭnĭs, n. [mo(vi)men]|1 - action de se mouvoir, mouvement. 2 - impulsion. 3 - importance. 4 - moment du temps.
+Ge|momen|mōmen|inis, n.|die Bewegung - das Sich-Bewegen - der Zeitlauf - der Bewegungsdruck, Anstoß - das Gewicht - die Bedeutung
+FG|
+Lw|
+YO|
+PO|momen|mo_men, mo_minis : n
+WW||||
+|muccedo|muccēdo|mūccēdo|5|mūccēdĭn||ĭnis, f.
+LS|muccedo|muccēdo|ĭnis|f.||mucus|mucedo|(
+GG|
+GJ|muccedo|muccēdo|ĭnis, f. [mucus]|Apul. morve.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mucedo|mūcēdo|mūcēdo|5|mūcēdĭn||ĭnis, f.
+LS|mucedo|mūcēdo|ĭnis|f.||mucus|mucedo|(
+GG|
+GJ|mucedo|mūcēdo|ĭnis, f. [mucus]|Apul. morve.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mucilago|mūcĭlāgo|mūcĭlāgo|5|mūcĭlāgĭn||ĭnis, f.
+LS|mucilago|mūcĭlāgo|ĭnis|f.||a mouldy, musty juice|mucilago|(
+GG|mucilago|mūcĭlāgo|ĭnis|f.||mucosité|mucilago|
+GJ|mucilago|mūcĭlāgo|ĭnis, f.|Th. Prisc. mucosité.
+Ge|mucilago|mūcilāgo|inis, f.|schleimiger Saft
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mulcedo|mulcēdo|mūlcēdo|5|mūlcēdĭn||ĭnis, f.
+LS|mulcedo|mulcēdo|ĭnis|f.||pleasantness, agreeableness|mulcedo|0
+GG|mulcedo|mulcēdo|ĭnis|f.||charme, douceur|mulcedo|
+GJ|mulcedo|mulcēdo|ĭnis, f.|Gell. attrait, charme, grâce, agrément, douceur.
+Ge|mulcedo|mulcēdo|inis, f.|die Anmut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|munimen|mūnīmĕn|mūnīmĕn|7|mūnīmĭn||ĭnĭs, n.
+LS|munimen|mūnīmen|ĭnis|n.||a defence, fortification, rampart, enclosure|munimen|0
+GG|munimen|mūnīmĕn|inis|n.||tout ce qui garantit, fortification, rempart, retranchement / barrière, haie|munimen|
+GJ|munimen|mūnīmĕn|ĭnĭs, n.|- 1 - fortification, rempart, retranchement. - 2 - tout ce qui protège, abri, barrière, haie.
+Ge|munimen|mūnīmen|inis, n.|ein Befestigungs- - Verwahrungsmittel, Schutzmittel - der Schutz
+FG|munimen|munimen inis neutre (munio), tout ce qui garantit, fortification, rempart, retranchement.
+Lw|munimen|mūnīmen|inis|n||a defence, fortification, rampart, enclosure, against the rains||||munimen
+YO|
+PO|munimen|mu_ni_men, mu_ni_minis : n
+WW||||
+|mustellago|mustellāgo|mūstēllāgo|5|mūstēllāgĭn||ĭnis, f.
+LS|mustellago|mustellāgo|ĭnis|f.||a plant|mustellago|0
+GG|
+GJ|mustellago|mustellago|ĭnis, f.|lauréole (arbrisseau).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mutilago|mŭtĭlāgo|mŭtĭlāgo|5|mŭtĭlāgĭn||ĭnis, f.
+LS|mutilago|mŭtĭlāgo|ĭnis|f.||a plant, also called|mutilago|0
+GG|mutilago|mŭtĭlāgo|ĭnis|f.||fragon [plante]|mutilago|
+GJ|mutilago|mŭtĭlāgo|inis, f.|Apul. c. tithymalus.
+Ge|mutilago|mutilāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nemen|nēmĕn|nēmĕn|7|nēmĭn||ĭnis, n.
+LS|nemen|nēmen|ĭnis|n.||a yarn, thread|Nemea2|0
+GG|nemen|nēmĕn|ĭnis|n.||fil, trame|nemen|
+GJ|
+Ge|nemen|nēmen|inis, n.|das Gewebe, Gespinst
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nigredo|nī̆grēdo|nī̆grēdo|5|nī̆grēdĭn||ĭnis, f.
+LS|nigredo|nī̆grēdo|ĭnis|f.||blackness, black color|nigredo|0
+GG|nigredo|nĭgrēdo|ĭnis|f.||le noir, la couleur noire|nigredo|
+GJ|nigredo|nigredo|ĭnis, f.|le noir, la couleur noire.
+Ge|nigredo|nigrēdo|inis, f.|die Schwärze, schwarze Farbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nigritudo|nī̆grĭtūdo|nī̆grĭtūdo|5|nī̆grĭtūdĭn||ĭnis, f.
+LS|nigritudo|nī̆grĭtūdo|ĭnis|f.||black color, blackness|nigritudo|0
+GG|nigritudo|nĭgrĭtūdo|ĭnis|f.|S.|le noir, la couleur noire, noirceur|nigritia|nĭgrĭtūdo
+GJ|nigritudo|nigritūdo|ĭnis, f.|c. nigritia.
+Ge|nigritudo|nigritūdo|inis, f.|die Schwärze, schwarze Farbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nodamen|nōdāmĕn|nōdāmĕn|7|nōdāmĭn||ĭnĭs, n.
+LS|nodamen|nōdāmen|ĭnis|n.||a knotting, knot|nodamen|0
+GG|nodamen|nōdāmĕn|ĭnis|n.||nouement, noeud|nodamen|
+GJ|nodamen|nōdāmĕn|ĭnĭs, n. [nodo]|nouement, noeud.
+Ge|nodamen|nōdāmen|inis, n.|der Knoten - die Verknüpfung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nonnemo|nonnēmo|nōnnēmo|5|nōnnēmĭn||ĭnis, m.
+LS|nonnemo|nonnēmo|ĭnis|m.||Some, several, many a one|nonnemo|0
+GG|
+GJ|nonnemo|nonnemo|pron. indéf.|voir nemo.
+Ge|
+FG|
+Lw|
+YO|
+PO|nonnemo|no_nne_mo_, no_nne_minis : m/f
+WW||||
+|notamen|nŏtāmĕn|nŏtāmĕn|7|nŏtāmĭn||ĭnĭs, n.
+LS|
+GG|notamen|nŏtāmĕn|ĭnis|n.||moyen de désignation|notamen|
+GJ|notamen|nŏtāmĕn|ĭnĭs, n. [noto]|Diom. moyen de désignation.
+Ge|notamen|notāmen|inis, n.|das Kennzeichen, Merkmal
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|novamen|nŏvāmĕn|nŏvāmĕn|7|nŏvāmĭn||ĭnĭs, n.
+LS|novamen|nŏvāmen|ĭnis|n.||an innovation|novamen|0
+GG|novamen|nŏvāmĕn|ĭnis|n.||innovation|novamen|
+GJ|novamen|novamĕn|ĭnĭs, n.|innovation, nouveauté.
+Ge|novamen|novāmen|inis, n.|die Neuerung, etwas Neues
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|noxitudo|noxĭtūdo|nōxĭtūdo|5|nōxĭtūdĭn||ĭnis, f.
+LS|noxitudo|noxĭtūdo|ĭnis|f.||guilt, offence, crime|noxitudo|0
+GG|noxitudo|noxĭtūdo|ĭnis|f.||faute, crime|noxitudo|
+GJ|noxitudo|noxĭtūdo|ĭnis, f. [noxa]|faute, crime.
+Ge|noxitudo|noxitūdo|inis, f.|die Schuld, Verschuldung - das Verbrechen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nullificamen|nullĭfĭcāmĕn|nūllĭfĭcāmĕn|7|nūllĭfĭcāmĭn||ĭnĭs, n.
+LS|nullificamen|nullĭfĭcāmen|ĭnis|n.||a despising, contempt|nullificamen|0
+GG|nullificamen|nullĭfĭcāmĕn|ĭnis|n.|S.|mépris|nullificamen|nullĭfĭcāmĕn
+GJ|nullificamen|nullificamĕn|ĭnĭs, n.|mépris.
+Ge|nullificamen|nūllificāmen|inis, n.|Geringschätzung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nutamen|nūtāmĕn|nūtāmĕn|7|nūtāmĭn||ĭnĭs, n.
+LS|nutamen|nūtāmen|ĭnis|n.||a nodding, waving|nutamen|0
+GG|nutamen|nūtāmĕn|ĭnis|n.||balancement|nutamen|
+GJ|nutamen|nutamĕn|ĭnĭs, n.|balancement, mouvement égal.
+Ge|nutamen|nūtāmen|inis, n.|das Sich-Neigen, Schwanken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nutrimen|nūtrīmen|nūtrīmen|7|nūtrīmĭn||ĭnĭs, n.
+LS|nutrimen|nūtrīmen|ĭnis|n.||nourishment|nutrimen|0
+GG|nutrimen|nūtrīmen|ĭnis|n.||nourriture|nutrimen|
+GJ|nutrimen|nutrimĕn|ĭnĭs, n.|nourriture.
+Ge|nutrimen|nūtrīmen|inis, n.|das Nahrungsmittel
+FG|
+Lw|nutrimen|nūtrīmen|inis|n||nourishment||||nutrimen
+YO|
+PO|nutrimen|nu_tri_men, nu_tri_minis : n
+WW||||
+|objectamen|objectāmĕn|ōbjēctāmĕn|7|ōbjēctāmĭn||ĭnĭs, n.
+LS|objectamen|objectāmen|ĭnis|n.||an objection, reproach|objectamen|0
+GG|objectamen|objectāmĕn|ĭnis|n.|S.|reproche, accusation|objectamen|objectāmĕn
+GJ|objectamen|objectāmĕn|ĭnĭs, n.|Gloss. reproche, accusation.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oblectamen|oblectāmĕn|ō̆blēctāmĕn|7|ō̆blēctāmĭn||ĭnĭs, n.
+LS|oblectamen|oblectāmen|ĭnis|n.||a delight|oblectamen|0
+GG|oblectamen|oblectāmĕn|ĭnis|n.|S.|amusement, divertissement|oblectamen|oblectāmĕn
+GJ|oblectamen|oblectāmĕn|ĭnĭs, n.|plaisir, charme, divertissement, amusement.
+Ge|oblectamen|oblectāmen|inis, n.|die Ergötzlichkeit - Trost- , Beruhigungsmittel
+FG|oblectamen|oblectamen inis et oblectamentum i neutre (oblecto), amusement, divertissement.
+Lw|oblectamen|(oblectāmen, inis)||n||a delight, sources of consolation||||oblectamen
+YO|
+PO|oblectamen|oblecta_men, oblecta_minis : n
+WW||||
+|occamen|occāmĕn|ōccāmĕn|7|ōccāmĭn||ĭnis, n.
+LS|occamen|occāmen|ĭnis|n.||a harrowing|occamen|0
+GG|occamen|occāmĕn|ĭnis|n.||hersage|occamen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|odoramen|ŏdōrāmĕn|ŏdōrāmĕn|7|ŏdōrāmĭn||ĭnis, n.
+LS|odoramen|ŏdōrāmen|ĭnis|n.||a perfume, spice, balsam|odoramen|0
+GG|odoramen|ŏdōrāmĕn|ĭnis|n.|S.|chose odorante, parfum|odoramen|ŏdōrāmĕn
+GJ|odoramen|ŏdōrāmĕn|ĭnis, n.|parfum, aromate.
+Ge|odoramen|odōrāmen|inis, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oleamen|ŏlĕāmen|ŏlĕāmen|7|ŏlĕāmĭn||ĭnis, n.
+LS|oleamen|ŏlĕāmen|ĭnis||||oleamen|0
+GG|oleamen|ŏlĕāmen|ĭnis|n.|S.|ingrédient où il entre de l'huile|oleamen|ŏlĕāmen
+GJ|
+Ge|oleamen|oleāmen|inis, n.|die Ölsalbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|orbitudo|orbĭtūdo|ōrbĭtūdo|5|ōrbĭtūdĭn||ĭnis, f.
+LS|orbitudo|orbĭtūdo|ĭnis|f.||bereavement, orphanhood|orbitudo|0
+GG|orbitudo|orbĭtūdo|ĭnis|f.||perte de ses enfants|orbitudo|
+GJ|orbitudo|orbĭtūdo|ĭnis, f. [orbus]|Turp. perte de ses enfants.
+Ge|orbitudo|orbitūdo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oscedo|oscēdo|ōscēdo|5|ōscēdĭn||ĭnis, f.
+LS|oscedo|oscēdo|ĭnis|f.||An inclination to yawn|oscedo|0
+GG|oscedo|oscēdo|ĭnis|f.||bâillements fréquents / aphte|oscedo|
+GJ|oscedo|oscēdo|ĭnis, f. [cf. oscito]|1 - bâillements fréquents. 2 - aphte.
+Ge|Oscedo|Oscēdo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oscen|oscĕn|ōscĕn|5|ōscĭn||ĭnis, m.
+LS|oscen|oscen|ĭnis|m.||a singing-bird, a divining-bird|oscen|0
+GG|oscen|oscĕn|ĭnis|m.||oscène [tout oiseau dont le chant servait de présage]|oscen|
+GJ|oscen|oscĕn|ĭnis, m. [obs + cano]|oscène [tout oiseau dont le chant servait de présage].
+Ge|Oscen|Oscen||
+FG|oscen|oscen inis masculin (obs cano), oscène.
+Lw|oscen|ōscen|inis|m||a singing-bird, divining bird, bird of augury||||oscen
+YO|
+PO|oscen|oscen, oscinis : m
+WW||||
+|osmen|osmĕn|ōsmĕn|7|ōsmĭn||ĭnis, n.
+LS|osmen|osmen|ĭnis|n.||a foreboding, prognostic, sign, token, omen, I take it as a good omen|omen|(old form 
+GG|osmen|osmĕn||||[arch.], v. omen|osmen|
+GJ|osmen|osmĕn||c. omen.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ossilago|ossĭlāgo|ōssĭlāgo|5|ōssĭlāgĭn||ĭnis, f.
+LS|ossilago|ossĭlāgo|ĭnis|f.||a hardness as of bone, a bony hardness|ossilago|0
+GG|ossilago|ossĭlāgo|ĭnis|f.||cal, tumeur dure|ossilago|
+GJ|
+Ge|ossilago|ossilāgo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ostentamen|ostentāmĕn|ōstēntāmĕn|7|ōstēntāmĭn||ĭnĭs, n.
+LS|ostentamen|ostentāmen|ĭnis|n.||show, display|ostentamen|0
+GG|ostentamen|ostentāmĕn|ĭnis|n.||ostentation|ostentamen|
+GJ|ostentamen|ostentāmĕn|ĭnĭs, n.|ostentation.
+Ge|ostentamen|ostentāmen||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ostigo|ostīgo|ōstīgo|5|ōstīgĭn||ĭnis, f.
+LS|ostigo|ostīgo|ĭnis|f.||a kind of eruption, scab on lambs, also called|ostigo|0
+GG|ostigo|ostīgo|ĭnis|f.||dartre à la figure|ostigo|
+GJ|
+Ge|ostigo|ostīgo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ostriago|ostrĭāgo|ōstrĭāgo|5|ōstrĭāgĭn||ĭnis, f.
+LS|ostriago|ostrĭāgo|ĭnis|f.||a plant|ostriago|0
+GG|ostriago|ostrĭāgo|ĭnis|f.||garance [sorte d'herbe]|ostriago|
+GJ|
+Ge|ostriago|ostriāgo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|paenitudo|paenĭtūdo|pāenĭtūdo|5|pāenĭtūdĭn||ĭnis, f.
+LS|paenitudo|paenĭtūdo|ĭnis|f.||repentance|paenitudo|0
+GG|paenitudo|paenĭtūdo|ĭnis|f.||repentir, regret|paenitudo|
+GJ|paenitudo|paenĭtūdo|ĭnis, f. [paeniteo]|repentir, regret.
+Ge|paenitudo|paenitūdo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|palpamen|palpāmĕn|pālpāmĕn|7|pālpāmĭn||ĭnis, n.
+LS|palpamen|palpāmen|ĭnis|n.||a stroking, caressing|palpamen|0
+GG|palpamen|palpāmĕn|ĭnis|n.||c. palpamentum|palpamen|
+GJ|palpamen|palpamĕn|ĭnĭs (palpamentum, i), n.|attouchement, caresse.
+Ge|palpamen|palpāmen||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|partitudo|partĭtūdo|pārtĭtūdo|5|pārtĭtūdĭn||ĭnis, f.
+LS|partitudo|partĭtūdo|ĭnis|f.||a bearing, bringing forth, parturition|partitudo|0
+GG|partitudo|partĭtūdo|ĭnis|f.||accouchement|partitudo|
+GJ|partitudo|partĭtūdo|ĭnis, f.|Plaut. accouchement.
+Ge|partitudo|partitūdo|inis, f.|das Gebären
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peccamen|peccāmĕn|pēccāmĕn|7|pēccāmĭn||ĭnĭs, n.
+LS|peccamen|peccāmen|ĭnis|n.||a fault, sin|peccamen|0
+GG|peccamen|peccāmĕn|ĭnis|n.||péché|peccamen|
+GJ|peccamen|peccamĕn|ĭnĭs, n.|péché.
+Ge|peccamen|peccāmen|inis, n.|der Fehler - die Sünde
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pecten|pecten|pēcten|5|pēctĭn||ĭnĭs, m.
+LS|pecten|pecten|ĭnis|m.||a comb.|pecten|0
+GG|pecten|pecten|ĭnis|m.||peigne / peigne [dans le tissage] / [fig.] = l'art de peigner / carde / râteau / plectre [de lyre] / [fig.] lyre / chant / peigne de mer / poils sur le pubis / les os pubis / veines [du bois] / [fig.] disposition en forme de peigne / danse où les danseurs s'entrecroisent|pecten|
+GJ|pecten|pectĕn|ĭnĭs, m.|- 1 - peigne (pour les cheveux). - 2 - peigne (de tisserand); tissage. - 3 - carde, peigne de cardeur. - 4 - râteau (de faneur). - 5 - herse à dents de fer (pour les moissonneurs). - 6 - plectre (de la lyre), lyre. - 7 - pétoncle, peigne de mer (coquillage). - 8 - danse où les danseurs se croisent. - 9 - tout ce qui a la forme d'un peigne : veine (d'un arbre)...
+Ge|pecten|pecten|inis, m.|der Kamm - der Kamm - der Weberkamm - das Weberblatt - die Weberkunst - das Weben - die Riffel, Raufe, Krempel - der Rechen - die Harke - die kammförmige Reihe - das Zusammenfalten - das Verschlingen - die Ringe, Adern - die Schamhaare - das Schambein - ein Tanz - der Griffel - die Laute - das Lied - die Kammuschel - Nadelkerbel, Hechelkamm
+FG|pecten|pecten inis masculin (pecto),
+Lw|pecten|pecten|inis|m||a comb, interlocked, The reed, sley, A comb, card, heckle, A rake, An instrument for striking the strings of the lyre, in distiches, A kind of shell-fish, scallop||||pecten
+YO|
+PO|pecten|pecten, pectinis : m
+WW||||
+|pedamen|pĕdāmĕn|pĕdāmĕn|7|pĕdāmĭn||ĭnĭs, n.
+LS|pedamen|pĕdāmen|ĭnis||||pedamen|0
+GG|pedamen|pĕdāmĕn|ĭnis|n.|S.|échalas|pedamen|pĕdāmĕn
+GJ|pedamen|pedamĕn|ĭnĭs, n.|échalas.
+Ge|pedamen|pedāmen|inis, n.|
+FG|pedamen|pedamen inis neutre et pedamentum i neutre (pedo), échalas.
+Lw|
+YO|
+PO|
+WW||||
+|pendigo|pendīgo|pēndīgo|5|pēndīgĭn||ĭnis, f.
+LS|pendigo|pendīgo|inis|f.||an internal tumor, abscess|pendigo|0
+GG|pendigo|pendīgo|ĭnis|f.||abcès / la carcasse d'une statue|pendigo|
+GJ|
+Ge|pendigo|pendīgo|inis, f.|ein innerer Schaden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perflamen|perflāmĕn|pērflāmĕn|7|pērflāmĭn||ĭnĭs, n.
+LS|perflamen|perflāmen|ĭnis|n.||a blowing through, a blast, breath|perflamen|0
+GG|perflamen|perflāmĕn|ĭnis|n.||souffle|perflamen|
+GJ|perflamen|perflamĕn|ĭnĭs, n.|souffle, inspiration.
+Ge|perflamen|perflāmen|inis, n.|das Durchwehen - der Wind
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perperitudo|perpĕrĭtūdo|pērpĕrĭtūdo|5|pērpĕrĭtūdĭn||ĭnis, f.
+LS|perperitudo|perpĕrĭtūdo|ĭnis|f.||heedlessness, thoughtlessness|perperitudo|0
+GG|perperitudo|perpĕrĭtūdo|ĭnis|f.||perversité|perperitudo|
+GJ|
+Ge|perperitudo|perperitūdo|inis, f.|das fehlerhafte Betragen - die Unbesonnenheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|petigo|pĕtīgo|pĕtīgo|5|pĕtīgĭn||ĭnis, f.
+LS|petigo|pĕtīgo|ĭnis|f.||a scab, an eruption|petigo|0
+GG|petigo|pĕtīgo|ĭnis|f.||c. impetigo|petigo|
+GJ|petigo|pĕtīgo|ĭnis, f. (c. impetigo)|dartre.
+Ge|petigo|petīgo|inis, f.|die Räude
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|petimen|pĕtīmĕn|pĕtīmĕn|7|pĕtīmĭn||ĭnis, n.
+LS|petimen|pĕtĭmen|ĭnis|n.||a sore on the shoulder|petimen|0
+GG|petimen|pĕtīmĕn|ĭnis|n.||ulcère à l'épaule des bêtes de somme|petimen|
+GJ|petimen|pĕtīmĕn|ĭnis, n.|ulcère à l'épaule des bêtes de somme.
+Ge|petimen|petimen|inis, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|piamen|pĭāmĕn|pĭāmĕn|7|pĭāmĭn||ĭnĭs, n.
+LS|piamen|pĭāmen|ĭnis|n.||a means of expiation, an atonement|piamen|0
+GG|piamen|pĭāmĕn|ĭnis|n.||expiation, sacrifice expiatoire|piamen|
+GJ|piamen|pĭāmĕn|ĭnĭs, n.|c. piamentum.
+Ge|piamen|piāmen|inis, n.|ein Versöhnungsmittel
+FG|
+Lw|piamen|piāmen|inis|n||a means of expiation, atonement||||piamen
+YO|
+PO|piamen|pia_men, pia_minis : n
+WW||||
+|pigredo|pī̆grēdo|pī̆grēdo|5|pī̆grēdĭn||ĭnis, f.
+LS|pigredo|pī̆grēdo|ĭnis|f.||sloth fulness, indolence|pigredo|0
+GG|pigredo|pĭgrēdo|ĭnis|f.||paresse|pigredo|
+GJ|pigredo|pĭgrēdo|ĭnis, f.|paresse.
+Ge|pigredo|pigrēdo|inis, f.|die Trägheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pinguamen|pinguāmĕn|pīngụāmĕn|7|pīngụāmĭn||ĭnĭs, n.
+LS|pinguamen|pinguāmen|ĭnis|n.||fat|pinguamen|0
+GG|pinguamen|pinguāmĕn|ĭnis|n.||graisse|pinguamen|
+GJ|pinguamen|pinguamĕn|ĭnĭs, n.|graisse.
+Ge|pinguamen|pinguāmen|inis, n.|das Fett - die Fettigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pinguedo|pinguēdo|pīngụēdo|5|pīngụēdĭn||ĭnis, f.
+LS|pinguedo|pinguēdo|ĭnis|f.||fatness, fat|pinguedo|0
+GG|pinguedo|pinguēdo|ĭnis|f.||graisse, embonpoint / graisse (matière grasse) / consistance|pinguedo|
+GJ|pinguedo|pinguedo|ĭnis, f.|- 1 - graisse, emponpoint, obésité. - 2 - nature onctueuse, consistance.
+Ge|pinguedo|pinguēdo|inis, f.|die Fettigkeit - das Fettsein - das Fett - die Dichtheit, dicke Beschaffenheit
+FG|pinguedo|pinguedo inis féminin, graisse, embonpoint.
+Lw|
+YO|
+PO|
+WW||||
+|pinguitudo|pinguĭtūdo|pīngụĭtūdo|5|pīngụĭtūdĭn||ĭnis, f.
+LS|pinguitudo|pinguĭtūdo|ĭnis|f.||fatness, richness, coarseness, rankness.|pinguitudo|0
+GG|pinguitudo|pinguĭtūdo|ĭnis|f.||graisse, embonpoint / nature grasse, visqueuse, résineuse / [fig.] prononciation lourde, trop appuyée|pinguitudo|
+GJ|pinguitudo|pinguitūdo|ĭnis, f.|- 1 - graisse, embonpoint. - 2 - nature grasse, nature résineuse, nature onctueuse, nature résineuse. - 3 - prononciation trop appuyée, ampleur (du son).
+Ge|pinguitudo|pinguitūdo|inis, f.|die Fettigkeit - die Dichtheit, dicke Beschaffenheit - die Grellheit - die Plumpheit (Derbheit) - der Aussprache - die allzu plumpe (derbe) Aussprache
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pissago|pissāgo|pīssāgo|5|pīssāgĭn||ĭnis, f.
+LS|
+GG|pissago|pissāgo|ĭnis|f.||poix fondue|pissago|
+GJ|pissago|pissago|ĭnis, f.|Gloss. poix fondue.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|placamen|plācāmĕn|plācāmĕn|7|plācāmĭn||ĭnĭs, n.
+LS|placamen|plācāmen|ĭnis|n.||a means of pacifying, appeasing, a lenitive|placamen|0
+GG|placamen|plācāmĕn|ĭnis|n.|S.|moyen d'apaiser|placamen|plācāmĕn
+GJ|placamen|plācāmĕn|ĭnĭs, n.|moyen d'apaiser, moyen de fléchir.
+Ge|placamen|plācāmen|inis, n.|das Besänftigungs-, Versöhnungsmittel - die Sühnung
+FG|placamen|placamen inis neutre (placo), moyen d'apaiser.
+Lw|placamen|plācāmen|inis|n||a means of conciliation||||placamen
+YO|
+PO|
+WW||||
+|planitudo|plānĭtūdo|plānĭtūdo|5|plānĭtūdĭn||ĭnis, f.
+LS|planitudo|plānĭtūdo|ĭnis|f.||evenness, levelness|planitudo|0
+GG|planitudo|plānĭtūdo|ĭnis|f.||surface plane|planitudo|
+GJ|planitudo|plānĭtūdo|ĭnis, f.|surface plane.
+Ge|planitudo|plānitūdo|inis, f.|die Ebene
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|plantago|plantāgo|plāntāgo|5|plāntāgĭn||ĭnis, f.
+LS|plantago|plantāgo|ĭnis|f.||a plantain|plantago|0
+GG|plantago|plantāgo|ĭnis|f.||plantain [sorte de plante]|plantago|
+GJ|plantago|plantāgo|ĭnis, f.|plantain.
+Ge|plantago|plantāgo|inis, f.|der Wegerich - das Wegebreit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|plenitudo|plēnĭtūdo|plēnĭtūdo|5|plēnĭtūdĭn||ĭnis, f.
+LS|plenitudo|plēnĭtūdo|ĭnis|f.||a being full, fulness, plenitude|plenitudo|0
+GG|plenitudo|plēnĭtūdo|ĭnis|f.||grosseur / développement complet [de l'homme] / ce qui remplit / [fig.] plénitude, son plein|plenitudo|
+GJ|plenitudo|plēnitūdo|ĭnis, f. [plenus]|- 1 - grosseur. - 2 - développement complet [de l'homme]. - 3 - ce qui remplit. - 4 - plénitude, son plein.
+Ge|plenitudo|plēnitūdo|inis, f.|die Fülle, Stärke, Dicke - die Vollständigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|plumbago|plumbāgo|plūmbāgo|5|plūmbāgĭn||ĭnis, f.
+LS|plumbago|plumbāgo|ĭnis|f.||A species of lead ore, black-lead, plumbago, also called|plumbago|0
+GG|plumbago|plumbāgo|ĭnis|f.||plombagine ou mine de plomb / tache couleur de plomb [sur les pierres précieuses] / dentelaire [plante]|plumbago|
+GJ|plumbago|plumbago|ĭnis, f.|- 1 - plombagine, mine de plomb. - 2 - tache couleur de plomb (sur les pierres précieuses). - 3 - dentelaire (plante).
+Ge|plumbago|plumbāgo|inis, f.|der Bleiglanz - die Bleiwurz - das Flöhkraut - die Bleifarbe
+FG|plumbago|plumbago inis féminin (plumbum), plombagine ou mine de plomb.
+Lw|
+YO|
+PO|
+WW||||
+|polimen|pŏlīmĕn|pŏlīmĕn|7|pŏlīmĭn||ĭnis, n.
+LS|polimen|pŏlīmen|ĭnis|n.||Polish, brightness|polimen|0
+GG|polimen|pŏlīmĕn|ĭnis|n.||testicule / poli, brillant|polimen|
+GJ|polimen|pŏlīmĕn|ĭnis, n. [polio]|- 1 - Arn. testicule. - 2 - le brillant, le poli.
+Ge|polimen|polīmen|inis, n.|die Glätte - der Putz - die Zierat - die Hode
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pollen|pollĕn|pōllĕn|7|pōllĭn||ĭnĭs, n.
+LS|pollen|pollen|ĭnis|n.|||pollen|0
+GG|pollen|pollĕn|ĭnis|n.|S.|fleur de farine, farine fine / poussière de farine / poudre très fine|pollen|pollĕn
+GJ|pollen|pollĕn|ĭnĭs, n. (forme pollen inusitée) ou pollis, ĭnĭs, m. f.|- 1 - farine fine, fleur de farine; farine. - 2 - poudre très fine.
+Ge|pollen|pollen|inis, n.|sehr feines Mehl, Staubmehl - Staub
+FG|pollen|pollen inis neutre et pollis inis masculin ou féminin,
+Lw|pollen|(pollen)|inis|n||fine flour, mill-dust||||pollen
+YO|
+PO|
+WW||||
+|praecantamen|praecantāmĕn|prāecāntāmĕn|7|prāecāntāmĭn||ĭnis, n.
+LS|
+GG|praecantamen|praecantāmĕn|ĭnis|n.||formule cabalistique, paroles magiques|praecantamen|
+GJ|
+Ge|praecantamen|praecantāmen|inis, n.|die Zauberformel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praeexercitamen|praeexercĭtāmen|prăeēxērcĭtāmen|7|prăeēxērcĭtāmĭn||ĭnis, n.
+LS|
+GG|praeexercitamen|praeexercĭtāmen|ĭnis|n.|S.|exercice préliminaire|praeexercitamen|praeexercĭtāmen
+GJ|
+Ge|praeexercitamen|praeexercitāmen|inis, n. = praeexercitamentum|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praefamen|praefāmĕn|prāefāmĕn|7|prāefāmĭn||ĭnis, n.
+LS|praefamen|praefāmen|ĭnis|n.||a preface|praefamen|0
+GG|praefamen|praefāmĕn|ĭnis|n.||préface|praefamen|
+GJ|
+Ge|praefamen|praefāmen|inis, n.|die Vorrede
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praeligamen|praelĭgāmĕn|prāelĭgāmĕn|7|prāelĭgāmĭn||ĭnĭs, n.
+LS|praeligamen|praelĭgāmen|ĭnis|n.||something bound on in front, about one, an amulet|praeligamen|0
+GG|praeligamen|praelĭgāmĕn|ĭnis|n.||amulette|praeligamen|
+GJ|praeligamen|praelĭgāmĕn|ĭnĭs, n.|amulette.
+Ge|praeligamen|praeligāmen|inis, n.|angehängtes Amulett
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praenomen|praenōmĕn|prāenōmĕn|7|prāenōmĭn||ĭnis, n.
+LS|praenomen|praenōmen|ĭnis|n.||the name which stood before the name of the, the first name, pr&oelig;nomen|praenomen|0
+GG|praenomen|praenōmĕn|ĭnis|n.||prénom / titre|praenomen|
+GJ|praenomen|praenomĕn|ĭnis, n.|- 1 - prénom (désignant l'individu et placé avant le nomen de la gens). - 2 - titre (qui précède le nom).
+Ge|praenomen|praenōmen|inis, n.|der Vorname - der Titel
+FG|praenomen|praenomen inis neutre, prénom.
+Lw|praenomen|prae-nōmen|inis|n||the first name, praenomen, personal name (e. g. Marcus, usu. written M.)||||praenomen
+YO|
+PO|praenomen|praeno_men, praeno_minis : n
+WW||||
+|praesegmen|praesegmĕn|prāesēgmĕn|7|prāesēgmĭn||ĭnĭs, n.
+LS|praesegmen|praesegmen|ĭnis|n.||a piece cut off, a paring|praesegmen|0
+GG|praesegmen|praesegmĕn|ĭnis|n.||rognure, parcelle|praesegmen|
+GJ|praesegmen|praesegmĕn|ĭnĭs, n.|rognure, morceau.
+Ge|praesegmen|praesēgmen|inis, n.|das Abgeschnittene
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|precamen|prĕcāmĕn|prĕcāmĕn|7|prĕcāmĭn||ĭnis, n.
+LS|precamen|prĕcāmen|ĭnis|n.||a praying, prayer, entreaty|precamen|0
+GG|precamen|prĕcāmĕn|ĭnis|n.||prière|precamen|
+GJ|precamen|prĕcāmĕn|ĭnis, n.|prière.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|proceritudo|prōcērĭtūdo|prōcērĭtūdo|5|prōcērĭtūdĭn||ĭnis, f.
+LS|proceritudo|prōcērĭtūdo|ĭnis|f.||high stature, height, tallness|proceritudo|0
+GG|proceritudo|prōcērĭtūdo|ĭnis|f.||taille élevée|proceritudo|
+GJ|proceritudo|prōcērĭtūdo|ĭnis, f. [procerus]|taille élevée.
+Ge|proceritudo|prōcēritūdo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|procupido|prōcŭpīdo|prōcŭpīdo|5|prōcŭpīdĭn||ĭnis, f.
+LS|procupido|prōcŭpīdo|ĭnis|f.||a previous desire|procupido|0
+GG|procupido|prōcŭpīdo|īnis|f.||amour anticipé|procupido|
+GJ|procupido|prōcŭpīdo|ĭnis, f.|Min. Fel. désir avant-coureur.
+Ge|procupido|prōcupīdo|inis, f.|die Vorbegierde
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|proflamen|prōflāmĕn|prōflāmĕn|5|prōflāmĭn||ĭnis, m.
+LS|proflamen|prōflāmen|ĭnis|m.||a flamen's substitute, proflamen|proflamen|0
+GG|proflamen|prōflāmĕn|ĭnis|m.||suppléant d'un flamine|proflamen|
+GJ|
+Ge|proflamen|prōflāmen|inis, m.|der stellvertretende Flamen - ( Priester
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prolimen|prōlīmĕn|prōlīmĕn|7|prōlīmĭn||ĭnĭs, n.
+LS|prolimen|prōlīmen|ĭnis|n.||a space before the threshold|prolimen|0
+GG|prolimen|prōlīmĕn|ĭnis|n.||parvis|prolimen|
+GJ|prolimen|prōlīmĕn|ĭnĭs, n.|Hier. parvis.
+Ge|prolimen|prōlīmen|inis, n.|der Raum vor der Türschwelle
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prolixitudo|prōlixĭtūdo|prōlīxĭtūdo|5|prōlīxĭtūdĭn||ĭnis, f.
+LS|prolixitudo|prōlixĭtūdo|ĭnis|f.||prolixity|prolixitudo|0
+GG|prolixitudo|prōlixĭtūdo|ĭnis|f.||longueur|prolixitudo|
+GJ|
+Ge|prolixitudo|prōlixitūdo|inis, f.|die Weitläufigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prolubido|prōlŭbīdo|prōlŭbīdo|5|prōlŭbīdĭn||ĭnis, f.
+LS|prolubido|prōlŭbīdo|ĭnis|f.||will, desire, inclination|prolubido|0
+GG|prolubido|prōlŭbīdo|ĭnis|f.||c. prolubium|prolubido|
+GJ|prolubido|prōlŭbīdo|ĭnis, f.|c. prolubium.
+Ge|prolubido|prōlubīdo|inis, f. = prolubium|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pronomen|prōnōmĕn|prōnōmĕn|7|prōnōmĭn||ĭnĭs, n.
+LS|pronomen|prōnōmen|ĭnis|n.|||pronomen|0
+GG|pronomen|prōnōmĕn|ĭnis|n.||pronom|pronomen|
+GJ|pronomen|prōnōmĕn|ĭnĭs, n.|pronom.
+Ge|pronomen|prōnōmen|inis, n.|der Vorname - das Fürwort
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|propagmen|prŏpāgmĕn|prŏpāgmĕn|7|prŏpāgmĭn||ĭnĭs, n.
+LS|propagmen|propagmen|ĭnis|n.||propagation;, prolongation|propagmen|0
+GG|propagmen|prŏpāgmĕn|ĭnis|n.||prolongation|propagmen|
+GJ|propagmen|prŏpagmĕn|ĭnĭs, n.|prolongation.
+Ge|propagmen|propāgmen|inis, n.|die Verlängerung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|psalmicen|psalmĭcĕn|psālmĭcĕn|5|psālmĭcĭn||ĭnis, m.
+LS|psalmicen|psalmĭcen|ĭnis|m.||a psalm-singer|psalmicen|0
+GG|psalmicen|psalmĭcĕn|ĭnis|m.||celui qui chante des psaumes, qui psalmodie|psalmicen|
+GJ|
+Ge|psalmicen|psalmicen|inis, m.|der Psalmensänger
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pulcritudo|pulcrĭtūdo|pūlcrĭtūdo|5|pūlcrĭtūdĭn||ĭnis, f.
+LS|pulcritudo|pulcrĭtūdo|ĭnis|f.||beauty.|pulchritudo|(
+GG|pulcritudo|pulcrĭtūdo|ĭnis|f.|S.|beauté [d'une pers.]|pulchritudo|pulcr-
+GJ|pulcritudo|pulcrĭtūdo|dĭnis, f. [pulcher]|beauté (physique ou morale), perfection.
+Ge|
+FG|
+Lw|
+YO|
+PO|pulcritudo|pulcritu_do_, pulcritu_dinis : f
+WW||||
+|pullamen|pullāmen|pūllāmen|7|pūllāmĭn||ĭnis, n.
+LS|
+GG|pullamen|pullāmen|ĭnis|n.||petit d'un animal|pullamen|
+GJ|
+Ge|pullamen|pullāmen|inis, n.|das Junge
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pulligo|pullīgo|pūllīgo|5|pūllīgĭn||ĭnis, f.
+LS|pulligo|pullīgo|ĭnis|f.||a dark color|pulligo|0
+GG|pulligo|pullīgo|ĭnis|f.||couleur brune|pulligo|
+GJ|
+Ge|pulligo|pullīgo|inis, f.|die grauschwarze-, dunkle Farbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pulpamen|pulpāmen|pūlpāmen|7|pūlpāmĭn||ĭnĭs, n.
+LS|pulpamen|pulpāmen|inis|n.||a relish|pulpamen|0
+GG|pulpamen|pulpāmen|mĭnis|n.||c. pulpamentum|pulpamen|
+GJ|pulpamen|pulpamĕn|ĭnĭs, n.|c. pulpamentum.
+Ge|pulpamen|pulpāmen|inis, n.|bereitete Fleischspeise, Zukost
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|purgamen|purgāmĕn|pūrgāmĕn|7|pūrgāmĭn||ĭnĭs, n.
+LS|purgamen|purgāmen|ĭnis|n.||What was annually swept, washed from the temple of Vesta, the dirt, filth swept out, the sweepings, offscourings|purgamen|0
+GG|purgamen|purgāmĕn|ĭnis|n.||ordure, immondices / purification, expiation / pureté, propreté|purgamen|
+GJ|purgamen|purgamĕn|ĭnĭs, n.|- 1 - ordures, immondices. - 2 - purification, expiation. - 3 - nettoyage; propreté, éclat.
+Ge|purgamen|pūrgāmen|inis, n.|der Unrat, Schmutz - das Reinigungs-, Sühnmittel - die Reinheit, Helle
+FG|purgamen|purgamen inis neutre (purgo),
+Lw|purgamen|(pūrgāmen|īnis|n||a means of cleansing, expiation, atonement, That which is removed by cleansing, sweepings, offscourings, from the temple of Vesta||||purgamen
+YO|
+PO|purgamen|pu_rga_men, pu_rga_minis : n
+WW||||
+|putramen|pū̆trāmĕn|pū̆trāmĕn|7|pū̆trāmĭn||ĭnis, n.
+LS|putramen|pū̆trāmen|ĭnis|n.||rottenness, putridity|putramen|0
+GG|putramen|pŭtrāmĕn|ĭnis|n.||amas de pourriture|putramen|
+GJ|putramen|pūtrāmĕn|ĭnis, n.|Cypr. amas de pourriture.
+Ge|putramen|putrāmen|inis, n.|die Fäulnis
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|putredo|pū̆trēdo|pū̆trēdo|5|pū̆trēdĭn||ĭnis, f.
+LS|putredo|pū̆trēdo|ĭnis|f.||rottenness, putridity|putredo|0
+GG|putredo|pŭtrēdo|ĭnis|f.||putréfaction, corruption, gangrène|putredo|
+GJ|putredo|pŭtrēdo|ĭnis, f.|putréfaction, pourriture.
+Ge|putredo|putrēdo|inis, f.|die Fäulnis
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|putrilago|pū̆trĭlāgo|pū̆trĭlāgo|5|pū̆trĭlāgĭn||ĭnis, f.
+LS|putrilago|pū̆trĭlāgo|ĭnis|f.||rottenness, corruption, putrefaction|putrilago|0
+GG|putrilago|putrĭlāgo|ĭnis|f.||putréfaction|putrilago|
+GJ|putrilago|pŭtrĭlāgo|ĭnis, f.|Non. putréfaction.
+Ge|putrilago|putrilāgo|inis, f.|die Fäulnis
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quietudo|quĭētūdo|qụĭētūdo|5|qụĭētūdĭn||ĭnis, f.
+LS|quietudo|quĭētūdo|ĭnis|f.||rest, calmness, quietude|quietudo|0
+GG|quietudo|quĭētūdo|ĭnis|f.||repos|quietudo|
+GJ|quietudo|quĭētūdo|ĭnis, f.|Gloss. quiétude.
+Ge|quietudo|quiētūdo|inis, f.|ἡσυχία die Ruhe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|raritudo|rārĭtūdo|rārĭtūdo|5|rārĭtūdĭn||ĭnis, f.
+LS|raritudo|rārĭtūdo|ĭnis|f.||looseness|raritudo|0
+GG|raritudo|rārĭtūdo|ĭnis|f.||fait d'avoir des cavités [de n'être pas compact] / fait d'être meuble, légèreté d'une terre|raritudo|
+GJ|
+Ge|raritudo|rāritūdo|inis, f.|die Weite, Lockerheit
+FG|raritudo|raritudo inis féminin (rarus), fait d'avoir des cavités (de n'être pas compact) ; fait d'être meuble, légèreté d'une terre.
+Lw|
+YO|
+PO|
+WW||||
+|rasamen|rāsāmĕn|rāsāmĕn|7|rāsāmĭn||ĭnis, n.
+LS|rasamen|rāsāmen|ĭnis|n.||that which is scraped, shaved off, a scraping, shaving, med.|rasamen|0
+GG|rasamen|rāsāmĕn|ĭnis|n.||raclure|rasamen|
+GJ|rasamen|rāsāmĕn|ĭnis, n. [rado]|raclure.
+Ge|rasamen|rāsāmen|inis, n.|das Abgekratzte, Abgeschabte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|raucedo|raucēdo|rāucēdo|5|rāucēdĭn||ĭnis, f.
+LS|raucedo|raucēdo|ĭnis|f.||hoarseness|raucedo|0
+GG|raucedo|raucēdo|ĭnis|f.||c. raucitas|raucedo|
+GJ|raucedo|raucēdo|ĭnis, f.|- 1 - enrouement. - 2 - son rauque, ronflement.
+Ge|raucedo|raucēdo|inis, f.|die Heiserkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rectitudo|rectĭtūdo|rēctĭtūdo|5|rēctĭtūdĭn||ĭnis, f.
+LS|rectitudo|rectĭtūdo|ĭnis|f.||Straightness, directness.|rectitudo|0
+GG|rectitudo|rectĭtūdo|ĭnis|f.||direction en ligne droite / [fig.] droiture, justice|rectitudo|
+GJ|
+Ge|rectitudo|rēctitūdo|inis, f.|die Geradheit - die Richtigkeit - die Geradheit, Billigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|refluamen|rĕflŭāmĕn|rĕflŭāmĕn|7|rĕflŭāmĭn||ĭnis, n.
+LS|refluamen|rĕflŭāmen|ĭnis|n.||that which flows, runs off, grammatical trifles|refluamen|0
+GG|refluamen|rĕflŭāmĕn|ĭnis|n.||débordement|refluamen|
+GJ|
+Ge|refluamen|refluāmen|inis, n.|der Abfluß
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|relevamen|rĕlĕvāmen|rĕlĕvāmen|7|rĕlĕvāmĭn||ĭnĭs, n.
+LS|relevamen|rĕlĕvāmen|ĭnis|n.||a lightening, alleviation|relevamen|0
+GG|relevamen|rĕlĕvāmen|ĭnis|n.||soulagement|relevamen|
+GJ|relevamen|rĕlĕvāmĕn|ĭnĭs, n.|Prisc. soulagement.
+Ge|relevamen|relevāmen|inis, n.|die Erleichterung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|religamen|rĕlĭgāmen|rĕlĭgāmen|7|rĕlĭgāmĭn||ĭnis, n.
+LS|religamen|rĕlĭgāmen|ĭnis|n.||a band, ligament|religamen|0
+GG|religamen|rĕlĭgāmen|ĭnis|n.||lien|religamen|
+GJ|
+Ge|religamen|religāmen|inis, n.|das Band
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|remeligo|rĕmĕlīgo|rĕmĕlīgo|5|rĕmĕlīgĭn||ĭnis, f.
+LS|remeligo|rĕmĕlīgo|ĭnis|f.||she that delays, hinders, the, fem., delayer, hinderer|remeligo|0
+GG|remeligo|rĕmĕlīgo|ĭnis|f.||femme qui marche trop lentement, lambine|remeligo|
+GJ|remeligo|rĕmĕlīgo|ĭnis, f.|Plaut. femme qui va trop lentement, lambine.
+Ge|remeligo|remelīgo|inis, f.|die Aufhalterin, Verzögererin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|remoramen|rĕmŏrāmĕn|rĕmŏrāmĕn|7|rĕmŏrāmĭn||ĭnĭs, n.
+LS|remoramen|rĕmŏrāmen|ĭnis|n.||a delay, hinderance;|remoramen|0
+GG|remoramen|rĕmŏrāmĕn|ĭnis|n.||retard, empêchement|remoramen|
+GJ|remoramen|rĕmŏrāmĕn|ĭnĭs, n.|retard, empêchement, obstacle, entrave.
+Ge|remoramen|remorāmen|inis, n.|das Hemmnis
+FG|remoramen|remoramen inis neutre (remoror), retard, empêchement.
+Lw|remoramen|(remorāmen, inis)||n||a delay, hinderance.&mdash;Plur||||remoramen
+YO|
+PO|
+WW||||
+|renovamen|rĕnŏvāmen|rĕnŏvāmen|7|rĕnŏvāmĭn||ĭnĭs, n.
+LS|renovamen|rĕnŏvāmen|ĭnis|n.||a renewing, renewal|renovamen|0
+GG|renovamen|rĕnŏvāmen|ĭnis|n.||métamorphose|renovamen|
+GJ|renovamen|rĕnŏvamĕn|ĭnĭs, n.|transformation, métamorphose.
+Ge|renovamen|renovāmen|inis, n.|die Erneuerung
+FG|renovamen|renovamen inis neutre, métamorphose.
+Lw|renovamen|renovāmen|inis|n||a renewal, transformation||||renovamen
+YO|
+PO|
+WW||||
+|respiramen|rēspīrāmen|rēspīrāmen|7|rēspīrāmĭn||ĭnĭs, n.
+LS|respiramen|rēspīrāmen|ĭnis|n.||the windpipe|respiramen|0
+GG|respiramen|respīrāmen|ĭnis|n.||canal de la respiration, trachée-artère|respiramen|
+GJ|respiramen|respiramĕn|ĭnĭs, n.|trachée-artère (canal de la respiration).
+Ge|respiramen|respīrāmen|inis, n.|das Atmen - der Atemweg - die Luftröhre
+FG|respiramen|respiramen inis neutre, canal de la respiration, trachée-artère.
+Lw|respiramen|respīrāmen|inis|n||the windpipe||||respiramen
+YO|
+PO|respiramen|respi_ra_men, respi_ra_minis : n
+WW||||
+|revocamen|rĕvŏcāmen|rĕvŏcāmen|7|rĕvŏcāmĭn||ĭnĭs, n.
+LS|revocamen|rĕvŏcāmen|ĭnis|n.||a calling back, away, a recall|revocamen|0
+GG|revocamen|rĕvŏcāmen|ĭnis|n.||action de détourner, de dissuader|revocamen|
+GJ|revocamen|revocamĕn|ĭnĭs, n.|- 1 - rappel. - 2 - action de détourner, de dissuader.
+Ge|revocamen|revocāmen|inis, n.|der Rückruf - die Zurückrufende Warnung
+FG|revocamen|revocamen inis neutre, (revoco), action de détourner, de dissuader.
+Lw|revocamen|revocāmen|inis|n||a calling back, recall||||revocamen
+YO|
+PO|revocamen|revoca_men, revoca_minis : n
+WW||||
+|rogamen|rŏgāmĕn|rŏgāmĕn|7|rŏgāmĭn||ĭnĭs, n.
+LS|
+GG|rogamen|rŏgāmen|ĭnis|n.||demande, prière|rogamen|
+GJ|rogamen|rŏgāmĕn|ĭnĭs, n.|Gloss. demande, prière.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rubedo|rŭbēdo|rŭbēdo|5|rŭbēdĭn||ĭnis, f.
+LS|rubedo|rŭbēdo|ĭnis|f.||redness|rubedo|0
+GG|rubedo|rŭbēdo|ĭnis|f.||couleur rouge|rubedo|
+GJ|rubedo|rŭbēdo|ĭnis,f. [rubeo] |couleur rouge.
+Ge|rubedo|rubēdo|inis, f.|die Röte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ructamen|ructāmĕn|rūctāmĕn|7|rūctāmĭn||ĭnĭs, n.
+LS|ructamen|ructāmen|ĭnis|n.||a belching, eructation|ructamen|0
+GG|ructamen|ructāmĕn|ĭnis|n.|S.|v. ructus.|ructamen|ructāmĕn
+GJ|ructamen|ructāmĕn|ĭnĭs, n.|Prud. renvoi, rot, éructation.
+Ge|ructamen|ructāmen|inis, n.|das Aufstoßen, Rülpsen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rumen|rūmen|rūmen|7|rūmĭn||ĭnĭs, n.
+LS|rumen|rūmen|ĭnis|n.||the throat, gullet|rumen|0
+GG|rumen|rūmen|ĭnis|n. f.|S.|oesophage ou premier estomac [des ruminants] / estomac [de l'homme], ventre, panse / mamelle [des animaux] tette, tettine, pis|1 ruma|rūmen
+GJ|rumen|rumĕn|ĭnĭs, f.|- 1 - oesophage ou premier estomac (des ruminants). - 2 - estomac (de l'homme), ventre, panse, gosier, jabot. - 3 - mamelle (des animaux), tétine, pis.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|saepimen|saepīmen|sāepīmen|7|sāepīmĭn||ĭnĭs, n.
+LS|saepimen|saepīmen|ĭnis|n.|||saepimen|(
+GG|saepimen|saepīmen|mĭnis|n.|S.|clôture|saepimen|saepīmen
+GJ|saepimen|saepimĕn|ĭnĭs, (saepimentum, i), n.|- 1 - clôture faite avec des haies, clôture, barrière, enceinte. - 2 - rempart.
+Ge|saepimen|saepīmen|inis, n.|die Umzäunung - das Gehege
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|saevitudo|saevĭtūdo|sāevĭtūdo|5|sāevĭtūdĭn||ĭnis, f.
+LS|saevitudo|saevĭtūdo|ĭnis|f.||ferocity, violence|saevitudo|0
+GG|saevitudo|saevĭtūdo|ĭnis|f.||rigueur, dureté|saevitudo|
+GJ|saevitudo|saevitūdo|ĭnis, f. Plaut.|c. saevitia.
+Ge|saevitudo|saevitūdo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sagmen|sagmĕn|sāgmĕn|7|sāgmĭn||ĭnĭs, n.
+LS|sagmen|sagmen|ĭnis|n.||the tuft of sacred herbs plucked within the citadel by the consul, pr&oelig;tor, by bearing which the persons of the Roman fetiales and ambassadors became inviolable|sagmen|0
+GG|sagmen|sagmĕn|ĭnis|n.||brin d'herbe sacrée, herbes sacrées|sagmen|
+GJ|sagmen|sagmĕn|ĭnĭs, n. [sacer + sancio]|brin d'herbe sacrée, herbes sacrées.
+Ge|sagmen|sagmen|inis, n.|Grasbüschel
+FG|sagmen|sagmen inis neutre (sacer sancio), brin d'herbe sacrée, herbes sacrées.
+Lw|sagmen|sāgmen|inis|n||a tuft of grass gathered in the citadel and borne by the fetiales as a token of inviolability||||sagmen
+YO|
+PO|
+WW||||
+|salamis|Sălămis|Sălămis|5|Sălămīn||īnis, f.
+LS|Salamis|Sălămis|īnis|||The island of Salamis, in the Saronic Gulf, opposite Eleusis, Kuluri, Salamis ; The city of Salamis in Cyprus|Salamis|0
+GG|Salamis|Sălămis|īnis|f.||île près du Péloponnèse, en face d'Éleusis [célèbre par la victoire de Thémistocle sur les Perses] ; ville principale de l'île / ville de l'île de Chypre|Salamis|
+GJ|Salamis|Sălămis|īnis, f.|Salamine. - 1 - île ou la ville de cette île, célèbre par la victoire de Thémistocle sur les Perses. - 2 - ville de Chypre.
+Ge|Salamis|Salamīs|īnis|die Schlacht bei Salamis - salaminisch - salaminisch - die Salaminier - salaminisch - die Salaminier
+FG|Salamis|Salamis inis féminin, Salamine,
+Lw|
+YO|
+PO|
+WW||||
+|salsamen|salsāmĕn|sālsāmĕn|7|sālsāmĭn||ĭnĭs, n.
+LS|salsamen|salsāmen|ĭnis|n.||salted food, any thing pickled in brine|salsamen|0
+GG|salsamen|salsāmĕn|ĭnis|n.||viande salée|salsamen|
+GJ|salsamen|salsamĕn|ĭnĭs, n.|(Lebaigue P. 1117) saumure, salaison.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salsedo|salsēdo|sālsēdo|5|sālsēdĭn||ĭnis, f.
+LS|salsedo|salsēdo|ĭnis|f.||a salt taste, saltness|salsedo|0
+GG|salsedo|salsēdo|ĭnis|f.||salure, goût salé|salsedo|
+GJ|
+Ge|salsedo|salsēdo|inis, f.|der salzige Geschmack
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salsilago|salsĭlāgo|sālsĭlāgo|5|sālsĭlāgĭn||ĭnis, f.
+LS|salsilago|salsĭlāgo|ĭnis|f.||saltness, brackishness|salsilago|(collat. form 
+GG|salsilago|salsĭlāgo|ĭnis|f.||c. salsedo.|salsilago|
+GJ|
+Ge|salsilago|salsīlāgo|inis, f.|der Salzgehalt - das Salzige - das Salzwasser - die Mutterlauge, Sohle
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salsitudo|salsĭtūdo|sālsĭtūdo|5|sālsĭtūdĭn||ĭnis, f.
+LS|salsitudo|salsĭtūdo|ĭnis|f.||saltness, brackishness|salsitudo|0
+GG|salsitudo|salsĭtūdo|ĭnis|f.||c. salsedo.|salsitudo|
+GJ|salsitudo|salsitūdo|ĭnis, f.|goût salé.
+Ge|salsitudo|salsitūdo|inis, f.|die Salzigkeit - der Salzgehalt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salsugo|salsūgo|sālsūgo|5|sālsūgĭn||ĭnis, f.
+LS|salsugo|salsūgo|ĭnis|f.||saltness, brackishness|salsugo|(collat. form 
+GG|salsugo|salsūgo|ĭnis|f.||eau salée, eau de mer / salure|salsugo|
+GJ|salsugo|salsugo|ĭnis, f.|- 1 - salure. - 2 - eau de mer, état salin.
+Ge|salsugo|salsūgo|inis, f.|das Salzige - der Salzgehalt - salziges Wasser, Salzwasser - die Mutterlauge, Sohle
+FG|salsugo|salsugo inis féminin (salsus),
+Lw|
+YO|
+PO|
+WW||||
+|sanctitudo|sanctĭtūdo|sānctĭtūdo|5|sānctĭtūdĭn||ĭnis, f.
+LS|sanctitudo|sanctĭtūdo|ĭnis|f.||sacredness, sanctity|sanctitudo|0
+GG|sanctitudo|sanctĭtūdo|ĭnis|f.||sainteté, caractère sacré|sanctitudo|
+GJ|sanctitudo|sanctitūdo|ĭnis, f.|- 1 - sainteté, caractère sacré. - 2 - intégrité, vertu.
+Ge|sanctitudo|sānctitūdo|inis, f.|die Heiligkeit, Unverletzlichkeit, Unantastbarkeit, Ehrwürdigkeit - die Reinheit, Unsträflichkeit
+FG|sanctitudo|sanctitudo inis féminin, (sanctus), sainteté, caractère sacré.
+Lw|sanctitudo|sānctitūdō|inis|f||sacredness, sanctity||||sanctitudo
+YO|
+PO|
+WW||||
+|sanguen|sanguĕn|sāngụĕn|7|sāngụĭn||ĭnĭs, n. (arch.)
+LS|sanguen|sanguen|ĭnis||||sanguen|0
+GG|sanguen|sanguĕn||||v. sanguis|sanguen|
+GJ|sanguen|sanguĕn|ĭnĭs, n. (arch.)|c. sanguis.
+Ge|
+FG|
+Lw|sanguen|sanguen|inis|n||see sanguis||||sanguen
+YO|
+PO|
+WW||||
+|sarcimen|sarcīmĕn|sārcīmĕn|7|sārcīmĭn||ĭnĭs, n.
+LS|sarcimen|sarcīmen|ĭnis|n.||a seam, suture|sarcimen|0
+GG|sarcimen|sarcīmĕn|ĭnis|n.||couture, raccommodage|sarcimen|
+GJ|sarcimen|sarcīmĕn|ĭnĭs, n.|Apul. couture, raccommodage.
+Ge|sarcimen|sarcīmen|inis, n.|die Naht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sarmen|sarmĕn|sārmĕn|7|sārmĭn||ĭnĭs, n.
+LS|sarmen|sarmen|ĭnis|n.||twigs, brushwood|sarmen|0
+GG|sarmen|sarmĕn|ĭnis|||c. sarmentum|sarmen|
+GJ|sarmen|sarmĕn|ĭnĭs, n. |c. sarmentum.
+Ge|sarmen|sarmen|inis, n. = sarmentum, Plaut. most. 1114|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sartago|sartāgo|sārtāgo|5|sārtāgĭn||ĭnis, f.
+LS|sartago|sartāgo|ĭnis|f.||A frying-pan, baking-pan|sartago|0
+GG|sartago|sartāgo|ĭnis|f.||poêle à frire / vase sacré|sartago|
+GJ|sartago|sartago|ĭnis, f.|- 1 - Plin. poêle à frire, poêlon. - 2 - Aug. vase sacré.
+Ge|sartago|sartāgo|inis, f.|etwa Tiegel, Pfanne, Kasserolle - die Opferpfanne
+FG|sartago|sartago inis féminin, poêle à frire.
+Lw|sartago|sartāgō|inis|f||a frying-pan, baking-pan||||sartago
+YO|
+PO|
+WW||||
+|saturamen|sătŭrāmen|sătŭrāmen|7|sătŭrāmĭn||ĭnis, n.
+LS|saturamen|sătŭrāmen|ĭnis|n.||a filling, satisfying|saturamen|0
+GG|saturamen|sătŭrāmen|ĭnis|n.||nourriture|saturamen|
+GJ|
+Ge|saturamen|saturāmen|inis, n.|die Sättigung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scabitudo|scăbĭtūdo|scăbĭtūdo|5|scăbĭtūdĭn||ĭnis, f.
+LS|scabitudo|scăbĭtūdo|ĭnis|f.||an itching, irritation.|scabitudo|0
+GG|scabitudo|scăbĭtūdo|ĭnis|f.|S.|lèpre [fig.]|scabritudo|scăbĭtūdo
+GJ|scabitudo|scăbĭtūdo|ĭnis, f.|- 1 - démangeaison. - 2 -au fig. Petr. lèpre (de l'âme).
+Ge|scabitudo|scabitūdo|inis, f.|die Rauhigkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scabredo|scā̆brēdo|scā̆brēdo|5|scā̆brēdĭn||ĭnis, f.
+LS|scabredo|scā̆brēdo|ĭnis|f.||a roughness of the skin, scabbiness, itch, mange|scabredo|0
+GG|scabredo|scăbrēdo|ĭnis|f.||rouille / gale|scabredo|
+GJ|
+Ge|scabredo|scabrēdo|inis, f.|die Rauhigkeit - die Krätze
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scabritudo|scăbrĭtūdo|scăbrĭtūdo|5|scăbrĭtūdĭn||ĭnis, f.
+LS|
+GG|scabritudo|scăbrĭtūdo|ĭnis|f.|S.|lèpre [fig.]|scabritudo|scăbrĭtūdo
+GJ|scabritudo|scabritudo||c. scabitudo.
+Ge|scabritudo|scabritūdo|inis, f.|die Rauhigkeit - der Aussatz
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scalpurrigo|scalpurrīgo|scālpūrrīgo|5|scālpūrrīgĭn||ĭnis, f.
+LS|
+GG|scalpurrigo|scalpurrīgo|ĭnis|f.||action de gratter|scalpurrigo|
+GJ|
+Ge|scalpurrigo|scalpurrīgo|inis, f.|das Kratzen, Krauen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scaturigo|scătūrīgo|scătūrīgo|5|scătūrīgĭn||ĭnis, f.
+LS|
+GG|scaturigo|scătūrīgo|ĭnis|f.|S.|source, eau qui sourd / [fig.] grande quantité, torrent|scaturigo|scătūrīgo
+GJ|scaturigo|scătūrīgo|ĭnis, f.|- 1 - source, eau qui sourd. - 2 - grande quantité, torrent.
+Ge|scaturigo|scatūrīgo|inis, f.|hervorsprudelndes Wasser - der Sprudel - Prudelquell
+FG|scaturigo|scaturigo et scaturrigo inis féminin, source, eau qui sourd ; grande quantité, torrent.
+Lw|
+YO|
+PO|scaturigo|scatu_ri_go_, scatu_ri_ginis : f
+WW||||
+|scaturrigo|scăturrīgo|scătūrrīgo|5|scătūrrīgĭn||ĭnis, f.
+LS|
+GG|scaturrigo|scăturrīgo|ĭnis|f.|S.|source, eau qui sourd / [fig.] grande quantité, torrent|scaturigo|scăturrīgo
+GJ|scaturrigo|scăturrīgo|ĭnis, f.|- 1 - source, eau qui sourd. - 2 - grande quantité, torrent.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sedamen|sēdāmĕn|sēdāmĕn|7|sēdāmĭn||ĭnis, n.
+LS|sedamen|sēdāmen|ĭnis|n.||a means of allaying, an allayment, sedative|sedamen|0
+GG|sedamen|sēdāmĕn|ĭnis|n.||adoucissement|sedamen|
+GJ|sedamen|sēdāmĕn|ĭnis, n. [sedo]|adoucissement.
+Ge|sedamen|sēdāmen|inis, n.|das Beruhigungsmittel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sedimen|sĕdĭmen|sĕdĭmen|7|sĕdĭmĭn||ĭnĭs, n.
+LS|sedimen|sĕdĭmen|ĭnis|n.||settlings, sediment|sedimen|0
+GG|sedimen|sĕdĭmen|ĭnis|n.||sédiment, dépôt|sedimen|
+GJ|sedimen|sedimĕn|ĭnĭs, n.|dépôt, sédiment, tassement, affaissement.
+Ge|sedimen|sedimen|inis, n.|der Satz, Bodensatz
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|segmen|segmĕn|sēgmĕn|7|sēgmĭn||ĭnĭs, n.
+LS|segmen|segmen|ĭnis|n.||what is cut off, a cutting, shred, little bit, will prevent the work from chipping off, cracking|segmen|0
+GG|segmen|segmĕn|ĭnis|n.||rognure / fissure|segmen|
+GJ|segmen|segmĕn|ĭnĭs, n.|- 1 - fragment, parcelle, rognure. - 2 - fente, fissure.
+Ge|segmen|sēgmen|inis, n.|Schnitzel, Splitterchen, Stückchen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|selago|selāgo|selāgo|5|selāgĭn||ĭnis, f.
+LS|selago|selāgo|ĭnis|f.||a plant resembling the savin-tree|selago|0
+GG|selago|selāgo|ĭnis|f.||plante inconnue|selago|
+GJ|selago|selago|ĭnis, f.|sélago (plante inconnue, peut-être une sorte de bruyère).
+Ge|selago|selāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|semihomo|sēmĭhŏmo|sēmĭhŏmo|5|sēmĭhŏmĭn||ĭnis, m.
+LS|semihomo|sēmĭhŏmo|ĭnis|m.||a half-man, half man and half beast.|semihomo|0
+GG|semihomo|sēmĭhŏmo|ĭnis|m.||qui est à moitié homme [et à moitié bête], qui a une tête d'homme / à demi sauvage|semihomo|
+GJ|semihomo|semihomo|ĭnis, m.|- 1 - qui est moitié homme et moitié bête. - 2 - à demi sauvage.
+Ge|semihomo|sēmihomo|hominis, m.|der Halbmensch - halbwild
+FG|semihomo|semihomo inis masculin, qui est à moitié homme.
+Lw|semihomo|sēmi-homo (sēmho-)|inis|m||a half-man, half-beast||||semihomo
+YO|
+PO|semihomo|se_mihomo_, se_mihominis : m
+WW||||
+|sepimen|sēpīmen|sēpīmen|7|sēpīmĭn||ĭnis, n.
+LS|sepimen|sēpīmen|ĭnis|n.|||saepimen|Err :520
+GG|
+GJ|sepimen|sepimen|(saepimen)|c. saepimentum (sepimentum).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|serpedo|serpēdo|sērpēdo|5|sērpēdĭn||ĭnis, f.
+LS|
+GG|serpedo|serpēdo|ĭnis|f.||érysipèle|serpedo|
+GJ|
+Ge|serpedo|serpēdo|inis, f.|der Rotlauf
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|serrago|serrāgo|sērrāgo|5|sērrāgĭn||ĭnis, f.
+LS|serrago|serrāgo|ĭnis|f.||sawdust, med.|serrago|0
+GG|serrago|serrāgo|ĭnis|f.||sciure|serrago|
+GJ|serrago|serrāgo|ĭnis, f. [serra]|C.-Aur. sciure.
+Ge|serrago|serrāgo|inis, f.|das Sägemehl - die Sägespäne
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|servitudo|servĭtūdo|sērvĭtūdo|5|sērvĭtūdĭn||ĭnis, f.
+LS|servitudo|servĭtūdo|ĭnis|f.||slavery, servitude|servitudo|0
+GG|servitudo|servĭtūdo|ĭnis|f.||servitude, esclavage|servitudo|
+GJ|servitudo|servitūdo|ĭnis, f.|servitude.
+Ge|servitudo|servitūdo|inis, f.|die Sklaverei
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|severitudo|sĕvērĭtūdo|sĕvērĭtūdo|5|sĕvērĭtūdĭn||ĭnis, f.
+LS|severitudo|sĕvērĭtūdo|ĭnis|f.||gravity, austerity, severity|severitudo|0
+GG|severitudo|sĕvērĭtūdo|ĭnis|f.||sévérité|severitudo|
+GJ|severitudo|severitūdo|ĭnis, f.|c. severitas.
+Ge|severitudo|sevēritūdo|inis, f.|die Ernsthaftigkeit, Strenge
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|siligo|sĭlīgo|sĭlīgo|5|sĭlīgĭn||ĭnis, f.
+LS|siligo|sĭlīgo|ĭnis|f.||A kind of very white wheat, winter-wheat|siligo|0
+GG|siligo|sĭlīgo|ĭnis|f.||froment de première qualité / fleur de farine|siligo|
+GJ|siligo|sĭlīgo|ĭnis, f.|- 1 - froment de première qualité. - 2 - fleur de farine.
+Ge|siligo|silīgo|inis, f.|Winterweizen - feines Weizenmehl
+FG|siligo|siligo inis féminin, froment de première qualité ; fleur de farine.
+Lw|siligo|silīgō|inis|f||winter-wheat; hence, fine wheaten flour||||siligo
+YO|
+PO|
+WW||||
+|similago|sĭmĭlāgo|sĭmĭlāgo|5|sĭmĭlāgĭn||ĭnis, f. (c. simila)
+LS|similago|sĭmĭlāgo|ĭnis||||similago|0
+GG|similago|sĭmĭlāgo|ĭnis|||c. simila|similago|
+GJ|similago|sĭmĭlāgo|ĭnis, f. (c. simila)|fleur de farine.
+Ge|similago|similāgo|inis, f. = simila|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|simplicitudo|simplĭcĭtūdo|sīmplĭcĭtūdo|5|sīmplĭcĭtūdĭn||ĭnis, f.
+LS|
+GG|simplicitudo|simplĭcĭtūdo|ĭnis|f.||simplicité, expression simple|simplicitudo|
+GJ|simplicitudo|simplĭcĭtūdo|ĭnis, f.|Cledon. simplicité, expression simple.
+Ge|simplicitudo|simplicitūdo|inis, f.|die Einfachheit - der einfache Ausdruck
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|simulamen|sĭmŭlāmen|sĭmŭlāmen|7|sĭmŭlāmĭn||ĭnĭs, n.
+LS|simulamen|sĭmŭlāmen|ĭnis|n.||a copy, an imitation|simulamen|0
+GG|simulamen|sĭmŭlāmen|ĭnis|n.||imitation, représentation|simulamen|
+GJ|simulamen|simulamĕn|ĭnĭs, n.|Aus. représentation, image.
+Ge|simulamen|simulāmen|inis, n.|die Nachahmung
+FG|simulamen|simulamen inis neutre (simulo), imitation, représentation.
+Lw|simulamen|simulāmen|inis|n||a copy, imitation||||simulamen
+YO|
+PO|simulamen|simula_men, simula_minis : n
+WW||||
+|sinuamen|sĭnŭāmĕn|sĭnŭāmĕn|7|sĭnŭāmĭn||ĭnis, n.
+LS|sinuamen|sĭnŭāmen|ĭnis|n.||a bending, turning, winding|sinuamen|0
+GG|sinuamen|sinŭāmĕn|ĭnis|n.||courbure, sinuosité|sinuamen|
+GJ|
+Ge|sinuamen|sinuāmen|inis, n.|die Krümmung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|siticen|sĭtĭcĕn|sĭtĭcĕn|5|sĭtĭcĭn||ĭnĭs, m.
+LS|
+GG|siticen|sĭtĭcen|ĭnis|m.||trompette qui joue aux funérailles|siticen|
+GJ|siticen|siticĕn|ĭnĭs, m. [situs + cano]|un trompette (pour les funérailles).
+Ge|siticen|siticen|inis, m.|der Leichenbläser, Trauermusikant
+FG|siticen|siticen inis masculin (situs 1 paragraphe 3, cano), trompette qui joue aux funérailles.
+Lw|
+YO|
+PO|
+WW||||
+|solago|sōlāgo|sōlāgo|5|sōlāgĭn||ĭnis, f.
+LS|solago|sōlāgo|ĭnis|f.||a plant, called also|solago|0
+GG|solago|sōlāgo|ĭnis|f.||tournesol [plante]|solago|
+GJ|solago|sōlāgo|ĭnis, f.|Apul. tournesol.
+Ge|solago|sōlāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|solidamen|sŏlĭdāmĕn|sŏlĭdāmĕn|7|sŏlĭdāmĭn||ĭnĭs, n.
+LS|solidamen|sŏlĭdāmen|ĭnis|n.||that which makes firm, solid, a strengthener|solidamen|0
+GG|solidamen|sŏlĭdāmĕn|ĭnis|n.||fondement|solidamen|
+GJ|solidamen|sŏlĭdāmĕn|ĭnĭs, n. [solido]|Fort. fondement.
+Ge|solidamen|solidāmen||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sorditudo|sordĭtūdo|sōrdĭtūdo|5|sōrdĭtūdĭn||ĭnis, f.
+LS|sorditudo|sordĭtūdo|ĭnis|f.||dirt, filth|sorditudo|0
+GG|sorditudo|sordĭtūdo|ĭnis|f.||saleté|sorditudo|
+GJ|sorditudo|sordĭtūdo|ĭnis, f.|saleté, malpropreté.
+Ge|sorditudo|sorditūdo|inis, f.|der Schmutz
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|spectamen|spectāmĕn|spēctāmĕn|7|spēctāmĭn||ĭnĭs, n.
+LS|spectamen|spectāmen|ĭnis|n.||a mark, sign, proof|spectamen|0
+GG|spectamen|spectāmĕn|ĭnis|n.||preuve, indice / spectacle|spectamen|
+GJ|spectamen|spectamĕn|ĭnĭs, n.|- 1 - vue, spectacle. - 2 - preuve, indice.
+Ge|spectamen|spectāmen|inis, n.|die Probe - der Prüfstein - die Bewährung - das Erprobtsein - der Beweis - der Anblick - das Schauspiel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|speculamen|spĕcŭlāmĕn|spĕcŭlāmĕn|7|spĕcŭlāmĭn||ĭnis, n.
+LS|speculamen|spĕcŭlāmen|ĭnis|n.||a looking at, observing|speculamen|0
+GG|speculamen|spĕcŭlāmĕn|ĭnis|n.||vue|speculamen|
+GJ|speculamen|spĕcŭlāmĕn|ĭnis, n.|Prud. vue, regard.
+Ge|speculamen|speculāmen|inis, n.|das Hinsehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|spiramen|spīrāmen|spīrāmen|7|spīrāmĭn||ĭnĭs, n.
+LS|spiramen|spīrāmen|ĭnis|n.||A breathing - hole, passage for the breath, air-hole, thrill, vent|spiramen|0
+GG|spiramen|spīrāmen|ĭnis|n.||ouverture par où passe l'air ; fosse nasale, narines / soupirail / souffle, haleine|spiramen|
+GJ|spiramen|spīrāmĕn|ĭnĭs, n.|- 1 - ouverture, soupirail. - 2 - fosse nasale. - 3 - Amm. souffle (du vent). - 4 - respiration, souffle vital, haleine. - 5 - inspiration, esprit (saint). - 6 - aspiration (t. de gram.). - 7 - Prud. émanation, odeur. - 8 - Stat. influence, puissance.
+Ge|spiramen|spīrāmen|inis, n.|das Luftloch - das Hauchen, Blasen, Atmen
+FG|spiramen|spiramen inis neutre (spiro),
+Lw|
+YO|
+PO|
+WW||||
+|spissitudo|spissĭtūdo|spīssĭtūdo|5|spīssĭtūdĭn||ĭnis, f.
+LS|spissitudo|spissĭtūdo|ĭnis|f.||thickness, density, consistency|spissitudo|0
+GG|spissitudo|spissĭtūdo|ĭnis|f.||condensation / essaim épais, nuée|spissitudo|
+GJ|spissitudo|spissitūdo|ĭnis, f.|- 1 - épaisseur, densité, consistance. - 2 - Cass. grande quantité.
+Ge|spissitudo|spissitūdo|inis, f.|die Dichte, Dicke, Dichtheit, Dickheit - der dichte Schwarm
+FG|spissitudo|spissitudo inis féminin, condensation.
+Lw|
+YO|
+PO|
+WW||||
+|spurcamen|spurcāmĕn|spūrcāmĕn|7|spūrcāmĭn||ĭnĭs, n.
+LS|spurcamen|spurcāmen|ĭnis|n.||dirt, filth|spurcamen|0
+GG|spurcamen|spurcāmĕn|ĭnis|n.||ordure|spurcamen|
+GJ|spurcamen|spurcāmĕn|ĭnĭs, n.|ordure, excréments.
+Ge|spurcamen|spurcāmen|inis, n.|der Unflat
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sputamen|spūtāmĕn|spūtāmĕn|7|spūtāmĭn||ĭnĭs, n.
+LS|sputamen|spūtāmen|inis|n.||spittle|sputamen|0
+GG|sputamen|spūtāmĕn|ĭnis|n.|S.|crachat|sputamen|spūtāmĕn
+GJ|sputamen|spūtāmĕn|ĭnĭs, n.|crachat.
+Ge|sputamen|spūtāmen|inis, n.|der Speichel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|squalitudo|squālĭtūdo|sqụālĭtūdo|5|sqụālĭtūdĭn||ĭnis, f.
+LS|squalitudo|squālĭtūdo|ĭnis|f.||dirt, filth|squalitudo|0
+GG|squalitudo|squālĭtūdo|ĭnis|f.|S.|c. squalor.|squalitas|squālĭtūdo
+GJ|
+Ge|squalitudo|squālitūdo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|stabilimen|stăbĭlīmĕn|stăbĭlīmĕn|7|stăbĭlīmĭn||ĭnĭs, n.
+LS|stabilimen|stăbĭlīmen|ĭnis|n.||a stay, support, stabiliment|stabilimen|0
+GG|stabilimen|stăbĭlīmĕn|ĭnis|n.||c. stabilimentum|stabilimen|
+GJ|stabilimen|stăbĭlīmĕn|ĭnĭs, n.|soutien, appui.
+Ge|stabilimen|stabilīmen|inis, n.|das Befestigungsmittel - die Befestigung
+FG|
+Lw|stabilimen|stabilīmen|inis|n||a stay, support, fortification||||stabilimen
+YO|
+PO|
+WW||||
+|statumen|stătūmĕn|stătūmĕn|7|stătūmīn||īnis, n.
+LS|statumen|stătūmen|īnis|n.||that upon which any thing rests, a support, stay, prop|statumen|0
+GG|statumen|stătūmĕn|ĭnis|n.||échalas / varangue [t. de marine] / fondement (fondation) en pierres / première couche, base [d'une fabrication]|statumen|
+GJ|statumen|stătūmĕn|ĭnis, n. [statuo]|1 - échalas. 2 - varangue [t. de marine]. 3 - fondement (fondation) en pierres. 4 - première couche, base [d'une fabrication].
+Ge|statumen|statūmen|inis, n.|die Stütze - Pfähle - Stützen - die Rippen der Schiffe - die Bauchstücke - jede Unterlage, Grundlage
+FG|statumen|statumen inis neutre (statuo),
+Lw|statumen|statūmen|inis|n||a support, stay, a ship's rib||||statumen
+YO|
+PO|statumen|statu_men, statu_minis : n
+WW||||
+|stipamen|stīpāmĕn|stīpāmĕn|7|stīpāmĭn||ĭnis, n.
+LS|
+GG|stipamen|stīpāmĕn|ĭnis|n.||affluence|stipamen|
+GJ|
+Ge|stipamen|stīpāmen|inis, n.|das Gedränge
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|stramen|strāmen|strāmen|7|strāmĭn||ĭnĭs, n.
+LS|stramen|strāmen|ĭnis|n.||straw, litter|stramen|0
+GG|stramen|strāmen|ĭnis|n.||ce qu'on étend à terre, lit de paille, d'herbe, de feuillage, litière|stramen|
+GJ|stramen|stramĕn|ĭnĭs, n.|- 1 - ce qu'on étend à terre; couche de feuillage, lit de paille, litière. - 2 - Ov. chaume (d'une cabane).
+Ge|stramen|strāmen|inis, n.|untergestreutes Stroh - die Streu - die Lagerdecke - das Lager
+FG|stramen|stramen inis neutre (sterno), ce qu'on étend à terre, lit de paille, d'herbe, de feuillage, litière.
+Lw|stramen|strāmen|inis|n||straw, litter||||stramen
+YO|
+PO|stramen|stra_men, stra_minis : n
+WW||||
+|stribiligo|stribĭlīgo|stribĭlīgo|5|stribĭlīgĭn||ĭnis, f.
+LS|stribiligo|stribĭlīgo|ĭnis|f.||an impropriety in language, a solecism|stribligo|and 
+GG|stribiligo|stribĭlīgo|ĭnis|f.|S.|solécisme|stribiligo|stribĭlīgo
+GJ|stribiligo|stribiligo|inis, f.|solécisme.
+Ge|stribiligo|stribilīgo|inis, f.|der Sprachfehler, Solözismus
+FG|stribiligo|stribiligo et stribligo inis féminin, solécisme.
+Lw|
+YO|
+PO|
+WW||||
+|stribligo|striblīgo|strī̆blīgo|5|strī̆blīgĭn||ĭnis, f.
+LS|stribligo|striblīgo|ĭnis|f.||an impropriety in language, a solecism|stribligo|and 
+GG|stribligo|striblīgo|ĭnis|f.|S.|solécisme|stribiligo|striblīgo
+GJ|stribligo|stribligo|inis, f.|solécisme.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suavitudo|suāvĭtūdo|sŭāvĭtūdo|5|sŭāvĭtūdĭn||ĭnis, f.
+LS|suavitudo|suāvĭtūdo|ĭnis|f.||sweetness, pleasantness, agreeableness, delight, my sweet|suavitudo|0
+GG|suavitudo|suāvĭtūdo|ĭnis|f.||douceur, charme, agrément|suavitudo|
+GJ|suavitudo|suāvĭtūdo|ĭnis, f.|c. suavitas.
+Ge|suavitudo|suāvitūdo|inis, f.|die Lieblichkeit, Annehmlichkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|substamen|substāmĕn|sūbstāmĕn|7|sūbstāmĭn||ĭnis, n.
+LS|substamen|substāmen|ĭnis|n.||the woof, weft|substamen|0
+GG|substamen|substāmĕn|ĭnis|n.||c. stamen|substamen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|substramen|substrāmen|sūbstrāmen|7|sūbstrāmĭn||ĭnis, n.
+LS|substramen|substrāmen|ĭnis|n.||what is strewn under, litter|substramen|0
+GG|substramen|substrāmen|ĭnis|n.||litière / rouleau [mis sous les fardeaux pour les transporter]|substramen|
+GJ|
+Ge|substramen|substrāmen|inis, n.|die Streu - die Unterlage
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subtegmen|subtegmĕn|sūbtēgmĕn|7|sūbtēgmĭn||ĭnis, n.
+LS|subtegmen|subtegmen|ĭnis|n.||that which is wrought, woven in, the woof, weft, med.|subtegmen|(
+GG|subtegmen|subtegmĕn|ĭnis|n.|S.|trame d'un tissage / [fig.] fil / fil des Parques|subtemen|subtegmĕn
+GJ|subtegmen|subtegmen|inis, n.|trame d'un tissu, tissu, fil des Parques.
+Ge|
+FG|
+Lw|
+YO|
+PO|subtegmen|subte_gmen, subte_gminis : n
+WW||||
+|subtemen|subtēmĕn|sūbtēmĕn|7|sūbtēmĭn||ĭnis, n.
+LS|subtemen|subtēmen|ĭnis|n.||that which is wrought, woven in, the woof, weft, med.|subtemen|(
+GG|subtemen|subtēmĕn|ĭnis|n.|S.|trame d'un tissage / [fig.] fil / fil des Parques|subtemen|subtēmĕn
+GJ|subtemen|subtemen|inis, n.|trame d'un tissu, tissu, fil des Parques.
+Ge|subtemen|subtēmen|inis, n.|der Eintrag, Einschlag - das Gewobene, Gesponnene - das Garn - der Faden
+FG|subtemen|subtemen (subtegmen) inis neutre, (subtexo),
+Lw|subtemen|subtēmen (subtēgmen)|inis|n||that which is woven in, a woof, weft, A thread, yarn||||subtemen
+YO|
+PO|subtemen|subte_men, subte_minis : n
+WW||||
+|suetudo|suētūdo|sŭētūdo|5|sŭētūdĭn||ĭnis, f.
+LS|suetudo|suētūdo|ĭnis|f.||custom, habit|suetudo|0
+GG|suetudo|suētūdo|ĭnis|f.||habitude, coutume|suetudo|
+GJ|suetudo|suētūdo|ĭnis, f.|habitude.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suffimen|suffīmen|sūffīmen|7|sūffīmĭn||ĭnis, n.
+LS|suffimen|suffīmen|ĭnis|n.||fumigation, incense|suffimen|0
+GG|suffimen|suffīmen|ĭnis|n.||c. suffimentum|suffimen|
+GJ|suffimen|suffimĕn|ĭnĭs (suffimentum, i), n.|- 1 - fumée, odeur d'une substance brûlée, odeur de brûlé. - 2 - fumigation. - 3 - parfum.
+Ge|suffimen|suffīmen|inis, n.|das Räucherwerk
+FG|suffimen|suffimen inis neutre, cf. suffimentum.
+Lw|suffimen|suffīmen|inis|n||fumigation, incense||||suffimen
+YO|
+PO|suffimen|suffi_men, suffi_minis : n
+WW||||
+|sufflamen|sufflāmĕn|sūfflāmĕn|7|sūfflāmĭn||ĭnĭs, n.
+LS|sufflamen|sufflāmen|ĭnis|n.||a clog, break, drag-chain|sufflamen|0
+GG|sufflamen|sufflāmĕn|ĭnis|n.||sabot pour enrayer / [fig.] obstacle, entrave|sufflamen|
+GJ|sufflamen|sufflamĕn|ĭnĭs, n.|- 1 - sabot, frein (pour enrayer une roue). - 2 - obstacle, entrave, délai, lenteur.
+Ge|sufflamen|sufflāmen|inis, n.|die Radsperre, Hemmkette - der Hemmschuh - Hindernis
+FG|sufflamen|sufflamen inis neutre (sufflo), sabot pour enrayer ; obstacle, entrave.
+Lw|sufflamen|sufflāmen|inis|n||a clog, brake, drag-chain, hinderance||||sufflamen
+YO|
+PO|
+WW||||
+|sulcamen|sulcāmĕn|sūlcāmĕn|7|sūlcāmĭn||ĭnĭs, n.
+LS|sulcamen|sulcāmen|ĭnis|n.||a furrow|sulcamen|0
+GG|sulcamen|sulcāmĕn|ĭnis|n.||sillon|sulcamen|
+GJ|sulcamen|sulcamĕn|ĭnĭs, n.|sillon, labour.
+Ge|sulcamen|sulcamen|inis, n.|die Furche
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superlimen|sŭperlīmĕn|sŭpērlīmĕn|7|sŭpērlīmĭn||ĭnis, n.
+LS|superlimen|sŭperlīmen|ĭnis|n.||a lintel|superlimen|0
+GG|superlimen|sŭperlīmĕn|ĭnis|n.|S.|linteau d'une porte|superlimen|sŭperlīmĕn
+GJ|superlimen|sŭperlīmĕn|mĭnĭs, n.|Inscr. linteau d'une porte.
+Ge|superlimen|superlīmen|inis, n.|die Oberschwelle
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|surdigo|surdīgo|sūrdīgo|5|sūrdīgĭn||ĭnis, f.
+LS|surdigo|surdīgo|ĭnis|f.||deafness|surdigo|0
+GG|surdigo|surdīgo|ĭnis|f.||surdité|surdigo|
+GJ|surdigo|surdīgo|ĭnis, f. (c. surditas)|M.-Emp. surdité.
+Ge|surdigo|surdīgo|inis, f.|die Taubheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|susurramen|sŭsurrāmĕn|sŭsūrrāmĕn|7|sŭsūrrāmĭn||ĭnĭs, n.
+LS|susurramen|sŭsurrāmen|ĭnis|n.||a muttering, murmuring|susurramen|0
+GG|susurramen|sŭsurrāmĕn|ĭnis|n.||murmure, formules [magiques] marmottées|susurramen|
+GJ|susurramen|sŭsurrāmĕn|ĭnĭs, n.|Apul. murmure, formules magiques (murmurées).
+Ge|susurramen|susurrāmen|inis, n.|das Murmeln
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tabitudo|tābĭtūdo|tābĭtūdo|5|tābĭtūdĭn||ĭnis, f.
+LS|tabitudo|tābĭtūdo|ĭnis|f.||consumption, decline|tabitudo|0
+GG|tabitudo|tābĭtūdo|inis|f.||consomption, dépérissement / corruption, putréfaction|tabitudo|
+GJ|tabitudo|tābĭtūdo|ĭnis, f. [tabes]|- 1 - consomption, dépérissement, langueur. - 2 - corruption, putréfaction.
+Ge|tabitudo|tābitūdo|inis, f.|die Auszehrung, Schwindsucht
+FG|tabitudo|tabitudo inis féminin (tabes), consomption, dépérissement.
+Lw|
+YO|
+PO|tabitudo|ta_bitu_do_, ta_bitu_dinis : f
+WW||||
+|taeditudo|taedĭtūdo|tāedĭtūdo|5|tāedĭtūdĭn||ĭnis, f.
+LS|
+GG|taeditudo|taedĭtūdo|inis|f.||ennui|taeditudo|
+GJ|taeditudo|taedĭtūdo|ĭnis, f. [taedet]|ennui.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|taetritudo|taetrĭtūdo|tāetrĭtūdo|5|tāetrĭtūdĭn||ĭnis, f.
+LS|taetritudo|taetrĭtūdo|ĭnis|f.||loathsomeness, hideousness|taetritudo|(
+GG|taetritudo|taetrĭtūdo|ĭnis|f.||laideur, difformité|taetritudo|
+GJ|taetritudo|taetrĭtūdo|inis, f.|laideur, difformité.
+Ge|taetritudo|taetritūdo|inis, f.|die Häßlichkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tarditudo|tardĭtūdo|tārdĭtūdo|5|tārdĭtūdĭn||ĭnis, f.
+LS|tarditudo|tardĭtūdo|ĭnis|f.||slowness, tardiness|tarditudo|0
+GG|tarditudo|tardĭtūdo|ĭnis|f.||marche lente, lenteur|tarditudo|
+GJ|tarditudo|tardĭtūdo|ĭnis, f.|Plaut. lenteur, manque de vivacité.
+Ge|tarditudo|tarditūdo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tegumen|tĕgŭmĕn|tĕgŭmĕn|7|tĕgŭmĭn||ĭnis, n.
+LS|tegumen|tĕgŭmen|ĭnis|n.||obliq. cas., a covering, cover, the vault of heaven, icy covering, obj. gen.|tegumen|0
+GG|tegumen|tĕgŭmĕn|ĭnis|n.|S.|tout ce qui sert à couvrir / vêtement / cuirasse, armure / casque / abris pour la vigne / enveloppe du grain / [fig.] ce qui sert à protéger, protection, défense|tegmen|tĕgŭ-
+GJ|tegumen|tĕgŭmen||c. tegmen.
+Ge|
+FG|tegumen|tegumen, cf. tegmen.
+Lw|tegumen|tegumen (tegimen)|inis|n||a covering, cover, the husks, the vault of heaven||||tegumen
+YO|
+PO|
+WW||||
+|temeritudo|tĕmĕrĭtūdo|tĕmĕrĭtūdo|5|tĕmĕrĭtūdĭn||ĭnis, f.
+LS|temeritudo|tĕmĕrĭtūdo|ĭnis|f.||rashness, heedlessness, temerity|temeritudo|0
+GG|temeritudo|tĕmĕrĭtūdo|ĭnis|f.||irréflexion|temeritudo|
+GJ|temeritudo|tĕmĕrĭtūdo|ĭnis, f. [temere]|irréflexion.
+Ge|temeritudo|temeritūdo||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tentamen|tentāmĕn|tēntāmĕn|7|tēntāmĭn||ĭnis, n.
+LS|tentamen|tentāmen|ĭnis|n.||a trial, essay, attempt|tentamen|0
+GG|
+GJ|tentamen|tentāmĕn|ĭnis, n.|- 1 - épreuve, essai, tentative. - 2 - Hier. tentation.
+Ge|
+FG|
+Lw|
+YO|
+PO|tentamen|tenta_men, tenta_minis : n
+WW||||
+|tentigo|tentīgo|tēntīgo|5|tēntīgĭn||ĭnis, f.
+LS|tentigo|tentīgo|ĭnis|f.||a tension; lecherousness, lust|tentigo|0
+GG|tentigo|tentīgo|ĭnis|f.||priapisme|tentigo|
+GJ|tentigo|tentigo|ĭnis, f.|priapisme, ardeur érotique, rut.
+Ge|tentigo|tentīgo|inis, f.|die Spannung - die Brunst, Geilheit
+FG|
+Lw|tentigo|tentīgō|inis|||a tension, violent passion, furious desire||||tentigo
+YO|
+PO|
+WW||||
+|terebramen|tĕrē̆brāmĕn|tĕrē̆brāmĕn|7|tĕrē̆brāmĭn||ĭnis, n.
+LS|terebramen|tĕrē̆brāmen|ĭnis|n.||a hole bored|terebramen|0
+GG|terebramen|tĕrĕbrāmĕn|ĭnis|n.||trou, perforation|terebramen|
+GJ|
+Ge|terebramen|terebrāmen|inis, n.|das gebohrte Loch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|termen|termĕn|tērmĕn|7|tērmĭn||ĭnis, n.
+LS|termen|termen|ĭnis|n.||a boundary-line, boundary, bound, limit|terminus|0
+GG|termen|termĕn|ĭnis|n.||borne|termen|
+GJ|termen|termĕn|ĭnis, n.|Varr. borne, limite.
+Ge|termen|termen|inis, n. = terminus, Acc. tr. inc. fab. 37. Greg. Tur. hist. Franc. 9, 20. p. 375, 9|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|testamen|testāmĕn|tēstāmĕn|7|tēstāmĭn||ĭnĭs, n.
+LS|testamen|testāmen|ĭnis|n.||evidence, proof, testimony|testamen|0
+GG|testamen|testāmĕn|ĭnis|n.||témoignage|testamen|
+GJ|testamen|testamĕn|ĭnĭs, n.|Tert. témoignage.
+Ge|testamen|tēstāmen|inis, n.|das Zeugnis - der Beweis
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetritudo|tē̆trĭtūdo|tē̆trĭtūdo|5|tē̆trĭtūdĭn||ĭnis, f.
+LS|tetritudo|tē̆trĭtūdo|ĭnis|f.||loathsomeness, hideousness|taetritudo|v. taetritudo.
+GG|
+GJ|tetritudo|tētrĭtūdo|inis, f.|laideur, difformité.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tormen|tormĕn|tōrmĕn|7|tōrmĭn||ĭnĭs, n.
+LS|
+GG|tormen|tormĕn|ĭnis|n.||tourment|tormen|
+GJ|tormen|tormĕn|ĭnĭs, n.|- 1 - douleur. - 2 - coliques. - 3 - tourment, angoisse.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|torpedo|torpēdo|tōrpēdo|5|tōrpēdĭn||ĭnis, f.
+LS|torpedo|torpēdo|ĭnis|f.||stiffness, numbness, inflexibility, sluggishness, torpidity.|torpedo|0
+GG|torpedo|torpēdo|ĭnis|f.||torpeur, engourdissement / torpille [poisson]|torpedo|
+GJ|torpedo|torpēdo|ĭnis, f.|- 1 - torpeur, engourdissement. - 2 - inertie, apathie, langueur. - 3 - torpille (poisson).
+Ge|torpedo|torpēdo|inis, f.|geistige Stumpfheit, Trägheit, Dumpfheit - machende Krampffisch - der Zitterroche
+FG|torpedo|torpedo inis féminin (torpeo),
+Lw|torpedo|torpēdō|inis|f||sluggishness, numbness, The torpedo, cramp-fish, electric ray||||torpedo
+YO|
+PO|
+WW||||
+|trachin|Trāchīn|Trāchīn|5|Trāchīn||īnis, f.
+LS|Trachin|Trāchīn|īnis||||Trachin|0
+GG|Trachin|Trāchin|īnis|f.|S.|Trachine [ville de Thessalie, lieu où Hercule éleva son bûcher]|Trachin|Trāchin
+GJ|Trachin|Trachin|inis, f. (acc. -ina)|Trachine (ville de Thessalie).
+Ge|Trachin|Trāchīn|īnis|trachinisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tramen|trāmĕn|trāmĕn|7|trāmĭn||ĭnis, n.
+LS|
+GG|tramen|trāmĕn|ĭnis|n.||trame / chaîne [d'une étoffe]|tramen|
+GJ|tramen|trāmĕn|inis, n.|- 1 - Not.-Tir. trame. - 2 - Gloss. chaîne (d'une étoffe).
+Ge|tramen|trāmen|inis, n. = ῥοδάνη|der gedrehte Faden - der Einschlag
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trissago|trissāgo|trīssāgo|5|trīssāgĭn||ĭnis, f.
+LS|trissago|trissāgo|ĭnis|f.||a plant, called also, germander|trissago|v. trixago.
+GG|trissago|trissāgo|ĭnis|f.||v. trixago.|trissago|
+GJ|trissago|trissāgo|ĭnis, f.|Plin. petite germandrée (plante).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tristitudo|tristĭtūdo|trīstĭtūdo|5|trīstĭtūdĭn||ĭnis, f.
+LS|tristitudo|tristĭtūdo|ĭnis|f.||sadness, sorrow, grief, melancholy, dejection|tristitudo|0
+GG|tristitudo|tristĭtūdo|dĭnis|f.||c. tristitia|tristitudo|
+GJ|tristitudo|tristĭtūdo|ĭnis, f.|Apul. c. tristitia.
+Ge|tristitudo|trīstitūdo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trixago|trixāgo|trīxāgo|5|trīxāgĭn||ĭnis, f.
+LS|trixago|trixāgo|ĭnis|f.||a plant, called also, germander|trixago|or 
+GG|trixago|trixāgo|ĭnis|f.||germandrée|trixago|
+GJ|trixago|trixāgo|ĭnis, f.|Plin. petite germandrée (plante).
+Ge|trixago|trixāgo|inis, f.|Gamanderlein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tumulamen|tŭmŭlāmĕn|tŭmŭlāmĕn|7|tŭmŭlāmĭn||ĭnis, n.
+LS|tumulamen|tŭmŭlāmen|ĭnis|n.||a sepulchral mound, tumulus|tumulamen|0
+GG|tumulamen|tŭmŭlāmĕn|ĭnis|n.||sépulture|tumulamen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|turbedo|turbēdo|tūrbēdo|5|tūrbēdĭn||ĭnis, f.
+LS|
+GG|turbedo|turbēdo|ĭnis|f.||v. turbido 2|turbedo|
+GJ|turbedo|turbēdo|inis, f.|c. turbido, inis.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|turben|turbĕn|tūrbĕn|7|tūrbĭn||ĭnĭs, n.
+LS|turben|turben|ĭnis|n.||gen., that which spins, twirls round|turben|0
+GG|turben|turbĕn|ĭnis|m.||toupie, sabot|turben|
+GJ|turben|turbĕn|ĭnĭs, m. et n.|toupie, sabot.
+Ge|turben|turben|inis, n.|der Wirbelwind - die Windsbraut - der Kreisel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|turpedo|turpēdo|tūrpēdo|5|tūrpēdĭn||ĭnis, f.
+LS|
+GG|turpedo|turpēdo|ĭnis|f.||laideur|turpedo|
+GJ|turpedo|turpedo|ĭnis, f.|laideur morale, indignité, infamie.
+Ge|turpedo|turpēdo|inis, f.|eine garstige-, wunde Stelle
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|turpido|turpīdo|tūrpīdo|5|tūrpīdĭn||ĭnis, f.
+LS|turpido|turpīdo|ĭnis|f.||baseness|turpido|0
+GG|turpido|turpīdo|ĭnis|f.||c. turpedo|turpido|
+GJ|turpido|turpido|ĭnis, f.|Aug. laideur morale, indignité, infamie.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tussedo|tussēdo|tūssēdo|5|tūssēdĭn||ĭnis, f.
+LS|tussedo|tussēdo|ĭnis|f.||a cough|tussedo|0
+GG|tussedo|tussēdo|ĭnis|f.||c. tussis|tussedo|
+GJ|tussedo|tussedo|ĭnis, f.|toux.
+Ge|tussedo|tussēdo|inis, f.|der Husten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tussilago|tussĭlāgo|tūssĭlāgo|5|tūssĭlāgĭn||ĭnis, f.
+LS|tussilago|tussĭlāgo|ĭnis|f.||the herb colt'sfoot|tussilago|0
+GG|tussilago|tussĭlāgo|ĭnis|f.||tussilage [ou] pas-d'âne [plante]|tussilago|
+GJ|tussilago|tussilago|ĭnis, f.|tussilage (plante).
+Ge|tussilago|tussilāgo|inis, f.|Huflattich, Brandlattich
+FG|tussilago|tussilago inis féminin, tussilage.
+Lw|
+YO|
+PO|
+WW||||
+|tutamen|tūtāmĕn|tūtāmĕn|7|tūtāmĭn||ĭnĭs, n.
+LS|tutamen|tūtāmen|ĭnis|n.||a means of defence, defence, protection|tutamen|0
+GG|tutamen|tūtāmĕn|ĭnis|n.||défense, abri|tutamen|
+GJ|tutamen|tūtāmĕn|ĭnĭs, n. [tutor]|Virg. abri, défense.
+Ge|tutamen|tūtāmen|inis, n.|das Schutzmittel - die Schutzwehr - der Schutz
+FG|tutamen|tutamen inis neutre (tutor), défense, abri.
+Lw|tutamen|tūtāmen|inis|n||a means of defence, protection, safeguard||||tutamen
+YO|
+PO|tutamen|tu_ta_men, tu_ta_minis : n
+WW||||
+|ululamen|ŭlŭlāmĕn|ŭlŭlāmĕn|7|ŭlŭlāmĭn||ĭnĭs, n.
+LS|ululamen|ŭlŭlāmen|ĭnis|n.||a howling, wailing, howl|ululamen|0
+GG|ululamen|ŭlŭlāmĕn|ĭnis|n.||c. ululatus 2|ululamen|
+GJ|ululamen|ŭlŭlāmĕn|ĭnĭs, n.|hurlements, gémissements, cri perçant.
+Ge|ululamen|ululāmen|inis, n.|das Heulen, Geheul
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|unguen|unguĕn|ūngụĕn|7|ūngụĭn||ĭnĭs, n.
+LS|unguen|unguen|ĭnis|n.||a fatty substance, fat; an ointment, unguent|unguen|0
+GG|unguen|unguĕn|ĭnis|n.||corps gras, graisse|unguen|
+GJ|unguen|unguĕn|ĭnĭs, n.|graisse, corps gras.
+Ge|unguen|unguen|inis, n.|die Salbe - das Fett
+FG|unguen|unguen inis neutre (ungo), corps gras, graisse.
+Lw|unguen|unguen|inis|n||an ointment, unguent, fat||||unguen
+YO|
+PO|unguen|unguen, unguinis : n
+WW||||
+|urigo|ūrīgo|ūrīgo|5|ūrīgĭn||ĭnis, f.
+LS|urigo|ūrīgo|ĭnis|f.||lustful heat, desire, pruriency|urigo|0
+GG|urigo|ūrīgo|ĭnis|f.||sorte de gale (al. uligo) / désir amoureux|urigo|
+GJ|urigo|ūrīgo|ĭnis, f. [uro]|- 1 - Plin. prurit, démangeaison. - 2 - Apul. désir amoureux. - 3 - Veg. bouton, pustule.
+Ge|Urigo|Urīgo|inis, f.|die Brunst, Geilheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ustilago|ustĭlāgo|ūstĭlāgo|5|ūstĭlāgĭn||ĭnis, f.
+LS|ustilago|ustĭlāgo|ĭnis|f.||a plant, called also|ustilago|0
+GG|ustilago|ustĭlāgo|ĭnis|f.||chardon sauvage|ustilago|
+GJ|ustilago|ustĭlāgo|ĭnis, f.|Apul. chardon sauvage.
+Ge|ustilago|ustilāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vanitudo|vānĭtūdo|vānĭtūdo|5|vānĭtūdĭn||ĭnis, f.
+LS|vanitudo|vānĭtūdo|ĭnis|f.||emptiness, nothingness, vainglory, vanity|vanitudo|0
+GG|vanitudo|vānĭtūdo|ĭnis|f.||mensonge / vanité|vanitudo|
+GJ|vanitudo|vānĭtūdo|ĭnis, f. [vanus]|1 - mensonge. 2 - vanité.
+Ge|vanitudo|vānitūdo|inis, f.|die Nichtigkeit - das lügnerische Gerede
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vegetamen|vĕgĕtāmĕn|vĕgĕtāmĕn|7|vĕgĕtāmĭn||ĭnis, n.
+LS|vegetamen|vĕgĕtāmen|ĭnis|n.||the animating power, vivifying principle|vegetamen|0
+GG|vegetamen|vĕgĕtāmĕn|ĭnis|n.||principe de vie, force vitale|vegetamen|
+GJ|vegetamen|vĕgĕtāmĕn|ĭnis, n. [vegeto]|Prud. force vitale.
+Ge|vegetamen|vegetāmen|inis, n.|das Belebende - die belebende Kraft - das belebende Prinzip
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|velumen|vēlūmĕn|vēlūmĕn|7|vēlūmĭn||ĭnis, n.
+LS|velumen|vēlūmen|ĭnis|n.||a fleece|velumen|0
+GG|velumen|vēlūmĕn||n.|S.|vellus 1|velumen|vēlūmĕn
+GJ|velumen|vēlūmĕn|ĭnis, n.|c. vellus, eris.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vernilago|vernĭlāgo|vērnĭlāgo|5|vērnĭlāgĭn||ĭnis, f.
+LS|
+GG|vernilago|vernĭlāgo|ĭnis|f.||sorte d'herbe|vernilago|
+GJ|
+Ge|vernilago|vernilāgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|verrugo|Verrūgo|Vērrūgo|5|Vērrūgĭn||ĭnis, f.
+LS|Verrugo|Verrugo|ĭnis|f.||a town of the Volsci, Colle Ferro, Colle Sacco, near Segni|Verrugo|0
+GG|Verrugo|Verrūgo|ĭnis|f.||ville des Volsques|Verrugo|
+GJ|Verrugo|Verrugo|ĭnis, f.|Verrugo (ville des Volsques).
+Ge|Verrugo|Verrūgo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vertigo|vertīgo|vērtīgo|5|vērtīgĭn||ĭnis, f.
+LS|vertigo|vertīgo|ĭnis|f.||a turning, whirling round|vertigo|0
+GG|vertigo|vertīgo|ĭnis|f.||mouvement de rotation, tournoiement / pirouette / [fig.] révolution, changement / vertige, étourdissement, éblouissement|vertigo|
+GJ|vertigo|vertīgo|ĭnis, f.|- 1 - tournoiement, rotation. - 2 - vertige, éblouissement, étourdissement. - 3 - Pers. pirouette. - 4 - au fig. révolution, changement, vicissitudes. - 5 - J.-Val. sphère mobile. - 6 - Ov. tournant (d'eau), agitation (de la mer).
+Ge|vertigo|vertīgo|inis, f.|das Drehen, Herumdrehen, Wenden - der Schwindel - eine sich drehende Maschine - die Veränderung
+FG|vertigo|vertigo inis féminin (verto),
+Lw|vertigo|vertīgō|inis|f||a turning round, whirling, a sensation of whirling, giddiness, dizziness, vertigo, the ceiling whirls round||||vertigo
+YO|
+PO|vertigo|verti_go_, verti_ginis : f
+WW||||
+|vertilago|vertĭlāgo|vērtĭlāgo|5|vērtĭlāgĭn||ĭnis, f.
+LS|
+GG|vertilago|vertĭlāgo|ĭnis|f.||chardon [plante]|vertilago|
+GJ|vertilago|vertĭlāgo|ĭnis, f.|Apul. chardon (plante).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vesperugo|vespĕrūgo|vēspĕrūgo|5|vēspĕrūgĭn||ĭnis, f.
+LS|vesperugo|vespĕrūgo|ĭnis|f.||The evening-star|vesperugo|0
+GG|vesperugo|vespĕrūgo|ĭnis|f.||l'étoile de Vénus / c. vespertilio|vesperugo|
+GJ|
+Ge|vesperugo|vesperūgo|inis, f.|der Abendstern - die Fledermaus
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vexamen|vexāmĕn|vēxāmĕn|7|vēxāmĭn||ĭnĭs, n.
+LS|vexamen|vexāmen|ĭnis|n.||a shaking, quaking|vexamen|0
+GG|vexamen|vexāmĕn|inis|n.||ébranlement, secousse|vexamen|
+GJ|vexamen|vexamĕn|ĭnĭs, n.|secousse, ébranlement.
+Ge|vexamen|vexāmen|inis, n.|die Erschütterung
+FG|
+Lw|
+YO|
+PO|vexamen|vexa_men, vexa_minis : n
+WW||||
+|vibramen|vī̆brāmĕn|vī̆brāmĕn|7|vī̆brāmĭn||ĭnĭs, n.
+LS|vibramen|vī̆brāmen|ĭnis|n.||a tremulous motion, quivering|vibramen|0
+GG|vibramen|vĭbrāmĕn|ĭnis|n.||action de darder [sa langue, en parl. d'un serpent]|vibramen|
+GJ|vibramen|vibramĕn|ĭnĭs, n.|action de darder (la langue, en parl. d'un serpent).
+Ge|vibramen|vibrāmen|inis, n.|das Schwingen - die schnelle, zitternde Bewegung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vicissitudo|vĭcissĭtūdo|vĭcīssĭtūdo|5|vĭcīssĭtūdĭn||ĭnis, f.
+LS|vicissitudo|vĭcissĭtūdo|ĭnis|f.||change, interchange, alternation, vicissitude|vicissitudo|0
+GG|vicissitudo|vĭcissĭtūdo|inis|f.||alternative, échange / passage successif (alternatif) d'un état dans un autre|vicissitudo|
+GJ|vicissitudo|vicissitūdo|ĭnis, f.|- 1 - vicissitude, changement, mutation, succession, tour. - 2 - échange (de bons offices), réciprocité.
+Ge|vicissitudo|vicissitūdo|inis, f.|der Wechsel - die Abwechselung, Wechselseitigkeit
+FG|vicissitudo|vicissitudo inis féminin (vicis), alternative, échange ; passage successif (alternatif) d'un état dans un autre ; dierum noctiumque vicissitudines, succession (alternative) des jours et des nuits ; fortunae vicissitudines, les vicissitudes de la fortune.
+Lw|vicissitudo|vicissitūdō|inis|f||change, interchange, alternation, vicissitude, reciprocal influence||||vicissitudo
+YO|
+PO|vicissitudo|vicissitu_do_, vicissitu_dinis : f
+WW||||
+|vitiligo|vĭtĭlīgo|vĭtĭlīgo|5|vĭtĭlīgĭn||ĭnis, f.
+LS|vitiligo|vĭtĭlīgo|ĭnis|f.||a kind of cutaneous eruption, tetter|vitiligo|0
+GG|vitiligo|vĭtĭlīgo|ĭnis|f.||] ; dartre|vitiligo|
+GJ|vitiligo|vĭtĭlīgo|ĭnis, f.|tache blanche sur la peau [Fest. 369]; dartre.
+Ge|vitiligo|vitilīgo|inis, f.|die Flechte
+FG|vitiligo|vitiligo inis féminin (vitium), tache blanche sur la peau, dartre.
+Lw|
+YO|
+PO|
+WW||||
+|vitreamen|vĭtrĕāmen|vĭtrĕāmen|7|vĭtrĕāmĭn||ĭnis, n.
+LS|vitreamen|vĭtrĕāmen|ĭnis|n.||glassware|vitreamen|0
+GG|
+GJ|
+Ge|vitreamen|vitreāmen|inis, n.|gläsernes Geschirr
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vitulamen|vĭtŭlāmĕn|vĭtŭlāmĕn|7|vĭtŭlāmĭn||ĭnis, n.
+LS|vitulamen|vītŭlāmĕn|ĭnis|n.||a shoot, sucker, sprig|vitulamen|0
+GG|vitulamen|vĭtŭlāmen|ĭnis|n.||pullulement de rejetons|vitulamen|
+GJ|vitulamen|vĭtŭlāmĕn|ĭnis, n.|pullulement de rejetons.
+Ge|vitulamen|vitulāmen|inis, n. = µοσχεύµατα|die Wurzelsprößlinge, Räuber
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vocamen|vŏcāmĕn|vŏcāmĕn|7|vŏcāmĭn||ĭnis, n.
+LS|vocamen|vŏcāmen|ĭnis|n.||an appellation, designation, name, med.|vocamen|0
+GG|vocamen|vŏcāmĕn|ĭnis|n.||nom [d'une chose]|vocamen|
+GJ|vocamen|vŏcāmĕn|ĭnis, n.|nom [d'une chose].
+Ge|vocamen|vocāmen|inis, n.|die Benennung - der Name
+FG|
+Lw|
+YO|
+PO|vocamen|voca_men, voca_minis : n
+WW||||
+|absuetudo|absuētūdo|ābsŭētūdo|5|ābsŭētūdĭn||ĭnis, f.
+LS|absuetudo|absuētūdo|ĭnis|f.|||absuetudo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adnomen|adnōmen|ādnōmen|7|ādnōmĭn||ĭnis, n.
+LS|adnomen|adnōmen|ĭnis|n.||a surname, cognomen|agnomen|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|almen|almen|ālmen|7|ālmin||inis, n.
+LS|
+GG|
+GJ|
+Ge|almen|almen|inis, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|apiago|apiāgo|apĭāgo|5|apĭāgin||inis, f.
+LS|
+GG|apiago|apiāgo|inis|f.||plante recherchée des abeilles|apiago|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|arin|Arin|Arin|5|Arin||inis, m.
+LS|
+GG|Arin|Arin|inis|m.|S.|nom d'h.|Arin|Arin
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|buccellago|buccellāgo|būccēllāgo|5|būccēllāgĭn||ĭnis, f.
+LS|
+GG|buccellago|buccellāgo|ĭnis|f.||sorte de farine|buccellago|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calligo|callīgo|cāllīgo|5|cāllīgĭn||ĭnis, f.
+LS|calligo|callīgo|ĭnis|f.||a thick atmosphere, a mist, vapor, fog|caligo1|v. 1. caligo.
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW|||calligo, calligavi|calligo, calligatum
+|conttamen|conttāmen|cōnttāmen|7|cōnttāmĭn||ĭnis, n.
+LS|conttamen|conttāmen|ĭnis|n.||a delaying, hesitating|cunctamen|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|curmen|curmĕn|cūrmĕn|5|cūrmĭn||ĭnis, m.
+LS|
+GG|curmen|curmĕn|ĭnis|m.||c. curmi.|curmen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|delicatitudo|dēlĭcātĭtūdo|dēlĭcātĭtūdo|5|dēlĭcātĭtūdĭn||ĭnis, f.
+LS|
+GG|delicatitudo|dēlĭcātĭtūdo|ĭnis|f.||mollesse [de la cire]|delicatitudo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|deliquatitudo|dēlĭquātĭtūdo|dēlĭqụātĭtūdo|5|dēlĭqụātĭtūdĭn||ĭnis, f.
+LS|deliquatitudo|dēlĭquātĭtūdo|ĭnis|f.||a melting, dropping|deliquatitudo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|detramen|dētrāmen|dētrāmen|7|dētrāmin||inis, n.
+LS|
+GG|
+GJ|
+Ge|detramen|dētrāmen|inis, n.|der Faden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dulceamen|dulcĕāmĕn|dūlcĕāmĕn|7|dūlcĕāmĭn||ĭnis, n.
+LS|
+GG|dulceamen|dulcĕāmĕn|ĭnis|n.||douceur|dulceamen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|epinomen|ĕpĭnōmĕn|ĕpĭnōmĕn|7|ĕpĭnōmĭn||ĭnis, n.
+LS|
+GG|epinomen|ĕpĭnōmĕn|ĭnis|n.||surnom|epinomen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gubernamen|gŭbernāmĕn|gŭbērnāmĕn|7|gŭbērnāmĭn||ĭnĭs, n. [guberno]
+LS|
+GG|
+GJ|gubernamen|gŭbernāmĕn|ĭnĭs, n. [guberno]|direction.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|humilitudo|humilitūdo|humilitūdo|5|humilitūdin||inis, f.
+LS|
+GG|
+GJ|
+Ge|humilitudo|humilitūdo|inis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|impaenitudo|impaenĭtūdo|īmpāenĭtūdo|5|īmpāenĭtūdĭn||ĭnis, f.
+LS|
+GG|impaenitudo|impaenĭtūdo|ĭnis|f.||impénitence|impaenitudo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|impoenitudo|impoenitūdo|īmpōenitūdo|5|īmpōenitūdin||inis, f.
+LS|
+GG|
+GJ|
+Ge|impoenitudo|impoenitūdo|inis, f.|das Nichtbereuen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inchoamen|inchoāmen|īnchŏāmen|7|īnchŏāmin||inis, n.
+LS|
+GG|
+GJ|
+Ge|inchoamen|inchoāmen|inis, n.|das Beginnen, Anfangen - der Anfang
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inersitudo|ĭnersĭtūdo|ĭnērsĭtūdo|5|ĭnērsĭtūdĭn||ĭnis, f.
+LS|inersitudo|ĭnersĭtūdo|ĭnis|f.||inactivity, idleness|inersitudo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inspiramen|inspīrāmĕn|īnspīrāmĕn|7|īnspīrāmĭn||ĭnis, n.
+LS|
+GG|inspiramen|inspīrāmĕn|ĭnis|n.|S.|insufflation|inspiramen|inspīrāmĕn
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|iucunditudo|iūcunditūdo|ĭūcūnditūdo|5|ĭūcūnditūdin||inis, f. = urbanitas
+LS|
+GG|
+GJ|
+Ge|iucunditudo|iūcunditūdo|inis, f. = urbanitas|die Leutseligkeit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|kartago|Kartāgo|Kārtāgo|5|Kārtāgĭn||ĭnis, f.
+LS|Kartago|Kartāgo|ĭnis|f.||locat.|Carthago1|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|karthhago|Karthhāgo|Kārthhāgo|5|Kārthhāgĭn||ĭnis, f.
+LS|Karthhago|Karthhāgo|ĭnis|f.||-I. locat. -II. the daughter of the fourth Hercules|Carthago1|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lago|lago|lago|5|lagin||inis, f.
+LS|lago|lago|inis|f.||a plant|lago|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laxitudo|laxĭtūdo|lāxĭtūdo|5|lāxĭtūdĭn||ĭnis, f.
+LS|
+GG|laxitudo|laxĭtūdo|ĭnis|f.||action de relâcher|laxitudo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|limpitudo|limpĭtūdo|līmpĭtūdo|5|līmpĭtūdĭn||ĭnis, f.
+LS|limpitudo|limpĭtūdo|ĭnis|f.||clearness, brightness, transparency|limpitudo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lolloligo|lollōlīgo|lōllōlīgo|5|lōllōlīgĭn||ĭnis, f.
+LS|lolloligo|lollōlīgo|ĭnis|f.||the cuttle-fish|loligo|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|moestitudo|moestĭtūdo|mōestĭtūdo|5|mōestĭtūdĭn||ĭnis, f.
+LS|moestitudo|moestĭtūdo|ĭnis|f.||sadness|maestitudo|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|motamen|mōtāmen|mōtāmen|7|mōtāmin||inis, n.
+LS|
+GG|motamen|mōtāmen|inis|n.||c. motatio|motamen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|muccilago|muccĭlāgo|mūccĭlāgo|5|mūccĭlāgĭn||ĭnis, f.
+LS|muccilago|muccĭlāgo|ĭnis|f.||a mouldy, musty juice|mucilago|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mustelago|mustēlāgo|mūstēlāgo|5|mūstēlāgĭn||ĭnis, f.
+LS|
+GG|mustelago|mustēlāgo|ĭnis|f.||lauréole [arbrisseau]|mustelago|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oblenimen|oblēnīmen|ō̆blēnīmen|7|ō̆blēnīmin||inis, n.
+LS|
+GG|
+GJ|
+Ge|oblenimen|oblēnīmen|inis, n.|Trost-, Beruhigungsmittel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ornamen|ornāmen|ōrnāmen|7|ōrnāmĭn||ĭnis, n.
+LS|ornamen|ornāmen|ĭnis|n.|||ornamen|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pilumen|pīlūmĕn|pīlūmĕn|7|pīlūmĭn||ĭnis, n.
+LS|
+GG|pilumen|pīlūmĕn|ĭnis|n.||toute substance pilée|pilumen|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|plubago|plubago|plubago|5|plubagĭn||ĭnis, f.
+LS|
+GG|
+GJ|plubago|plubago|ĭnis, f.|mine de plomb; plombagine.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|postlimen|postlīmen|pōstlīmen|7|pōstlīmin||inis, n. = επάνοδος
+LS|
+GG|
+GJ|
+Ge|postlimen|postlīmen|inis, n. = επάνοδος|die Rückkehr
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|promptitudo|promptĭtūdo|prōmptĭtūdo|5|prōmptĭtūdĭn||ĭnis, f.
+LS|promptitudo|promptĭtūdo|ĭnis|f.||promptitude|promptitudo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quantitudo|quantĭtūdo|qụāntĭtūdo|5|qụāntĭtūdĭn||ĭnis, f.
+LS|quantitudo|quantĭtūdo|ĭnis|f.||quantity, degree|quantitudo|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scalpturigo|scalptŭrīgo|scālptŭrīgo|5|scālptŭrīgĭn||ĭnis, f.
+LS|scalpturigo|scalptŭrīgo|ĭnis|f.||a scratching, med.|scalpturigo|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scalpurigo|scalpŭrīgo|scālpŭrīgo|5|scālpŭrīgĭn||ĭnis, f.
+LS|scalpurigo|scalpŭrīgo|ĭnis|f.||a scratching, med.|scalpturigo|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|signamen|signāmĕn|sīgnāmĕn|7|sīgnāmĭn||ĭnis, n.
+LS|
+GG|
+GJ|signamen|signāmĕn|ĭnis, n.|marque, signe.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|solicitudo|sōlicĭtūdo|sōlicĭtūdo|5|sōlicĭtūdĭn||ĭnis, f.
+LS|solicitudo|sōlicĭtūdo|ĭnis|f.||uneasiness of mind, care, disquiet, anxiety, solicitude|sollicitudo|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subscudo|subscūdo|sūbscūdo|5|sūbscūdĭn||ĭnis, f.
+LS|
+GG|subscudo|subscūdo|ĭnis|f.||c. subscus|subscudo|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|viscarago|viscārāgo|vīscārāgo|5|vīscārāgĭn||ĭnis, f.
+LS|
+GG|viscarago|viscārāgo|ĭnis|f.||carline [plante]|viscarago|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vulgago|vulgāgo|vūlgāgo|5|vūlgāgĭn||ĭnis, f.
+LS|
+GG|vulgago|vulgāgo|ĭnis|f.||c. asarum|vulgago|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aris2|Ăris2|Ăris|5|Ărin||inis, m.
+LS|Aris|Ăris|is|m.||a Sardinian|Aris2|0
+GG|Aris|Aris|inis|m.||nom d'homme|2 Aris|
+GJ|Aris|Aris|inis, m.|Aris (nom d'homme).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|attin|Attīn|Āttīn|5|Āttīn||īnis, m.
+LS|Attin|Attīn|īnis|m.||a young Phrygian shepherd, whom Cybele loved, and made her priest on condition of perpetual chastity; but he broke his vow, became insane, and emasculated himself|Attis|0
+GG|Attin|Attin|ĭnis|m.|S.|berger phrygien aimé de Cybèle, qui devint prêtre de la déesse et qui se mutila|Attis|Attin
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|capedo|căpēdo|căpēdo|5|căpēdĭn||ĭnis, f.
+LS|capedo|căpēdo|ĭnis|f.||a bowl, cup used in sacrifices|capedo|(
+GG|capedo|căpēdo|ĭnis|f.||vase à anse [employé dans les sacrifices]|1 capedo|
+GJ|capedo|căpēdo|(căpūdo), ĭnis, f. [capis]|1 - cruche à anse (jadis en usage dans les sacrifices). 2 -  Gloss. espace entre des murs.
+Ge|capedo|capēdo|dinis, f.|eine Henkelschale
+FG|
+Lw|capedo|capēdō (capūdō, capp-)|inis|f||a bowl used in sacrifices||||capedo
+Y§|
+PO|
+WW||||
+|delphis2|delphīs2|dēlphīs|5|dēlphīn||īnis, m.
+LS|
+GG|delphis|delphīs|īnis|m.||c. delphin|1 delphis|
+GJ|delphis|delphīs|īnis, m. (c. delphin)|dauphin (cétacé de l'ordre des mammifères).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|gravido2|grăvīdo2|grăvīdo|5|grăvīdĭn||ĭnis, f.
+LS|
+GG|gravido|gravīdo|ĭnis|f.||v. gravedo|2 gravido|
+GJ|gravido|grăvĭdo|ĭnis, f.|v. gravedo.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|hymen|hymēn|hymēn|5|hymĭn||ĭnis, m.
+LS|
+GG|hymen|hymēn|ĭnis|m.||membrane hymen|2 hymen|
+GJ|
+Ge|hymen|hymen|inis, m.|das Häutchen - das Jungfernhäutchen
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|livido2|lĭvīdo2|lĭvīdo|5|lĭvīdĭn||ĭnis, f.
+LS|
+GG|livido|lĭvīdo|ĭnis|f.||c. libido|2 livido|
+GJ|livido|lĭvīdo|ĭnis, f.|c. libido.
+Ge|livido|livīdo|inis, f. = libido|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|suffrago2|suffrāgo2|sūffrāgo|5|sūffrāgĭn||ĭnis, f.
+LS|suffrago|suffrāgo|ĭnis|f.||the ham, hough, hock|suffrago1|0
+GG|suffrago|suffrāgo|ĭnis|f.||jarret des animaux / provin|2 suffrago|
+GJ|suffrago|suffrago|ĭnis, f.|jarret (des quadrupèdes), éparvin (tumeur osseuse du jarret); provin.
+Ge|suffrago|suffrāgo|inis, f.|der Hinterbug - das Rebschloß
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|turbido2|turbīdo2|tūrbīdo|5|tūrbīdĭn||ĭnis, f.
+LS|
+GG|turbido|turbīdo|ĭnis|f.||orage (fig.) / état d'un liquide trouble|2 turbido|
+GJ|turbido|turbĭdo|ĭnis, f.|- a - fig. Aug. orage. - b - Fort. état d'un liquide trouble.
+Ge|turbido|turbīdo|inis, f.|der Sturm - die Trübheit
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|apello2|Ăpello2|Ăpēllo|5|Ăpēllĭn||ĭnis, m.
+LS|Apello|Ăpello|like hemo for homo|m.||gen., gen., Apollo, son of Jupiter and Latona, twinbrother of Diana, and god of the sun. On account of his omniscience, god of divination; on account of his lightnings, god of archery, and of the pestilence caused by heat;, god of the healing art;, god of poetry and music, presiding over the Muses|Apollo|v. Apollo.
+GG|
+GJ|Apello|Ăpello|ĭnis, m.|P. Fest. c. Apollo.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|aurigo2|aurīgo2|āurīgo|5|āurīgĭn||ĭnis, f.
+LS|
+GG|aurigo|aurīgo|ĭnis|f.|S.|jaunisse|aurugo|-igo
+GJ|aurigo|aurīgo|ĭnis, f. = aurugo, ĭnis, f.|jaunisse.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|caligo3|Cālīgo3|Cālīgo|5|Cālīgĭn||ĭnis, f.
+LS|
+GG|Caligo|Cālīgo|ĭnis|f.||l'Obscurité [déesse]|3 Caligo|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|conchis2|Conchis2|Cōnchis|5|Cōnchĭn||ĭnis, f.
+LS|
+GG|Conchis|Conchis|ĭnis|f.||nom de f.|2 Conchis|
+GJ|Conchis|Conchis|is, f.|Inscr. nom de femme.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|cornicen2|Cornĭcĕn2|Cōrnĭcĕn|5|Cōrnĭcĭn||ĭnĭs, m.
+LS|Cornicen|Cornĭcen|ĭnis|m.||a surname of several persons in the|Cornicen2|0
+GG|Cornicen|Cornĭcĕn|ĭnis|m.||surnom dans la gens Oppia|2 Cornicen|
+GJ|Cornicen|Cornĭcĕn|ĭnĭs, m.|Cornicen (surnom dans la gens Oppia).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|cupido2|Cŭpīdo2|Cŭpīdo|5|Cŭpīdĭn||ĭnis, m.
+LS|Cupido|Cŭpīdo|ĭnis|m.|||cupido|0
+GG|Cupido|Cŭpīdo|ĭnis|m.||Cupidon [dieu de l'amour, fils de Vénus] / Cupidines, les Amours|2 Cupido|
+GJ|Cupido|Cŭpīdo|ĭnis, m.|Cupidon (dieu de l'amour, fils de Vénus).
+Ge|
+FG|Cupido|Cupido inis masculin, Cupidon (dieu de l'Amour, fils de Vénus).
+Lw|Cupido|Cupīdō|inis|m||the god of love, Cupid, son of Venus||||Cupido2
+Y§|
+PO|cupido|Cupi_do_, Cupi_dinis : m
+WW||||
+|flamen3|Flāmĕn3|Flāmĕn|5|Flāmĭn||ĭnĭs, m.
+LS|Flamen|Flāmen|ĭnis|m.||a surname in the|Flamen3|0
+GG|Flamen|Flāmĕn|ĭnis|m.||surnom de Q. Claudius|3 Flamen|
+GJ|Flamen|Flāmĕn|ĭnĭs, m.|Flamen (surnom de Q. Claudius).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|flamen2|flāmĕn2|flāmĕn|7|flāmĭn||ĭnĭs, n.
+LS|flamen|flāmen|ĭnis|n.||a blowing, blast|flamen2|0
+GG|flamen|flāmĕn|ĭnis|n.||souffle / vent, brise|2 flamen|
+GJ|flamen|flāmĕn|ĭnĭs, n. (flamentum, i, n.) [flo]|a - souffle. b - vent, brise.
+Ge|flamen|flāmen|minis, n.|das Blasen, Wehen - der Wind - die Flötentöne
+FG|flamen|flamen inis neutre (flo), souffle ; vent, brise.
+Lw|flamen|flāmen|inis|n||a blowing, blast, breeze, wind, gale||||flamen2
+Y§|
+PO|flamen|fla_men, fla_minis : n
+WW||||
+|indago2|indāgo2|īndāgo|5|īndāgĭn||ĭnis, f.
+LS|indago|indāgo|ĭnis|f.||an encircling, enclosing|indago2|0
+GG|indago|indāgo|ĭnis|f.||entourage de filets, cordon de filets ou de chasseurs / filet, réseau / recherche, investigation|2 indago|
+GJ|indago|indāgo|ĭnis, f.|a - entourage de filets, cordon de filets ou de chasseurs. b - filet, réseau. c - recherche, investigation.
+Ge|indago|indāgo|inis, f.|die Umzingelung - die Umzingelung, Umstellung - die Aufsuchung, Erforschung - die Untersuchung - richterliche Untersuchung
+FG|indago|indago inis féminin,
+Lw|indago|indāgō|inis|f||an encircling with toils, surrounding, hunt like game||||indago2
+Y§|
+PO|indago|inda_go_, inda_ginis : f
+WW||||
+|ingravido2|ingravīdo2|īngravīdo|5|īngravīdin||inis, f.
+LS|
+GG|
+GJ|
+Ge|ingravido|ingravīdo|inis, f.|die Beschwerung
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|latitudo2|lătĭtūdo2|lătĭtūdo|5|lătĭtūdĭn||ĭnis, f.
+LS|
+GG|latitudo|lătĭtūdo|ĭnis|f.||action de se tenir caché|2 latitudo|
+GJ|latitudo|lătĭtūdo|ĭnis, f. [lateo]|C.-Aur. action de se tenir caché.
+Ge|latitudo|latitūdo|inis, f.|das Verborgensein, Sichversteckthalten
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|offendo2|offendo2|ōffēndo|5|ōffēndĭn||ĭnis, f.
+LS|offendo|offendo|ĭnis|f.||an offence|offendo2|0
+GG|
+GJ|
+Ge|offendo|offendo|inis, f.|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|origo2|Ŏrīgo2|Ŏrīgo|5|Ŏrīgĭn||ĭnis, f.
+LS|Origo|Ŏrīgo|ĭnis|f.||a female proper name|Origo2|0
+GG|Origo|Orīgo|ĭnis|f.||nom de femme|2 Origo|
+GJ|Origo|Origo|ĭnis, f.|Origo (nom de femme).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|pollis|pollis|pōllis|5|pōllĭn||ĭnis, m. and f.
+LS|pollis|pollis|ĭnis|m. and f.||fine flour, milldust|pollen|0
+GG|pollis|pollis|ĭnis|m. f.|S.|fleur de farine, farine fine / poussière de farine / poudre très fine|pollen|pollis
+GJ|pollis|pollis|ĭnis, m. f.|voir pollen.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|porrigo2|porrīgo2|pōrrīgo|5|pōrrīgĭn||ĭnis, f.
+LS|porrigo|porrīgo|ĭnis|f.||the scurf, dandruff, the mange|porrigo2|0
+GG|porrigo|porrīgo|ĭnis|f.||teigne|1 porrigo|
+GJ|porrigo|porrigo|ĭnis, f.|teigne.
+Ge|porrigo|porrīgo|inis, f. = prurigo|der Grind - der Kopfgrind
+FG|porrigo|porrigo inis féminin, teigne.
+Lw|porrigo|porrīgō|inis|f||scurf, dandruff, Of animals, the mange||||porrigo2
+Y§|
+PO|
+WW||||
+|respergo2|rēspergo2|rēspērgo|5|rēspērgĭn||ĭnis, f.
+LS|respergo|rēspergo|ĭnis|f.||a besprinkling|respergo2|0
+GG|respergo|respergo|ĭnis|f.||action de mouiller|1 respergo|
+GJ|
+Ge|respergo|respergo|inis, f.|das Bespritzen
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|robigo2|Rōbīgo2|Rōbīgo|5|Rōbīgĭn||ĭnis, f.
+LS|Robigo|Rōbīgo|ĭnis|f.||a god of the Romans, who averted mildew, a female deity|Robigus|0
+GG|Robigo|Rōbīgo|ĭnis|f.|S.|divinité [déesse ou dieu] qu'on invoquait pour préserver les céréales de la nielle|2 Robigo|Rōbīgo
+GJ|
+Ge|Robigo|Rōbīgo||zu Ehren der Gottheit Robigus
+FG|Robigo|Robigo inis féminin, et Robigus i masculin, divinité (déesse ou dieu) qu'on invoquait pour préserver les céréales de la nielle (robigo).
+Lw|
+Y§|
+PO|
+WW||||
+|spargo2|spargo2|spārgo|5|spārgĭn||ĭnis, f.
+LS|spargo|spargo|ĭnis|f.||a sprinkling, spray|spargo2|0
+GG|spargo|spargo|ĭnis|f.||aspersion|1 spargo|
+GJ|spargo|spargo|ĭnis, f.|aspersion.
+Ge|spargo|spargo|inis, f.|das Spritzen, Sprengen
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|aspectamen=adspectamen|aspectāmen|āspēctāmen|7|āspēctāmĭn||ĭnis, n.
+LS|aspectamen|aspectāmen|ĭnis|n.||a look, a sight|aspectamen|(
+GG|aspectamen|aspectāmen|ĭnis|n.||vue, aspect|aspectamen|
+GJ|aspectamen|aspectamen|inis, n.|spectacle, vue.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aspiramen=adspiramen|aspīrāmen|āspīrāmen|7|āspīrāmĭn||ĭnis, n.
+LS|aspiramen|aspīrāmen|ĭnis|n.||a blowing, breathing;, a communicating|aspiramen|(
+GG|aspiramen|aspīrāmen|ĭnis|n.|S.|action de souffler vers / [fig.] souffle|aspiramen|aspīrāmen
+GJ|aspiramen|aspīrāmen|ĭnis, n. [aspiro]|- 1 - action de souffler vers. - 2 - fig. souffle.
+Ge|aspiramen|aspīrāmen|inis, n.|das Zuwehen - die Vergünstigung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|irritamen=inritamen|irrītāmĕn|īrrītāmĕn|7|īrrītāmĭn||ĭnis, n.
+LS|irritamen|irrītāmen|ĭnis|n.||an incitement, incentive, provocative|irritamen|(
+GG|irritamen|irrītāmĕn|ĭnis|n.|S.|objet qui irrite, stimulant, excitant|irritamen|irrītāmĕn
+GJ|irritamen|irrītāmĕn|ĭnis, n.|- 1 - ce qui irrite. - 2 - stimulant, excitant, aiguillon.
+Ge|irritamen|irrītāmen|inis, n.|das Reizmittel, Anreizungsmittel
+FG|irritamen|irritamen inis neutre, et irritamentum i neutre (irrito), objet qui irrite, stimulant, excitant.
+Lw|inritamen|inrītāmen (irr-)|inis|n||an incitement, incentive, provocation||||inritamen
+YO|
+PO|irritamen|irri_ta_men, irri_ta_minis : n
+WW||||
+|aspargo2|aspargo2|āspārgo|5|āspārgĭn||ĭnis, f.
+LS|aspargo|aspargo|ĭnis|f.||A sprinkling, besprinkling|aspargo2|(Merk., M&uuml;ller, Str&uuml;b.; in MSS. sometimes 
+GG|aspargo|aspargo|ĭnis|f.|S.|aspersion, arrosement / souillure / la forme aspargo se trouve souvent dans les mss|2 aspergo|aspargo
+GJ|
+Ge|
+FG|aspargo|aspargo inis, cf. aspergo 2.
+Lw|
+Y§|
+PO|
+WW||||
+|aspergo2=adspergo2|aspergo2|āspērgo|5|āspērgĭn||ĭnis, f.
+LS|aspergo|aspergo|ĭnis|f.||A sprinkling, besprinkling|aspergo2|(Merk., M&uuml;ller, Str&uuml;b.; in MSS. sometimes 
+GG|aspergo|aspergo|ĭnis|f.|S.|aspersion, arrosement / souillure / la forme aspargo se trouve souvent dans les mss|2 aspergo|aspergo
+GJ|
+Ge|aspergo|aspergo||angespritzten Tropfen - Regentropfen, Regen - angespritzte Nässe - das Streupulver
+FG|aspergo|aspergo (aspargo) (adsp-) inis, féminin, aspersion, arrosement.
+Lw|aspergo|aspergō (adsp-, -argō)|inis|f||a sprinkling, besprinkling, That which is sprinkled, drops, spray, the sprinkled blood||||aspergo2
+Y§|
+PO|aspergo|aspergo_, asperginis : f
+WW||||
+|adfamen=affamen|adfāmĕn|ādfāmĕn|7|ādfāmĭn||ĭnĭs, n.
+LS|adfamen|adfāmen|ĭnis|n.||an accosting, address|affamen|(better 
+GG|adfamen|adfāmĕn|ĭnis|n.||paroles adressées à qqn|adfamen|
+GJ|adfamen|adfāmĕn|ĭnĭs, n.|discours, langage.
+Ge|affamen|affāmen|minis, n.|die Ansprache, Anrede
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adflamen=afflamen|adflāmĕn|ādflāmĕn|5|ādflāmĭn||ĭnĭs, f.
+LS|
+GG|adflamen|adflāmĕn|ĭnis|f.||souffle, inspiration|adflamen|
+GJ|adflamen|adflāmĕn|ĭnĭs, n.|souffle, inspiration.
+Ge|afflamen|afflāmen|minis, n.|das Anhauchen - die Begeisterung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adligamen=alligamen|adlĭgāmĕn|ā̆dlĭgāmĕn|7|ā̆dlĭgāmĭn||ĭnis, n.
+LS|
+GG|adligamen|adlĭgāmĕn|ĭnis|n.|S.|c. adligatio|adligamen|adlĭgāmĕn
+GJ|adligamen|adlĭgāmĕn|ĭnis, n.|c. adligatio.
+Ge|alligamen|alligāmen|inis, n.|das Bindemittel, Band
+FG|
+Lw|
+YO|
+PO|
+WW||||

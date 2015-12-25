@@ -1,0 +1,370 @@
+|abblandior|abblandĭor|ābblāndĭŏr|28|||īri, intr.
+LS|
+GG|abblandior|abblandĭor|īri||intr.|int., flatter|abblandior|
+GJ|abblandior|abblandĭor|īri|- intr. - Hilar. flatter, cajoler.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adblandior|adblandĭor|ādblāndĭŏr|28|||īri, intr.
+LS|
+GG|adblandior|adblandĭor|īri|||chercher à obtenir par flatterie|adblandior|
+GJ|adblandior|adblandĭor|īri|- intr. - Eccl. chercher à obtenir par flatterie, cajoler.
+Ge|adblandior|adblandior|Irī|sich anschmeicheln
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|admetior|admētĭor|ādmētĭŏr|28||ādmēns|īri, mensus sum
+LS|admetior|admētĭor|mensus, 4||v. dep.|to measure out to, Pass.|admetior|0
+GG|admetior|admētĭor|mensus sum, īri||tr.|tr., mesurer à qqn qqch, alicui rem|admetior|
+GJ|admetior|admētior|mētiri, mensus sum|- tr. - mesurer exactement.
+Ge|admetior|admētior|mēnsus sum, Irī|zumessen
+FG|admetior|admetior iri mensus sum, transitif, mesurer à quelqu'un quelque chose, alicui rem.
+Lw|admetior|ad-mētior|mēnsus, īrī||dep.|to measure out:||||admetior
+YO|
+PO|admetior|adme_tior, adme_ti_ri_, adme_nsus sum : v4 dep
+WW||||
+|adopperior|ădoppĕrior|ădōppĕrĭŏr|28|||īri
+LS|
+GG|adopperior|ădoppĕrior|īri||tr.|tr., attendre|adopperior|
+GJ|adopperior|ădoppĕrior|īri|- tr. - attendre.
+Ge|adopperior|adopperior|Irī|dazu erwarten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circummetior|circummētĭor|cīrcūmmētĭŏr|28|||īri
+LS|circummetior|circummētĭor|īri||v. pass.|to be measured around.|circummetior|0
+GG|
+GJ|circummetior|circummetior|metiri (passif)|être mesuré autour.
+Ge|circummetior|circummētior|Irī|ringsum messen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|commentior|commentĭor|cōmmēntĭŏr|28||cōmmēntīt|īri, ītus sum
+LS|commentior|commentĭor|ītus, 4||v. dep.|to invent, devise a falsehood|commentior|0
+GG|commentior|commentĭor|ītus sum, īri||tr.|tr., mentir, dire faussement / feindre, simuler|commentior|
+GJ|commentior|commentĭor|īri, ītus sum|mentir, simuler, feindre, inventer.
+Ge|commentior|commentior|Itus sum, Irī|Unwahres erdenken, aussinnen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|compartior|compartĭor|cōmpārtĭŏr|28|||īri
+LS|compartior|compartĭor|īri||v. dep.|to divide something with one, to share, Pass.|compartior|0
+GG|compartior|compartĭor|īri||tr.|tr., partager avec|compartior|
+GJ|compartior|compartior|iri|partager avec, partager.
+Ge|compartior|compartior|Irī|mit erteilen - mit teilnehmen lassen - teilhaftig werden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|compotior|compŏtĭor|cōmpŏtĭŏr|28||cōmpŏtīt|īri, ītus sum, intr.
+LS|
+GG|compotior|compŏtĭor|ītus sum, īri||intr.|int., être en possession de, jouir de|compotior|
+GJ|compotior|compŏtĭor|ītus, sum, īri [compos]|- intr. - être en possession de, jouir de.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|delargior|dēlargĭor|dēlārgĭŏr|28|||īri
+LS|
+GG|delargior|dēlargĭor|īri||tr.|tr., donner avec profusion|delargior|
+GJ|
+Ge|delargior|dēlargior|Irī = ἀποδαψιλεύοµαι|reichlich verwenden - verschwenderisch leben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|demetior|dēmētĭor|dēmētĭŏr|28||dēmēns|īri, mensus sum
+LS|demetior|dēmētĭor|mensus, 4||v. a.|to measure out, to measure, the stated allowance|demetior|0
+GG|demetior|dēmētĭor|mensus sum, mētīrī||part.|v. demensum, cf. Men. 14.|demetior|
+GJ|demetior|dēmētĭor|īri, mensus sum|mesurer, calculer.
+Ge|demetior|dēmētior|mēnsus sum, mētīrī|abmessen, zumessen - Unterhalt zugemessene Getreide - das Deputat - die Ration - abmessen - ausmessen
+FG|demetior|demetior metiri mensus sum, transitif, mesurer.
+Lw|demetior|(dē-mētior)|mēnsus, īrī||dep.|to measure off, measure out||||demetior
+YO|
+PO|demetior|de_me_tior, de_me_ti_ri_, de_me_nsus sum : v4 dep
+WW||||
+|dispertior|dispertĭor|dīspērtĭŏr|28|||īri
+LS|dispertior|dispertĭor|īri||v. dep.||dispertior|0
+GG|dispertior|dispertĭor|īri||tr.|tr., diviser|dispertior|
+GJ|dispertior|dispertior|iri|c. dispertio.
+Ge|
+FG|dispertior|dispertior iri, transitif, diviser.
+Lw|dispertior|dispertior|&mdash;, īrī||dep.|to distribute, apportion, refine||||dispertior
+YO|
+PO|
+WW||||
+|dissentior|dissentĭor|dīssēntĭŏr|28|||īri
+LS|dissentior|dissentior|iri, 4||v. dep.||dissentior|0
+GG|dissentior|dissentĭor|īri|||c. dissentio.|dissentior|
+GJ|dissentior|dissentior|iri|c. dissentio.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eblandior|ēblandĭor|ēblāndĭŏr|28||ēblāndīt|īri, ītus sum
+LS|eblandior|ēblandĭor|ītus, 4||v. dep. a.|to obtain by flattery, coaxing|eblandior|0
+GG|eblandior|ēblandĭor|ītus sum, īri||tr.|obtenir par des caresses / faire sortir par la douceur / flatter (charmer) complètement / part. passif / charmé|eblandior|
+GJ|eblandior|ēblandĭor|īri, ītus sum|- tr. - 1 - obtenir à force de caresses, caresser pour obtenir. 2 - faire sortir par la douceur. 3 - flatter (charmer) complètement.
+Ge|Eblandior|Eblandior|Itus sum, Irī|durch Schmeichelei erlangen, erschmeicheln - hervorlocken - ausnehmend schmeicheln
+FG|eblandior|eblandior iri itus sum, transitif, obtenir par des caresses.
+Lw|eblandior|ē-blandior|ītus, īrī||dep.|to persuade by flattery, obtain by coaxing||||eblandior
+YO|
+PO|eblandior|e_blandior, e_blandi_ri_, e_blandi_tus sum : v4 dep
+WW||||
+|emolior|ēmōlĭor|ēmōlĭŏr|28||ēmōlīt|īri, ītus sum
+LS|emolior|ēmōlĭor|ītus, 4||v. dep. a.|to move out, bring out by effort|emolior|0
+GG|emolior|ēmōlĭor|ītus sum, īri||tr.|tr., soulever un fardeau, élever / venir à bout de, exécuter / rendre avec difficulté, rejeter, cracher|emolior|
+GJ|emolior|ēmōlior|īri, ītus sum|- 1 - élever, soulever un fardeau. - 2 - venir à bout, exécuter, accomplir. - 3 - Cels. rendre avec difficulté, rejeter, cracher.
+Ge|Emolior|Emōlior|Itus sum, Irī|heraus-, hervorbewegen, -bringen, -schaffen - aufwühlen - ganz zustande bringen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|horior|hŏrĭor|hŏrĭŏr|28|||īri
+LS|horior|hŏrĭor|hori||||horior|0
+GG|horior|hŏrĭor|īri|||stimuler, exciter|horior|
+GJ|horior|horior|iri|- tr. - exciter, stimuler.
+Ge|horior|horior|Irī|antreiben, ermuntern
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|impertior|impertior|īmpērtĭŏr|28|||īri
+LS|impertior|impertior|īri||v. a.|to share with another, to communicate, bestow, impart|impertior|; 
+GG|
+GJ|
+Ge|
+FG|
+Lw|impertior|impertior|&mdash;, &mdash;, īrī||dep.|to take as a partner, make a sharer in||||impertior
+YO|
+PO|
+WW||||
+|nancior|nancĭor|nāncĭŏr|28|||īri
+LS|nancior|nancĭor|īri||v. dep. a.|to get, gain, obtain|nancio|0
+GG|nancior|nancior|īri||tr.|dép., tr., trouver, v. nanciscor|nancior|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nutrior|nūtrĭor|nūtrĭŏr|28||nūtrīt|īri, ītus sum
+LS|nutrior|nūtrĭor|īri||||nutrior|0
+GG|nutrior|nūtrĭor|īri|||impér.|nutrior|
+GJ|nutrior|nutrĭor|īri, ītus sum|c. nutrio.
+Ge|nutrior|nūtrior||
+FG|
+Lw|nutrior|nūtrior|&mdash;, īrī||dep.|to cherish, cultivate||||nutrior
+YO|
+PO|
+WW||||
+|obmolior|obmōlĭor|ōbmōlĭŏr|28||ōbmōlīt|īri, ītus sum
+LS|obmolior|obmōlĭor|ītus, 4||v. dep.|to push, throw up, before|obmolior|0
+GG|obmolior|obmōlĭor|ītus sum, īri||tr.|tr., construire devant|obmolior|
+GJ|obmolior|obmōlĭor|īri, ītus sum|- dép. tr. - 1 - élever contre, construire contre, entasser devant. - 2 - construire devant, boucher, obstruer.
+Ge|obmolior|obmōlior|Itus sum, Irī|Verteidigung vorschieben - etwas verstopfen
+FG|obmolior|obmolior iri itus sum, transitif, construire devant, entasser devant ; boucher.
+Lw|obmolior|ob-mōlior|ītus, īrī||dep.|to push before, throw up before (as a defence or obstruction)||||obmolior
+YO|
+PO|obmolior|obmo_lior, obmo_li_ri_, obmo_li_tus sum : v4 dep
+WW||||
+|perior|pĕrĭor|pĕrĭŏr|28||pĕrīt|īri, ītus sum
+LS|perior|pĕrĭor|īri||||perior|0
+GG|perior|pĕrĭor||||inus., qui a donné peritus,|perior|
+GJ|
+Ge|perior|perior|perītus sum, Irī|erfahren
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perpotior|perpŏtĭor|pērpŏtĭŏr|28||pērpŏtīt|īri, ītus sum, intr.
+LS|perpotior|perpŏtĭor|īri||v. dep. n.|to get entire possession of, to hold, enjoy completely|perpotior|0
+GG|perpotior|perpŏtĭor|ītus sum, īri||intr.|int., jouir pleinement|perpotior|
+GJ|perpotior|perpotior|potiri|(Lebaigue P. 927) jouir pleinement.
+Ge|perpotior|perpotior|potītus sum, Irī|völlig innehaben, -genießen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praemolior|praemōlĭor|prāemōlĭŏr|28|||īri
+LS|praemolior|praemōlĭor|īri||v. dep.|to prepare, make preparations for beforehand|praemolior|0
+GG|praemolior|praemōlĭor|īri||tr.|tr., disposer préalablement|praemolior|
+GJ|praemolior|praemolior|iri|préparer, faire des préparatifs, arranger d'avance.
+Ge|praemolior|praemōlior|Irī|etwas vorbereiten - Voranstalten treffen
+FG|praemolior|praemolior iri, transitif, disposer préalablement.
+Lw|praemolior|prae-mōlior|&mdash;, īrī||dep.|to prepare beforehand||||praemolior
+YO|
+PO|
+WW||||
+|praesagior|praesāgĭor|prāesāgĭŏr|28|||īri
+LS|
+GG|praesagior|praesāgĭor|īri|||c. praesagio|praesagior|
+GJ|praesagior|praesagior|iri (Plaut.)|c. praesagio.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|redordior|rĕdordĭor|rĕdōrdĭŏr|28|||īri
+LS|redordior|rĕdordior|īri||v. dep. a.|to take apart, unweave, unravel|redordior|0
+GG|redordior|rĕdordĭor|īri||tr.|tr., défaire ce qui est tissé|redordior|
+GJ|redordior|redordior|ordiri|- tr. - dévider (des cocons).
+Ge|redordior|redōrdior|Irī|wieder auflösen, auftrennen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|remolior|rĕmōlĭor|rĕmōlĭŏr|28||rĕmōlīt|īri, ītus sum
+LS|remolior|rĕmōlĭor|ītus, 4||v. dep. a.|to press, push, move back, away|remolior|0
+GG|remolior|rĕmōlĭor|ītus sum, īri||tr.|déplacer (écarter loin de soi) / enfoncer, briser / soulever de nouveau|remolior|
+GJ|remolior|rĕmōlĭor|īri, ītus sum|- 1 - déplacer péniblement, soulever avec effort. - 2 - faire effort pour remettre en mouvement, reprendre.
+Ge|remolior|remōlior|Itus sum, Irī|zurückbewegen, zurückstoßen, wegstoßen - wieder in Bewegung setzen
+FG|remolior|remolior iri itus sum, transitif, déplacer.
+Lw|remolior|re-mōlior|&mdash;, īrī||dep.|to press back, push away||||remolior
+YO|
+PO|remolior|remo_lior, remo_li_ri_, remo_li_tus sum : v4 dep
+WW||||
+|suborior|sŭbŏrĭor|sŭbŏrĭŏr|28|||īri, intr.
+LS|suborior|sŭbŏrĭor|īri||v. dep. n.|to spring up, arise, proceed|suborior|0
+GG|suborior|sŭbŏrĭor|īri||intr.|int., naître [à la place ou successivement], se reproduire, se reformer|suborior|
+GJ|suborior|sŭbŏrĭor|īri|- intr. - naître [à la place ou successivement], se reproduire, se reformer.
+Ge|suborior|suborior|Irī|allmählich-, nach und nach entstehen, nachwachsen
+FG|
+Lw|
+YO|
+PO|suborior|suborior, subori_ri_, subortus sum : v4 dep
+WW||||
+|subsortior|subsortĭor|sūbsōrtĭŏr|28||sūbsōrtīt|īri, ītus sum
+LS|subsortior|subsortĭor|tītus, 4||v. a.|to choose by lot as a substitute, Absol., pass.|subsortior|0
+GG|subsortior|subsortĭor|ītus sum, īri||tr.|tr., tirer au sort pour remplacement, tirer au sort de nouveau|subsortior|
+GJ|subsortior|subsortĭor|īri, sortītus sum|- dép. tr. - tirer au sort (pour remplacer), tirer au sort de nouveaux noms.
+Ge|subsortior|subsortior|ītus, sum, Irī|nachlosen, noch einmal losen
+FG|subsortior|subsortior iri itus sum, transitif, tirer au sort pour remplacement, tirer au sort de nouveau.
+Lw|subsortior|sub-sortior|tītus, īrī|||to choose a substitute by lot, substitute by lot||||subsortior
+YO|
+PO|
+WW||||
+|supermetior|sŭpermētĭor|sŭpērmētĭŏr|28||sŭpērmēns|īri, mensus sum
+LS|supermetior|sŭpermētĭor|mensus, 4||v. dep. a.|to mete out abundantly|supermetior|0
+GG|supermetior|sŭpermētĭor|mensus sum, īri||tr.|tr., mesurer (distribuer) largement|supermetior|
+GJ|supermetior|sŭpermētĭor|īri, mensus sum|- dép. tr. - Tert. mesurer plus largement, distribuer plus largement, faire bonne mesure.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|supermolior|sŭpermōlĭor|sŭpērmōlĭŏr|28||sŭpērmōlīt|īri, ītus sum
+LS|
+GG|supermolior|sŭpermōlĭor|ītus sum, īri||intr.|int., se démener (se dépenser) au plus haut point|supermolior|
+GJ|supermolior|sŭpermŏlĭor|īri, ītus sum|- dép. tr. - Itin.-Alex. venir à bout de.
+Ge|supermolior|supermōlior|Itus sum, Irī|überstehen, hinbringen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|admentior|admentior|ādmēntĭŏr|28|||īri
+LS|
+GG|
+GJ|
+Ge|admentior|admentior|Irī|erlügen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interblandior|interblandior|īntērblāndĭŏr|28|||īri
+LS|
+GG|
+GJ|
+Ge|interblandior|interblandior|Irī|dazwischen schmeicheln
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quadripertior|quā̆drĭpertĭor|qụā̆drĭpērtĭŏr|28|||īri
+LS|quadripertior|quā̆drĭpertĭor|īri, 4||v. dep.|to divide into four parts|quadripartio|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|poenior|poenĭor|pōenĭŏr|28||pōenīt|īri, ītus sum
+LS|poenior|poenĭor|ītus, 4||v. dep. a.|To inflict punishment upon, to punish|punio|(
+GG|poenior|poenior|ītus sum, īri,|||mêmes emplois que punio|1 punior|poenior
+GJ|poenior|poenior|iri, itus sum|c. punio.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|punior|pūnĭor|pūnĭŏr|28||pūnīt|īri, ītus sum
+LS|punior|pūnĭor|ītus, 4||v. dep. a.|To inflict punishment upon, to punish|punio|(
+GG|punior|pūnĭor|ītus sum, īri,|||mêmes emplois que punio|1 punior|pūnĭor
+GJ|punior|punior|iri, itus sum|c. punio.
+Ge|
+FG|punior|punior (poenior) iri itus sum, transitif, mêmes emplois que punio.
+Lw|punior|pūnior or poenior|ītus, īrī||dep.|to punish, correct, chastise, To revenge, take satisfaction for, avenge||||punior
+Y§|
+PO|
+WW||||
+|commetior=conmetior|commētĭor|cōmmētĭŏr|28||cōmmēns|īri, mensus sum
+LS|commetior|commētĭor|mensus, 4||v. dep.|to measure|commetior|(
+GG|commetior|commētĭor|mensus sum, mētīri||tr.|mesurer / mesurer ensemble, confronter|commetior|
+GJ|commetior|commetior|metiri, mensus sum|- tr. - mesurer (ensemble), arpenter, confronter.
+Ge|commetior|commētior|mēnsus sum, Irī|ausmessen - mit-, nach - messen, vergleichen
+FG|commetior|commetior metiri mensus sum, transitif, 1. mesurer, arpenter ; 2. confronter.
+Lw|commetior|com-mētior (conm-)|mēnsus, īrī||dep.|to measure:||||commetior
+YO|
+PO|
+WW||||
+|commolior=conmolior|commōlĭor|cōmmōlĭŏr|28||cōmmōlīt|īri, ītus sum
+LS|commolior|commōlĭor|ītus, 4||v. dep.|to set in motion, has undertaken|commolior|(
+GG|commolior|commōlĭor|ītus sum, īri||tr.|mettre en mouvement / inventer, machiner|commolior|
+GJ|commolior|commolior|iri, itus sum|- 1 - mettre en mouvement, faire agir. - 2 - inventer, imaginer.
+Ge|commolior|commōlior|Itus sum, Irī|in Bewegung setzen
+FG|
+Lw|commolior|com-mōlior (conm-)|ītus, īrī||dep.|to set in motion, wield:||||commolior
+YO|
+PO|
+WW||||
+|comperior=conperior|compĕrĭor|cōmpĕrĭŏr|28|||īri
+LS|comperior|compĕrĭor|īri, pertus sum, 4||v. dep.|to ascertain, learn, obtain certain knowledge that, inf., perf.|comperior|(
+GG|comperior|compĕrior|pertus sum, īrī|||forme dépon. rare et arch., même sens que comperio|comperior|
+GJ|comperior|compĕrĭor|īrī, pertus sum, arch. (c. comperio)|- dép. - s'apercevoir, reconnaître.
+Ge|comperior|comperior|pertus sum, Irī|
+FG|
+Lw|comperior|comperior (conp-)|pertus sum, īrī||dep.|to ascertain, learn, find out||||comperior
+YO|
+PO|
+WW||||

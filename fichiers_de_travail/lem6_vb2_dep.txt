@@ -1,0 +1,260 @@
+|advereor|advĕrĕor|ādvĕrĕŏr|25|||ēri
+LS|advereor|advĕrĕor|ēri|||at vereor|advereor|0
+GG|
+GJ|advereor|adverĕor|ēri|craindre vivement.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|careor|cărĕor|cărĕŏr|25|||ēri
+LS|careor|cărĕor|ēri|||dep.|careor|0
+GG|careor|căreor||||v. careo|careor|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circumtueor|circumtŭĕor|cīrcūmtŭĕŏr|25|||ēri
+LS|circumtueor|Circumtuĕor|ēri||v. dep. n.|to look around|circumtueor|0
+GG|circumtueor|circumtŭĕor|ēri||tr.|tr., regarder autour|circumtueor|
+GJ|circumtueor|circumtuĕor|ēri|- tr. - regarder tout autour.
+Ge|circumtueor|circumtueor|ēri|umhersehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|claudeor|claudĕor|clāudĕŏr|25|||ēri, intr.
+LS|
+GG|claudeor|claudeor|ēri||intr.|int., boiter|claudeor|claudeor
+GJ|claudeor|claudĕor|ēri|- intr. - boiter.
+Ge|claudeor|claudeor|Erī|hinken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|clueor|clŭĕor|clŭĕŏr|25|||ēri
+LS|clueor|clŭĕor|ēri, 2||v. dep.|to be named, called, reputed, esteemed|clueor|0
+GG|clueor|clŭĕor|ēri|||dépon., être appelé, passer pour|clueor|
+GJ|clueor|cluĕor|ēri (dépon.)|être réputé, être estimé, passer pour.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|demereor|dēmĕrĕor|dēmĕrĕŏr|25||dēmĕrĭt|ēri, ĭtus sum
+LS|demereor|dēmĕrĕor|||||demereo|(not ante-Aug.): ut pleniori obsequio demererer amantissimos meos, Quint. prooem. &sect; 3; so, 
+GG|demereor|dēmĕrĕor|ēri||tr.|tr., gagner qqn [par des services]|demereor|
+GJ|demereor|dēmĕrĕor|ēri , mĕrĭtus sum|gagner les bonnes grâces (de qqn, aliquem).
+Ge|
+FG|demereor|demereor eri, transitif, gagner quelqu'un (par des services).
+Lw|demereor|dē-mereor|itus, ērī||dep.|to deserve well of, lay under obligation||||demereor
+YO|
+PO|
+WW||||
+|diffiteor|diffĭtĕor|dīffĭtĕŏr|25|||ēri
+LS|diffiteor|diffĭtĕor|ēri||v. dep. a.|to disavow, to deny|diffiteor|0
+GG|diffiteor|diffĭtĕor|ēri||tr.|tr.  nier, disconvenir, ne pas avouer|diffiteor|
+GJ|diffiteor|diffĭtĕor|ēri [dis + fateor]|- tr. - nier, ne pas avouer, disconvenir.
+Ge|diffiteor|diffiteor|Erī|Tatsache in Abrede stellen
+FG|diffiteor|diffiteor eri (dis fateor), transitif, nier, disconvenir, ne pas avouer.
+Lw|diffiteor|diffiteor|&mdash;, ērī|||to disavow, deny||||diffiteor
+YO|
+PO|diffiteor|diffiteor, diffite_ri_ : v2 dep
+WW||||
+|doleor|dŏlĕor|dŏlĕŏr|25||dŏlĭt|ēri, ĭtus sum
+LS|
+GG|doleor|dŏlĕor|ĭtus sum|||dépon., s'affliger|doleor|
+GJ|
+Ge|doleor|doleor|itus sum, Erī|s ich betrüben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|emereor|ēmĕrĕor|ēmĕrĕŏr|25||ēmĕrĭt|ēri, ĭtus sum
+LS|emereor|ēmĕrĕor|ĭtus, 2||v. dep. a.||emereo|0
+GG|emereor|ēmĕrĕor|ĭtus sum, ēri||tr.|achever le service militaire|emereor|ēmĕrĕor
+GJ|
+Ge|
+FG|emereor|emereor eri itus sum, transitif, achever le service militaire ; (d'où) emeritus i masculin, soldat qui a fait son temps, soldat libéré, vétéran.
+Lw|
+YO|
+PO|
+WW||||
+|evideor|ēvĭdĕor|ēvĭdĕŏr|25|||ēri, intr.
+LS|evideor|ēvĭdĕor|ēri, 2||v. pass.|to appear completely, plainly|evideor|0
+GG|evideor|ēvĭdĕor|ēri||intr.|int., apparaître entièrement|evideor|
+GJ|evideor|evidĕor|ēri|- intr. - apparaître entièrement.
+Ge|Evideor|Evideor|ēri|vollkommen erscheinen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|infiteor|infĭtĕor|īnfĭtĕŏr|25|||ēri
+LS|
+GG|infiteor|infĭtĕor|ēri|||ne pas avouer|infiteor|
+GJ|infiteor|infitĕor|ēri|Fest. nier, ne pas avouer.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|liceor|lĭcĕor|lĭcĕŏr|25||lĭcĭt|ēri, ĭtus sum
+LS|liceor|lĭcĕor|lĭcĭtus, 2||v. dep. n., a.|to bid|liceor|0
+GG|liceor|lĭcĕor|cĭtus sum, ēri||tr.|tr., offrir un prix, se porter acquéreur / [avec acc.] / [fig.] apprécier, évaluer|liceor|
+GJ|liceor|lĭcĕor|ēri , lĭcĭtus sum|(Lebaigue P. 712 et P. 713) offrir un prix, apprécier, évaluer, mettre une enchère, enchérir.
+Ge|liceor|liceor|licitus sum, Erī|bieten
+FG|liceor|liceor eri citus sum (liceo), transitif, offrir un prix, se porter acquéreur,
+Lw|liceor|liceor|licitus, ērī||dep.|to bid, make a bid, by raising a finger, bid on||||liceor
+YO|
+PO|liceor|liceor, lice_ri_, licitus sum : v2 dep
+WW||||
+|obtueor|obtŭĕor|ōbtŭĕŏr|25|||ēri
+LS|obtueor|obtŭĕor|ēri||v. dep. a.|I. To look at, gaze upon II. To see, behold, perceive|obtueor|0
+GG|obtueor|obtŭĕor|ēri||tr.|tr., regarder en face / apercevoir, voir|obtueor|obtŭĕor
+GJ|obtueor|obtŭĕor|ēri|- 1 - regarder en face, regarder. - 2 - voir, apercevoir.
+Ge|obtueor|obtueor|ēri|irgendwo hinsehen, ansehen - erblicken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|optueor|optŭĕor|ōptŭĕŏr|25|||ēri
+LS|
+GG|optueor|optŭĕor|ēri||tr.|tr., regarder en face / apercevoir, voir|obtueor|opt-
+GJ|optueor|optŭĕor|ēri|- 1 - regarder en face, regarder. - 2 - voir, apercevoir.
+Ge|optueor|optueor||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|paeniteor|paenĭtĕor|pāenĭtĕŏr|25|||ēri, intr.
+LS|paeniteor|paenĭtĕor|ēri|||to repent|paeniteor|0
+GG|paeniteor|paenĭtĕor|ēri||intr.|int., se repentir|paeniteor|
+GJ|paeniteor|paenĭtĕor|ēri|- intr. - se repentir.
+Ge|paeniteor|paeniteor||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pervereor|pervĕrĕor|pērvĕrĕŏr|25||pērvĕrĭt|ēri, ĭtus sum
+LS|
+GG|pervereor|pervĕrĕor|ĭtus sum, ēri||tr.|tr., craindre fort|pervereor|
+GJ|pervereor|pervĕrĕor|ēri, ĭtus sum|craindre fort, craindre vivement, redouter.
+Ge|pervereor|pervereor|veritus sum, Eri|sehr fürchten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|promereor|prōmĕrĕor|prōmĕrĕŏr|25||prōmĕrĭt|ēri, ĭtus sum
+LS|promereor|prōmĕrĕor|ĭtus, 2||v. dep. a.||promereo|0
+GG|promereor|promĕrĕor|ĭtus sum, ēri||part.|tr., gagner, mériter / [avec ut subj.] mériter que / int., être bien, mal méritant à l'égard de qqn, c.-à-d. rendre de bons, de mauvais services, se comporter bien ou mal à l'égard de qqn / [avec acc. de rel.]|promereo|promĕrĕor
+GJ|promereor|prōmĕrĕor|ēri , mĕrĭtus sum (promĕrĕo, ēre, mĕrŭi, mĕrĭtum, tr.)|- 1 - mériter (en retour), être digne, gagner, obtenir. - 2 - (bien ou mal) mériter (de qqn), rendre service, obliger. - 3 - se concilier, se rendre favorable, gagner les bonnes grâces de.
+Ge|
+FG|
+Lw|promereor|prō-mereor|meritus, ērī||dep.|to deserve, merit, earn, be worthy||||promereor
+YO|
+PO|
+WW||||
+|reliceor|rĕlĭcĕor|rĕlĭcĕŏr|25|||ēri, intr.
+LS|reliceor|rĕlĭcĕor|ēri||v. n.|to bid less at an auction|reliceor|0
+GG|
+GJ|
+Ge|reliceor|reliceor|Erī|zurückbieten - darunter bieten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rideor|rīdĕor|rīdĕŏr|25|||ēri, intr.
+LS|
+GG|rideor|rīdĕor||||v. rideo|rideor|
+GJ|rideor|rīdĕor|ēri|- dép. intr. - Petr. c. rideo.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subvereor|subvĕrĕor|sūbvĕrĕŏr|25|||ēri, intr.
+LS|subvereor|subvĕrĕor|ēri||v. dep. n.|to be somewhat fearful, apprehensive|subvereor|0
+GG|subvereor|subvĕrĕor|ēri||intr.|int., appréhender un peu|subvereor|
+GJ|subvereor|subverĕor|ēri|craindre un peu, appréhender.
+Ge|subvereor|subvereor|Erī|ein wenig besorgen, -fürchten
+FG|
+Lw|subvereor|sub-vereor|&mdash;, ērī||dep.|to have a little anxiety, be somewhat apprehensive||||subvereor
+YO|
+PO|
+WW||||
+|videor|vĭdĕor|vĭdĕŏr|25||vīs|vīsus sum, ēri
+LS|
+GG|videor|vĭdĕor|vīsus sum, ēri|||être vu / se montrer (apparaître) visiblement, manifestement / qu'il importait beaucoup que les ressources de l'Italie apparussent assez grandes pour... / [avec attribut] / [avec inf.] / [parenthèses avec tour personnel] / [impers.] / je crois, tu crois, il croit / [datif non exprimé] / [tour impers.] / il paraît bon à qqn, qqn trouve bon, qqn est d'avis / [formule de politesse], s'il te paraît bon, si tu veux bien, s'il te plaît / [avec inf. exprimé ou sous-entendu] / pour exprimer une opinion philosophique, avec prop. inf.]|videor|
+GJ|videor|vĭdĕor|ēri , vīsus sum|être vu, sembler, paraître, avoir l'air de, croire, penser.
+Ge|
+FG|videor|videor eri visus sum,
+Lw|
+YO|
+PO|
+WW||||
+|caleor|călĕor|călĕŏr|25|||ēri
+LS|
+GG|
+GJ|caleor|călĕor|ēri|c. caleo.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|illiceor|illiceor|īllicĕŏr|25|||ēri
+LS|
+GG|
+GJ|
+Ge|illiceor|illiceor|Erī|anlocken, verführen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|maereor|maerĕor|māerĕŏr|25|||ēri
+LS|maereor|maerĕor|ēri||||maereor|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|attueor=adtueor|attŭĕor|āttŭĕŏr|25|||ēri
+LS|
+GG|attueor|attŭĕor||||regarder|adtueor|att-
+GJ|
+Ge|attueor|attueor|Erī|hinsehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|commereor=conmereor|commĕrĕor|cōmmĕrĕŏr|25||cōmmĕrĭt|ēri, ĭtus sum
+LS|commereor|commerĕor|ĭtus sum, 3||v. dep.|To commit, be guilty of|commereor|(
+GG|commereor|commĕrĕor|rĭtus sum, ēri||tr.|tr., mériter [en mauvaise part] / se rendre coupable de|commereo|commĕrĕor
+GJ|
+Ge|commereor|commereor|meritus sum, Erī|verdienen - verschulden
+FG|
+Lw|commereor|com-mereor (conm-)|itus sum, ērī||dep.|to commit, be guilty of:||||commereor
+YO|
+PO|
+WW||||

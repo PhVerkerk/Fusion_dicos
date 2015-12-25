@@ -1,0 +1,380 @@
+|alterplex|alterplex|āltērplēx|15|āltērplĭc||ĭcis
+LS|alterplex|alterplex|||||alterplex|plĭcis: duplex, Paul. ex 
+GG|alterplex|alterplex|ĭcis|||duplex, rusé|alterplex|
+GJ|alterplex|alterplex|ĭcis, = duplex|rusé.
+Ge|alterplex|alterplex|icis = duplex|
+FG|
+Lw|
+YO|
+PO|
+WW||alterplex, alterplicis||
+|aulix|aulix|āulīx|14|āulĭc||ĭcis
+LS|aulix|aulix|ĭcis||||aulix|0
+GG|aulix|aulix||||c. aulax.|aulix|
+GJ|aulix|aulix||c. aulax.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bilix|bĭlīx|bĭlīx|14|bĭlīc||līcis
+LS|bilix|bĭlix|līcis||adj.|with a double thread, two-threaded|bilix|0
+GG|bilix|bīlix|īcis|||à double tissu|bilix|
+GJ|bilix|bilix|icis|à double tissu, à doubles mailles.
+Ge|bilix|bilīx|līcis|zweifädig, zweidrähtig
+FG|bilix|bilix icis (bis licium), à double tissu, à doubles mailles.
+Lw|bilix|bilīx|īcis||adj.|with a double thread||||bilix
+YO|
+PO|
+WW||bilix, bilicis||
+|biplex|biplex|bī̆plēx|15|bī̆plĭc||ĭcis
+LS|biplex|biplex|duplex|||double|biplex|0
+GG|biplex|biplex|ĭcis|||double|biplex|
+GJ|biplex|biplex|ĭcis|Gloss. double.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||biplex, biplicis||
+|bivertex|bĭvertex|bĭvērtēx|15|bĭvērtĭc||ĭcis
+LS|bivertex|bĭvertex|ĭcis||adj.|with two summits, peaks|bivertex|0
+GG|bivertex|bĭvertex|ĭcis|||à deux sommets|bivertex|
+GJ|bivertex|bivertex|icis|qui a deux sommets.
+Ge|bivertex|bivertex|ticis|doppelgipfelig
+FG|
+Lw|
+YO|
+PO|
+WW||bivertex, biverticis||
+|centiplex|centĭplex|cēntĭplēx|15|cēntĭplĭc||plĭcis
+LS|centiplex|centĭplex|plĭcis||adj.|a hundredfold|centuplex|(in MSS. also 
+GG|centiplex|centĭplex||||v. centuplex.|centiplex|
+GJ|centiplex|centĭplex|ĭcis|Plaut. Prud. centuple.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||centiplex, centiplicis||
+|centuplex|centŭplex|cēntŭplēx|15|cēntŭplĭc||plĭcis
+LS|centuplex|centŭplex|plĭcis||adj.|a hundredfold|centuplex|(in MSS. also 
+GG|centuplex|centŭplex|ĭcis|||centuple|centuplex|
+GJ|centuplex|centŭplex|ĭcis|Plaut. Prud. centuple.
+Ge|centuplex|centuplex|icis|hundertfältig - das Hundertfältige
+FG|centuplex|centuplex icis (centum plico), centuple.
+Lw|
+YO|
+PO|
+WW||centuplex, centuplicis||
+|complex|complex|cōmplēx|15|cōmplĭc||plĭcis
+LS|complex|complex|plĭcis||adj.|closely connected with one, confederate, participant|complex|0
+GG|complex|complex|ĭcis||adj.|adj., uni, joint / complice / qui a des replis, tortueux|complex|
+GJ|complex|complex|ĭcis|- 1 - uni, joint. - 2 - complice, tortueux.
+Ge|complex|complex|plicis|mit - eng verbunden - der Verbündete - der Teilnehmer
+FG|
+Lw|
+YO|
+PO|
+WW||complex, complicis||
+|contifex|contĭfex|cōntĭfēx|15|cōntĭfĭc||ĭcis
+LS|
+GG|contifex|contĭfex|ĭcis|||c. centipes|contifex|
+GJ|contifex|contĭfex|ĭcis|c. centipes.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|decemplex|dĕcemplex|dĕcēmplēx|15|dĕcēmplĭc||ĭcis
+LS|decemplex|dĕcemplex|ĭcis||adj.|tenfold|decemplex|0
+GG|decemplex|dĕcemplex|ĭcis|||décuple|decemplex|
+GJ|decemplex|decemplex|icis|décuple.
+Ge|decemplex|decemplex|plicis|zehnfältig, zehnfach
+FG|decemplex|decemplex icis, décuple.
+Lw|decemplex|decemplex|icis||adj.|tenfold||||decemplex
+YO|
+PO|
+WW||decemplex, decemplicis||
+|illix|illix|īllīx|14|īllĭc||ĭcis
+LS|illix|illix|ĭcis||adj.|alluring, enticing, seductive|illex2|or 
+GG|illix|illix|ĭcis||adj.|adj., tentateur, séducteur / subst. m., appeau / séducteur, séductrice|2 illex|-lix
+GJ|illix|illix||c. illex, icis.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|miscix|miscix|mīscīx|14|mīscīc||īcis
+LS|miscix|miscix|īcis||adj.|changeable, inconstant|miscix|0
+GG|miscix|miscix||||c. miscellio|miscix|
+GJ|miscix|miscix|icis|inconstant, brouillon.
+Ge|miscix|mīscīx|īcis|ein halber Mann = einer, der etwas nur halb tut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|multiradix|multĭrādix|mūltĭrādīx|14|mūltĭrādīc||īcis
+LS|multiradix|multĭrādix|īcis||adj.|many - rooted, having many roots|multiradix|0
+GG|multiradix|multĭrādix|īcis|||qui a beaucoup de racines|multiradix|
+GJ|multiradix|multĭrādix|īcis [multus + radix]|(Lebaigue P. 796 et P. 797) Apul. qui a beaucoup de racines.
+Ge|multiradix|multirādīx|Icis|vielwurzelig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octuplex|octŭplex|ōctŭplēx|15|ōctŭplĭc||ĭcis
+LS|
+GG|octuplex|octŭplex|ĭcis|||octuple|octuplex|
+GJ|
+Ge|octuplex|octuplex||achtfältig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|persimplex|persimplex|pērsīmplēx|15|pērsīmplĭc||ĭcis
+LS|persimplex|persimplex|ĭcis||adj.|very plain, simple|persimplex|0
+GG|persimplex|persimplex|ĭcis|||très simple, très frugal|persimplex|
+GJ|persimplex|persimplex|icis|très simple, très frugal.
+Ge|persimplex|persimplex|plicis|sehr einfach
+FG|
+Lw|persimplex|per-simplex|icis||adj.|very simple||||persimplex
+YO|
+PO|
+WW||persimplex, persimplicis||
+|pransrix|prānsrīx|prānsrīx|14|prānsrīc||īcis
+LS|
+GG|pransrix|pransrix|īcis|||fém. inus. de pransor|pransrix|
+GJ|
+Ge|pransrix|prānsrīx||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quincuplex|quincū̆plex|qụīncū̆plēx|15|qụīncū̆plĭc||ĭcis
+LS|quincuplex|quincū̆plex|ĭcis||adj.|fivefold, consisting of five wards, quarters|quincuplex|0
+GG|quincuplex|quincŭplex|ĭcis||adj.|plié en cinq / qui se compose de cinq // quintuple|quincuplex|
+GJ|quincuplex|quincŭplex|plĭcis|plié en cinq, composé de cinq, quintuple.
+Ge|quincuplex|quīncuplex||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quinqueplex|quinquĕplex|qụīnqụĕplēx|15|qụīnqụĕplĭc||ĭcis
+LS|quinqueplex|quinqueplex|ĭcis||adj.|fivefold|quinqueplex|0
+GG|quinqueplex|quinquĕplex|ĭcis|||quintuple|quinqueplex|
+GJ|quinqueplex|quinquĕplex|ĭcis (c. quincuplex)|Gloss. quintuple.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quinquevertex|quinquĕvertex|qụīnqụĕvērtēx|15|qụīnqụĕvērtĭc||ĭcis
+LS|quinquevertex|quinquĕvertex|ĭcis||adj.|having five summits, five-peaked|quinquevertex|0
+GG|quinquevertex|quinquĕvertex|ĭcis||adj.|adj., à cinq têtes|quinquevertex|
+GJ|quinquevertex|quinquĕvertex|tĭcis,|qui a cinq cimes.
+Ge|quinquevertex|quīnquevertex|icis|fünfgipfelig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quinquiplex|quīnquĭplex|qụīnqụĭplēx|15|qụīnqụĭplĭc||ĭcis
+LS|
+GG|quinquiplex|quinquĭplex|ĭcis|||quintuple|quintuplex|quinquĭplex
+GJ|quinquiplex|quinquĭplex|ĭcis|Mart. c. quincuplex.
+Ge|quinquiplex|quīnquiplex||fünffältig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quintuplex|quintŭplex|qụīntŭplēx|15|qụīntŭplĭc||ĭcis
+LS|quintuplex|quintuplex|ĭcis||adj.|fivefold, quintuple|quintuplex|0
+GG|quintuplex|quintŭplex|ĭcis|||quintuple|quintuplex|quintŭplex
+GJ|
+Ge|quintuplex|quīntuplex||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|septemplex|septemplex|sēptēmplēx|15|sēptēmplĭc||plĭcis
+LS|septemplex|septemplex|plĭcis||adj.|sevenfold|septemplex|0
+GG|septemplex|septemplex|ĭcis|||septuple|septemplex|
+GJ|septemplex|septemplex|plĭcis|septuple.
+Ge|septemplex|septemplex|plicis|siebenfältig
+FG|septemplex|septemplex icis, septuple.
+Lw|septemplex|septemplex|plicis||adj.|sevenfold, of seven layers of ox-hides, with seven mouths||||septemplex
+YO|
+PO|septemplex|septemplex, septemplicis : a
+WW||septemplex, septemplicis||
+|sescuplex|sescŭplex|sēscŭplēx|15|sēscŭplĭc||plĭcis
+LS|sescuplex|sescŭplex|plĭcis||||sesquiplex|(cf. sescuplus), 
+GG|sescuplex|sescŭplex|ĭcis|||qui contient une fois et demie|sescuplex|sescŭplex
+GJ|
+Ge|sescuplex|sēscuplex|plicis|anderthalbfältig, anderthalbmal genommen
+FG|sescuplex|sescuplex (sesquiplex) icis (sesqui plico), qui contient une fois et demie.
+Lw|
+YO|
+PO|
+WW||||
+|sesquiplex|sesquĭplex|sēsqụĭplēx|15|sēsqụĭplĭc||plĭcis
+LS|sesquiplex|sesquĭplex|plĭcis||adj.|taken once and a half; once and a half as much|sesquiplex|0
+GG|sesquiplex|sesquĭplex|ĭcis|||qui contient une fois et demie|sescuplex|sesquĭplex
+GJ|sesquiplex|sesquiplex|icis|qui contient une fois et demie.
+Ge|
+FG|
+Lw|sesquiplex|sēsquiplex|plicis||adj.|taken one and a half times, once and a half as much||||sesquiplex
+YO|
+PO|
+WW||sesquiplex, sesquiplicis||
+|subduplex|subdŭplex|sūbdŭplēx|15|sūbdŭplĭc||ĭcis
+LS|
+GG|subduplex|subdŭplex|ĭcis|||v. subduplus|subduplex|
+GJ|subduplex|subdŭplex|ĭcis|v. subduplus.
+Ge|subduplex|subduplex|icis|in einer größeren Zahl zweimal enthaltene kleinere Zahl
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trilix|trĭlix|trĭlīx|14|trĭlīc||īcis
+LS|trilix|trĭlix|īcis||adj.|woven with three sets of leashes, triple-twilled|trilix|0
+GG|trilix|trĭlix|īcis||adj.|adj., tissu de trois fils / qui a un triple tissu|trilix|
+GJ|trilix|trilix|icis|- 1 - tissu de trois fils. - 2 - qui a un triple tissu.
+Ge|trilix|trilīx|Icis|dreifädig, dreidrähtig
+FG|trilix|trilix icis (tres licium), adjectif, tissu de trois fils ; qui a un triple tissu.
+Lw|trilix|trilīx|īcis||adj.|of three cords, triple-twilled||||trilix
+YO|
+PO|trilix|trili_x, trili_cis : a
+WW||trilix, trilicis||
+|altriplex|altriplex|āltrī̆plēx|15|āltrī̆plĭc||ĭcis
+LS|
+GG|altriplex|altriplex|ĭcis|||c. alterplex|altriplex|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dispex|dispex|dīspēx|15|dīspĭc||ĭcis
+LS|
+GG|dispex|dispex|ĭcis|||qui a la vue perçante|dispex|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insatiatrix|Insatiātrīx|Īnsatĭātrīx|14|Īnsatĭātrīc||īcis
+LS|
+GG|
+GJ|
+Ge|Insatiatrix|Insatiātrīx|īcis|unersättlich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ipsiplex|ipsĭplex|īpsĭplēx|15|īpsĭplĭc||ĭcis
+LS|
+GG|ipsiplex|ipsĭplex|ĭcis|||qui se plie soi-même|ipsiplex|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mordex|mordex|mōrdēx|15|mōrdĭc||ĭcis
+LS|mordex|mordex|ĭcis||adj.|biting, gnawing, subst. m. the biter, tooth|mordex|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quotuplex|quŏtuplex|qụŏtū̆plēx|15|qụŏtū̆plĭc||ĭcis
+LS|quotuplex|quŏtuplex|ĭcis||adj.|how many fold, how many times|quotumus|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sextuplex|sextŭplex|sēxtŭplēx|15|sēxtŭplĭc||ĭcis
+LS|
+GG|sextuplex|sextŭplex|ĭcis||adj.|sextuple|sextuplex|sextŭplex
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+!|subplex|subplex|sūbplēx|15|sūbplĭc||ĭcis
+LS|subplex|subplex|ĭcis||adj.|humbly begging, entreating; humble, submissive, beseeching, suppliant, supplicant|supplex|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sylvicultrix|sylvĭcultrix|sȳlvĭcūltrīx|14|sȳlvĭcūltrīc||īcis
+LS|sylvicultrix|sylvĭcultrix|īcis||adj.|f., living in the woods|silvicultrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|submultiplex=summultiplex|submultĭplex|sūbmūltĭplēx|15|sūbmūltĭplĭc||plĭcis
+LS|submultiplex|submultĭplex|plĭcis||adj.|contained many times in another number|summultiplex|(
+GG|submultiplex|submultĭplex|ĭcis|||sous-multiple|submultiplex|
+GJ|submultiplex|submultĭplex|ĭcis|sous-multiple.
+Ge|submultiplex|submultiplex|plicis|Zahl vielfach enthalten
+FG|
+Lw|
+YO|
+PO|
+WW||submultiplex, submultiplicis||
+|adplex=applex|adplex|ādplēx|15|ādplĭc||ĭcis
+LS|adplex|adplex|ĭcis||adj.|closely joined, attached to|applex|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||adplex, adplicis||
+|artifex2|artĭfex2|ārtĭfēx|15|ārtĭfĭc||ĭcis
+LS|
+GG|artifex|artĭfex|ĭcis||adj.|qui pratique un art, un métier / habile, adroit / fait avec art|artifex|
+GJ|artifex|artifex|artificis (adj.)|- a - maître dans, habile, adroit, industrieux, ingénieux. - b - fait avec art, représenté avec art, composé avec art, artistique, artificiel.
+Ge|
+FG|
+Lw|
+YO|
+PO|artifex|artifex, artificis : a
+WW||artifex, artificis||

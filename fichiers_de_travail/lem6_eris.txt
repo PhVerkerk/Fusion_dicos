@@ -1,0 +1,930 @@
+|acipenser|ăcĭpensĕr|ăcĭpēnsĕr|5|ăcĭpēnsĕr||ĕris, m.
+LS|acipenser|ăcĭpenser|ĕris||||acipenser|0
+GG|acipenser|ăcĭpensĕr|ĕris|m.|S.|poisson de mer de la famille des esturgeons|acipenser|ăcĭpensĕr
+GJ|acipenser|ăcĭpensĕr|ĕris, m.|esturgeon.
+Ge|
+FG|acipenser|acipenser eris masculin, poisson de mer.
+Lw|acipenser|acipēnser|eris|m||a sea-fish||||acipenser
+YO|
+PO|acipenser|acipe_nser, acipe_nseris : m
+WW||||
+|acupenser|acupēnser|acupēnsĕr|5|acupēnsĕr||ĕris, m.
+LS|
+GG|acupenser|acupenser|is|||poisson de mer de la famille des esturgeons|acipenser|acupenser
+GJ|acupenser|acupenser|ĕris, m.|esturgeon.
+Ge|acupenser|acupēnser|eris, m.|der Stör - Sterlet
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aequilatus|aequĭlătus|āeqụĭlătus|7|āeqụĭlătĕr||ĕris, n.
+LS|aequilatus|aequĭlătus|ĕris||adj.|equilateral|aequilatus|0
+GG|aequilatus|aequĭlătus|ĕris|n.||égalité des côtés d'un triangle|aequilatus|
+GJ|aequilatus|aequĭlātŭs|ĕris|équilatéral.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||aequilatus, aequilateris||
+|aquipenser|aquipenser|aqụipēnsĕr|5|aqụipēnsĕr||ĕris, m.
+LS|
+GG|aquipenser|aquipenser|is|||poisson de mer de la famille des esturgeons|acipenser|aquipenser
+GJ|aquipenser|aquipenser|ĕris, m.|esturgeon.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aster|astēr|āstēr|5|āstĕr||ĕris, m.
+LS|aster|aster|ĕris|m.||A star|aster|0
+GG|aster|astēr|ĕris|m.||étoile|aster|
+GJ|aster|astēr|ĕris, m.|étoile.
+Ge|aster|astēr|eris, m.|der Stern - die italienische Sternblume
+FG|aster|aster eris masculin, étoile ; aster Atticus, muguet.
+Lw|
+YO|
+PO|
+WW||||
+|auser|Ausĕr|Āusĕr|5|Āusĕr||ĕris, m.
+LS|Auser|Auser|ĕris||||Auser|0
+GG|Auser|Ausĕr|ĕris|m.||rivière d'Étrurie|Auser|
+GJ|Auser|Auser|eris, m.|l'Auser (fleuve d'Etrurie).
+Ge|auser|auser|eris, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|biber|bĭbĕr|bĭbĕr|5|bĭbĕr||ĕris, f.
+LS|biber|bĭber|||||biber|v. bibo 
+GG|biber|bĭbĕr|ĕris|f.|S.|boisson|biber|bĭbĕr
+GJ|biber|biber|Cato. (apocope)|c. bibere ---> bibo.
+Ge|biber|biber|eris, f.|der Trank
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|campter|camptēr|cāmptēr|5|cāmptēr||ēris, m.
+LS|campter|campter|ēris|m.||a bending, turning, an angle|campter|0
+GG|campter|camptēr|ēris|m.||détour, tournant d'une lice|campter|
+GJ|campter|camptēr|ēris, m.|borne du cirque (autour de laquelle les chariots devaient tourner sans y toucher), borne, tournant, détour.
+Ge|campter|camptēr|ēris, m.|die Biegung, Wendung
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|catheter|căthĕtēr|căthĕtēr|5|căthĕtēr||ēris, m.
+LS|catheter|căthĕter|ēris|m.||a surgical instrument for drawing off the urine, a catheter|catheter|0
+GG|catheter|căthĕtēr|ēris|m.||sonde pour les voies urinaires|catheter|
+GJ|catheter|căthĕtēr|ēris, m. (acc. -era)|C. Aur. cathéter, sonde (pour la vessie).
+Ge|catheter|cathetēr|ēris|Katheter
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cauter|cautēr|cāutēr|5|cāutēr||ēris, m.
+LS|cauter|cautēr|ēris|m.||A branding-iron|cauter|0
+GG|cauter|cautēr|ēris|m.||fer à cautériser, fer chaud / fer à brûler (torture) / brûlure faite par ce fer|cauter|
+GJ|cauter|cautēr|ēris, m.|- 1 - fer à cautériser, fer chaud. - 2 - fer à brûler (torture). - 3 - brûlure faite par ce fer.
+Ge|cauter|cautēr|ēris, m.|das Brenneisen - gebrannte Wunde
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|character|chăractēr|chărāctēr|5|chărāctēr||ēris, m.
+LS|character|chăracter|ēris|m.||An instrument for branding, marking|character|0
+GG|character|chăractēr|ēris|m.||fer à marquer les bestiaux / marque au fer / [fig.] caractère, particularité d'un style|character|
+GJ|character|chăractēr|ēris, m.|- 1 - fer (pour marquer les bestiaux). - 2 - marque faite au fer rouge. - 3 - marque, signe, empreinte, stigmate. - 4 - cachet, caractère, genre (de style), style.
+Ge|character|charactēr|ēris|das Werkzeug zum Einbrennen, -Einschneiden - eingebrannte, eingestochene Zeichen, -Mal - die charakteristischen Züge, Charaktere - das Charakteristische - eigentümliche Gepräge - eigentümliche Stil
+FG|character|character eris masculin,
+Lw|
+YO|
+PO|
+WW||||
+|ciner|cĭnĕr|cĭnĕr|5|cĭnĕr||ĕris, m.
+LS|ciner|cĭner||||ashes|cinis|Gloss. Labb.; 
+GG|ciner|cĭnĕr|ĕris|m.||c. cinis.|ciner|
+GJ|ciner|cĭnĕr|ĕris, m. Prisc.|c. cinis.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|climacter|clīmactēr|clīmāctēr|5|clīmāctēr||ēris, m.
+LS|climacter|clīmacter|ēris|m.||a critical epoch in human life, a climacteric|climacter|0
+GG|climacter|clīmactēr|ēris|m.||climacter annus|climacter|
+GJ|climacter|clīmactēr|ĕris, m.|climacter annus : année climactérique, année dangereuse (époque où la vie humaine est particulièrement menacée et qui revient tous les sept ans).
+Ge|climacter|clīmactēr|ēris|eine gefahrvolle Epoche - das Wechseljahr
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|closter|Clōstēr|Clōstēr|5|Clōstēr||ēris, m.
+LS|Closter|Clōstēr|ēris|m.||son of Arachne, inventor of the spindle|Closter|0
+GG|Closter|Clostēr|ĕris|m.||fils d'Arachné, inventeur des fuseaux|Closter|
+GJ|Closter|Closter|eris, m.|Closter (fils d'Arachné, inventeur du fuseau).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cluster|cluster|clūstĕr|5|clūstēr||ēris, m.
+LS|cluster|cluster|ēris|m.||A clyster, injection|cluster|(
+GG|cluster|cluster|ēris|m.||c. clyster.|cluster|
+GJ|cluster|cluster||c. clyster.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|compauper|compaupĕr|cōmpāupĕr|5|cōmpāupĕr||ĕris, m.
+LS|compauper|compauper|ĕris|m.||a companion in poverty, fellow-pauper|compauper|0
+GG|compauper|compaupĕr|ĕris|m. f.||compagnon de pauvreté|compauper|
+GJ|compauper|compauper|eris, m.|compagnon de pauvreté.
+Ge|compauper|compauper|eris, c.|der Mitarme
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cucumer|cŭcŭmĕr|cŭcŭmĕr|5|cŭcŭmĕr||ĕris, m.
+LS|
+GG|cucumer|cŭcŭmĕr|ĕris|m.||c. cucumis.|cucumer|
+GJ|cucumer|cŭcŭmĕr|ĕris, m.|c. cucumis.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cucumis|cŭcŭmis|cŭcŭmis|5|cŭcŭmĕr||ĕris, m.
+LS|cucumis|cŭcŭmis|ĕris|m.|||cucumis|0
+GG|cucumis|cŭcŭmis|mis et mĕris|m.||concombre / concombre marin|cucumis|
+GJ|cucumis|cŭcŭmis|ĕris (is), m.|- 1 - concombre. - 2 - concombre marin (holothurie).
+Ge|cucumis|cucumis|meris, m.|die Gurke
+FG|cucumis|cucumis mis et meris, masculin, concombre.
+Lw|cucumis|cucumis|eris|m||a cucumber||||cucumis
+YO|
+PO|cucumis|cucumis, cucumeris : m
+WW||||
+|elaver|Ĕlăver|Ĕlăvĕr|7|Ĕlăvĕr||ĕris, n.
+LS|Elaver|Ĕlăver|ĕris|n.||a river in Gaul emptying into the Liger, Allier|Elaver|0
+GG|Elaver|Elăver|ĕris|n.||rivière de la Gaule centrale [auj. Allier]|Elaver|
+GJ|Elaver|Elăver|eris, n.|l'Elaver (= l'Allier, rivière).
+Ge|elaver|elaver|eris, n.|
+FG|Elaver|Elaver eris neutre, rivière de la Gaule centrale (aujourd'hui Allier).
+Lw|
+YO|
+PO|
+WW||||
+|enater|ēnătēr|ēnătēr|5|ēnătĕr||ĕris, m.
+LS|enater|ēnătēr|ĕris|m.||the husband of a deceased man's sister|enater|0
+GG|enater|ēnătēr|ĕris|m.||époux de la soeur d'un individu décédé|enater|
+GJ|
+Ge|Enater|Enatēr|eris, m.|der Mann, der die Schwester eines Verstorbenen zur Frau hat
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gaster|gaster|gāstĕr|5|gāstĕr||ĕris, f.
+LS|gaster|gaster|tĕris, and tri|f.||the belly|gaster|0
+GG|gaster|gaster|ĕris|f.||ventre|gaster|
+GJ|gaster|gastēr|gastĕris, f. (= venter)|ventre.
+Ge|gaster|gastēr|eris, f.|der Bauch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|glomus|glŏmus|glŏmus|7|glŏmĕr||ĕris, n.
+LS|glomus|glŏmus|ĕris|n.||a ball, clue|glomus|(
+GG|glomus|glŏmus|ĕris|n.||peloton, pelote / sorte de gâteau sacré|glomus|
+GJ|glomus|glŏmŭs|ĕris, n. [*globmus]|- 1 - peloton, pelote. - 2 - un gâteau sacré de forme ronde.
+Ge|glomus|glomus|eris, n.|der Kloß - der Knäuel
+FG|glomus|glomus eris neutre, peloton, pelote.
+Lw|glomus|glomus|eris|n||a clew, ball made by winding||||glomus
+YO|
+PO|glomus|glomus, glomeris : n
+WW||||
+|hageter|hāgētēr|hāgētēr|5|hāgētēr||ēris, m.
+LS|hageter|hāgētēr|ēris|m.||the leader, guide|hageter|0
+GG|hageter|hāgētēr|ēris|m.||indicateur du chemin, guide [épithète d'Hercule]|hageter|
+GJ|hageter|hāgētēr|ēris, m.|indicateur du chemin, guide [épithète d'Hercule].
+Ge|hageter|hāgētēr|-Eris|der Wegweiser, Führer
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|her|Hēr|Hēr|5|Hēr||ēris, m.
+LS|Her|Her|Heris|m.||a Pamphylian, who, according to legend, rose from the dead|Er2|(
+GG|her|hēr||||c. er.|her|
+GJ|her|hēr|ēris, m.|hérisson.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hiber|Hĭbēr|Hĭbēr|5|Hĭbēr||ēris, m.
+LS|Hiber|Hĭber|||||Hiber|v. Hiberes.
+GG|Hiber|Hĭbēr|ēris|m.|S.|Ibérien|Iber|Hĭbēr
+GJ|Hiber|Hĭbēr|ēris, m.|- 1 - Ibérien, habitant de l'Ibérie (en Hispanie). - 2 - Ibérien (en Asie).
+Ge|
+FG|Hiber|Hiber, Hiberia, hiberis, cf. Ib-.
+Lw|
+YO|
+PO|
+WW||||
+|honus|hŏnus|hŏnus|7|hŏnĕr||ĕris, n.
+LS|honus|hŏnus|ĕris|n.||a load, burden|honus|(in good MSS. also wr. 
+GG|honus|hŏnus||||v. onus, etc.|honus|hŏnus
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hulcus|hulcus|hūlcus|7|hūlcĕr||ĕris, n.
+LS|hulcus|hulcus|ĕris|n.||a sore, ulcer.|hulcus|v. ulcus.
+GG|hulcus|hulcus|ĕris|n.|S.|ulcère, plaie / écorchure d'un arbre / [fig.] plaie du coeur / blessure|ulcus|hulcus
+GJ|hulcus|hulcus|ĕris, n.|ulcère, plaie, blessure, écorchure.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|iader|Ĭādĕr|Ĭādĕr|5|Ĭādĕr||ĕris, m.
+LS|Iader|Ĭāder|ōrum|m.||the inhabitants of|Iadera|0
+GG|Iader|Iādĕr|ĕris|m.|S.|ville d'Illyrie|Iader|Iādĕr
+GJ|Iader|Iādĕr|ĕris, m. (Iādera, ae, m. )|Iader (ville d'Illyrie).
+Ge|iader|iāder|n. indecl.|die Jadertiner
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|iber|Ĭbēr|Ĭbēr|5|Ĭbēr||ēris, m.
+LS|Iber|Iber|||||Iber|v. Hiberes.
+GG|Iber|Ĭbēr|ēris|m.|S.|Ibérien|Iber|Ĭbēr
+GJ|Iber|Ĭbēr|ēris, m.|- 1 - Ibérien, habitant de l'Ibérie (en Hispanie). - 2 - Ibérien (en Asie).
+Ge|
+FG|Iber|Iber ou Hiber eris masculin, Ibérien.
+Lw|
+YO|
+PO|
+WW||||
+|intermunus|intermūnus|īntērmūnus|7|īntērmūnĕr||ĕris, n.
+LS|intermunus|intermūnus|nĕris|n.||a gift for a time, a loan|intermunus|0
+GG|intermunus|intermūnus|ĕris|n.||don réciproque|intermunus|
+GJ|intermunus|intermunŭs|ĕris , n.|échange de présents, don réciproque.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|itiner|ĭtĭnĕr|ĭtĭnĕr|7|ĭtĭnĕr||ĕris, n.
+LS|itiner|ĭtĭner|||||itiner|v. iter 
+GG|itiner|ĭtĭnĕr|ĕris|n.||v. iter|itiner|
+GJ|itiner|ĭtĭnĕr|ĭtĭnĕris, n.|- 1 - chemin, route, voie, passage. - 2 - trajet, parcours, étape, marche, voyage. - 3 - au fig. voie, moyen, manière. - 4 - droit de passage. - 5 - passage, couloir. - 6 - conduit, canal, tuyau.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lasar|lăsăr|lăsăr|7|lăsĕr||ĕris, n.
+LS|lasar|lăsar|ĕris|n.||the juice of the plant, assaf&oelig;tida|lasar|v. laser.
+GG|lasar|lāsăr||||v. laser|lasar|
+GJ|lasar|lăsăr||Plin. c. laser.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|later|lătĕr|lătĕr|5|lătĕr||ĕris, m.
+LS|later|lăter|ĕris|m.||a brick, tile|later|0
+GG|later|lătĕr|ĕris|m.||brique / lingot|later|
+GJ|later|lătĕr|ĕris, m.|(Lebaigue P. 696 et P. 697) - 1 - brique. - 2 - Plin. lingot (semblable à une brique).
+Ge|later|later|eris, m.|der Ziegel, Ziegelstein
+FG|later|later eris masculin, brique.
+Lw|later|later|eris|m||a brick, tile, wash a brick, labor in vain||||later
+YO|
+PO|later|later, lateris : m
+WW||||
+|laver|lăvĕr|lăvĕr|5|lăvĕr||ĕris, f.
+LS|laver|lăver|ĕris|f.||a water-plant|laver|0
+GG|laver|lăvĕr|ĕris|n.||sium ou berle [plante]|laver|
+GJ|laver|lăvĕr|ĕris, n.|Plin. berle (plante).
+Ge|laver|laver|eris, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|liger|Lĭgĕr|Lĭgĕr|5|Lĭgĕr||ĕris, m.
+LS|Liger|Lĭger|ĕris|m.||a river forming the boundary between, and, Loire|Liger|0
+GG|Liger|Lĭgĕr|ĕris|m.|S.|la Loire [fl. de la Gaule]|Liger|Lĭgĕr
+GJ|Liger|Liger|eris, m.|1 - la Loire (fleuve). 2 - Liger (nom d'un guerrier).
+Ge|Liger|Liger|eris, m.|
+FG|Liger|Liger eris masculin, la Loire (fleuve de Gaule).
+Lw|
+YO|
+PO|
+WW||||
+|luter|lūtēr|lūtēr|5|lūtēr||ēris, m.
+LS|luter|lūtēr|ēris|m.||a hand-basin, laver|luter|0
+GG|luter|lūtēr|ēris|m.||baignoire, bassin|luter|
+GJ|luter|lūtēr|ēris, m.|baignoire, bassin.
+Ge|luter|lūtēr|ēris, m.|das Waschbecken
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mulciber|Mulcĭbĕr|Mūlcĭbĕr|5|Mūlcĭbēr||ēris, m.
+LS|Mulciber|Mulcĭber|ēris and ĕri|m.||gen., a surname of Vulcan|Mulciber|0
+GG|Mulciber|Mulcĭbĕr|bĕri|m.||un des noms de Vulcain / [fig.] le feu|Mulciber|
+GJ|Mulciber|Mulcĭbĕr|bĕris (bĕri, bri), m.|- 1 - Mulciber (un des noms de Vulcain). - 2 - le feu.
+Ge|Mulciber|Mulciber|beris|der Erweicher, Schmelzer - das Feuer
+FG|
+Lw|Mulciber|Mulciber|eris|m||a surname of Vulcan, Fire||||Mulciber
+YO|
+PO|mulciber|Mulciber, Mulciberis (Mulciberi_) : m
+WW||||
+|oxypiper|oxўpĭpĕr|ōxўpĭpĕr|7|ōxўpĭpĕr||ĕris, n.
+LS|
+GG|oxypiper|oxўpĭpĕr|ĕris|n.||poivre joint à du vinaigre|oxypiper|
+GJ|oxypiper|oxypĭpĕr|ĕris, n.|Th.-Prisc. poivre assaisonné de vinaigre.
+Ge|oxypiper|oxypiper||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|panther|panthēr|pānthēr|5|pānthēr||ēris, m.
+LS|panther|panther|ēris|m.||-I. a panther -II. a hunting-net|panther1|0
+GG|panther|panthēr|ēris|m.||sorte de filet [pour la chasse] / c. panthera 1|panther|
+GJ|panther|panther|eris, m.|- 1 - filet (pour la chasse). - 2 - coup de filet, capture.
+Ge|panther|panthēr||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|paropter|păroptēr|părōptēr|5|părōptēr||ēris, m.
+LS|
+GG|paropter|păroptēr|ēris|m.||vase à rôtir|paropter|
+GJ|
+Ge|paropter|paroptēr|ēris, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|physeter|phȳsētēr|phȳsētēr|5|phȳsētēr||ēris, m.
+LS|physeter|phȳsēter|ēris|m.||A blow-pipe, blowing-tube|physeter|0
+GG|physeter|phȳsētēr|ēris|m.||fistule / souffleur [sorte de cétacé]|physeter|
+GJ|physeter|physētēr|ēris, m.|- 1 - fistule. - 2 - souffleur (un cétacée).
+Ge|physeter|phȳsētēr|ēris, m.|ein Rohr - der Spritzwal
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prester|prēstēr|prēstēr|5|prēstēr||ēris, m.
+LS|prester|prēster|ēris|m.||A fiery whirlwind, a water-spout, sand-spout|prester|0
+GG|prester|prestēr|ēris|m.||metéore igné, colonne ou tourbillon de feu / espèce de serpent dont la morsure causait une soif brûlante|prester|
+GJ|prester|prestēr|ēris, m.|- 1 - météore igné, colonne ou tourbillon de feu. - 2 - espèce de serpent dont la morsure causait une soif brûlante.
+Ge|prester|prēstēr|ēris|brennend - ein feuriger Wirbelwind - Art Schlangen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|procer|prŏcĕr|prŏcĕr|5|prŏcĕr||ĕris, m.
+LS|procer|prŏcer|ĕris|m.||a chief, noble; plur., the leading men, chiefs, nobles, princes|procer|0
+GG|procer|prŏcĕr||||v. proceres.|procer|
+GJ|procer|prŏcĕr|ĕris, m.|v. proceres.
+Ge|procer|procer|eris, m.|einer der Vornehmsten - die Vornehmsten - die Aristokraten - die Aristokratie - die Meister
+FG|
+Lw|procer|(procer, eris)||m||a nobleman, aristocrat, the leading men, chiefs, nobles, princes||||procer
+YO|
+PO|procer|procer, proceris : m
+WW||||
+|pulver|pulver|pūlvĕr|5|pūlvĕr||ĕris, m.
+LS|pulver|pulver|ĕris||||pulver|0
+GG|pulver|pulver|ĕris|m.||v. pulvis|pulver|
+GJ|pulver|pulvĕr|, ĕris, m.|Apul. c. pulvis.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|raudus|raudus|rāudus|7|rāudĕr||ĕris, n.
+LS|raudus|raudus|ĕris|n.||a rude mass;, a piece of brass|raudus|(also 
+GG|raudus|raudus|ēris|n.|part.|objet brut, non travaillé / [en part.] morceau de cuivre brut, lingot non travaillé|raudus|raudus
+GJ|raudus|raudus|ĕris, n.|- 1 - masse non travaillée, masse brute. - 2 - lingot de cuivre (non travaillé).
+Ge|raudus|raudus|rūdus), eris, n.|formloses Erzstück
+FG|raudus|raudus (rodus) eris neutre, objet brut, non travaillé ; (en particulier) morceau de cuivre brut, lingot non travaillé ; mais pluriel rodera, lingots de cuivre servant de monnaie ; pierre brute.
+Lw|raudus|raudus|see rudus.|||⋷圠Ẹ?ࠂ耀!||||raudus
+YO|
+PO|
+WW||||
+|rodus|rōdus|rōdus|7|rōdĕr||ĕris, n.
+LS|rodus|rōdus|ĕris|n.||a rude mass;, a piece of brass|raudus|(also 
+GG|rodus|rōdus|ēris|n.|part.|objet brut, non travaillé / [en part.] morceau de cuivre brut, lingot non travaillé|raudus|rōdus
+GJ|rodus|rōdus|ĕris, n.|- 1 - masse non travaillée, masse brute. - 2 - lingot de cuivre (non travaillé).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|semilater|sēmĭlătĕr|sēmĭlătĕr|5|sēmĭlătĕr||ĕris, m.
+LS|semilater|sēmĭlăter|ii|n.||a half-brick|semilater|(or 
+GG|semilater|sēmĭlătĕr|ĕris|m.|S.|demi-brique|semilater|sēmĭlătĕr
+GJ|semilater|semilater|eris, m. (semilaterĭum, ĭi, n.)|une demi-brique.
+Ge|semilater|sēmilater|eris, m.|der Halbziegel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ser|Sēr|Sēr|5|Sēr||ēris, 
+LS|Ser|Sēr|ēris||||Ser|0
+GG|Ser|Sēr|Sēris|m.|S.|les Sères, peuple de l'Inde orientale|1 Ser|Sēr
+GJ|Ser|Ser|Seris, m.|sing. de Seres.
+Ge|Ser|Sēr|Sēris, m.|der Serer - die Serer - serisch - serischer-, seidener Stoff - seidenes Kleid - seidene Stoffe, -Kleider - seidene Kleider - Seidenhändler
+FG|Ser|Ser eris masculin, Seres um masculin pluriel, les Sères (peuple de l'Inde orientale).
+Lw|
+YO|
+PO|
+WW||||
+|siser|sĭsĕr|sĭsĕr|7|sĭsĕr||ĕris, n.
+LS|siser|sĭser|ĕris|n.||masc., a plant with an esculent root, skirwort, skirret|siser|0
+GG|siser|sĭsĕr|ĕris|n.||panais [racine comestible]|siser|
+GJ|siser|sĭsĕr|sĕris, n.|la raiponce.
+Ge|siser|siser|eris, n.|die Rapontika, Rapunzel
+FG|siser|siser eris neutre, raiponce.
+Lw|siser|siser|eris|n||a plant with an esculent root, skirwort||||siser
+YO|
+PO|
+WW||||
+|sphincter|sphinctēr|sphīnctēr|5|sphīnctēr||ēris, m.
+LS|sphincter|sphincter|ēris|m.||the sphincter, the muscle of the anus|sphincter|0
+GG|sphincter|sphinctēr|ēris|m.||muscle sphincter de l'anus|sphincter|
+GJ|sphincter|sphinctēr|ēris, m.|le sphinctère (muscle annulaire de l'anus).
+Ge|sphincter|sphīnctēr|ēris, m.|der Aftermuskel - der Sphinkter
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|spinter|spintēr|spīntēr|7|spīntēr||ēris, n.
+LS|spinter|spinter|ēris|n.||a kind of bracelet|spinter|(
+GG|spinter|spintēr|ēris|n.|S.|spinthère, bracelet que les femmes portaient en haut du bras gauche|1 spinther|-tēr
+GJ|spinter|spintēr|ēris, n.|c. spinther.
+Ge|spinter|spīntēr|ēris, n.|eine Armspange
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|stater|stătēr|stătēr|5|stătēr||ēris, m.
+LS|stater|stăter|ēris|m.||a small silver coin of the Jews|stater|0
+GG|stater|stătēr|ēris|m.||statère, poids / statère, monnaie juive de 4 drachmes|stater|
+GJ|stater|stătēr|ēris, m.|- 1 - statère (poids). - 2 - statère (monnaie d'argent de quatre drachmes, chez les Juifs).
+Ge|stater|statēr|ēris, m.|ein Gewicht - der Stater - der Sekel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suber|sūbĕr|sūbĕr|7|sūbĕr||ĕris, n.
+LS|suber|sūber|ĕris|n.||the cork-oak, cork-tree|suber|0
+GG|suber|sūbĕr|ĕris|n.||chêne-liège / bouchon de liège|suber|
+GJ|suber|sūbĕr|ĕris, n.|- 1 - chêne-liège. - 2 - bouchon de liège.
+Ge|suber|sūber|eris, n.|die Korkeiche - der Pantoffelholzbaum - der Kork
+FG|suber|suber eris neutre, liège ; bouchon de liège.
+Lw|suber|sūber|eris|n||the cork-oak, cork-tree||||suber
+YO|
+PO|
+WW||||
+|sydus|sȳdŭs|sȳdŭs|7|sȳdĕr||ĕris, n.
+LS|
+GG|sydus|sȳdŭs||||v. sidus.|sydus|
+GJ|sydus|sydŭs|ĕris, n.|c. sidus.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tader|Tader|Tadĕr|5|Tadĕr||ĕris, m.
+LS|Tader|Tader|eris|m.||a river in Spain|Tader|0
+GG|Tader|Tader|ĕris|m.||rivière de la Tarraconnaise|Tader|
+GJ|Tader|Tader|ĕris, m.|rivière de la Tarraconnaise.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tuder|Tŭdĕr|Tŭdĕr|7|Tŭdĕr||ĕris, n.
+LS|Tuder|Tŭder|ĕris|n.||a town in Umbria, near the Tiber, Todi|Tuder|0
+GG|Tuder|Tŭdĕr|is|n.|S.|ville d'Ombrie [Todi]|Tuder|Tŭdĕr
+GJ|Tuder|Tuder|n.|Tuder (= Todi, ville d'Ombrie).
+Ge|Tuder|Tuder|n.|tudernisch - tudertisch - ein Tuderter - die Tuderter
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ulcus|ulcus|ūlcus|7|ūlcĕr||ĕris, n.
+LS|ulcus|ulcus|ĕris|n.||a sore, ulcer.|ulcus|(
+GG|ulcus|ulcus|ĕris|n.|S.|ulcère, plaie / écorchure d'un arbre / [fig.] plaie du coeur / blessure|ulcus|ulcus
+GJ|ulcus|ulcus|ĕris, n.|ulcère, plaie, blessure, écorchure.
+Ge|ulcus|ulcus|eris, n.|das Geschwür, Schwären - der Auswuchs
+FG|ulcus|ulcus (hulcus) eris neutre, ulcère, plaie ; écorchure d'un arbre ; blessure.
+Lw|ulcus|ulcus|eris|n||a sore, ulcer, this painful subject, it cannot bear examination||||ulcus
+YO|
+PO|ulcus|ulcus, ulceris : n
+WW||||
+|verber|verbĕr|vērbĕr|7|vērbĕr||ĕris, n.
+LS|verber|verber|ĕris|n.||acc. sing., a lash, whip, scourge, rod|verber|0
+GG|verber|verbĕr|ĕris|n.|S.|[sing. seult au gén. et abl.] ; ordint|verber|verbĕr
+GJ|verber|verbĕr|ĕris, n.|v. verbera. (Lebaigue P. 1328 et P. 1329)
+Ge|verber|verber|eris, n.|berührende Schlag, Stoß, Prall, Wurf - züchtigenden Schläge - die Hiebe - die Peitschen-, Geißelhiebe - die Auspeitschung, Geißelung - der Prügel - die Peitsche, Geißel - der Riemen
+FG|verber|verber eris neutre (singulier seulement au génitif et à l'ablatif) : ordinairement verbera erum neutre,
+Lw|verber|(verber)|eris|n||a lash, whip, scourge, rod||||verber
+YO|
+PO|verber|verber, verberis : n
+WW||||
+|vomis|vōmis|vōmis|5|vōmĕr||ĕris, m.
+LS|vomis|vōmis|ĕris|m.||a ploughshare.|vomis|0
+GG|vomis|vōmis|ĕris|m.|S.|soc de la charrue / style pour écrire|vomer|vōmis
+GJ|vomis|vōmis|ĕris, m.|- 1 - soc de la charrue; charrue. - 2 - poinçon, style.
+Ge|
+FG|
+Lw|vomis|vōmis|eris, see vomer.|||oth||||vomis
+YO|
+PO|
+WW||||
+|zingiber|zingĭbĕr|zīngĭbĕr|7|zīngĭbĕr||ĕris, n.
+LS|zingiber|zingĭber|ĕris|n.|||zingiberi|0
+GG|zingiber|zingĭbĕr|ĕris|n.|S.|gingembre [plante]|zingiber|zingĭbĕr
+GJ|zingiber|zingiber|eris, n.|gingembre.
+Ge|zingiber|zingiber|eris, n.|Ingwer
+FG|zingiber|zingiber ou zingiberi eris neutre, et zinziber eris neutre, gingembre (plante).
+Lw|
+YO|
+PO|
+WW||||
+|eneter|enetēr|enetēr|5|enetēr||ēris, m.
+LS|
+GG|
+GJ|
+Ge|eneter|enetēr|ēris, m.|die Klistierspritze
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|halter|halter|hāltĕr|5|hāltēr||ēris, m.
+LS|halter|halter|ēris|m.||leaden weights, dumb-bells|halter|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|juger|jūgĕr|jūgĕr|7|jūgĕr||ĕris, n.
+LS|
+GG|
+GJ|juger|jūgĕr|ĕris, n.|Plaut. Tib. c. jugerum.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pandecter|pandecter|pāndēctĕr|5|pāndēctēr||ēris, m.
+LS|pandecter|pandecter|ēris|m.||the title of the fourth book of the work of Apicius.|pandecter|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|zinziber|zinzĭbĕr|zīnzĭbĕr|7|zīnzĭbĕr||ĕris, n.
+LS|
+GG|zinziber|zinzĭbĕr|ĕris|n.|S.|gingembre [plante]|zingiber|zinzĭbĕr
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|crater|crātēr|crātēr|5|crātēr||ēris, m.
+LS|crater|crātēr|ēris|m.||a vessel in which wine was mingled with water, a mixing-vessel, bowl|cratera|0
+GG|crater|crātēr|ēris|m.||cratère, grand vase, où l'on mêlait le vin avec l'eau / vase à huile / bassin d'une fontaine / cratère d'un volcan / gouffre, ouverture volcanique de la terre / la Coupe [constell.]|1 crater|
+GJ|crater|crātēr|ēris, m.|- a - cratère (vase dans lequel on mélangeait le vin avec l'eau avant de remplir les coupes). - b - vase à mettre l'huile. - c - gouffre, fissure volcanique. - d - cratère (du volcan). - e - bassin d'une fontaine. - f - la Coupe (constellation).
+Ge|crater|crāter|tēris|der Mischkessel, Krater - der Wassereimer - das Ölgefäß - das Wasserdecken, Bassin - der Erdschlund, Abgrund - der Kessel, Krater - der Becher
+FG|crater|crater eris, accusatif em ou a, masculin, cratère, grand vase où l'on mêlait le vin avec l'eau ; vase à huile ; bassin d'une fontaine ; cratère d'un volcan ; gouffre, ouverture volcanique de la terre.
+Lw|crater|crātēr|ēris|m||a mixingvessel, wine-bowl, punch-bowl (poet.)||||crater
+Y§|
+PO|crater|cra_te_r, cra_te_ris : m
+WW||||
+|crater2|Crātēr2|Crātēr|5|Crātēr||ēris, m.
+LS|
+GG|Crater|Crātēr|ēris|m.||golfe entre le cap Misène et celui de Minerve|2 Crater|
+GJ|Crater|Crātēr|ēris, m.|golfe voisin de Baïes.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|er2|ēr2|ēr|5|ēr||ēris, m.
+LS|er|ēr|ēris|m.||a hedgehog|er1|0
+GG|er|ēr|is|m.||hérisson|er|
+GJ|er|ēr|ēris, m.|hérisson.
+Ge|Er|Er|ēris, m.|der Igel
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|gibber2|gibbĕr2|gībbĕr|5|gībbĕr||ĕris, m.
+LS|gibber|gibber|ĕris|m.||a hunch, hump on the back|gibber2|0
+GG|gibber|gibbĕr|ĕris|m.||bosse, gibbosité|2 gibber|
+GJ|gibber|gibbĕr|ĕris, n.|bosse, gibbosité.
+Ge|gibber|gibber|eris, m.|der Buckel, Höcker
+FG|gibber|gibber eris masculin, bosse, gibbosité.
+Lw|
+Y§|
+PO|
+WW||||
+|lampter|lamptēr|lāmptēr|5|lāmptēr||ēris, m.
+LS|
+GG|lampter|lamptēr|ēris|m.||chandelier|1 lampter|
+GJ|lampter|lamptēr|ēris, m.|Plin. chandelier.
+Ge|lampter|lamptēr|ēris|der Leuchter
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|lampter2|Lamptēr2|Lāmptēr|5|Lāmptēr||ēris, m.
+LS|
+GG|Lampter|Lamptēr|ēris|m.||nom d'un lieu élevé de la ville de Phocée, où l'on allumait un phare|2 Lampter|
+GJ|Lampter|Lamptēr|ēris, m.|Lampter (nom d'un lieu élevé de la ville de Phocée, où l'on allumait un phare).
+Ge|Lampter|Lamptēr|ēris|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|mnester|mnēstēr|mnēstēr|5|mnēstēr||ēris, m.
+LS|mnester|mnēster|ēris|m.||a wooer, suitor|mnester1|0
+GG|mnester|mnestēr|ēris|m.||poursuivant, prétendant [de Pénélope]|mnester|
+GJ|mnester|mnester|eris, m.|prétendant, poursuivant.
+Ge|mnester|mnēstēr|ēris|der Freier
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|mnester2|Mnēster2|Mnēstĕr|5|Mnēstēr||ēris, m.
+LS|Mnester|Mnēster|ēris|m.||a Roman surname|Mnester2|0
+GG|
+GJ|Mnester|Mnester|eris, m.|Mnester (favori de Caligula).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|moenus|moenŭs|mōenŭs|7|mōenĕr||ĕris, n.
+LS|
+GG|moenus|moenus|ĕris|n.|S.|office, fonction / obligation, charge / tâche accomplie, produit, oeuvre / service rendu / don, présent, faveur / spectacle public, [surtout] combats de gladiateurs|munus|moenus
+GJ|moenus|moenŭs|ĕris, n.|- 1 - devoir, office, emploi, fonction, tâche. - 2 - service public, magistrature, obligation (envers l'Etat), charge. - 3 - service rendu, bienfait, grâce, faveur. - 4 - derniers devoirs, honneurs suprêmes, funérailles, sépulture. - 5 - présent, don, gratification, cadeau, offrande. - 6 - spectacle public (donné par les magistrats), jeu solennel, combat de gladiateurs. - 7 - édifice construit par un particulier à l'usage du public. - 8 - don de la grâce, grâce (divine).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|rudus|rūdus|rūdus|7|rūdĕr||ĕris, n.
+LS|rudus|rūdus|ĕris|n.||-I. a rude mass;, a piece of brass -II. stones broken small and mingled with lime|raudus|(also 
+GG|rudus|rūdus|ĕris|n.||lingot de cuivre (non travaillé) // gravois, plâtras, déblais, décombres, ruines / béton / marne, terre grasse|2 rudus|
+GJ|rudus|rūdus|ĕris, n.|- 1 - masse non travaillée, masse brute. - 2 - lingot de cuivre (non travaillé). - 3 - gravats, plâtras, déblais, décombres.
+Ge|rudus|rūdus|eris, n.|zerbröckeltes Gestein - Gerölle, Schutt - bereiteter Mörtel - die Estrichmasse
+FG|rudus|rudus eris neutre, gravois, plâtras, déblais, décombres, ruines ; marne, terre grasse.
+Lw|rudus|rūdus|eris|n||a bit of copper - broken stone, rubbish, debris||||rudus2
+Y§|
+PO|
+WW||||
+|siler|sīlĕr|sīlĕr|7|sīlĕr||ĕris, n.
+LS|siler|sīler|ĕris|n.||a kind of brook-willow|siler1|0
+GG|siler|sĭler|ĕris|n.||espèce de fusain|1 siler|
+GJ|siler|sĭlĕr|ĕris, n.|osier.
+Ge|siler|siler|eris, n.|der gemeine Spindelbaum - Art Bachweide
+FG|siler|siler eris neutre, osier.
+Lw|siler|sīler|eris|n||a brook-willow||||siler
+Y§|
+PO|
+WW||||
+|siler2|Sĭler2|Sĭlĕr|5|Sĭlēr||ēris, m.
+LS|Siler|Siler|||||Silarus|0
+GG|Siler|Sĭler|ēris|||c. Silarus|2 Siler|
+GJ|Siler|Sĭlĕr|ēris, m.|c. Silarus.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|spinther|Spinthēr|Spīnthēr|5|Spīnthēr||ēris, m.
+LS|Spinther|Spinther|ēris|m.||a Roman surname|Spinther2|0
+GG|Spinther|Spinthēr|ēris|m.||surnom romain|2 Spinther|
+GJ|Spinther|Spinthēr|ēris, m.|Spinther (surnom).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|spinther2|spinthēr2|spīnthēr|7|spīnthēr||ēris, n.
+LS|spinther|spinther|ēris|n.||a kind of bracelet|spinter|(
+GG|spinther|spinthēr|ēris|n.|S.|spinthère, bracelet que les femmes portaient en haut du bras gauche|1 spinther|spinthēr
+GJ|spinther|spinthēr|(spintēr), ēris, n.|spinthère (bracelet en forme de serpent, que les femmes portaient au haut du bras gauche).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|tuber|tŭbĕr|tŭbĕr|5|tŭbĕr||ĕris, m.
+LS|tuber|tŭber|ĕris|m.||Fem., a kind of apple-tree|tuber2|0
+GG|tuber|tŭbĕr|ĕris|f. m.||azerolier [arbre] / azerole, fruit de l'azerolier|2 tuber|
+GJ|tuber|tŭbĕr|ĕris (tŭbŭr, ŭris)|- a - au fém. azerolier (arbre). - b - au masc. azerole (le fruit).
+Ge|tuber|tuber|eris, c., a) masc.|Nußpfirsiche
+FG|tuber|tuber eris,
+Lw|
+Y§|
+PO|
+WW||||
+|tuber2|tūbĕr2|tūbĕr|7|tūbĕr||ĕris, n.
+LS|tuber|tūber|ĕris|n.||a hump, bump, swelling, tumor, protuberance|tuber1|0
+GG|tuber|tūbĕr|ĕris|n.||tumeur, excroissance, bosse / noeud, excroissance du bois / truffe / truffe / autre nom du cyclaminon|1 tuber|
+GJ|tuber|tūbĕr|ĕris, n. [tumeo]|- a - tumeur, excroissance, protubérance, bosse. - b - noeud (des arbres, des racines). - c - Plin. Juv. truffe. - d - Petr. champignon (t. d'injure).
+Ge|tuber|tūber|eris, n.|Höcker, Buckel, Beule, Geschwulst - Beulen - der Knorren - der Wurzelknollen - Art Erdschwämme, Morchel - Trüffel - Maulwurfshaufen, -hügel
+FG|tuber|tuber eris neutre (tumeo),
+Lw|tuber|tūber|eris|n||a lump, bump, swelling, tumor, protuberance, hump, is one boil, great faults, A mushroom, truffle, moril||||tuber
+Y§|
+PO|tuber|tu_ber, tu_beris : n
+WW||||
+|zoster|zōstēr|zōstēr|5|zōstēr||ēris, m.
+LS|zoster|zoster|ēris|m.||A kind of herpes, the shingles|zoster1|0
+GG|zoster|zōstēr|ēris|m.||zostère [plante marine] / érysipèle [éruption formant comme une ceinture sur la peau, cf. zona]|1 zoster|
+GJ|
+Ge|zoster|zōstēr|ēris|der Gürtel - die Gürtelkrankheit, Gürtelrose - Art Seetang, Meertang
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|zoster2|Zostēr2|Zōstēr|5|Zōstēr||ēris, m.
+LS|Zoster|Zoster|ēris|m.||a promontory, town, and harbor of Attica;, C. Lombarda|Zoster2|0
+GG|Zoster|Zostēr|ēris|m.||ville et promontoire de l'Attique|2 Zoster|
+GJ|
+Ge|Zoster|Zōstēr|ēris|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|acer2|ăcĕr2|ăcĕr|7|ăcĕr||ĕris, n.
+LS|acer|ăcer|ĕris|n.||the maple-tree|acer1|0
+GG|acer|ăcĕr|ĕris|n.||érable|1 acer|
+GJ|acer|ăcĕr|ăcĕris, n.|érable, bois d'érable.
+Ge|acer|acer|eris, n.|der Ahornbaum - der Ahorn
+FG|acer|acer eris neutre, érable.
+Lw|acer|acer|eris|n||the maple-tree, the wood of the maple-tree, maple||||acer1
+Y§|
+PO|acer|acer, aceris : n
+WW||||
+|acus3|ăcŭs3|ăcŭs|7|ăcĕr||ĕris, n.
+LS|acus|ăcus|ĕris|n.||the husk of grain and of pulse; chaff|acus2|0
+GG|acus|ăcŭs|ĕris|n.||balle du blé|1 acus|
+GJ|acus|ăcŭs|ĕris, n.|balle du blé, de l'avoine..., cosse des légumes.
+Ge|acus|acus|eris, n.|die Spreu
+FG|acus|acus eris neutre, balle de blé.
+Lw|
+Y§|
+PO|
+WW||||
+|aether2|Aether2|Āethĕr|5|Āetheris (er||eris (eros), m.
+LS|Aether|Aether|personified||||aether|
+GG|
+GJ|Aether|Aether|eris (eros), m.|Ether (= Jupiter ou son père).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|alter2|altēr2|āltēr|5|āltēr||ēris, m.
+LS|
+GG|alter|altēr|ēris|m.||v. halter.|2 alter|
+GJ|alter|altēr|ēris, m.|v. halteres ; les haltères [pour la gymnastique].
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|anser2|Anser2|Ānsĕr|5|Ānsĕr||ĕris, m.
+LS|Anser|Anser|ĕris|m.||a petulant and obscene poet, a friend of the triumvir Antonius, who presented him with an estate at Falernum|Anser2|0
+GG|Anser|Anser|ĕris|m.||Anser [poète latin] / ami d'Antoine|2 Anser|
+GJ|Anser|Anser|eris, m.|Anser (nom d'homme).
+Ge|Anser|Anser|eris, m.|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|celer2|Cĕlĕr2|Cĕlĕr|5|Cĕlĕr||ĕris, m.
+LS|Celer|Cĕler|ĕris|m.||-I. a Roman cognomen -II. the chief of the Celeres|Celeres|0
+GG|Celer|Cĕlĕr|ĕris|m.||Céler [officier de Romulus] / surnom de diverses familles|2 Celer|
+GJ|Celer|Cĕlĕr|ĕris, m.|- a - Céler [officier de Romulus]. - b - surnom de diverses familles.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|passer2|Passĕr2|Pāssĕr|5|Pāssĕr||ĕris, m.
+LS|Passer|Passer|ĕris|m.||a Roman surname|Passer2|0
+GG|Passer|Passĕr|ĕris|m.||surnom romain|2 Passer|
+GJ|Passer|Passer|eris, m.|Passer (surnom).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|pauper2|paupĕr2|pāupĕr|5|pāupĕr||ĕris, comm.
+LS|pauper|pauper|ĕris|comm.||a poor man|pauper|0
+GG|pauper|paupĕr|ĕris|m. f.||qui produit peu), pauvre, qui possède peu [différent de inops, egenus, egens]|pauper|
+GJ|
+Ge|
+FG|pauper|pauper eris masculin, féminin et neutre (pau-cus, pario, qui produit peu), pauvre, qui possède peu (différent de inops, egenus, egens) : ex pauperrimo dives factus, de très pauvre devenu riche ; (avec génitif poétique) pauper aquae, pauvre en eau ; pauperes, les pauvres.
+Lw|
+Y§|
+PO|
+WW||||
+|vetus2|Vĕtŭs2|Vĕtŭs|5|Vĕtĕr||ĕris, m.
+LS|
+GG|Vetus|Vĕtus|ĕris|m.||surnom romain|2 Vetus|
+GJ|Vetus|Vetŭs|ĕris , m.|Vétus (surnom).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|manzer2|manzer2|mānzĕr|5|mānzĕr||ĕris, m.
+LS|manzer|manzer|ĕris|m.||a bastard|manzer|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||

@@ -1,0 +1,420 @@
+|agnes|Agnēs|Āgnēs|5|Āgnēt||ētis, f.
+LS|
+GG|Agnes|Agnēs|ētis|f.||sainte Agnès|Agnes|
+GJ|Agnes|Agnēs|ētis, f.|Agnès (nom de femme).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|celes|cĕlēs|cĕlēs|5|cĕlēt||ētis, m.
+LS|celes|cĕlēs|ētis|m.||A racer, race-horse|celes|0
+GG|celes|cĕlēs|ētis|m.||cheval de course / bateau rapide, yacht|celes|
+GJ|celes|cĕlēs|ētis, m.|- 1 - cheval de selle, coursier. - 2 - bateau léger et rapide.
+Ge|celes|celēs|ētis, m.|der Renner - das Rennpferd - die Jacht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chares|Chărēs|Chărēs|5|Chărēt||ētis, m.
+LS|Chares|Chăres|ētis|m.||a Greek proper name.|Chares|0
+GG|Chares|Chărēs|ētis|m.||statuaire grec / historien grec / le Cher [rivière]|Chares|
+GJ|Chares|Chărēs|ētis, m.|Charès. - 1 - un statuaire. - 2 - un historien. - 3 - rivière de Gaule (= le Cher).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chremes|Chrĕmēs|Chrĕmēs|5|Chrĕmēt||ētis, m.
+LS|Chremes|Chrĕmes|ētis or is|m.||the name of an old miser in the Andria, Heaut., and Phormio of Terence, gen.|Chremes|0
+GG|Chremes|Chrĕmēs|mētis et mis|m.||Chrémès [personnage de comédie]|Chremes|
+GJ|Chremes|Chrĕmēs|ētis (is), m. (acc. -em, -en, -etem, -eta)|Chrémès (vieillard de comédie).
+Ge|Chremes|Chremēs|mētis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cleochares|Clĕŏchărēs|Clĕŏchărēs|5|Clĕŏchărēt||ētis, m.
+LS|
+GG|Cleochares|Clĕŏchărēs|ētis|m.||un des officiers d'Alexandre|Cleochares|
+GJ|Cleochares|Clĕŏchărēs|ētis, m.|Cléocharès (lieutenant d'Alexandre).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cres|Crēs|Crēs|5|Crēt||ētis, m.
+LS|Cres|Crēs|Crētis|m.||Cretan|Creta1|0
+GG|Cres|Crēs|ētis|m.||Crétois|Cres|
+GJ|Cres|Crēs|ētis, m. (acc. sing. Crēta)|crétois, de Crète; un Crétois.
+Ge|
+FG|
+Lw|Cres|Crēs|ētis|m||a Cretan||||Cres
+YO|
+PO|
+WW||||
+|dares|Dărēs|Dărēs|5|Dărēt||ētis, m.
+LS|Dares|Dăres|ētis and is|m.||A boxer|Dares|0
+GG|Dares|Dărēs|ētis|m.||nom d'un athlète troyen|Dares|
+GJ|Dares|Darēs|ētis, m. (acc. -ētem, -ēten, -ēta)|Darès. - 1 - compagnon d'Enée. - 2 - Isid. historien phrygien.
+Ge|Dares|Darēs|ētis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hales|Hălĕs|Hălĕs|5|Hălēt||ētis, m.
+LS|Hales|Hales|ētis|m.||a small river in Lucania near Velia, Halente|Hales|0
+GG|Hales|Hălĕs|ētis|m.||rivière de Lucanie [auj. Alento]|Hales|
+GJ|Hales|Hălĕs|ētis, m.|l'Halès (rivière de Lucanie, auj. l'Alento).
+Ge|Hales|Halēs|ētis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|heles|Heles|Heles|5|Helēt||ētis, m.
+LS|
+GG|Heles|Heles|ētis|m.||v. Hales.|Heles|
+GJ|Heles|Heles|ētis, m.|v. Hales.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|henotes|hĕnŏtēs|hĕnŏtēs|5|hĕnŏtēt||ētis, f.
+LS|henotes|hĕnŏtes|ētis|f.||one of the &oelig;ons of Valentinian|henotes|0
+GG|henotes|hĕnōtēs|tētos|f.||l'unité|henotes|
+GJ|henotes|hēnōtēs|ētos, f.|l'Unité (un des eons de Valentin).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|herpes|herpēs|hērpēs|5|hērpēt||ētis, m.
+LS|herpes|herpes|ētis|m.||A cutaneous eruption that creeps and spreads|herpes|0
+GG|herpes|herpēs|ētis|m.||maladie de la peau / animal inconnu|herpes|
+GJ|herpes|herpēs|ētis, m.|- 1 - une éruption cutanée. - 2 - un animal inconnu qui guérit cette maladie.
+Ge|herpes|herpēs|ētis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laches|Lăchēs|Lăchēs|5|Lăchēt||ētis, m.
+LS|Laches|Lăchēs||m.||name of an old man|Laches|0
+GG|Laches|Lăchēs|ētis|m.||général athénien / nom de personnage comique|Laches|
+GJ|Laches|Lăchēs|ētis, m.|Lachès (général athénien).
+Ge|Laches|Lachēs|ētis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lebes|lĕbēs|lĕbēs|5|lĕbēt||ētis, m.
+LS|lebes|lĕbes|ētis|m.||a copper basin, kettle, caldron|lebes|0
+GG|lebes|lĕbēs|ētis|m.||bassin recevant l'eau lustrale qu'on versait sur les mains, cuvette / chaudron, marmite, casserole|lebes|
+GJ|lebes|lĕbēs|ētis, m. (acc. plur. -ētas)|- 1 - bassin (pour recevoir l'eau lustrale qu'on versait sur les mains), cuvette. - 2 - marmite, chaudron, casserole.
+Ge|lebes|lebēs|ētis|ein Becken - bronzener Kessel
+FG|lebes|lebes etis masculin, bassin recevant l'eau lustrale qu'on versait sur les mains, cuvette.
+Lw|lebes|lebēs|ētis|m||a copper basin, kettle, caldron (to wash hands or feet, or boil water; often a prize in the Grecian games)||||lebes
+YO|
+PO|lebes|lebe_s, lebe_tis : m
+WW||||
+|macariotes|măcărĭŏtēs|măcărĭŏtēs|5|măcărĭŏtēt||ētis, f.
+LS|macariotes|măcărĭŏtēs|ētis|f.||one of the &aelig;ons of Valentinus|macariotes|0
+GG|Macariotes|Măcărĭŏtēs|tētis|f.||un des Éons de Valentin|Macariotes|
+GJ|
+Ge|macariotes|macariotēs|ētis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|meges|Mĕgēs|Mĕgēs|5|Mĕgēt||ētis, m.
+LS|Meges|Mĕges|ētis|m.||son of Phyleus, one of Helen's suitors|Meges|0
+GG|Meges|Mĕgēs|ētis|m.||un des prétendants d'Hélène / nom d'un médecin|Meges|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mendes|Mendēs|Mēndēs|5|Mēndēt||ētis, f.
+LS|Mendes|Mendēs|ētis||||Mendes|0
+GG|Mendes|Mendēs|ētis||adj.|de Mendès [ville d'Égypte]|Mendes|Mendēs
+GJ|Mendes|Mendēs|ētis, f.|adj. m. : de Mendès (ville d'Egypte, dans le Delta).
+Ge|Mendes|Mendēs|ētis, f.|mendesisch - mendesisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|morges|Morgēs|Mōrgēs|5|Mōrgēt||ētis, f.
+LS|
+GG|Morges|Morgēs|ētis|f.||ancien nom d'Éphèse|Morges|
+GJ|Morges|Morgēs|ētis, f.|Plin. ancien nom d'Ephèse.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pheres|Phĕrēs|Phĕrēs|5|Phĕrēt||ētis, m.
+LS|Pheres|Phĕres|ētis|m.||the name of a Trojan; acc.|Pheres|0
+GG|Pheres|Phĕrēs|ētis|m.||nom de guerrier|Pheres|
+GJ|Pheres|Pherēs|ētis, m. (acc. -ēta)|Phérès. - 1 - fondateur de la ville de Phères, en Thessalie. - 2 - Virg. un guerrier troyen.
+Ge|Pheres|Pherēs|ētis, m.|der Pheretiade
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rhamnes|Rhamnēs|Rhāmnēs|5|Rhāmnēt||ētis, m.
+LS|
+GG|Rhamnes|Rhamnēs|ētis|m.|S.|nom de guerrier|Rhamnes|Rhamnēs
+GJ|Rhamnes|Rhamnes|ĭum, m.|- 1 - Les Ramnes, les Ramniens (une des trois tribus primitives, d'origine latine, dont Romulus forma les trois centuries de chevaliers de même nom). - 2 - au fig. Hor. les chevaliers d'autrefois.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suffes|suffes|sūffes|5|sūffĕt||ĕtis, m.
+LS|suffes|suffes|ĕtis|m.||the chief magistrate of the Carthaginians, a sufet|suffes|(
+GG|suffes|suffes||||v. sufes|suffes|
+GJ|suffes|suffes||c. sufes.
+Ge|
+FG|
+Lw|suffes|(suffes)|see sufes.|||UFET||||suffes
+YO|
+PO|
+WW||||
+|tages|Tăgēs|Tăgēs|5|Tăgēt||ētis, m.
+LS|Tages|Tăges|is|m.||an Etrurian divinity, grandson of Jupiter; he sprang from the ploughed earth in the form of a boy, and taught the Etrurians the art of divination|Tages|0
+GG|Tages|Tăgēs|ētis|m.||Étrusque, inventeur de la divination|Tages|
+GJ|Tages|Tăgēs|ētis, m. (acc. -en)|Tagès (petit-fils de Jupiter, qui enseigna aux Etrusques la science de la divination).
+Ge|Tages|Tagēs|Etis|tagetisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tapes|tăpēs|tăpēs|5|tăpēt||ētis, m.
+LS|
+GG|tapes|tăpēs||||v. tapete|tapes|
+GJ|tapes|tăpēs|ētis, m.|- 1 - tapis, tapisserie. - 2 - housse (de cheval).
+Ge|
+FG|
+Lw|tapes|(tapēs|ētis|m||a heavy cloth with inwrought figures, carpet, tapestry, hangings, coverlet||||tapes
+YO|
+PO|tapes|tape_s, tape_tis : m
+WW||||
+|teges|tĕgĕs|tĕgĕs|5|tĕgĕt||ĕtis, f.
+LS|teges|tĕgĕs|ĕtis|f.||a covering, mat|teges|0
+GG|teges|tĕgĕs|ĕtis|f.||natte, couverture|teges|
+GJ|teges|tĕgĕs|ĕtis, f. [tego]|couverture, natte.
+Ge|teges|teges|etis, f.|die Decke, Matte
+FG|teges|teges etis féminin (tego), natte, couverture.
+Lw|teges|teges|etis|f||a covering, rush-mat, bedrug, collect.||||teges
+YO|
+PO|
+WW||||
+|tunes|Tūnēs|Tūnēs|5|Tūnēt||ētis, m.
+LS|Tunes|Tūnēs|ētis|m.||a maritime town of Africa Propria, Tunis, Acc.|Tunes|0
+GG|Tunes|Tūnēs|ētis|||v. Tynes.|Tunes|
+GJ|Tunes|Tunēs|ētis, m.|Tunis (ville d'Afrique).
+Ge|Tunes|Tunēs|ētis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tynes|Tȳnēs|Tȳnēs|5|Tȳnēt||ētis, m.
+LS|
+GG|Tynes|Tȳnēs|ētis|m.||nom ancien de Tunis|Tynes|
+GJ|Tynes|Tynēs|ētis, m.|Tunis (ville d'Afrique).
+Ge|Tynes|Tȳnēs|ētis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lucripes|lŭcrĭpēs|lŭcrĭpēs|5|lŭcrĭpĕt||ĕtis, m.
+LS|
+GG|lucripes|lŭcrĭpēs|ĕtis|m.|S.|âpre au gain, cupide|lucripes|lŭcrĭpēs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|menes|Mĕnēs|Mĕnēs|5|Mĕnēt||ētis, m.
+LS|
+GG|Menes|Mĕnēs|ētis|m.||lieutenant d'Alexandre|Menes|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|philotes|Philotes|Philotes|5|Philotēt||ētis, m.
+LS|Philotes|Philotes|ētis|m.||son of P&oelig;as of Thessaly, celebrated as an archer, a companion of Hercules, who at his death gave him the poisoned arrows without which Troy could not be taken. On account of the stench proceeding from his wounded foot, he was left by the Greeks on the isle of Lemnos, but was afterwards taken by Ulysses to Troy, where Machaon healed his wound, and he slew Paris|Philocteta|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|planes|plănēs|plănēs|5|plănēt||ētis, m.
+LS|planes|plănēs|ētis|m.||a wandering star, planet|planeta|is), or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tymbres|Tymbrēs|Tȳmbrēs|5|Tȳmbrēt||ētis, m.
+LS|
+GG|Tymbres|Tymbrēs|ētis|m.|S.|rivière de Bithynie|Tembrogius|Tymbrēs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cophes|Cŏphēs|Cŏphēs|5|Cŏphēt||ētis, m.
+LS|Cophes|Cŏphes|ētis||||Cophes|0
+GG|Cophes|Cŏphēs|ētis|m.||affluent de l'Indus|1 Cophes|
+GJ|Cophes|Cophēs|ētis, m. (acc. -eta)|Plin. c. Cophen.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|magnes|magnēs|māgnēs|5|māgnēt||ētis, m.
+LS|magnes|magnes|ētis|m.|adj.|a magnet, loadstone|magnes1|0
+GG|magnes|magnēs|ētis|||aimant minéral|Magnes|magnēs
+GJ|
+Ge|
+FG|
+Lw|magnes|māgnēs|ētis||adj.|of Magnesia (in Thessaly): lapis, a magnet, loadstone||||magnes
+Y§|
+PO|magnes|magne_s, magne_tis : m
+WW||magnes, magnetis||
+|magnes2|Magnēs2|Māgnēs|5|Māgnēt||ētis, m.
+LS|Magnes|Magnes|ētis|m.|adj.|a Magnesian|Magnesia|0
+GG|Magnes|Magnēs|ētis|m.|S.|de Magnésie|Magnes|Magnēs
+GJ|Magnes|Magnēs|ētis, m.|de Magnésie.
+Ge|Magnes|Māgnēs|ētis, m.|der Magnesier - der Magnet
+FG|Magnes|Magnes etis masculin, de Magnésie ; magnes lapis, ou absolument magnes, aimant minéral.
+Lw|
+Y§|
+PO|
+WW||||
+|philochares2|Phĭlŏchărēs2|Phĭlŏchărēs|5|Phĭlŏchărētis (||ētis (is), m.
+LS|
+GG|Philochares|Phĭlŏchărēs||||nom d'un peintre|2 Philochares|
+GJ|Philochares|Phĭlŏchărēs|ētis (is), m.|Plin. Philocharès (nom d'un peintre).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|sufes|sūfes|sūfes|5|sūfĕt||ĕtis, m.
+LS|sufes|sūfes|ĕtis|m.||the chief magistrate of the Carthaginians, a sufet|sufes|(
+GG|sufes|sūfes|ĕtis|m.||sufète [magistrats suprêmes à Carthage]|1 sufes|
+GJ|sufes|sufes|sufetis, m.|sufète (premier magistrat de Carthage).
+Ge|
+FG|sufes|sufes etis masculin, sufète (magistrats suprêmes à Carthage).
+Lw|sufes|sūfes||m||in Carthage, a judge, chief magistrate, sufet||||sufes
+Y§|
+PO|
+WW||||
+|indiges2|Indĭgĕs2|Īndĭgĕs|5|Īndĭgĕt||ĕtis, m.
+LS|Indiges|Indĭgĕs|ĕtis|m.||&AElig;neas|Indiges1|0
+GG|Indiges|Indiges|ĕtis|m.||v. indigetes. Sing. appliqué à Énée|Indigetes|Indiges
+GJ|
+Ge|indiges|indiges|getis, m.|die angerufene - einheimische Gottheit - der einheimische Heros
+FG|
+Lw|Indiges|Indiges|etis|m||a deified hero, patron deity||||Indiges1
+Y§|
+PO|
+WW||||
+|manes2|Mănēs2|Mănēs|5|Mănēt||ētis, m.
+LS|
+GG|Manes|Mănēs|ētis|m.||Manès [hérésiarque perse, chef de la secte des Manichéens]|2 Manes|
+GJ|Manes|Mănēs|ētis, m.|Sid. Manès (hérésiarque, chef de la secte des Manichéens).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|meles|Mĕlēs|Mĕlēs|5|Mĕlēt||ētis, m.
+LS|Meles|Mĕles|ētis|m.||a river in Ionia, near Smyrna, on the banks of which, it is said, Homer was born|Meles2|0
+GG|Meles|Mĕlēs|ētis|m.|S.|fleuve d'Ionie sur les bords duquel Homère, dit-on, naquit|3 Meles|Mĕlēs
+GJ|Meles|Mĕlēs|ētis, m.|le Mélès (fleuve au bord duquel Homère serait né).
+Ge|Meles|Melēs|ētis, m.|meletëisch - homerisch - meletinisch
+FG|Meles|Meles etis,masculin, fleuve d'Ionie sur les bords duquel Homère, dit-on, naquit ; -leteus a um, du Mélès, d'HOmère ; -letinus a um, du Mélès.
+Lw|
+Y§|
+PO|
+WW||||
+|praepes2|praepĕs2|prāepĕs|5|prāepĕt||ĕtis, m. f.
+LS|praepes|praepĕs|ĕtis|m. f.||Fem., a bird; Masc. Pegasus|praepes|ĕtis.
+GG|praepes|praepĕs|ĕtis|f. m.||oiseau [de proie] / celui qui a des ailes, qui vole [homme ou animal ailé]|2 praepes|
+GJ|praepes|praepĕs|ĕtis, m. et f. (abl. -ete ou -eti)|oiseau, homme ailé, animal ailé.
+Ge|
+FG|praepes|praepes etis,
+Lw|praepes|praepes|petis|m. f.||Fem, a bird of good omen; Masc, a bird, large bird, Pegasus||||praepes
+Y§|
+PO|
+WW||||
+|quies3|Quĭēs3|Qụĭēs|5|Qụĭēt||ētis, f.
+LS|
+GG|Quies|Quĭēs|ētis|f.||le Repos [divinité]|3 Quies|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|termes|Termēs|Tērmēs|5|Tērmēt||ētis, f.
+LS|Termes|Termes|ētis|f.||a town in Spain, Lerma|Termes3|0
+GG|Termes|Termēs|ētis|f.||ville d'Ionie|3 Termes|
+GJ|Termes|Termēs|ētis, f.|Plin. ville d'Ionie.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|irrequies=inrequies|irrĕquĭēs|īrrĕqụĭēs|5|īrrĕqụĭēt||ētis, 
+LS|irrequies|irrĕquĭes|ētis||adj.|restless, unresting, always in action, motion|irrequies|(
+GG|irrequies|irrĕquĭēs|ētis|||qui ne se repose pas [ne se trouve qu'au nomin.]|irrequies|
+GJ|irrequies|irrequies|(au nom. seulement)|qui n'a pas de repos, incessant.
+Ge|irrequies|irrequiēs|quiētis, f.|unruhig
+FG|
+Lw|
+YO|
+PO|
+WW||||

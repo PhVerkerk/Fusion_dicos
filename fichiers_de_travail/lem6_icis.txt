@@ -1,0 +1,5940 @@
+|abdicatrix|abdĭcātrix|ābdĭcātrīx|5|ābdĭcātrīc||īcis, f.
+LS|abdicatrix|abdĭcātrix|īcis|f.||she that renounces, disclaims|abdicatrix|0
+GG|abdicatrix|abdĭcātrix|īcis|f.||celle qui renonce à|abdicatrix|
+GJ|abdicatrix|abdĭcātrix|īcis, f.|celle qui abdique, celle qui renonce à.
+Ge|abdicatrix|abdicātrīx|īcis, f.|die Verleugnerin
+FG|
+Lw|
+YO|
+PO|
+WW|abdicatrix, abdicatricis|||
+|acceptrix|acceptrīx|āccēptrīx|5|āccēptrīc||īcis, f.
+LS|acceptrix|acceptrix|īcis|f.||she that receives|acceptrix|0
+GG|acceptrix|acceptrīx|īcis|f.||celle qui reçoit|acceptrix|
+GJ|acceptrix|acceptrix|īcis, f.|celle qui reçoit.
+Ge|acceptrix|acceptrīx|īcis, f.|die Empfängerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|accusatrix|accūsātrīx|āccūsātrīx|5|āccūsātrīc||īcis, f.
+LS|accusatrix|accūsātrix|īcis|f.||she who makes accusation against any one, a female accuser, no.|accusatrix|0
+GG|accusatrix|accūsātrīx|īcis|f.||accusatrice|accusatrix|
+GJ|accusatrix|accūsātrix|īcis, f.|accusatrice.
+Ge|accusatrix|accūsātrīx|īcis, f.|die Anklägerin - die Angeberin - die Beschwerdeführerin
+FG|accusatrix|accusatrix icis féminin, accusatrice.
+Lw|
+YO|
+PO|
+WW||||
+|acerbatrix|ăcerbātrix|ăcērbātrīx|5|ăcērbātrīc||īcis, f.
+LS|
+GG|acerbatrix|ăcerbātrix|īcis|f.||celle qui exaspère|acerbatrix|
+GJ|acerbatrix|ăcerbātrix|īcis, f.|celle qui exaspère.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|actrix|actrīx|āctrīx|5|āctrīc||īcis, f.
+LS|actrix|actrix|īcis|f.||A female plaintiff|actrix|0
+GG|actrix|actrīx|īcis|f.||d'actor|actrix|
+GJ|actrix|actrix|īcis, f.|- 1 - demanderesse en justice. - 2 - intendante. - 3 - actrice.
+Ge|Actrix|Actrīx|īcis, f.|die Darstellerin - die Klägerin - die Wirtschaftsverwalterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|admonitrix|admŏnĭtrix|ādmŏnĭtrīx|5|ādmŏnĭtrīc||īcis, f.
+LS|admonitrix|admŏnĭtrix|īcis|f.||she that reminds, admonishes, a female monitor|admonitrix|0
+GG|admonitrix|admŏnĭtrix|īcis|f.||celle qui donne un avis|admonitrix|
+GJ|admonitrix|admŏnĭtrix|īcis, f.|celle qui donne un avis.
+Ge|admonitrix|admonitrīx|īcis, f.|die Mahnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adulatrix|ădūlātrix|ădūlātrīx|5|ădūlātrīc||īcis, f.
+LS|adulatrix|ădūlātrix|īcis|f.||a female flatterer|adulatrix|0
+GG|adulatrix|ădūlātrix|īcis|f.||flatteuse|adulatrix|
+GJ|adulatrix|ădūlātrix|īcis, f.|Tert. flatteuse.
+Ge|adulatrix|adūlātrīx|īcis, f.|die kriechende Schmeichlerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adulteratrix|ădultĕrātrix|ădūltĕrātrīx|5|ădūltĕrātrīc||īcis, f.
+LS|adulteratrix|ădultĕrātrix|īcis|f.|||adulteratrix|0
+GG|
+GJ|
+Ge|adulteratrix|adulterātrix|Icis|die Ehebrecherin - die Buhle
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adunatrix|ădūnātrix|ădūnātrīx|5|ădūnātrīc||īcis, f.
+LS|
+GG|adunatrix|ădūnātrix|īcis|f.||qui réunit|adunatrix|
+GJ|
+Ge|adunatrix|adūnātrix|īcis, f.|die Vereinigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adversatrix|adversātrīx|ādvērsātrīx|5|ādvērsātrīc||īcis, f.
+LS|adversatrix|adversātrix|īcis|f.||a female antagonist, adversary|adversatrix|(archaic 
+GG|adversatrix|adversātrīx|īcis|f.||femme qui fait opposition|adversatrix|
+GJ|adversatrix|adversatrix|īcis, f.|celle qui s'oppose, adversaire.
+Ge|adversatrix|adversātrīx|īcis, f.|die Gegnerin, Widersacherin
+FG|
+Lw|adversatrix|adversātrīx (advor-)|īcis|f||an opponent||||adversatrix
+YO|
+PO|adversatrix|adversa_trix, adversa_tri_cis : f
+WW||||
+|aedifex|aedĭfex|āedĭfēx|5|āedĭfĭc||ĭcis, m.
+LS|aedifex|aedĭfex|fĭcis|m.|||aedifex|0
+GG|aedifex|aedĭfex|ĭcis|m.||constructeur, architecte|aedifex|
+GJ|aedifex|aedĭfex|fĭcis, m. [aedes + facio]|Tert. architecte, constructeur.
+Ge|aedifex|aedifex|ficis, m.|der Erbauer eines Hauses
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aemulatrix|aemŭlātrix|āemŭlātrīx|5|āemŭlātrīc||īcis, f.
+LS|aemulatrix|aemŭlātrix|īcis|f.||a female emulator|aemulatrix|0
+GG|aemulatrix|aemŭlātrix|īcis|f.||celle qui rivalise|aemulatrix|
+GJ|aemulatrix|aemŭlatrix|īcis, f.|celle qui rivalise.
+Ge|aemulatrix|aemulātrix|īcis, f.|die Nacheiferin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|agitatrix|ăgĭtātrix|ăgĭtātrīx|5|ăgĭtātrīc||īcis, f.
+LS|agitatrix|ăgĭtātrix|īcis|f.||she that puts, in motion|agitatrix|0
+GG|agitatrix|ăgĭtātrix|īcis|f.||celle qui agite, qui met en mouvement|agitatrix|
+GJ|agitatrix|agitatrix|īcis, f.|celle qui met en mouvement, celle qui agite.
+Ge|agitatrix|agitātrīx|Icis|die in Bewegung setzt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amatrix|ămātrĭx|ămātrĭx|5|ămātrīc||īcis, f.
+LS|amatrix|ămātrĭx|īcis|f.|adj.|a female lover, a mistress, sweetheart|amatrix|0
+GG|amatrix|ămātrix|īcis|f.||amoureuse, amante|amatrix|
+GJ|amatrix|amatrix|īcis, f.|amante, amoureuse, maîtresse.
+Ge|amatrix|amātrīx|īcis, f.|die Freundin - die Liebende - das Liebchen - die Buhle
+FG|
+Lw|
+YO|
+PO|amatrix|ama_trix, ama_tri_cis : f
+WW||amatrix, amatricis||
+|ambestrix|ambestrix|āmbēstrīx|5|āmbēstrīc||īcis, f.
+LS|ambestrix|ambestrix|īcis|f.||a female consumer, waster|ambestrix|0
+GG|ambestrix|ambestrix|īcis|f.||celle qui dévore, qui dissipe|ambestrix|
+GJ|ambestrix|ambestrix|icis, f.|celle qui dissipe, celle qui dévore.
+Ge|ambestrix|ambestrīx|īcis, f.|die Auffresserin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ambix|ambix|āmbīx|5|āmbīc||īcis, f.
+LS|
+GG|ambix|ambix|īcis|f.||chapiteau d'un alambic|ambix|
+GJ|ambix|ambix|icis, f.|Apic. chapiteau d'un alambic.
+Ge|ambix|ambix|īcis|der Destillierhelm, Blasenhut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ambulatrix|ambŭlātrix|āmbŭlātrīx|5|āmbŭlātrīc||īcis, f.
+LS|ambulatrix|ambŭlātrix|īcis|f.||she that walks about, a female lounger|ambulatrix|0
+GG|ambulatrix|ambŭlātrix|īcis|f.||celle qui aime à se promener|ambulatrix|
+GJ|ambulatrix|ambŭlātrix|īcis, f.|celle qui aime à se promener, celle qui ne peut se tenir en place.
+Ge|ambulatrix|ambulātrīx|īcis, f.|die Spaziergängerin
+FG|
+Lw|
+YO|
+PO|
+WW||ambulatrix, ambulatricis||
+|ammonitrix|ammŏnī̆trix|āmmŏnī̆trīx|5|āmmŏnī̆trīc||īcis, f.
+LS|ammonitrix|ammŏnī̆trix|īcis|f.||she that reminds, admonishes, a female monitor|ammoneo|and 
+GG|ammonitrix|ammŏnĭtrix||||v. adm-.|ammoneo|ammŏnĭtrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amplificatrix|amplĭfĭcātrīx|āmplĭfĭcātrīx|5|āmplĭfĭcātrīc||īcis, f.
+LS|amplificatrix|amplĭfĭcātrix|īcis|f.||she that enlarges, amplifies|amplificatrix|0
+GG|amplificatrix|amplĭfĭcātrīx|īcis|f.|S.|celle qui augmente|amplificator|amplĭfĭcātrīx
+GJ|
+Ge|amplificatrix|amplificātrīx|īcis, f.|die Erweiterin, Vergrößerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amputatrix|ampŭtātrīx|āmpŭtātrīx|5|āmpŭtātrīc||īcis, f.
+LS|
+GG|amputatrix|ampŭtātrix|īcis|f.||celle qui supprime|amputatrix|
+GJ|
+Ge|amputatrix|amputātrīx|īcis, f.|die Beschneiderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|animatrix|ănĭmātrix|ănĭmātrīx|5|ănĭmātrīc||īcis, f.
+LS|animatrix|ănĭmātrix|īcis|f.||she that quickens, animates|animatrix|0
+GG|animatrix|ănĭmātrix|īcis|f.||celle qui donne de la force pour qqch|animatrix|
+GJ|animatrix|ănĭmātrix|īcis, f.|Tert. celle qui donne la force (pour qqch).
+Ge|animatrix|animātrīx|īcis, f.|die Ermutigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|annuntiatrix|annūntĭātrīx|ānnūntĭātrīx|5|ānnūntĭātrīc||īcis, f.
+LS|
+GG|
+GJ|annuntiatrix|annuntĭātrix|īcis, f.|celle qui annonce.
+Ge|annuntiatrix|annūntiātrīx|trīcis, f.|die Verkünderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|apostatrix|ăpostātrix|ăpōstātrīx|5|ăpōstātrīc||īcis, f.
+LS|apostatrix|ăpostātrix|īcis|f.|adj.|she that apostatizes|apostatrix|0
+GG|apostatrix|ăpostatrix|īcis|f.||celle qui apostasie|apostatrix|
+GJ|apostatrix|ăpostātrix|īcis, f.|celle qui apostasie.
+Ge|apostatrix|apostatrīx|īcis, f.|die Abtrünnige, abtrünnig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|appetitrix|appĕtītrīx|āppĕtītrīx|5|āppĕtītrīc||īcis, f.
+LS|
+GG|appetitrix|appĕtītrix|īcis|f.|adj.|qui recherche|appetitrix|
+GJ|appetitrix|appĕtītrix|īcis, f.|celle qui recherche avec passion.
+Ge|appetitrix|appetītrīx|trīcis, f.|die - etwas trachtet
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aratrix|ărātrīx|ărātrīx|5|ărātrīc||īcis, f. [arator]
+LS|
+GG|aratrix|ărātrix||f.||d'arator|aratrix|
+GJ|aratrix|ărātrix|īcis, f. [arator]|celle qui laboure.
+Ge|aratrix|arātrīx|Icis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|arbitratrix|arbī̆trātrix|ārbī̆trātrīx|5|ārbī̆trātrīc||īcis, f.
+LS|arbitratrix|arbī̆trātrix|īcis|f.||a mistress, female ruler|arbitratrix|0
+GG|arbitratrix|arbitrātrix|īcis|f.||celle qui règle|arbitratrix|
+GJ|arbitratrix|arbĭtrātrix|īcis, f.|Tert. celle qui règle, régulatrice.
+Ge|arbitratrix|arbitrātrīx|īcis, f.|die Herrscherin, Gebieterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|arbitrix|arbĭtrīx|ārbĭtrīx|5|ārbĭtrīc||īcis, f.
+LS|
+GG|arbitrix|arbĭtrix|īcis|f.||arbitre femme|arbitrix|
+GJ|
+Ge|arbitrix|arbitrīx|trīcis, f.|die Schiedsrichterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|argentifex|argentĭfex|ārgēntĭfēx|5|ārgēntĭfĭc||ĭcis, m.
+LS|
+GG|argentifex|argentĭfex|ĭcis|m.||ouvrier en argent|argentifex|
+GJ|
+Ge|argentifex|argentifex|ficis, m.|der Silberarbeiter
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|argumentatrix|argūmentātrix|ārgūmēntātrīx|5|ārgūmēntātrīc||īcis, f.
+LS|argumentatrix|argūmentātrix|īcis|f.||she that adduces proof, a female arguer|argumentatrix|0
+GG|argumentatrix|argūmentātrix|īcis|f.||celle qui argumente|argumentatrix|
+GJ|argumentatrix|argūmentātrix|īcis, f.|Tert. celle qui argumente.
+Ge|argumentatrix|argūmentātrīx|īcis, f.|die Beweisführerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|argutatrix|argūtātrix|ārgūtātrīx|5|ārgūtātrīc||īcis, f.
+LS|argutatrix|argūtātrix|īcis|f.||a prattling female|argutatrix|0
+GG|argutatrix|argūtātrix|īcis|f.||ergoteuse|argutatrix|
+GJ|argutatrix|argūtātrix|īcis, f.|P.-Fest. ergoteuse, bavarde.
+Ge|argutatrix|argūtātrīx|īcis, f.|die spitzfindige Schwätzerin
+FG|
+Lw|
+YO|
+PO|
+WW||argutatrix, argutatricis||
+|armatrix|armātrīx|ārmātrīx|5|ārmātrīc||īcis, 
+LS|
+GG|armatrix|armātrix|īcis|||celle qui arme|armator|-trix
+GJ|
+Ge|armatrix|armātrīx|trīcis, f.|die Bewaffnende
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|atriplex|ātrĭplex|ātrĭplēx|7|ātrĭplĭc||ĭcis, n.
+LS|atriplex|ātrĭplex|plĭcis||||atriplex|0
+GG|atriplex|ātrĭplex|ĭcis|n.||arroche [plante]|atriplex|
+GJ|atriplex|ātrĭplex|ĭcis, m. f. n.|arroche (plante).
+Ge|atriplex|atriplex|plicis|Melde
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|auctrix|auctrix|āuctrīx|5|āuctrīc||īcis, f.
+LS|auctrix|auctrix|īcis|f.||She that originates a thing, an author|auctrix|0
+GG|auctrix|auctrix|īcis|f.||celle qui produit, créatrice / celle qui a vendu ou cautionné / celle qui augmente|auctrix|
+GJ|auctrix|auctrix|icis, f.|- 1 - celle qui produit, qui est l'auteur, la source de, créatrice, celle qui fomente. - 2 - celle qui vend; celle qui est garante. - 3 - celle qui augmente.
+Ge|auctrix|auctrīx|īcis, f.|die Urheberin - die Verkäuferin, Gewährleisterin - Vermehrerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aucupex|aucŭpex|āucŭpēx|5|āucŭpĭc||ĭcis, m.
+LS|
+GG|aucupex|aucŭpex|ĭcis|m.||c. auceps|aucupex|
+GJ|
+Ge|aucupex|aucupex||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|auditrix|audītrīx|āudītrīx|5|āudītrīc||īcis, f.
+LS|
+GG|auditrix|audītrix|īcis|f.||celle qui écoute|auditrix|
+GJ|
+Ge|auditrix|audītrīx|īcis, f.|die Hörerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|auguratrix|augŭrātrix|āugŭrātrīx|5|āugŭrātrīc||īcis, f.
+LS|auguratrix|augŭrātrix|īcis|f.||a female soothsayer, diviner, argutatrix;|auguratrix|0
+GG|auguratrix|augŭrātrix|īcis|f.||devineresse|auguratrix|
+GJ|auguratrix|augŭrātrix|īcis, f.|Vulg. devineresse, prophétesse.
+Ge|auguratrix|augurātrīx|īcis, f.|die Weissagerin, Wahrsagerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aurivestrix|aurĭvestrīx|āurĭvēstrīx|5|āurĭvēstrīc||īcis, f.
+LS|
+GG|aurivestrix|aurĭvestrix|īcis|f.||brodeuse en or|aurivestrix|
+GJ|aurivestrix|aurĭvestrix|īcis [aurum + vestio]|brodeuse en or.
+Ge|aurivestrix|aurivestrīx|trīcis, f.|die Goldstickerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|auxiliatrix|auxĭlĭātrix|āuxĭlĭātrīx|5|āuxĭlĭātrīc||īcis, f.
+LS|auxiliatrix|auxĭlĭātrix|īcis|f.||she, that helps, aids, that which aids|auxiliatrix|0
+GG|auxiliatrix|auxĭlĭātrix|īcis|f.||celle qui aide, qui soutient, qui secourt|auxiliatrix|
+GJ|auxiliatrix|auxĭlĭātrix|īcis, f.|celle qui soutient, celle qui secourt.
+Ge|auxiliatrix|auxiliātrīx|trīcis, f.|helfend, Helferin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aversatrix|āversātrīx|āvērsātrīx|5|āvērsātrīc||īcis, f.
+LS|aversatrix|āversātrīx|īcis|f.||she that turns away from, abominates|aversatrix|0
+GG|aversatrix|āversātrix|īcis|f.||celle qui se détourne de|aversatrix|
+GJ|aversatrix|āversātrix|īcis, f.|celle qui a de l'aversion, de l'horreur pour.
+Ge|Aversatrix|Aversātrīx|trīcis, f.|die Verabscheuerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|avocatrix|āvŏcātrix|āvŏcātrīx|5|āvŏcātrīc||īcis, f.
+LS|avocatrix|āvŏcātrix|īcis|f.||she that calls away|avocatrix|0
+GG|avocatrix|āvŏcātrix|īcis|f.||celle qui détourne de [avec le gén.]|avocatrix|
+GJ|avocatrix|āvŏcātrix|īcis, f.|Tert. celle qui détourne de (avec gén.).
+Ge|Avocatrix|Avocātrīx|trīcis, f.|die Abruferin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ballatrix|ballātrīx|bāllātrīx|5|bāllātrīc||īcis, f.
+LS|
+GG|ballatrix|ballatrix|īcis|f.||danseuse|ballatrix|
+GJ|ballatrix|ballātrix|īcis, f.|danseuse.
+Ge|ballatrix|ballātrīx|trīcis, f.|die Tänzerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|balneatrix|balnĕātrix|bālnĕātrīx|5|bālnĕātrīc||īcis, f.
+LS|balneatrix|balnĕātrix|īcis|f.||she who has the care of a bath|balneatrix|0
+GG|balneatrix|balnĕātrix|īcis|f.||baigneuse|balneatrix|
+GJ|balneatrix|balnĕātrix|īcis, f.|baigneuse.
+Ge|balneatrix|balneātrīx|trīcis, f.|die Badefrau
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|beatrix|Bĕātrix|Bĕātrīx|5|Bĕātrīc||īcis, f.
+LS|
+GG|Beatrix|Bĕātrix|īcis|||Béatrice [nom de femme]|Beatrix|
+GJ|Beatrix|Bĕātrix|īcis, f.|Béatrice (nom de femme).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bellatrix|bellātrix|bēllātrīx|5|bēllātrīc||īcis, f.
+LS|bellatrix|bellātrix|īcis|f.|adj.|warlike, skilled in war, serviceable in war|bellatrix|0
+GG|bellatrix|bellātrix|īcis|f.|adj.|(f. de bellator), guerrière|bellatrix|
+GJ|bellatrix|bellātrix|īcis, f. adj.|guerrière, belliqueuse.
+Ge|
+FG|bellatrix|bellatrix icis adjectif féminin, belliqueuse, de guerre.
+Lw|
+YO|
+PO|
+WW||bellatrix, bellatricis||
+|blasphematrix|blasphēmātrīx|blāsphēmātrīx|5|blāsphēmātrīc||īcis, f.
+LS|
+GG|blasphematrix|blasphēmātrix|īcis|f.|S.|celui, celle qui outrage ; blasphémateur, -trice|blasphemator|-trix
+GJ|
+Ge|blasphematrix|blasphēmātrīx|trīcis, f.|die Lästererin, Schmäherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caelispex|Caelĭspex|Cāelĭspēx|5|Cāelĭspĭc||ĭcis, m.
+LS|Caelispex|Caelĭspex|ĭcis|m.||looking towards the C&oelig;lian Hill, a place at Rome|Caelispex|(
+GG|caelispex|caelispex|pĭcis|m.||ou Caelius, specio), qui regarde le ciel ou le mont Caelius [épithète d'Apollon]|caelispex|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calabrix|călā̆brix|călā̆brīx|5|călā̆brīc||īcis, f.
+LS|calabrix|călā̆brix|īcis|f.||a shrub, the turkey-berry, buckthorn, used in dyeing|calabrix|0
+GG|calabrix|călăbrix|īcis|f.||aubépine|calabrix|
+GJ|calabrix|călăbrix|īcis, f.|une épine sauvage.
+Ge|calabrix|calabrīx|brīcis, f.|der färbende Wegedorn
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calcatrix|calcātrix|cālcātrīx|5|cālcātrīc||īcis, f.
+LS|calcatrix|calcātrix|īcis|f.||f, she who treads upon something, despises it, she who contemns|calcatrix|0
+GG|calcatrix|calcātrix|īcis|f.||celle qui foule aux pieds|calcatrix|
+GJ|calcatrix|calcatrix|īcis, f.|celle qui foule aux pieds.
+Ge|calcatrix|calcātrīx|trīcis, f.|die - verachtet
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calculatrix|calcŭlātrix|cālcŭlātrīx|5|cālcŭlātrīc||īcis, f.
+LS|
+GG|calculatrix|calcŭlātrix|īcis|f.||celle qui calcule, qui enseigne à compter|calculatrix|
+GJ|
+Ge|calculatrix|calculātrix|trīcis, f.|die Rechenmeisterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|callithrix|callithrix|cāllithrīx|5|cāllithrĭc||ĭcis, f.
+LS|callithrix|callithrix|trĭchos|f.||A plant used for coloring the hair, also called|callithrix|0
+GG|callithrix|callithrix|ĭcis|f.||capillaire [plante] / espèce de singe d'Éthiopie|callithrix|
+GJ|callithrix|callĭthrix|ĭcis, f.|capillaire (plante utilisée pour teindre les cheveux).
+Ge|callithrix|callithrix|tricis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|callitrix|callĭtrix|cāllĭtrīx|5|cāllĭtrĭc||ĭcis, f.
+LS|
+GG|callitrix|callitrix||||v. callithrix.|callitrix|
+GJ|callitrix|callĭtrix|ĭcis, f.|capillaire (plante utilisée pour teindre les cheveux).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calumniatrix|călumnĭātrix|călūmnĭātrīx|5|călūmnĭātrīc||īcis, f.
+LS|calumniatrix|călumnĭātrix|īcis|f.||she who plots against, makes false accusations|calumniatrix|0
+GG|calumniatrix|călumnĭātrix|īcis|f.||celle qui accuse faussement|calumniatrix|
+GJ|calumniatrix|calumniatrix|īcis, f.|calomniatrice.
+Ge|calumniatrix|calumniātrīx|trīcis, f.|eine falsche Anklägerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cantilatrix|cantĭlātrīx|cāntĭlātrīx|5|cāntĭlātrīc||īcis, f.
+LS|
+GG|cantilatrix|cantĭlātrix|īcis|f.||c. cantatrix|cantilatrix|
+GJ|
+Ge|cantilatrix|cantilātrīx|īcis, f.|die Sängerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cantrix|cantrix|cāntrīx|5|cāntrīc||īcis, f.
+LS|cantrix|cantrix|īcis|f.||a female singer, a songstress, Adj.|cantrix|0
+GG|cantrix|cantrix|īcis|f.|adj.|chanteuse|cantrix|
+GJ|cantrix|cantrix|īcis, f.|qui chante, chanteuse.
+Ge|cantrix|cantrīx|trīcis, f.|die Tonkünstlerin, Sängerin
+FG|cantrix|cantrix icis féminin (cantor), chanteuse.
+Lw|
+YO|
+PO|
+WW||||
+|captatrix|captātrix|cāptātrīx|5|cāptātrīc||īcis, f.
+LS|captatrix|captātrix||f.||she who strires after, aims at any thing|captatrix|īcis. 
+GG|captatrix|captātrix|īcis|f.||celle qui recherche, qui poursuit|captatrix|
+GJ|captatrix|captātrix|īcis. f.|qui poursuit, qui vise à, intrigante.
+Ge|captatrix|captātrīx|trīcis, f.|eine, die nach etwas hascht, strebt
+FG|
+Lw|
+YO|
+PO|
+WW||captatrix, captatricis||
+|captivatrix|captīvātrīx|cāptīvātrīx|5|cāptīvātrīc||īcis, f.
+LS|
+GG|captivatrix|captīvātrix|īcis|f.|S.|celui, celle qui fait prisonnier ; [fig.] qui séduit|captivator|captīvātrix
+GJ|captivatrix|captīvātrix|īcis, f.|celle qui fait prisonnier; celle qui séduit.
+Ge|captivatrix|captīvātrīx|īcis, f.|die Gefangennehmerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|captrix|captrix|cāptrīx|5|cāptrīc||īcis, f.
+LS|captrix|captrix|īcis|f.||she that takes, catches;, she that despoils|captrix|0
+GG|captrix|captrix|īcis|f.||[fig.] celle qui enlève|captrix|
+GJ|captrix|captrix|icis, f.|celle qui prend, qui ôte, qui prive.
+Ge|captrix|captrīx|īcis, f.|die Fängerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|carex|cārex|cārēx|5|cārĭc||ĭcis, f.
+LS|carex|cārex|ĭcis|f.||reed-grass, rush, sedge|carex|0
+GG|carex|cārex|ĭcis|f.||laîche ou carex [plante]|carex|
+GJ|carex|carex|icis, f.|laîche ou carex (plante).
+Ge|carex|cārex|ricis, f.|das Riedgras
+FG|carex|carex icis féminin, laîche ou carex (plante).
+Lw|carex|cārex|icis|f||a reed grass, sedge||||carex
+YO|
+PO|carex|ca_rex, ca_ricis : f
+WW||||
+|cavillatrix|căvillātrix|căvīllātrīx|5|căvīllātrīc||īcis, f.
+LS|cavillatrix|căvillātrix|īcis|f.||she who seeks to take by sophistry, sophistry|cavillatrix|0
+GG|cavillatrix|căvillātrix|īcis|f.||une sophiste / la sophistique|cavillatrix|
+GJ|cavillatrix|căvillātrix|īcis, f.|une sophiste.
+Ge|cavillatrix|cavillātrīx|trīcis, f.|die Sophistin - die Sophistik
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ceryx|cērȳx|cērȳx|5|cērīc||īcis, m.
+LS|ceryx|cērȳx|ȳcis|m.||a herald|ceryx|0
+GG|ceryx|cēryx|īcis|m.||[probablement] / premier magistrat dans qq ville inconnue, c. prytanis et sufes / joueur de trompette [d'un caractère artistique]|ceryx|
+GJ|ceryx|cēryx|īcis, m.|- 1 - céryx (premier magistrat dans une ville inconnue). - 2 - héraut.
+Ge|ceryx|cērȳx|ȳcis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cessatrix|cessātrix|cēssātrīx|5|cēssātrīc||īcis, f.
+LS|cessatrix|cessātrix|īcis|f.||a, female, loiterer, idler|cessatrix|0
+GG|cessatrix|cessātrix|īcis|f.||celle qui est inactive, négligente|cessatrix|
+GJ|cessatrix|cessātrix|īcis, f.|négligente, qui n'agit pas, inactive.
+Ge|cessatrix|cessātrīx|īcis, f.|die Saumselige
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|choenix|choenix|chōenīx|5|chōenĭc||ĭcis, f.
+LS|choenix|choenix|ĭcis||||choenix|0
+GG|choenix|choenix|ĭcis|f.|S.|chénice, mesure attique pour les grains|choenica|choenix
+GJ|choenix|choenix|ĭcis (choenĭca, ae), f.|chénice (mesure de capacité pour les choses sèches).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circulatrix|circŭlātrix|cīrcŭlātrīx|5|cīrcŭlātrīc||īcis, f.
+LS|circulatrix|circŭlātrix|īcis|f.||a female mountebank, stroller, Adj.|circulatrix|0
+GG|circulatrix|circŭlātrix|īcis|f.|adj.|coureuse|circulatrix|
+GJ|circulatrix|circulatrix|īcis, f.|- 1 - femme qui joue le rôle de charlatan. - 2 - adj. de charlatan.
+Ge|circulatrix|circulātrīx|trīcis, f.|die Marktschreierin, Herumstreicherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|circumspectatrix|circumspectātrix|cīrcūmspēctātrīx|5|cīrcūmspēctātrīc||īcis, f.
+LS|circumspectatrix|circumspectātrix|īcis|f.||she who looks, spies around, a spy|circumspectatrix|0
+GG|circumspectatrix|circumspectātrix|īcis|f.||celle qui regarde autour, qui espionne|circumspectatrix|
+GJ|circumspectatrix|circumspectatrix|īcis, f.|qui regarde autour d'elle, qui épie.
+Ge|circumspectatrix|circumspectātrīx|trīcis, f.|die überall umherspäht, die Umherspäherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cistellatrix|cistellātrix|cīstēllātrīx|5|cīstēllātrīc||īcis, f.
+LS|cistellatrix|cistellātrix|īcis|f.||she who has charge of the money-box|cistellatrix|0
+GG|cistellatrix|cistellātrix|īcis|f.||gardienne des coffrets|cistellatrix|
+GJ|cistellatrix|cistellātrix|īcis, f. [cistella]|gardienne des corbeilles (une esclave chargée de garder la corbeille des objets de toilette).
+Ge|cistellatrix|cistellātrīx|īcis, f.|die Schmuckkästchen- Bewahrerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|clacendix|clācendix|clācēndīx|5|clācēndīc||īcis, f.
+LS|clacendix|clacendix||||a kind of shell-fish;|clacendix|0
+GG|clacendix|clācendix|īcis|f.|S.|sorte de coquillage|clacendix|clācendix
+GJ|clacendix|clacendix|ou clazendix, īcis, f.|sorte de coquillage.
+Ge|clacendix|clacendix|icis, f.|Art Muschel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|claxendix|claxendix|clāxēndīx|5|clāxēndīc||īcis, f.
+LS|claxendix|claxendix||||a kind of shell-fish;|clacendix|v. clacendix.
+GG|claxendix|claxendix|īcis|f.|S.|sorte de coquillage|clacendix|claxendix
+GJ|claxendix|claxendix||c. clacendix.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coactrix|cŏāctrīx|cŏāctrīx|5|cŏāctrīc||īcis, f.
+LS|
+GG|coactrix|cŏactrix|īcis|f.||celle qui force, contraint|coactrix|
+GJ|
+Ge|coactrix|coāctrīx|trīcis, f.|die Antreiberin, Nötigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coelispex|Coelĭspex|Cōelĭspēx|5|Cōelĭspĭc||ĭcis, m.
+LS|Coelispex|Coelĭspex|ĭcis|m.||looking towards the C&oelig;lian Hill, a place at Rome|Caelispex|(
+GG|
+GJ|Coelispex|Coelispex|Apollo, m.|Apollon qui regarde le mont Célius.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cognitrix|cōgnĭtrīx|cōgnĭtrīx|5|cōgnĭtrīc||īcis, f.
+LS|
+GG|cognitrix|cognĭtrix|īcis|f.||celle qui connaît|cognitrix|
+GJ|
+Ge|cognitrix|cōgnitrïx|īcis, f.|die Erkennerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cohabitatrix|cŏhăbĭtātrīx|cŏhăbĭtātrīx|5|cŏhăbĭtātrīc||īcis, f.
+LS|
+GG|cohabitatrix|cŏhăbĭtātrix|īcis|f.||compagne de logis|cohabitatrix|
+GJ|cohabitatrix|cŏhăbĭtātrix|īcis, f.|Aug. compagne de logis.
+Ge|cohabitatrix|cohabitātrīx|trīcis, f.|die Zusammenwohnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coix|cŏix|cŏīx|5|cŏĭc||ĭcis, f.
+LS|coix|cŏix|ĭcis|f.||a kind of Ethiopian palm|coix|0
+GG|coix|cŏix|ĭcis|f.||espèce de palmier d'Éthiopie|coix|
+GJ|coix|cŏix|cŏĭcis, f.|coïx, un palmier d'Ethiopie.
+Ge|coix|coïx|icis, f.|Sagopalme
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|commemoratrix|commĕmŏrātrix|cōmmĕmŏrātrīx|5|cōmmĕmŏrātrīc||īcis, f.
+LS|
+GG|commemoratrix|commĕmŏrātrix|īcis|f.||celle qui rappelle|commemoratrix|
+GJ|commemoratrix|commemoratrix|īcis, f.|celle qui rappelle le souvenir de, qui fait ressouvenir.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|commendatrix|commendātrix|cōmmēndātrīx|5|cōmmēndātrīc||īcis, f.
+LS|commendatrix|commendātrix|īcis|f.||that which commends|commendatrix|0
+GG|commendatrix|commendātrix|īcis|f.||celle qui recommande|commendatrix|
+GJ|commendatrix|commendatrix|īcis, f.|celle qui recommande.
+Ge|commendatrix|commendātrīx|trīcis, f.|die Empfehlerin
+FG|commendatrix|commendatrix icis féminin (commendator), celle qui recommande.
+Lw|commendatrix|commendātrīx|īcis|f||that which commends||||commendatrix
+YO|
+PO|
+WW||||
+|commixtrix|commixtrīx|cōmmīxtrīx|5|cōmmīxtrīc||īcis, f.
+LS|
+GG|commixtrix|commixtrix|īcis|||celle qui mêle|commixtrix|
+GJ|commixtrix|commixtrix|icis, f.|celle qui mélange, celle qui mêle.
+Ge|commixtrix|commixtrīx|trīcis, f.|die Vermischerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|competitrix|compĕtītrix|cōmpĕtītrīx|5|cōmpĕtītrīc||īcis, f.
+LS|competitrix|compĕtītrix|īcis|f.||a female competitor|competitrix|0
+GG|competitrix|compĕtītrix|īcis|f.||concurrente, celle qui brigue en même temps|competitrix|
+GJ|competitrix|compĕtītrix|īcis, f. [competitor]|concurrente, celle qui brigue en même temps.
+Ge|competitrix|competītrīx|trīcis, f.|Mitbewerberin, Konkurrentin
+FG|competitrix|competitrix icis féminin (competitor), concurrente, celle qui brigue en même temps.
+Lw|competitrix|competītrīx|īcis|f||a female competitor, a display of games by a rival candidate||||competitrix
+YO|
+PO|
+WW||||
+|conciliatrix|concĭlĭātrix|cōncĭlĭātrīx|5|cōncĭlĭātrīc||īcis, f.
+LS|conciliatrix|concĭlĭātrix|īcis|f.||that which occasions, produces, procures|conciliatrix|0
+GG|conciliatrix|concĭlĭātrix|īcis|f.||qui gagne les bonnes grâces / entremetteuse|conciliatrix|
+GJ|conciliatrix|concĭlĭatrix|īcis, f.|- 1 - celle qui réunit, celle qui rapproche, médiatrice. - 2 - celle qui séduit, celle qui gagne, entremetteuse.
+Ge|conciliatrix|conciliātrīx|īcis, f.|die Werberin, Kupplerin, Unterhändlerin - die Vermittlerin, Fürsprecherin
+FG|conciliatrix|conciliatrix icis féminin (conciliator),
+Lw|conciliatrix|conciliātrīx|īcis|f||one who mediates, a promoter, a mediatrix, procuress||||conciliatrix
+YO|
+PO|
+WW||||
+|concitatrix|concĭtātrix|cōncĭtātrīx|5|cōncĭtātrīc||īcis, f.
+LS|concitatrix|concĭtātrix|īcis|f.|adj.|that which excites, stirs up|concitatrix|0
+GG|concitatrix|concĭtātrix|īcis|f.||celle qui excite|concitatrix|
+GJ|concitatrix|concitatrix|īcis, f.|celle qui excite.
+Ge|concitatrix|concitātrīx|trīcis, f.|die Erregerin, erregend
+FG|concitatrix|concitatrix icis féminin (concitator), celle qui excite.
+Lw|
+YO|
+PO|
+WW||concitatrix, concitatricis||
+|conditrix|condī̆trix|cōndī̆trīx|5|cōndī̆trīc||īcis, f.
+LS|conditrix|condī̆trix|īcis|f.||She who lays to rest|conditrix|0
+GG|conditrix|condĭtrix|īcis|f.||fondatrice / organisatrice|conditrix|
+GJ|conditrix|condĭtrix|icis, f.|celle qui fait qqch, auteur.
+Ge|conditrix|conditrīx|trīcis, f.|die Gründerin, Stifterin - die Beilegerin, Zuruheführerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|conductrix|conductrix|cōndūctrīx|5|cōndūctrīc||īcis, f.
+LS|conductrix|conductrix|īcis|f.||she who hires, rents a thing|conductrix|0
+GG|conductrix|conductrix|īcis|f.||conductor), celle qui loue, qui prend à ferme|conductrix|
+GJ|conductrix|conductrix|icis, f.|celle qui loue, celle qui prend à bail.
+Ge|conductrix|conductrīx|trīcis, f.|die Mieterin, Pachterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|confectrix|confectrix|cōnfēctrīx|5|cōnfēctrīc||īcis, f.
+LS|confectrix|confectrix|īcis|f.||that which destroys, a destroyer|confectrix|0
+GG|confectrix|confectrix|īcis|f.||fabricante [au fig.] / destructrice|confectrix|
+GJ|confectrix|confectrix|icis, f.|celle qui détruit, destructrice.
+Ge|confectrix|cōnfectrīx|trīcis, f.|die Bereiterin - die Zerstörerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|confirmatrix|confirmātrix|cōnfīrmātrīx|5|cōnfīrmātrīc||īcis, f.
+LS|confirmatrix|confirmātrix|īcis|f.||she who establishes, confirms a thing|confirmatrix|0
+GG|confirmatrix|confirmātrix|īcis|f.||celle qui consolide|confirmatrix|
+GJ|confirmatrix|confirmatrix|īcis, f.|celle qui consolide.
+Ge|confirmatrix|cōnfīrmātrīx|trīcis, f.|die Bestätigerin, Gewährleisterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|conflictatrix|conflictātrix|cōnflīctātrīx|5|cōnflīctātrīc||īcis, f.
+LS|conflictatrix|conflictātrix|īcis|f.||she who afflicts|conflictatrix|0
+GG|conflictatrix|conflictātrix|īcis|f.||persécutrice|conflictatrix|
+GJ|conflictatrix|conflictatrix|īcis, f.|celle qui maltraite, persécutrice.
+Ge|conflictatrix|cōnflīctātrīx|trīcis, f.|die Peinigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|conjectrix|conjectrix|cōnjēctrīx|5|cōnjēctrīc||īcis, f.
+LS|conjectrix|conjectrix|īcis|f.||a female soothsayer, interpreter of dreams|conjectrix|0
+GG|conjectrix|conjectrix|trīcis|f.||devineresse|conjectrix|
+GJ|conjectrix|conjectrix|īcis, f.|Plaut. devineresse.
+Ge|coniectrix|coniectrīx|trīcis, f.|die Traumdeuterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|conjunctrix|conjunctrix|cōnjūnctrīx|5|cōnjūnctrīc||īcis, f.
+LS|conjunctrix|conjunctrix|īcis|f.||that which joins, unites together|conjunctrix|0
+GG|conjunctrix|conjunctrix|īcis|f.||celle qui réunit|conjunctrix|
+GJ|conjunctrix|conjunctrix|īcis, f.|Aug. celle qui réunit.
+Ge|coniunctrix|coniūnctrīx|īcis, f.|die Verbinderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consecratrix|consē̆crātrix|cōnsē̆crātrīx|5|cōnsē̆crātrīc||īcis, f.
+LS|consecratrix|consē̆crātrix|īcis|f.||she who consecrates, makes sacred|consecratrix|0
+GG|consecratrix|consĕcrātrix|īcis|f.||celle qui divinise|consecratrix|
+GJ|consecratrix|consecratrix|īcis, f.|celle qui divinise, celle qui met au rang des dieux.
+Ge|consecratrix|cōnsecrātrīx|trīcis, f.|die Heiligerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consectatrix|consectātrix|cōnsēctātrīx|5|cōnsēctātrīc||īcis, f.
+LS|consectatrix|consectātrix|īcis|f.||she who eagerly pursues, an adherent, friend|consectatrix|0
+GG|consectatrix|consectātrix|īcis|f.||celle qui poursuit|consectatrix|
+GJ|consectatrix|consectatrix|īcis, f.|celle qui poursuit, celle qui recherche.
+Ge|consectatrix|cōnsectātrīx|trīcis, f.|die eifrige Anhängerin, Freundin
+FG|consectatrix|consectatrix icis féminin, celle qui poursuit.
+Lw|consectatrix|cōnsectātrīx|īcis|f||an eager pursuer, adherent||||consectatrix
+YO|
+PO|
+WW||||
+|conservatrix|conservātrix|cōnsērvātrīx|5|cōnsērvātrīc||īcis, f.
+LS|conservatrix|conservātrix|īcis|f.||she who preserves, defends|conservatrix|0
+GG|conservatrix|conservātrix|īcis|f.||celle qui conserve, qui sauve / épithète de Junon|conservatrix|
+GJ|conservatrix|conservatrix|īcis, f.|celle qui conserve, celle qui sauve.
+Ge|conservatrix|cōnservātrīx|trīcis, f.|die Erhalterin, Bewahrerin
+FG|conservatrix|conservatrix icis féminin (conservator), celle qui conserve, qui sauve.
+Lw|
+YO|
+PO|
+WW||||
+|consolatrix|cōnsōlātrīx|cōnsōlātrīx|5|cōnsōlātrīc||īcis, f.
+LS|
+GG|consolatrix|consōlātrix|īcis|f.||consolatrice|consolatrix|
+GJ|consolatrix|consōlātrix|īcis, f. [consolor]|consolatrice.
+Ge|consolatrix|cōnsōlātrīx|trīcis, f.|die Trösterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consultrix|consultrix|cōnsūltrīx|5|cōnsūltrīc||īcis, f.
+LS|consultrix|consultrix|īcis|f.||she who has a care for, provides|consultrix|0
+GG|consultrix|consultrix|īcis|f.||celle qui pourvoit|consultrix|
+GJ|consultrix|consultrix|icis, f.|qui pourvoit à.
+Ge|consultrix|cōnsultrīx|īcis, f.|die Ratschafferin, Fürsorgerin
+FG|consultrix|consultrix icis féminin, celle qui pourvoit.
+Lw|consultrix|cōnsultrīx|īcis|f||she who has a care for, a provider||||consultrix
+YO|
+PO|
+WW||||
+|consummatrix|cōnsummātrīx|cōnsūmmātrīx|5|cōnsūmmātrīc||īcis, f.
+LS|
+GG|consummatrix|consummātrix|īcis|f.||celle qui consomme, accomplit|consummatrix|
+GJ|
+Ge|consummatrix|cōnsummātrīx|īcis, f.|die Vollenderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consumptrix|consumptrix|cōnsūmptrīx|5|cōnsūmptrīc||īcis, f.
+LS|consumptrix|consumptrix|īcis|f.||she who wastes, consumes|consumptrix|0
+GG|consumptrix|consumptrix|īcis|f.||destructrice|consumptrix|
+GJ|consumptrix|consumptrix|īcis, f.|destructrice.
+Ge|consumptrix|cōnsūmptrīx|trīcis, f.|die Verzehrerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|consupplicatrix|consupplĭcātrix|cōnsūpplĭcātrīx|5|cōnsūpplĭcātrīc||īcis, f.
+LS|consupplicatrix|consupplĭcātrix|īcis|f.||she who supplicates with|consupplicatrix|0
+GG|consupplicatrix|consupplĭcātrix|īcis|f.||qui supplie avec|consupplicatrix|
+GJ|consupplicatrix|consupplĭcātrix|īcis, f.|qui supplie avec.
+Ge|consupplicatrix|cōnsupplicātrīx|trīcis, f.|die Mitflehende
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|contemplatrix|contemplātrix|cōntēmplātrīx|5|cōntēmplātrīc||īcis, f.
+LS|contemplatrix|contemplātrix|īcis|f.||she who observes, contemplates|contemplatrix|0
+GG|contemplatrix|contemplātrix|īcis|f.||celle qui considère avec attention, observatrice|contemplatrix|
+GJ|contemplatrix|contemplātrix|īcis, f.|celle qui considère avec attention, observatrice.
+Ge|contemplatrix|contemplātrīx|īcis, f.|die Beobachterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|contemptrix|contemptrix|cōntēmptrīx|5|cōntēmptrīc||īcis, f.
+LS|contemptrix|contemptrix|īcis|f.||she who puts small value upon a thing, a despiser, contemner|contemptrix|(
+GG|contemptrix|contemptrix|īcis|f.||celle qui méprise|contemptrix|
+GJ|contemptrix|contemptrix|īcis, f.|celle qui méprise, celle qui brave.
+Ge|contemptrix|contemptrīx|īcis, f.|die Geringschätzerin - die Verächterin
+FG|contemptrix|contemptrix icis féminin (contemptor), celle qui méprise.
+Lw|contemptrix|contemptrīx (-temt-)|īcis|f||she who disregards, a despiser||||contemptrix
+YO|
+PO|
+WW||||
+|contemtrix|contemtrix|cōntēmtrīx|5|cōntēmtrīc||īcis, f.
+LS|contemtrix|contemtrix|īcis|f.||she who puts small value upon a thing, a despiser, contemner|contemptrix|(
+GG|
+GJ|contemtrix|contemtrix|īcis, f.|celle qui méprise, celle qui brave.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coopifex|cŏŏpĭfex|cŏŏpĭfēx|5|cŏŏpĭfĭc||ĭcis, m.
+LS|
+GG|coopifex|cŏŏpĭfex|ĭcis|m.||cocréateur|coopifex|
+GJ|coopifex|cŏŏpĭfex|ĭcis, m.|cocréateur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|copulatrix|cōpŭlātrix|cōpŭlātrīx|5|cōpŭlātrīc||īcis, f.
+LS|copulatrix|cōpŭlātrix|īcis|f.||she who couples, connects|copulatrix|0
+GG|copulatrix|cōpŭlātrix|īcis|f.||celle qui unit, qui rapproche|copulatrix|
+GJ|copulatrix|cōpŭlātrix|īcis, f.|Aug. celle qui unit, celle qui rapproche.
+Ge|copulatrix|cōpulātrīx|trīcis, f.|die Verbinderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|creatrix|crĕātrix|crĕātrīx|5|crĕātrīc||īcis, f.
+LS|creatrix|crĕātrix|īcis|f.||she who brings forth, produces, a mother|creatrix|0
+GG|creatrix|crĕātrix|īcis|f.||créatrice / mère|creatrix|
+GJ|creatrix|crĕātrix|īcis, f.|- 1 - créatrice. - 2 - mère.
+Ge|creatrix|creātrīx|trīcis, f.|die Hervorbringerin, Urheberin, Mutter
+FG|creatrix|creatrix icis féminin (creator), créatrice ; mère.
+Lw|creatrix|creātrīx|īcis|f||she who produces, a mother||||creatrix
+YO|
+PO|creatrix|crea_trix, crea_tri_cis : f
+WW||||
+|creditrix|crēdĭtrix|crēdĭtrīx|5|crēdĭtrīc||īcis, f.
+LS|creditrix|crēdĭtrix|īcis|f.||a female creditor|creditrix|0
+GG|creditrix|crēdĭtrix|īcis|f.||créancière|creditrix|
+GJ|creditrix|crēdĭtrix|ĭcis, f.|créancière.
+Ge|creditrix|crēditrīx|trīcis, f.|die Gläubigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|criminatrix|crīmĭnātrix|crīmĭnātrīx|5|crīmĭnātrīc||īcis, f.
+LS|criminatrix|crīmĭnātrix|īcis|f.||a female accuser, calumniator|criminatrix|0
+GG|criminatrix|crīmĭnātrix|īcis|f.||accusatrice|criminatrix|
+GJ|criminatrix|crīmĭnātrix|īcis, f.|accusatrice.
+Ge|criminatrix|crīminātrīx|trīcis, f.|die Beschuldigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|culix|cŭlix|cŭlīx|5|cŭlĭc||ĭcis, m.
+LS|culix|culix|ĭcis|m.||an unknown plant|culix|0
+GG|culix|cŭlix||||c. culex  2.|culix|
+GJ|culix|cŭlix|ĭcis, m. (c. culex)|herbe à punaises.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cultrix|cultrix|cūltrīx|5|cūltrīc||īcis, f.
+LS|cultrix|cultrix|īcis|f.||she who labors at, cares for a thing|cultrix|0
+GG|cultrix|cultrix|īcis|f.||celle qui cultive / celle qui habite / celle qui honore, adore|cultrix|
+GJ|cultrix|cultrix|ĭcis, f. [cultor]|1 - celle qui cultive, qui entretient. 2 - celle qui honore, qui adore, adoratrice. 3 - celle qui habite.
+Ge|cultrix|cultrīx|trīcis, f.|die Pflegerin - die Bewohnerin - die Verehrerin
+FG|cultrix|cultrix icis féminin (cultor), celle qui cultive ; celle qui habite.
+Lw|cultrix|cultrīx|īcis|f||a cultivator, A female inhabitant, a worshipper||||cultrix
+YO|
+PO|cultrix|cultrix, cultri_cis : f
+WW||||
+|cunctatrix|cunctātrix|cūnctātrīx|5|cūnctātrīc||īcis, f.
+LS|cunctatrix|cunctātrix|icis|f.||one who hesitates, acts deliberately|cunctatrix|0
+GG|cunctatrix|cunctātrix|īcis|f.||celle qui temporise|cunctatrix|
+GJ|cunctatrix|cunctātrix|īcis, f. [cunctor]|Ambr. celle qui temporise.
+Ge|cunctatrix|cunctātrīx|trīcis, f.|die Zauderin, Zögerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|curatrix|cūrātrix|cūrātrīx|5|cūrātrĭc||ĭcis, f.
+LS|curatrix|cūrātrix|ĭcis|f.||a female guardian|curatrix|0
+GG|curatrix|cūrātrix|īcis|f.||de curator|curatrix|
+GJ|curatrix|curatrix|īcis, f.|celle qui a soin de.
+Ge|curatrix|cūrātrīx|trīcis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cursrix|cursrix|cūrsrīx|5|cūrsrīc||īcis, f.
+LS|
+GG|cursrix|cursrix|īcis|f.||celle qui court|cursrix|
+GJ|cursrix|cursrix|īcis, f.|celle qui court.
+Ge|cursrix|curs(t)rix|icis, f.|die Läuferin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|damiatrix|dāmĭātrix|dāmĭātrīx|5|dāmĭātrīc||īcis, f.
+LS|
+GG|damiatrix|dāmĭātrix|īcis|f.||prêtresse de Cybèle|damiatrix|
+GJ|damiatrix|damiatrix|īcis, f.|Fest. prêtresse de Cybèle.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dapifex|dăpĭfex|dăpĭfēx|5|dăpĭfĭc||ĭcis, m.
+LS|dapifex|dăpĭfex|icis|m.||a servant who prepared food|dapifex|0
+GG|dapifex|dăpĭfex|ĭcis|m.||cuisinier|dapifex|
+GJ|dapifex|dapĭfex|ĭcis, m. (daps + facio]|Inscr. cuisinier (de la cour impériale).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|datrix|datrīx|dā̆trīx|5|dā̆trīc||īcis, f.
+LS|
+GG|datrix|datrix|īcis|f.||celle qui donne|datrix|
+GJ|
+Ge|datrix|datrīx|īcis, f.|die Geberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|debellatrix|dēbellātrix|dēbēllātrīx|5|dēbēllātrīc||īcis, f.
+LS|debellatrix|dēbellātrix|īcis|f.||a conqueress, she that conquers|debellatrix|0
+GG|debellatrix|dēbellātrix|īcis|f.||celle qui dompte, qui soumet|debellatrix|
+GJ|debellatrix|dēbellātrix|īcis, f.|victorieuse, qui dompte, qui soumet.
+Ge|debellatrix|dēbellātrīx|trīcis, f.|die Besiegerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|debitrix|dēbĭtrix|dēbĭtrīx|5|dēbĭtrīc||īcis, f.
+LS|debitrix|dēbĭtrix|īcis|f.||a female debtor|debitrix|0
+GG|debitrix|dēbĭtrix|īcis|f.||débitrice|debitrix|
+GJ|debitrix|dēbĭtrix|īcis, f.|débitrice.
+Ge|debitrix|dēbitrīx|trīcis, f.|die Schuldnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|deceptrix|dēceptrix|dēcēptrīx|5|dēcēptrīc||īcis, f.
+LS|deceptrix|dēceptrix|īcis|f.||she that deceives|deceptrix|0
+GG|deceptrix|dēceptrix|īcis|f.||trompeuse|deceptrix|
+GJ|deceptrix|deceptrix|icis, f.|celle qui trompe, trompeuse.
+Ge|deceptrix|dēceptrīx|trīcis, f.|die Betrügerin, trügerisch
+FG|
+Lw|
+YO|
+PO|
+WW||deceptrix, deceptricis||
+|declamatrix|dēclāmātrix|dēclāmātrīx|5|dēclāmātrīc||īcis, f.
+LS|
+GG|declamatrix|dēclāmātrix|īcis|f.||celle qui déclame|declamatrix|
+GJ|declamatrix|dēclāmātrix|īcis, f.|qui déclame; bavarde.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|defectrix|dēfectrix|dēfēctrīx|5|dēfēctrīc||īcis, f.
+LS|defectrix|dēfectrix|īcis|f.|adj.|defective, imperfect|defectrix|0
+GG|defectrix|dēfectrix|īcis|f.||celle qui est imparfaite, défectueuse|defectrix|
+GJ|defectrix|dēfectrix|icis|défectueuse, imparfaite.
+Ge|defectrix|dēfectrīx|trīcis, f.|mangelhaft, unvollkommen
+FG|
+Lw|
+YO|
+PO|
+WW||defectrix, defectricis||
+|defensatrix|dēfensātrix|dēfēnsātrīx|5|dēfēnsātrīc||īcis, f.
+LS|defensatrix|dēfensātrix|īcis|f.||she who defends|defensatrix|0
+GG|defensatrix|dēfensātrix|īcis|f.||celle qui défend|defensatrix|
+GJ|defensatrix|dēfensatrix|īcis, f.|celle qui défend.
+Ge|defensatrix|dēfēnsātrīx|rīcis, f.|die Verteidigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|defenstrix|dēfenstrix|dēfēnstrīx|5|dēfēnstrīc||īcis, f.
+LS|defenstrix|dēfenstrix|īcis|f.||she who defends|defenstrix|0
+GG|defenstrix|dēfenstrix|īcis|f.||celle qui défend|defenstrix|
+GJ|
+Ge|defenstrix|dēfēnstrīx|strīcis, f.|die Beschützerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|defraudatrix|dēfraudātrix|dēfrāudātrīx|5|dēfrāudātrīc||īcis, f.
+LS|defraudatrix|dēfraudātrix|īcis|f.||she who defrauds|defraudatrix|0
+GG|defraudatrix|dēfraudātrix|īcis|f.||celle qui prive de|defraudatrix|
+GJ|defraudatrix|dēfraudatrix|īcis, f.|trompeuse, celle qui prive de.
+Ge|defraudatrix|dēfraudātrīx|trīcis, f.|die Betrügerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|delenitrix|dēlēnītrīx|dēlēnītrīx|5|dēlēnītrīc||īcis, f.
+LS|
+GG|delenitrix|dēlēnītrix|īcis|f.||charmeuse|delenitrix|
+GJ|
+Ge|delenitrix|dēlēnītrīx||die Gewinnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|deletrix|dēlētrix|dēlētrīx|5|dēlētrīc||īcis, f.
+LS|deletrix|dēlētrix|īcis|f.||she that annihilates, destroys|deletrix|0
+GG|deletrix|dēlētrix|īcis|f.||destructrice|deletrix|
+GJ|deletrix|dēlētrix|icis, f.|destructrice.
+Ge|deletrix|dēlētrīx|trīcis, f.|die Vernichterin
+FG|deletrix|deletrix icis féminin (deleo), destructrice.
+Lw|deletrix|dēlētrīx|īcis|f||a destroyer||||deletrix
+YO|
+PO|
+WW||deletrix, deletricis||
+|demonstratrix|dēmōnstrātrīx|dēmōnstrātrīx|5|dēmōnstrātrīc||īcis, f.
+LS|
+GG|demonstratrix|dēmonstrātrix|īcis|f.||celle qui expose, qui démontre|demonstratrix|
+GJ|demonstratrix|dēmonstratrix|īcis, f.|Hier. celle qui expose, qui démontre.
+Ge|demonstratrix|dēmōnstrātrīx|rīcis, f.|die Darlegerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dentex|dentex|dēntēx|5|dēntĭc||ĭcis, m.
+LS|
+GG|dentex|dentex|ĭcis|m.||sorte de poisson de mer, peut-être la scie|dentex|
+GJ|
+Ge|dentex|dentex|ticis, m.|die Zahnbrasse
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dentix|dentix|dēntīx|5|dēntĭc||ĭcis, m.
+LS|dentix|dentix|ĭcis|m.||a sort of sea-fish|dentix|(
+GG|dentix|dentix||||c. dentex|dentix|dentix
+GJ|dentix|dentix||c. dentex.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dentrix|dentrix|dēntrīx|5|dēntrĭc||ĭcis, m.
+LS|dentrix|dentrix|ĭcis|m.||a sort of sea-fish|dentix|(
+GG|dentrix|dentrix||||c. dentex|dentix|dentrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|depopulatrix|dēpŏpŭlātrix|dēpŏpŭlātrīx|5|dēpŏpŭlātrīc||īcis, f.
+LS|depopulatrix|dēpŏpŭlātrix|īcis|f.||she who spoils, destroys, med.|depopulatrix|0
+GG|depopulatrix|dēpŏpŭlātrix|īcis|f.||celle qui ravage|depopulatrix|
+GJ|depopulatrix|depopulatrix|īcis, f.|celle qui ravage.
+Ge|depopulatrix|dēpopulātrīx|trīcis, f.|die Verheererin, Verwüsterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|deprecatrix|dēprĕcātrix|dēprĕcātrīx|5|dēprĕcātrīc||īcis, f.
+LS|deprecatrix|dēprĕcātrix|īcis|f.||a female intercessor|deprecatrix|0
+GG|deprecatrix|dēprĕcātrix|īcis|f.||celle qui intercède, médiatrice, avocate|deprecatrix|
+GJ|deprecatrix|deprecatrix|īcis, f.|celle qui intercède, médiatrice, avocate.
+Ge|deprecatrix|dēprecātrīx|trīcis, f.|die Fürbitterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|desertrix|dēsertrix|dēsērtrīx|5|dēsērtrīc||īcis, f.
+LS|desertrix|dēsertrix|īcis|f.||she that forsakes, neglects|desertrix|0
+GG|desertrix|dēsertrix|īcis|f.||celle qui abandonne|desertrix|
+GJ|desertrix|dēsertrix|icis, f.|Tert. celle qui abandonne.
+Ge|desertrix|dēsertrīx|trīcis, f.|die Hintansetzerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|despectrix|dēspectrix|dēspēctrīx|5|dēspēctrīc||īcis, f.
+LS|despectrix|dēspectrix|īcis|f.||she that despises, a despiser|despectrix|0
+GG|despectrix|despectrix|īcis|f.||celle qui méprise|despectrix|
+GJ|despectrix|despectrix|īcis, f.|Tert. celle qui méprise.
+Ge|despectrix|dēspectrīx|trīcis, f.|die Verächterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|desultrix|dēsultrix|dēsūltrīx|5|dēsūltrīc||īcis, f.
+LS|desultrix|dēsultrix|īcis|f.|adj.|inconstant|desultrix|0
+GG|desultrix|dēsultrix|īcis|f.||celle qui est légère, inconstante|desultrix|
+GJ|desultrix|dēsultrix|īcis, f.|Tert. celle qui est légère, inconstante, changeante.
+Ge|desultrix|dēsultrīx|trīcis, f.|die Unbeständige
+FG|
+Lw|
+YO|
+PO|
+WW||desultrix, desultricis||
+|devoratrix|dēvŏrātrix|dēvŏrātrīx|5|dēvŏrātrīc||īcis, f.
+LS|devoratrix|dēvŏrātrix|īcis|f.||she that devours|devoratrix|0
+GG|devoratrix|dēvŏrātrix|īcis|f.||celle qui dévore|devoratrix|
+GJ|devoratrix|dēvŏrātrix|īcis, f.|celle qui dévore.
+Ge|devoratrix|dēvorātrīx|īcis, f.|die Verschlingerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|devotrix|dēvōtrix|dēvōtrīx|5|dēvōtrīc||īcis, f.
+LS|devotrix|dēvōtrix|dicitur qui imprecatur||||devotor|et 
+GG|devotrix|dēvōtrix|īcis|f.|S.|celui, celle qui fait des imprécations, qui maudit|devotor|dēvōtrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dictatrix|dictātrix|dīctātrīx|5|dīctātrīc||īcis, f.
+LS|dictatrix|dictātrix|īcis|f.||a dictatress|dictatrix|0
+GG|dictatrix|dictātrix|īcis|f.||souveraine absolue [fig.]|dictatrix|
+GJ|dictatrix|dictatrix|īcis, f.|Plaut. souveraine absolue (au fig.).
+Ge|dictatrix|dictātrīx|trīcis, f.|die Diktatorin - Gebieterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dijudicatrix|dījūdĭcātrix|dījūdĭcātrīx|5|dījūdĭcātrīc||īcis, f.
+LS|dijudicatrix|dījūdĭcātrix|īcis|f.||she that judges, decides|dijudicatrix|0
+GG|dijudicatrix|dījūdĭcātrix|īcis|f.||celle qui discerne|dijudicatrix|
+GJ|dijudicatrix|dījūdĭcātrix|īcis, f.|celle qui discerne.
+Ge|diiudicatrix|dīiūdicātrīx|trīcis, f.|die Entscheiderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|disceptatrix|disceptātrix|dīscēptātrīx|5|dīscēptātrīc||īcis, f.
+LS|disceptatrix|disceptātrix|īcis|f.||a female umpire, arbitrator, judge|disceptatrix|0
+GG|disceptatrix|disceptātrix|īcis|f.||celle qui décide, arbitre, juge|disceptatrix|
+GJ|disceptatrix|disceptatrix|īcis, f.|arbitre, juge (femme).
+Ge|disceptatrix|disceptātrīx|trīcis, f.|die Prüferin, Entscheiderin, Schiedsrichterin
+FG|disceptatrix|disceptatrix icis féminin (disceptator), celle qui décide, arbitre, juge.
+Lw|disceptatrix|disceptātrīx|īcis|f||an arbitrator||||disceptatrix
+YO|
+PO|
+WW||||
+|discriminatrix|discrīmĭnātrix|dīscrīmĭnātrīx|5|dīscrīmĭnātrīc||īcis, f.
+LS|discriminatrix|discrīmĭnātrix|īcis|f.||she who distinguishes|discriminatrix|0
+GG|discriminatrix|discrīmĭnātrix|īcis|f.||celle qui discerne|discriminatrix|
+GJ|discriminatrix|discrīmĭnātrix|īcis, f.|Nazar. celle qui discerne.
+Ge|discriminatrix|discrīminātrīx|trīcis, f.|die Unterscheiderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dispensatrix|dispensātrix|dīspēnsātrīx|5|dīspēnsātrīc||īcis, f.
+LS|dispensatrix|dispensātrix|īcis|f.||she that dispenses, a female steward|dispensatrix|0
+GG|dispensatrix|dispensātrix|īcis|f.||celle qui tient les comptes, intendante, femme de charge|dispensatrix|
+GJ|dispensatrix|dispensatrix|īcis, f.|celle qui tient les comptes, intendante.
+Ge|dispensatrix|dispēnsātrīx|trīcis, f.|die Hausverwalterin, Wirtschafterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dispositrix|dispŏsitrīx|dīspŏsī̆trīx|5|dīspŏsī̆trīc||īcis, f.
+LS|
+GG|dispositrix|dispŏsitrix|īcis|f.||ordonnatrice, intendante|dispositrix|
+GJ|
+Ge|dispositrix|dispositrīx|īcis, f.|die Ordnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|disputatrix|dispŭtātrix|dīspŭtātrīx|5|dīspŭtātrīc||īcis, f.
+LS|disputatrix|dispŭtātrix|īcis|f.||a female disputant, one given to disputation, the art of disputing|disputatrix|0
+GG|disputatrix|dispŭtātrix|īcis|f.||celle qui argumente, qui discute / subst. f., la dialectique|disputatrix|
+GJ|disputatrix|disputatrix|īcis, f.|- 1 - adj. - celle qui discute, celle qui argumente. - 2 - subst. fém. - la dialectique.
+Ge|disputatrix|disputātrīx|trīcis, f.|im Disputieren bestehend - die Disputierkunst, Dialektik
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dissipatrix|dissĭpātrix|dīssĭpātrīx|5|dīssĭpātrīc||īcis, f.
+LS|dissipatrix|dissĭpātrix|īcis|f.||she who scatters, destroys|dissipatrix|0
+GG|dissipatrix|dissĭpātrix|īcis|f.||celle qui détruit|dissipatrix|
+GJ|dissipatrix|dissipatrix|īcis, f.|celle qui détruit.
+Ge|dissipatrix|dissipātrīx|trīcis, f.|die Zerstreuerin = Vernichterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dissolutrix|dissŏlūtrix|dīssŏlūtrīx|5|dīssŏlūtrīc||īcis, f.
+LS|dissolutrix|dissŏlūtrix|īcis|f.||she who destroys, a destroyer|dissolutrix|0
+GG|dissolutrix|dissŏlūtrix|īcis|f.||celle qui détruit|dissolutrix|
+GJ|dissolutrix|dissolutrix|icis, f.|celle qui détruit, qui dissout.
+Ge|dissolutrix|dissolūtrīx|trīcis, f.|die Auflöserin, Zerstörerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|distributrix|distrĭbūtrix|dīstrĭbūtrīx|5|dīstrĭbūtrīc||īcis, f.
+LS|distributrix|distrĭbūtrix|īcis|f.||she who apportions, distributes|distributrix|0
+GG|distributrix|distrĭbūtrix|īcis|f.||celle qui dispense|distributrix|
+GJ|distributrix|distributrix|icis, f.|celle qui dispense.
+Ge|distributrix|distribūtrīx|trīcis, f.|die Verteilerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|divinatrix|dīvīnātrix|dīvīnātrīx|5|dīvīnātrīc||īcis, f.
+LS|divinatrix|dīvīnātrix|īcis|f.||she who, that which divines; prophetic, divining.|divinatrix|0
+GG|divinatrix|dīvīnātrix|īcis|f.||devineresse|divinatrix|
+GJ|divinatrix|dīvīnatrix|īcis, f.|devineresse.
+Ge|divinatrix|dīvīnātrix|trīcis, f.|die Weissagerin, weissagerisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|doctrix|doctrix|dōctrīx|5|dōctrīc||īcis, f.
+LS|doctrix|doctrix|īcis|f.||she who instructs, an instructress, teacher|doctrix|0
+GG|doctrix|doctrix|īcis|f.||celle qui enseigne, maîtresse|doctrix|
+GJ|doctrix|doctrix|icis, f.|Prisc. Hier. celle qui enseigne, maîtresse.
+Ge|doctrix|doctrīx|trīcis, f.|die Lehrerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dominatrix|dŏmĭnātrix|dŏmĭnātrīx|5|dŏmĭnātrīc||īcis, f.
+LS|dominatrix|dŏmĭnātrix|īcis|f.||a female ruler, mistress|dominatrix|0
+GG|dominatrix|dŏmĭnātrix|īcis|f.||maîtresse, souveraine|dominatrix|
+GJ|dominatrix|dŏmĭnātrix|īcis, f. [dominator]|maîtresse, souveraine.
+Ge|dominatrix|dominātrix|trīcis, f.|die Beherrscherin, Gebieterin
+FG|dominatrix|dominatrix icis féminin (dominor), maîtresse, souveraine.
+Lw|dominatrix|dominātrīx|īcis|f||a female ruler, mistress||||dominatrix
+YO|
+PO|
+WW||||
+|domitrix|dŏmĭtrix|dŏmĭtrīx|5|dŏmĭtrīc||īcis, f.
+LS|domitrix|dŏmĭtrix|īcis|f.||she who tames, subdues|domitrix|0
+GG|domitrix|dŏmĭtrix|īcis|f.||celle qui dompte [pr. et fig.]|domitrix|
+GJ|domitrix|dŏmĭtrix|īcis, f.|celle qui dompte (au pr. et au fig).
+Ge|domitrix|domitrīx|trīcis, f.|die Bezähmerin, Bändigerin
+FG|domitrix|domitrix icis féminin, celle qui dompte.
+Lw|domitrix|domitrīx|īcis|f||a tamer, subduer||||domitrix
+YO|
+PO|
+WW||||
+|donatrix|dōnātrix|dōnātrīx|5|dōnātrīc||īcis, f.
+LS|donatrix|dōnātrix|īcis|f.||she who gives, a female donor|donatrix|0
+GG|donatrix|dōnātrix|īcis|f.||celle qui donne, donatrice|donatrix|
+GJ|donatrix|dōnatrix|īcis, f.|donatrice.
+Ge|donatrix|dōnātrīx|trīcis, f.|die Schenkerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ducatrix|dŭcātrix|dŭcātrīx|5|dŭcātrīc||īcis, f.
+LS|ducatrix|dŭcātrix|īcis|f.||a female leader|ducatrix|0
+GG|ducatrix|dŭcātrix|īcis|f.||conductrice|ducatrix|
+GJ|ducatrix|ducatrix|īcis, f.|conductrice.
+Ge|ducatrix|ducātrīx|trīcis, f.|die Anführerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ductrix|ductrix|dūctrīx|5|dūctrīc||īcis, f.
+LS|ductrix|ductrix|īcis|f.||a female chief, a general|ductrix|0
+GG|ductrix|ductrix|īcis|f.||celle qui conduit, qui commande|ductrix|
+GJ|
+Ge|ductrix|ductrīx|trīcis, f.|die Anführerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duratrix|dūrātrix|dūrātrīx|5|dūrātrīc||īcis, f.
+LS|duratrix|dūrātrix|īcis||adj.|f., that renders durable|duratrix|0
+GG|duratrix|dūrātrix|īcis|f.||celle qui affermit|duratrix|
+GJ|duratrix|duratrix|īcis, f.|celle qui affermit.
+Ge|duratrix|dūrātrīx|trīcis, f.|dauerhaft machend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|educatrix|ēdŭcātrix|ēdŭcātrīx|5|ēdŭcātrīc||īcis, f.
+LS|educatrix|ēdŭcātrix|īcis|f.||She who brings up, a nurse, no.|educatrix|0
+GG|educatrix|ēdŭcātrix|īcis|f.||celle qui nourrit, qui élève, nourrice, mère|educatrix|
+GJ|educatrix|ēdŭcātrix|īcis, f.|celle qui nourrit, qui élève, nourrice, mère.
+Ge|Educatrix|Educātrīx|trīcis, f.|die Erzieherin, Ernährerin
+FG|educatrix|educatrix icis féminin (educator), celle qui nourrit, qui élève, nourrice, mère.
+Lw|educatrix|ēducātrīx|īcis|f||a nurse||||educatrix
+YO|
+PO|
+WW||||
+|effectrix|effectrix|ēffēctrīx|5|ēffēctrīc||īcis, f.
+LS|effectrix|effectrix|īcis|f.||she who effects, produces, causes;|effectrix|0
+GG|effectrix|effectrix|īcis|f.||celle qui fait, auteur de, cause|effectrix|
+GJ|effectrix|effectrix|icis, f.|celle qui fait, qui est la cause de, auteur de.
+Ge|effectrix|effectrīx|trīcis, f.|die Urheberin, Schöpferin
+FG|effectrix|effectrix icis féminin (effector), celle qui fait, auteur de, cause.
+Lw|effectrix|effectrīx|īcis|f||a producer, cause||||effectrix
+YO|
+PO|
+WW||||
+|electrix|ēlectrix|ēlēctrīx|5|ēlēctrīc||īcis, f.
+LS|electrix|ēlectrix|īcis|f.||she that selects, chooses|electrix|0
+GG|electrix|ēlectrix|īcis|f.||celle qui choisit|electrix|
+GJ|electrix|electrix|icis, f.|Vulg. celle qui choisit.
+Ge|Electrix|Elēctrīx|trīcis, f.|die Wählerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|elix|ēlix|ēlīx|5|ēlĭc||ĭcis, m.
+LS|elix|ēlix|ĭcis|m.||a channel for diverting a stream|elix|0
+GG|elix|ēlix||||v. elices.|elix|
+GJ|elix|elix|icis|sing. de elices.
+Ge|Elix|Elix|licis, m.|die Wasserfurche - der Abzugsgraben
+FG|
+Lw|elix|ēlix|icis|f||an artificial watercourse, ditch||||elix
+YO|
+PO|
+WW||||
+|elocutrix|ēlŏcūtrix|ēlŏcūtrīx|5|ēlŏcūtrīc||īcis, f.
+LS|elocutrix|elocutrix|īcis|f.||rhetoric|elocutorius|0
+GG|elocutrix|ēlŏcūtrix|īcis|f.||qui parle, qui porte la parole|elocutrix|
+GJ|elocutrix|elocutrix|icis, f.|celle qui parle, celle qui porte la parole.
+Ge|Elocutrix|Elocūtrīx|trīcis, f.|die Redekunst
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|emendatrix|ēmendātrix|ēmēndātrīx|5|ēmēndātrīc||īcis, f.
+LS|emendatrix|ēmendātrix|īcis|f.||she who corrects, amends|emendatrix|0
+GG|emendatrix|ēmendātrix|īcis|f.||celle qui corrige, réformatrice|emendatrix|
+GJ|emendatrix|ēmendātrix|īcis, f.|celle qui corrige, réformatrice.
+Ge|Emendatrix|Emendātrīx|trīcis, f.|die Verbesserin
+FG|emendatrix|emendatrix icis féminin (emendator), réformatrice.
+Lw|emendatrix|ēmendātrīx|īcis|f||she who corrects, a reprover||||emendatrix
+YO|
+PO|
+WW||||
+|emptrix|emptrix|ēmptrīx|5|ēmptrīc||īcis, f.
+LS|emptrix|emptrix|īcis|f.||she who buys|emptrix|(
+GG|emptrix|emptrix|īcis|f.||acheteuse|emptrix|
+GJ|emptrix|emptrix|īcis, f.|Dig. acheteuse.
+Ge|Emptrix|Emptrīx|trīcis, f.|die Käuferin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|emtrix|emtrix|ēmtrīx|5|ēmtrīc||īcis, f.
+LS|emtrix|emtrix|īcis|f.||she who buys|emptrix|(
+GG|
+GJ|emtrix|emtrix|īcis, f.|Dig. acheteuse.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enecatrix|ēnĕcātrix|ēnĕcātrīx|5|ēnĕcātrīc||īcis, f.
+LS|enecatrix|ēnĕcātrix|īcis|f.||a murderess|enecatrix|0
+GG|enecatrix|ēnĕcātrix|īcis|f.||celle qui met à mort|enecatrix|
+GJ|enecatrix|ēnĕcātrix|īcis, f.|celle qui met à mort.
+Ge|Enecatrix|Enecātrīx|trīcis, f.|die Töterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enuntiatrix|ēnuntĭātrix|ēnūntĭātrīx|5|ēnūntĭātrīc||īcis, f.
+LS|enuntiatrix|ēnuntĭātrix|īcis|f.||she who enounces, declares|enuntiatrix|(
+GG|enuntiatrix|ēnuntĭātrix|īcis|f.||celle qui énonce, exprime|enuntiatrix|
+GJ|enuntiatrix|ēnuntĭātrix|īcis, f.|qui énonce, qui exprime; qui interprète.
+Ge|Enuntiatrix|Enūntiātrīx|trīcis, f.|die Mitteilerin, Verkündigerin - die Ausdrückerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|erratrix|errātrīx|ērrātrīx|5|ērrātrīc||īcis, f.
+LS|
+GG|erratrix|errātrix|īcis|f.||errante|erratrix|
+GJ|erratrix|erratrix|īcis, f.|Front. celle qui erre.
+Ge|erratrix|errātrīx|trīcis, f.|die Umherirrerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eruditrix|ērŭdītrix|ērŭdītrīx|5|ērŭdītrīc||īcis, f.
+LS|eruditrix|ērŭdītrix|īcis|f.||an instructress|eruditrix|0
+GG|eruditrix|ērŭdītrix|īcis|f.||maîtresse|eruditrix|
+GJ|eruditrix|ērŭdītrix|īcis, f.|Flor. qui enseigne, maîtresse.
+Ge|Eruditrix|Erudītrīx|trīcis, f.|die Unterweiserin, Lehrmeisterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|estrix|estrix|ēstrīx|5|ēstrīc||īcis, f.
+LS|estrix|estrix|īcis|f.||a female glutton, gormandizer|estrix|0
+GG|estrix|estrix|īcis|f.||grande mangeuse|estrix|
+GJ|estrix|estrix|icis, f.|Plaut. grande mangeuse.
+Ge|estrix|estrīx|trīcis, f.|die Esserin, Fresserin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exacerbatrix|exăcerbātrix|ēxăcērbātrīx|5|ēxăcērbātrīc||īcis, f.
+LS|exacerbatrix|exăcerbātrix|īcis|f.||she who exasperates|exacerbatrix|0
+GG|exacerbatrix|exăcerbātrix|īcis|f.||celle qui aigrit|exacerbatrix|
+GJ|exacerbatrix|exăcerbātrix|īcis, f.|celle qui irrite, celle qui aigrit.
+Ge|exacerbatrix|exacerbātrix|trīcis, f.|die Erbittererin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exactrix|exactrix|ēxāctrīx|5|ēxāctrīc||īcis, f.
+LS|exactrix|exactrix|īcis|f.||she who demands|exactrix|0
+GG|exactrix|exactrix|īcis|||celle qui exige|exactrix|
+GJ|exactrix|exactrix|īcis, f.|Aug. celle qui exige.
+Ge|exactrix|exāctrīx|trīcis, f.|die Einforderin, Mahnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|examinatrix|exāmĭnātrix|ēxāmĭnātrīx|5|ēxāmĭnātrīc||īcis, f.
+LS|examinatrix|exāmĭnātrix|īcis|f.||she that tests, tries|examinatrix|0
+GG|examinatrix|exāmĭnātrix|īcis|f.||celle qui met à l'épreuve, qui éprouve|examinatrix|
+GJ|examinatrix|examinatrix|īcis, f.|celle qui éprouve, celle qui met à l'épreuve.
+Ge|examinatrix|exāminātrīx|trīcis, f.|die Prüferin - prüfend, auf die Probe stellend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exasperatrix|exaspĕrātrix|ēxāspĕrātrīx|5|ēxāspĕrātrīc||īcis, f.
+LS|exasperatrix|exaspĕrātrix|īcis|f.||she who irritates, exasperates|exasperatrix|0
+GG|exasperatrix|exaspĕrātrix|īcis|f.||celle qui aigrit, irrite|exasperatrix|
+GJ|exasperatrix|exasperatrix|īcis, f.|celle qui irrite, celle qui se rebelle.
+Ge|exasperatrix|exasperātrīx|trīcis, f.|die Erbittererin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exceptrix|exceptrīx|ēxcēptrīx|5|ēxcēptrīc||īcis, f.
+LS|
+GG|exceptrix|exceptrix|īcis|f.||celle qui fait l'office de greffier|exceptrix|
+GJ|exceptrix|exceptrix|īcis, f.|celle qui fait l'office de greffier.
+Ge|exceptrix|exceptrīx|trīcis, f.|die Nachschreiberin, Protokollführerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|excitatrix|excĭtātrix|ēxcĭtātrīx|5|ēxcĭtātrīc||īcis, f.
+LS|
+GG|excitatrix|excĭtātrix|īcis|f.||celle qui excite, provoque|excitatrix|
+GJ|excitatrix|excĭtātrix|īcis, f.|celle qui excite, celle qui provoque.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|excubitrix|excŭbĭtrīx|ēxcŭbĭtrīx|5|ēxcŭbĭtrīc||īcis, f.
+LS|
+GG|excubitrix|excŭbĭtrix|īcis|f.||celle qui veille|excubitrix|
+GJ|excubitrix|excubitrix|icis, f.|celle qui garde.
+Ge|excubitrix|excubitrīx|trīcis, f.|die Wächterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exercitatrix|exercĭtātrix|ēxērcĭtātrīx|5|ēxērcĭtātrīc||īcis, f.
+LS|exercitatrix|exercĭtātrix|īcis|f.||gymnastics|exercitatrix|0
+GG|exercitatrix|exercĭtātrix|īcis|||la gymnastique|exercitatrix|
+GJ|exercitatrix|exercĭtātrix|īcis, f.|la gymnastique.
+Ge|exercitatrix|exercitātrīx|trīcis, f.|die Gymnastik
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exoratrix|exōrātrix|ēxōrātrīx|5|ēxōrātrīc||īcis, f.
+LS|exoratrix|exōrātrix|īcis|f.||she who obtains by entreaty|exoratrix|0
+GG|exoratrix|exōrātrix|īcis|f.||celle qui fléchit|exoratrix|
+GJ|exoratrix|exoratrix|īcis, f.|celle qui fléchit.
+Ge|exoratrix|exōrātrīx|trīcis, f.|die Erbitterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|expiatrix|expĭātrix|ēxpĭātrīx|5|ēxpĭātrīc||īcis, f.
+LS|expiatrix|expĭātrix|īcis|f.||an atoning, expiating priestess|expiatrix|0
+GG|expiatrix|expĭātrix|īcis|f.||prêtresse qui fait des expiations|expiatrix|
+GJ|expiatrix|expĭātrix|īcis, f.|Fest. prêtresse qui fait des expiations.
+Ge|expiatrix|expiātrīx|trīcis, f.|die Sühnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|explicatrix|explĭcātrix|ēxplĭcātrīx|5|ēxplĭcātrīc||īcis, f.
+LS|explicatrix|explĭcātrix|īcis|f.||she that expounds, explains|explicatrix|0
+GG|explicatrix|explĭcātrix|īcis|f.|S.|celui ou celle qui sait développer, exposer|explicator|explĭcātrix
+GJ|explicatrix|explĭcātrix|īcis, f.|Cic. celle qui sait expliquer, qui interprète.
+Ge|explicatrix|explicātrīx|trīcis, f.|die Entwicklerin
+FG|
+Lw|explicatrix|explicātrīx|īcis|f||she that explains||||explicatrix
+YO|
+PO|
+WW||||
+|exploratrix|explōrātrīx|ēxplōrātrīx|5|ēxplōrātrīc||īcis, f.
+LS|
+GG|exploratrix|explōrātrix|īcis|f.||celle qui recherche, qui explore|exploratrix|
+GJ|exploratrix|explōrātrix|īcis, f.|Cassian. celle qui cherche, qui explore.
+Ge|exploratrix|explōrātrīx|trīcis, f.|die Erforscherin - erforschend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exprobratrix|exprō̆brātrix|ēxprō̆brātrīx|5|ēxprō̆brātrīc||īcis, f.
+LS|exprobratrix|exprō̆brātrix|īcis|f.||she that reproaches, upbraids|exprobratrix|0
+GG|exprobratrix|exprŏbrātrix|īcis|f.|S.|celui ou celle qui fait des reproches|exprobrator|exprŏbrātrix
+GJ|exprobratrix|exprobratrix|īcis, f.|celle qui fait des reproches.
+Ge|exprobratrix|exprobrātrīx|trīcis, f.|die Vorwerferin - vorwerfend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|expugnatrix|expūgnātrīx|ēxpūgnātrīx|5|ēxpūgnātrīc||īcis, f.
+LS|
+GG|expugnatrix|expugnātrix|īcis|||celle qui prend de force|expugnatrix|
+GJ|expugnatrix|expugnatrix|īcis, f.|celle qui prend de force.
+Ge|expugnatrix|expūgnātrīx|trīcis, f.|die Überwinderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|expultrix|expultrix|ēxpūltrīx|5|ēxpūltrīc||īcis, f.
+LS|expultrix|expultrix|īcis|f.||she that drives out, expels|expultrix|0
+GG|expultrix|expultrix|īcis|f.||celle qui chasse|expultrix|
+GJ|expultrix|expultrix|icis, f. (---> expello, expulsi)|celle qui chasse.
+Ge|expultrix|expultrīx|trīcis, f.|die Vertreiberin
+FG|expultrix|expultrix icis féminin (expulsor), celle qui chasse.
+Lw|expultrix|expultrīx|īcis|f||she that expels||||expultrix
+YO|
+PO|
+WW||||
+|expunctrix|expunctrix|ēxpūnctrīx|5|ēxpūnctrīc||īcis, f.
+LS|expunctrix|expunctrix|īcis|f.||she who blots out|expunctrix|0
+GG|expunctrix|expunctrix|īcis|f.||celle qui efface, qui supprime|expunctrix|
+GJ|expunctrix|expunctrix|icis, f.|celle qui efface.
+Ge|expunctrix|expūnctrīx|trīcis, f.|die Tilgerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exsecutrix|exsĕcūtrix|ēxsĕcūtrīx|5|ēxsĕcūtrīc||īcis, f.
+LS|
+GG|exsecutrix|exsĕcūtrix|īcis|f.||celle qui exécute|exsecutrix|
+GJ|exsecutrix|exsĕcūtrix|īcis, f.|celle qui exécute.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|extispex|extispex|ēxtīspēx|5|ēxtīspĭc||ĭcis, m.
+LS|extispex|extispex|ĭcis|m.||one who prophesies by inspecting the entrails of animals, a diviner, soothsayer|extispex|0
+GG|extispex|extispex|ĭcis|m.||haruspice|extispex|
+GJ|extispex|extispex|icis, m. [exta + specio]|haruspice.
+Ge|extispex|extispex|spicis, m.|der Eingeweidebeschauer
+FG|
+Lw|extispex|extispex|icis|m||an observer of entrails, diviner, soothsayer||||extispex
+YO|
+PO|
+WW||||
+|exulceratrix|exulcĕrātrix|ēxūlcĕrātrīx|5|ēxūlcĕrātrīc||īcis, f.
+LS|exulceratrix|exulcĕrātrix|īcis|f.||she who causes soreness, exulceration|exulceratrix|(also 
+GG|exulceratrix|exulcĕrātrix|īcis|f.||celle qui exulcère|exulceratrix|
+GJ|exulceratrix|exulceratrix|īcis, f.|celle qui exulcère.
+Ge|exulceratrix|exulcerātrīx|trīcis, f.|Schwären treibend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fabricatrix|fā̆brĭcātrix|fā̆brĭcātrīx|5|fā̆brĭcātrīc||īcis, f.
+LS|fabricatrix|fā̆brĭcātrix|īcis|f.||she that contrives, devises, produces|fabricatrix|0
+GG|fabricatrix|făbrĭcātrix|īcis|f.||celle qui fabrique|fabricatrix|
+GJ|fabricatrix|făbrĭcātrix|īcis, f.|Lact. celle qui fabrique, celle qui produit.
+Ge|fabricatrix|fabricātrīx|trīcis, f.|die Werkmeisterin - die Urheberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|factrix|factrīx|fāctrīx|5|fāctrīc||īcis, f.
+LS|
+GG|factrix|factrix|īcis|f.||créatrice, plastique [en parl. des arts]|factrix|
+GJ|
+Ge|factrix|factrīx|trīcis, f.|schaffend, bildend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|faeneratrix|faenĕrātrix|fāenĕrātrīx|5|fāenĕrātrīc||īcis, f.
+LS|faeneratrix|faenĕrātrix|īcis|f.||a female money-lender, usurer|faeneratrix|(
+GG|faeneratrix|faenĕrātrix|īcis|f.|S.|usurière|feneratrix|faen-
+GJ|faeneratrix|faeneratrix|īcis, f. [fenus]|celle qui prête à intérêt, usurière.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|famex|fāmex|fāmēx|5|fāmĭc||ĭcis, m.
+LS|famex|famex|ĭcis|m.||a bruise, contusion, N cr.;|famex|0
+GG|famex|fāmex||||v. famix|famex|
+GJ|famex|fāmex|ĭcis, m.|c. famix.
+Ge|famex|fāmex|icis, m.|entstandener Blutunterlauf - eine Blutblase
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|famix|fāmix|fāmīx|5|fāmĭc||ĭcis, f.
+LS|
+GG|famix|fāmix|ĭcis|f.||inus. au nom.), sorte d'abcès|famix|
+GJ|famix|fāmix|icis, f.|Col. sorte d'abcès.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|famulatrix|fămŭlātrix|fămŭlātrīx|5|fămŭlātrīc||īcis, f.
+LS|famulatrix|fămŭlātrix|īcis|f.||that serves; subst., a female servant, handmaid|famulatrix|0
+GG|famulatrix|fămŭlātrix|īcis|f.||celle qui est soumise, servante, esclave|famulatrix|
+GJ|famulatrix|fămŭlatrix|īcis, f.|celle qui est soumise, servante (au fig.), esclave.
+Ge|famulatrix|famulātrīx|trīcis, f.|die Dienerin - dienend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fartrix|fartrīx|fārtrīx|5|fārtrīc||īcis, f.
+LS|
+GG|fartrix|fartrix|īcis|f.||de fartor|fartrix|
+GJ|
+Ge|fartrix|fartrīx|trīcis, f.|die Füllung - das Füllsel - das Inwendige
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fellatrix|fellātrīx|fēllātrīx|5|fēllātrīc||īcis, f.
+LS|
+GG|fellatrix|fellātrix|īcis|f.|S.|celui, celle qui suce|fellator|-trix
+GJ|fellatrix|fellatrix|īcis, f.|Inscr. celle qui suce (sens priapéen; la fellatio était considérée comme activité déshonorante pour celui ou celle qui la pratiquait, mais comme activité normale et naturelle pour le bénéficiaire).
+Ge|fellatrix|fellātrīx|tricis, f.|die Saugerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|feneratrix|fēnĕrātrix|fēnĕrātrīx|5|fēnĕrātrīc||īcis, f.
+LS|feneratrix|fēnĕrātrix|īcis|f.||a female money-lender, usurer|faeneratrix|(
+GG|feneratrix|fēnĕrātrix|īcis|f.|S.|usurière|feneratrix|fēnĕrātrix
+GJ|feneratrix|fēnĕrātrix|īcis, f. [fenus]|celle qui prête à intérêt, usurière.
+Ge|feneratrix|fēnerātrīx|trīcis, f.|die Wuchrerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fictrix|fictrix|fīctrīx|5|fīctrīc||īcis, f.
+LS|fictrix|fictrix|īcis|f.||she that forms, fashions|fictrix|0
+GG|fictrix|fictrix|īcis|f.||celle qui façonne|fictrix|
+GJ|fictrix|fictrix|īcis, f. [factor]|celle qui façonne.
+Ge|fictrix|fictrīx|trīcis, f.|die Bildnerin, Gestalterin
+FG|fictrix|fictrix icis féminin (fictor), celle qui façonne.
+Lw|fictrix|fictrīx|īcis|f||a shaper, fashioner||||fictrix
+YO|
+PO|
+WW||||
+|figuratrix|fĭgūrātrix|fĭgūrātrīx|5|fĭgūrātrīc||īcis, f.
+LS|
+GG|figuratrix|fĭgūrātrix|īcis|f.||celle qui donne une forme à, qui façonne|figuratrix|
+GJ|figuratrix|fĭgūrātrix|īcis, f.|celle qui donne une forme à, qui façonne.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|filex|fĭlex|fĭlēx|5|fĭlĭc||ĭcis, f.
+LS|
+GG|filex|filex|ĭcis|f.||c. filix|filex|
+GJ|filex|fĭlex||c. filix.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|filix|fĭlix|fĭlīx|5|fĭlĭc||ĭcis, f.
+LS|filix|fĭlix|ĭcis|f.||fern|filix|(
+GG|filix|fĭlix|ĭcis|f.|S.|fougère [plante] / [fig.] poils|filix|fĭlix
+GJ|filix|fĭlix|(fĕlix), ĭcis, f.|1 - fougère. 2 - poils (au fig.).
+Ge|filix|filix|licis, f.|Farnkraut
+FG|filix|filix (fel-) icis, féminin, fougère (plante).
+Lw|filix|filix|icis|f||fern||||filix
+YO|
+PO|filix|filix, filicis : f
+WW||||
+|firmatrix|fīrmātrīx|fīrmātrīx|5|fīrmātrīc||īcis, f.
+LS|
+GG|firmatrix|firmātrix|īcis|f.||celle qui affermit|firmatrix|
+GJ|firmatrix|firmātrix|īcis, f.|celle qui affermit.
+Ge|firmatrix|fīrmātrīx|trīcis, f.|die Befestigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|flagitatrix|flāgĭtātrix|flāgĭtātrīx|5|flāgĭtātrīc||īcis, f.
+LS|flagitatrix|flāgĭtātrix|īcis|f.||she that importunately demands, duns|flagitatrix|0
+GG|flagitatrix|flāgĭtātrix|īcis|f.||du précéd.|flagitatrix|
+GJ|flagitatrix|flăgĭtātrix|īcis, f.|celle qui demande avec instance.
+Ge|flagitatrix|flāgitātrīx|trīcis, f.|die drängende Mahnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|flammatrix|flammātrix|flāmmātrīx|5|flāmmātrīc||īcis, f.
+LS|flammatrix|flammātrix|īcis|f.||she that inflames|flammatrix|0
+GG|flammatrix|flammātrix|īcis|f.||celle qui enflamme|flammatrix|
+GJ|flammatrix|flammātrix|īcis, f.|celle qui enflamme.
+Ge|flammatrix|flammātrīx|trīcis, f.|die Entflammerin, entflammend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|forfex|forfex|fōrfēx|5|fōrfĭc||ĭcis, m. f.
+LS|forfex|forfex|fĭcis|f.||a pair of shears, scissors|forfex|0
+GG|forfex|forfex|ĭcis|m. f.||ciseaux / [pince de l'écrevisse] / ordre de bataille en forme de ciseaux [ou de tenailles, le contraire du coin, cuneus]|forfex|
+GJ|forfex|forfex|forficis, f.|- 1 - ciseaux, paire de ciseaux, tenaille. - 2 - pinces de l'écrevisse. - 3 - corps de troupes en forme de V. (en forme de tenaille).
+Ge|forfex|forfex|ficis, c. = φαλίς|die Schere - das Zwickeisen - die Zange - die Schere - die Schere
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|formatrix|formātrix|fōrmātrīx|5|fōrmātrīc||īcis, f.
+LS|formatrix|formātrix|īcis|f.||she who forms|formatrix|0
+GG|formatrix|formātrix|īcis|f.||celle qui forme|formatrix|
+GJ|formatrix|formatrix|īcis, f.|Tert. celle qui forme, celle qui crée.
+Ge|formatrix|fōrmātrīx|trīcis, f.|die Bildnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fornicatrix|fornĭcātrix|fōrnĭcātrīx|5|fōrnĭcātrīc||īcis, f.
+LS|fornicatrix|fornĭcātrix|īcis|f.||a fornicatress, prostitute|fornicatrix|0
+GG|fornicatrix|fornĭcātrix|īcis|f.||fornicatrice|fornicatrix|
+GJ|fornicatrix|fornicatrix|īcis, f.|Tert. fornicatrice.
+Ge|fornicatrix|fornicātrīx|trīcis, f.|die Hure
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|forpex|forpex|fōrpēx|5|fōrpĭc||ĭcis, f.
+LS|forpex|forpex|ĭcis|f.||fire-tongs|forpex|0
+GG|forpex|forpex|ĭcis|f.||pinces, pincettes, ciseaux|forpex|
+GJ|
+Ge|forpex|forpex|picis, f.|die Feuerzange
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fossrix|fossrīx|fōssrīx|5|fōssrīc||īcis, 
+LS|
+GG|fossrix|fossrix|īcis|||fém. de fossor|fossrix|
+GJ|
+Ge|fossrix|fossrīx|rīcis, f.|die Gräberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fraudatrix|fraudātrix|frāudātrīx|5|frāudātrīc||īcis, f.
+LS|fraudatrix|fraudātrix|īcis|f.||she who cheats, defrauds|fraudatrix|0
+GG|fraudatrix|fraudātrix|īcis|f.||celle qui fait tort|fraudatrix|
+GJ|fraudatrix|fraudātrix|īcis, f.|celle qui fait tort.
+Ge|fraudatrix|fraudātrīx|trīcis, f.|die Betrügerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|frictrix|frictrix|frīctrīx|5|frīctrīc||īcis, f.
+LS|frictrix|frictrix|īcis|f.||she that rubs|frictrix|0
+GG|frictrix|frictrix|īcis|f.|S.|frotteur, frotteuse|frictor|-trix
+GJ|frictrix|frictrix|icis, f.|Tert. frotteuse, qui fait une friction.
+Ge|frictrix|frictrīx|trīcis, f.|die Reiberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fugatrix|fŭgātrix|fŭgātrīx|5|fŭgātrīc||īcis, f.
+LS|fugatrix|fŭgātrix|īcis|f.||she that puts to flight|fugatrix|0
+GG|fugatrix|fŭgātrix|īcis|f.|S.|celui, celle qui chasse, qui met en fuite|fugator|-trix
+GJ|fugatrix|fŭgātrix|īcis, f.|Tert. celle qui chasse, celle qui met en fuite.
+Ge|fugatrix|fugātrīx|trīcis, f.|die Verjagerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fulix|fŭlix|fŭlīx|5|fŭlĭc||ĭcis, f.
+LS|fulix|fŭlix|ĭcis|f.||a coot|fulica|0
+GG|fulix|fŭlix|ĭcis|f.|S.|foulque [oiseau de mer]|fulica|fŭlix
+GJ|fulix|fŭlix||c. fulica.
+Ge|
+FG|fulix|fulix icis, féminin, cf. fulica.
+Lw|fulix|fulix|icis|f||a coot||||fulix
+YO|
+PO|
+WW||||
+|fultrix|fultrīx|fūltrīx|5|fūltrīc||īcis, f.
+LS|
+GG|fultrix|fultrix|īcis|f.||celle qui soutient|fultrix|
+GJ|
+Ge|fultrix|fultrīx|trīcis, f.|die Stützerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fundatrix|fundātrix|fūndātrīx|5|fūndātrīc||īcis, f.
+LS|
+GG|fundatrix|fundātrix|īcis|f.||fondatrice|fundatrix|
+GJ|fundatrix|fundātrix|īcis, f. [fundo, are]|fondatrice.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fututrix|fŭtūtrīx|fŭtūtrīx|5|fŭtūtrīc||īcis, f.
+LS|fututrix|fŭtūtrix|īcis|f.||she that copulates|fututrix|0
+GG|fututrix|fŭtūtrīx|īcis|||fém. de fututor|fututrix|
+GJ|fututrix|fŭtūtrix|icis, f.|celle qui a des rapports sexuels.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|generatrix|gĕnĕrātrix|gĕnĕrātrīx|5|gĕnĕrātrīc||īcis, f.
+LS|generatrix|gĕnĕrātrix|īcis|f.||she that generates, brings forth|generatrix|0
+GG|generatrix|gĕnĕrātrix|īcis|f.||celle qui produit|generatrix|
+GJ|generatrix|gĕnĕratrix|īcis, f.|celle qui produit (en parl. d'une contrée).
+Ge|generatrix|generātrīx|trīcis, f.|die Zeugerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|genitrix|gĕnĭtrix|gĕnĭtrīx|5|gĕnĭtrīc||īcis, f.
+LS|genitrix|gĕnĭtrix|īcis|f.||she that has borne, produced, a mother|genetrix|(less freq. 
+GG|genitrix|gĕnĭtrix|īcis|f.|S.|mère / [Cybèle]|genetrix|gĕnĭt-
+GJ|genitrix|gĕnĭtrix|īcis, f. [genitor]|- 1 - mère. - 2 - [Cybèle].
+Ge|
+FG|genitrix|genitrix, cf. genetrix.
+Lw|genitrix|(genitrīx)|see genetrīx.|||||||genitrix
+YO|
+PO|
+WW||||
+|gestatrix|gestātrix|gēstātrīx|5|gēstātrīc||īcis, f.
+LS|gestatrix|gestātrix|īcis|f.||she that bears, carries|gestatrix|0
+GG|gestatrix|gestātrix|īcis|f.||celle qui porte|gestatrix|
+GJ|gestatrix|gestātrix|īcis, f.|celle qui porte.
+Ge|gestatrix|gestātrīx|trīcis, f.|die Trägerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gladiatrix|glădĭātrīx|glădĭātrīx|5|glădĭātrīc||īcis, f.
+LS|
+GG|gladiatrix|glădĭātrix|īcis|f.||femme qui se comporte en gladiateur|gladiatrix|
+GJ|gladiatrix|glădĭātrix|īcis, f.|femme qui se comporte en gladiateur.
+Ge|gladiatrix|gladiātrīx|trīcis, f.|die Gladiatorin, Fechterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|grassatrix|grassātrix|grāssātrīx|5|grāssātrīc||īcis, f.
+LS|
+GG|grassatrix|grassātrix|īcis|f.||brigande|grassatrix|
+GJ|grassatrix|grassātrix|īcis, f.|brigande.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gubernatrix|gŭbernātrix|gŭbērnātrīx|5|gŭbērnātrīc||īcis, f.
+LS|gubernatrix|gŭbernātrix|īcis|f.||a conductress, directress|gubernatrix|0
+GG|gubernatrix|gŭbernātrix|īcis|f.||directrice, qui gouverne|gubernatrix|
+GJ|gubernatrix|gŭbernātrix|īcis, f. [guberno]|celle qui gouverne, directrice.
+Ge|
+FG|gubernatrix|gubernatrix icis, féminin, directrice, qui gouverne.
+Lw|gubernatrix|gubernātrīx|īcis|f||a conductress, directress||||gubernatrix
+YO|
+PO|
+WW||||
+|habitatrix|hăbĭtātrix|hăbĭtātrīx|5|hăbĭtātrīc||īcis, f.
+LS|habitatrix|hăbĭtātrix|īcis|f.||she that inhabits|habitatrix|0
+GG|habitatrix|hăbĭtātrix|īcis|f.|S.|habitant, habitante|habitator|-trix
+GJ|
+Ge|habitatrix|habitātrīx|trīcis, f.|die Bewohnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hebetatrix|hĕbĕtātrix|hĕbĕtātrīx|5|hĕbĕtātrīc||īcis, f.
+LS|hebetatrix|hĕbĕtātrix|īcis|f.|adj.|that makes dull, dim, darkening|hebetatrix|0
+GG|hebetatrix|hĕbĕtātrix|īcis|f.||qui obscurcit|hebetatrix|
+GJ|hebetatrix|hĕbĕtatrix|īcis, f. [hebeto]|qui obscurcit.
+Ge|hebetatrix|hebetātrīx|trīcis, f.|stumpf-, matt machend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|helix|hĕlix|hĕlīx|5|hĕlĭc||ĭcis, f.
+LS|helix|hĕlix|ĭcis|f.||A kind of ivy|helix|0
+GG|helix|hĕlix|ĭcis|f.||sorte de lierre / sorte d'osier / hélice, volute [du chapiteau corinthien]|helix|
+GJ|helix|hĕlix|ĭcis, f.|- 1 - sorte de lierre. - 2 - sorte d'osier. - 3 - hélice, volute (du chapiteau corinthien).
+Ge|helix|helix|icis, f.|der Winde-, Kriechefeu - die Wickelweide - ein Schnörkel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hieromix|Hĭĕromix|Hĭĕromīx|5|Hĭĕromic||icis, m.
+LS|
+GG|Hieromix|Hĭĕromix|icis|m.||fleuve de Palestine|Hieromix|
+GJ|Hieromix|Hĭĕromix|icis, m.|fleuve de Palestine.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hirpex|hirpex|hīrpēx|5|hīrpĭc||ĭcis, m.
+LS|hirpex|hirpex|ĭcis|m.||a large rake with iron teeth, harrow, erpice|hirpex|(
+GG|hirpex|hirpex|ĭcis|m.|S.|mot sabin), sorte de herse [pour arracher les mauvaises herbes]|hirpex|hirpex
+GJ|hirpex|hirpex|icis, m. (mot sabin)|sorte de herse [pour arracher les mauvaises herbes].
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|histrix|histrix|hīstrīx|5|hīstrĭc||ĭcis, f.
+LS|histrix|histrix|ĭcis|f.||a porcupine|histrix|(
+GG|histrix|histrix||||v. hystrix.|histrix|
+GJ|histrix|histrix||c. hystrix.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hortatrix|hortātrix|hōrtātrīx|5|hōrtātrīc||īcis, f.
+LS|hortatrix|hortātrix|īcis|f.||she that incites, encourages, exhorts|hortatrix|0
+GG|hortatrix|hortātrix|īcis|f.||de hortator|hortatrix|
+GJ|hortatrix|hortatrix|īcis, f.|celle qui exhorte.
+Ge|hortatrix|hortātrīx|trīcis, f.|die Aufmuntererin, Ermuntererin
+FG|hortatrix|hortatrix icis féminin de hortator.
+Lw|
+YO|
+PO|
+WW||||
+|hysex|hysex|hysēx|5|hysĭc||ĭcis, m.
+LS|
+GG|hysex|hysex|ĭcis|m.||animal inconnu|hysex|
+GJ|
+Ge|hysex|hysex|icis, m.|vom Hyser
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hystrix|hystrix|hȳstrīx|5|hȳstrĭc||ĭcis, f.
+LS|hystrix|hystrix|ĭcis|f.||a porcupine|hystrix|(
+GG|hystrix|hystrix|ĭcis|f.||porc-épic|hystrix|
+GJ|hystrix|hystrix|icis, f.|porc-épic.
+Ge|hystrix|hystrix|tricis. f.|das Stachelschwein
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ibex|ībex|ībēx|5|ībĭc||ĭcis, m.
+LS|ibex|ībex|ĭcis|m.||a kind of goat, the chamois|ibex|0
+GG|ibex|ibex|ĭcis|m.||bouquetin [espèce de chèvre]|ibex|
+GJ|ibex|ibex|ĭcis, m.|bouquetin.
+Ge|ibex|ibex|bicis, m.|der Steinbock
+FG|ibex|ibex icis masculin, bouquetin.
+Lw|
+YO|
+PO|
+WW||||
+|illectrix|illectrīx|īllēctrīx|5|īllēctrīc||īcis, f.
+LS|
+GG|illectrix|illectrix|īcis|f.||séductrice|illectrix|
+GJ|illectrix|illectrix|īcis, f.|Cass. celle qui attire, séductrice.
+Ge|illectrix|illectrīx|trīcis, f.|die Anreizerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|illuminatrix|illūmĭnātrix|īllūmĭnātrīx|5|īllūmĭnātrīc||īcis, f.
+LS|illuminatrix|illūmĭnātrix|īcis|f.||she who enlightens|illuminatrix|0
+GG|illuminatrix|illūmĭnātrix|īcis|f.||celle qui éclaire|illuminatrix|
+GJ|illuminatrix|illūmĭnatrix|īcis, f.|Isid. celle qui éclaire, lumière de.
+Ge|illuminatrix|illūminātrīx|trīcis, f.|die Erleuchterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|imbrex|imbrex|īmbrēx|5|īmbrĭc||ĭcis, f.
+LS|imbrex|imbrex|ĭcis|f.||a hollow tile, gutter-tile, pantile|imbrex|0
+GG|imbrex|imbrex|ĭcis|m. f.||tuile faîtière, tuile creuse / auge / partie d'un porc / cloison des narines / façon d'applaudir avec le creux des mains|imbrex|
+GJ|imbrex|imbrex|ĭcis, m. f.|- 1 - tuile creuse, tuile faîtière, auge. - 2 - filet de porc.
+Ge|imbrex|imbrex|bricis|Hohlziegel - eine kleine Rinne - Tränken der Tiere - die hohle Hand - die Scheidewand - Schweinsschäufelchen
+FG|imbrex|imbrex icis masculin ou féminin (imber), tuile faîtière, tuile creuse.
+Lw|imbrex|imbrex|icis|f||a hollow tile, guttertile, pantile, leader||||imbrex
+YO|
+PO|imbrex|imbrex, imbricis : f
+WW||||
+|imitatrix|ĭmĭtātrix|ĭmĭtātrīx|5|ĭmĭtātrīc||īcis, f.
+LS|imitatrix|ĭmĭtātrix|īcis|f.||she that imitates|imitatrix|0
+GG|imitatrix|ĭmĭtātrix|īcis|f.||imitatrice|imitatrix|
+GJ|imitatrix|ĭmĭtātrix|īcis, f. [imitator]|imitatrice.
+Ge|imitatrix|imitātrīx|trīcis, f.|die Nachahmerin
+FG|imitatrix|imitatrix icis féminin (imitator), imitatrice.
+Lw|imitatrix|imitātrīx|īcis|f||she that imitates||||imitatrix
+YO|
+PO|imitatrix|imita_trix, imita_tri_cis : f
+WW||||
+|implicatrix|implĭcātrix|īmplĭcātrīx|5|īmplĭcātrīc||īcis, f.
+LS|implicatrix|implĭcātrix|||||implicatrix|
+GG|implicatrix|implĭcātrix|īcis|f.||celle qui enlace|implicatrix|
+GJ|implicatrix|implĭcātrix|īcis, f.|celle qui enlace.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incantatrix|incantātrix|īncāntātrīx|5|īncāntātrīc||īcis, f.
+LS|
+GG|incantatrix|incantātrix|īcis|f.|S.|sorcière, enchanteresse|incantator|-tātrix
+GJ|incantatrix|incantatrix|īcis, f.|Tert. enchanteresse, sorcière.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incentrix|incentrīx|īncēntrīx|5|īncēntrīc||īcis, f.
+LS|
+GG|incentrix|incentrix|īcis|f.||instigatrice|incentrix|
+GJ|incentrix|incentrix|icis|fém. de incentor.
+Ge|incentrix|incentrīx|trīcis, f.|die Anreizerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incitatrix|incĭtātrix|īncĭtātrīx|5|īncĭtātrīc||īcis, f.
+LS|incitatrix|incĭtātrix|īcis|f.||she that incites, instigates|incitatrix|0
+GG|incitatrix|incĭtātrix|īcis|f.||celle qui excite|incitatrix|
+GJ|
+Ge|incitatrix|incitātrīx|trīcis, f.|die Anreizerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|incubatrix|incŭbātrīx|īncŭbātrīx|5|īncŭbātrīc||īcis, f.
+LS|
+GG|incubatrix|incŭbātrix|īcis|f.||qui se couche dessus, qui s'étend au-dessus|incubatrix|
+GJ|incubatrix|incŭbātrix|īcis, f.|qui se couche dessus, qui s'étend au-dessus.
+Ge|incubatrix|incubātrīx|trīcis, f.|sich darüber lagernd
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|indagatrix|indāgātrix|īndāgātrīx|5|īndāgātrīc||īcis, f.
+LS|indagatrix|indāgātrix|īcis|f.||she who searches into, investigates, explores|indagatrix|0
+GG|indagatrix|indāgātrix|īcis|f.||celle qui cherche|indagatrix|
+GJ|indagatrix|indāgātrix|īcis, f. [indagator]|celle qui cherche.
+Ge|indagatrix|indāgātrīx|trīcis, f.|die Aufspürerin = Erforscherin
+FG|indagatrix|indagatrix icis féminin (indagator), celle qui cherche.
+Lw|indagatrix|indāgātrīx|īcis|f||she who investigates, a searcher||||indagatrix
+YO|
+PO|
+WW||||
+|infectrix|infĕctrix|īnfĕctrīx|5|īnfĕctrīc||īcis, f.
+LS|infectrix|infectrix||f.||one that infects|infectrix|0
+GG|infectrix|infĕctrix|īcis|f.||corruptrice|infectrix|
+GJ|infectrix|infectrix|icis, f.|corruptrice.
+Ge|Infectrix|Infectrīx|tricis, f.|die Färberin - färbend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|infitiatrix|infĭtĭātrix|īnfĭtĭātrīx|5|īnfĭtĭātrīc||īcis, f.
+LS|infitiatrix|infĭtĭātrix|īcis|f.||she that denies, disowns|infitiatrix|(
+GG|infitiatrix|infĭtĭātrix|īcis|f.||celle qui renie|infitiatrix|
+GJ|infitiatrix|infitiatrix|īcis, f.|Prud. celle qui renie.
+Ge|Infitiatrix|Infitiātrīx|trīcis, f.|die Ableugnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inflammatrix|inflammātrix|īnflāmmātrīx|5|īnflāmmātrīc||īcis, f.
+LS|inflammatrix|inflammātrix|īcis|f.||she that kindles, inflames|inflammatrix|0
+GG|inflammatrix|inflammatrix|īcis|f.||celle qui enflamme, qui excite|inflammatrix|
+GJ|inflammatrix|inflammatrix|īcis, f.|Amm. celle qui anime, celle qui enflamme.
+Ge|Inflammatrix|Inflammātrīx|trīcis, f.|die Entflammerin, Entzünderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inflatrix|inflātrīx|īnflātrīx|5|īnflātrīc||īcis, f.
+LS|
+GG|inflatrix|inflatrix|īcis|f.|S.|celui, celle qui gonfle, qui donne de l'orgueil / qui s'enfle d'orgueil|inflator|inflatrix
+GJ|
+Ge|Inflatrix|Inflātrīx|trīcis, f.|aufblähend, zum Hochmut verführend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inhabitatrix|ĭnhăbĭtātrīx|ĭnhăbĭtātrīx|5|ĭnhăbĭtātrīc||īcis, f.
+LS|
+GG|inhabitatrix|ĭnhăbĭtātrix|īcis|f.||celle qui habite|inhabitatrix|
+GJ|inhabitatrix|ĭnhăbĭtātrix|īcis, f.|celle qui habite.
+Ge|inhabitatrix|inhabitātrīx|trīcis, f.|die Bewohnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|initiatrix|ĭnĭtĭātrix|ĭnĭtĭātrīx|5|ĭnĭtĭātrīc||īcis, f.
+LS|initiatrix|ĭnĭtĭātrix|īcis|f.||she who originates, a foundress, med.|initiatrix|0
+GG|initiatrix|ĭnĭtĭātrix|īcis|f.||initiatrice|initiatrix|
+GJ|initiatrix|initiatrix|īcis, f.|initiatrice.
+Ge|initiatrix|initiātrīx|trīcis, f.|die Beginnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insidiatrix|insĭdĭātrix|īnsĭdĭātrīx|5|īnsĭdĭātrīc||īcis, f.
+LS|insidiatrix|insĭdĭātrix|īcis|f.|adj.|that lies in wait|insidiatrix|0
+GG|insidiatrix|insĭdĭātrix|īcis|f.||celle qui dresse des embûches, en embuscade|insidiatrix|
+GJ|insidiatrix|insĭdĭātrix|īcis, f.|celle qui tend des embûches.
+Ge|Insidiatrix|Insidiātrīx|trīcis, f.|im Hinterhalte lauernd - die Nachstellerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insinuatrix|insĭnŭātrix|īnsĭnŭātrīx|5|īnsĭnŭātrīc||īcis, f.
+LS|insinuatrix|insĭnŭātrix|īcis|f.||she that introduces, makes known|insinuatrix|0
+GG|insinuatrix|insĭnŭātrix|īcis|f.||introductrice|insinuatrix|
+GJ|insinuatrix|insĭnŭātrix|īcis, f.|celle qui fait un rapport.
+Ge|Insinuatrix|Insinuātrix|trīcis, f.|die Einschmeichlerin - einschmeichelnd
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inspectrix|inspectrix|īnspēctrīx|5|īnspēctrīc||īcis, f.
+LS|inspectrix|inspectrix|īcis|f.||she that inspects, examines|inspectrix|0
+GG|inspectrix|inspectrix|īcis|f.||celle qui examine|inspectrix|
+GJ|inspectrix|inspectrix|icis, f.|celle qui examine.
+Ge|Inspectrix|Inspectrīx|trīcis, f.|die Besichtigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inspex|inspex|īnspēx|5|īnspĭc||ĭcis, m.
+LS|
+GG|inspex|inspex|ĭcis|m.||observateur|inspex|
+GJ|
+Ge|Inspex|Inspex|icis, m.|der Beschauer - Vogelschauer
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inspiratrix|inspīrātrix|īnspīrātrīx|5|īnspīrātrīc||īcis, f.
+LS|inspiratrix|inspīrātrix||f.|||inspirator|0
+GG|inspiratrix|inspīrātrix|īcis|f.||celle qui inspire [av. le gén.]|inspiratrix|
+GJ|inspiratrix|inspiratrix|īcis, f.|celle qui inspire.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|instigatrix|instīgātrix|īnstīgātrīx|5|īnstīgātrīc||īcis, f.
+LS|instigatrix|instīgātrix|īcis|f.||she that instigates|instigatrix|0
+GG|instigatrix|instīgātrix|īcis|f.||instigatrice|instigatrix|
+GJ|instigatrix|instīgātrix|īcis, f.|instigatrice.
+Ge|Instigatrix|Instīgātrīx|trīcis, f.|die Anstachlerin, Anreizerin, Aufwieglerin
+FG|instigatrix|instigatrix icis féminin, instigatrice.
+Lw|instigatrix|īnstīgātrīx|īcis|f||she that instigates||||instigatrix
+YO|
+PO|
+WW||||
+|insultatrix|insultātrix|īnsūltātrīx|5|īnsūltātrīc||īcis, f.
+LS|insultatrix|insultātrix|īcis|f.||she that scoffs at, reviles, insults|insultatrix|0
+GG|insultatrix|insultātrix|īcis|f.||celle qui insulte|insultatrix|
+GJ|insultatrix|insultātrix|īcis, f.|Hier. celle qui insulte, celle qui outrage.
+Ge|Insultatrix|Insultātrīx|trīcis, f.|die Spötterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interemptrix|intĕremptrix|īntĕrēmptrīx|5|īntĕrēmptrīc||īcis, f.
+LS|interemptrix|intĕremptrix|īcis|f.||she that destroys, kills, a murderess|interemptrix|(
+GG|interemptrix|intĕremptrix|īcis|f.||celle qui tue / [fig.] celle qui immole|interemptrix|
+GJ|interemptrix|intĕremptrix|īcis, f.|- 1 - celle qui tue. - 2 - celle qui immole.
+Ge|interemptrix|interemptrīx|trīcis, f.|die Mörderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interfectrix|interfectrix|īntērfēctrīx|5|īntērfēctrīc||īcis, f.
+LS|interfectrix|interfectrix|īcis|f.||a murderess|interfectrix|0
+GG|interfectrix|interfectrix|īcis|f.||celle qui tue|interfectrix|
+GJ|interfectrix|interfectrix|īcis, f.|- 1 - celle qui tue. - 2 - meurtrière.
+Ge|interfectrix|interfectrīx|trīcis, f.|die Mörderin
+FG|interfectrix|interfectrix icis féminin (interfector), celle qui tue.
+Lw|interfectrix|interfectrīx|īcis|f||a murderess||||interfectrix
+YO|
+PO|
+WW||||
+|interpellatrix|interpellātrix|īntērpēllātrīx|5|īntērpēllātrīc||īcis, f.
+LS|interpellatrix|interpellātrix|īcis|f.||she that disturbs|interpellatrix|0
+GG|interpellatrix|interpellātrix|īcis|f.||celle qui interpelle, qui réclame|interpellatrix|
+GJ|interpellatrix|interpellatrix|īcis, f.|celle qui sollicite (au mal).
+Ge|interpellatrix|interpellātrīx|trīcis, f.|die Einsprucherhebende
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interpolatrix|interpŏlātrix|īntērpŏlātrīx|5|īntērpŏlātrīc||īcis, f.
+LS|interpolatrix|interpŏlātrix|īcis|f.||she that alters the appearance of a thing, a falsifier, corrupter|interpolatrix|0
+GG|interpolatrix|interpŏlātrix|īcis|f.||celle qui altère|interpolatrix|
+GJ|interpolatrix|interpŏlātrix|īcis, f.|celle qui altère.
+Ge|interpolatrix|interpolātrīx|trīcis, f.|die Veränderin, Verderberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interpretatrix|interprĕtātrīx|īntērprĕtātrīx|5|īntērprĕtātrīc||īcis, f.
+LS|
+GG|interpretatrix|interprĕtātrix|īcis|f.||celle qui explique,|interpretatrix|
+GJ|interpretatrix|interprĕtātrix|īcis, f.|Char. celle qui explique.
+Ge|interpretatrix|interpretātrīx|trīcis, f.|die Auslegerin, Deuterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|invectrix|invectrix|īnvēctrīx|5|īnvēctrīc||īcis, f.
+LS|invectrix|invectrix|īcis|f.||she that brings in, introduces|invectrix|0
+GG|invectrix|invectrix|īcis|f.||celle qui importe|invectrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inventrix|inventrix|īnvēntrīx|5|īnvēntrīc||īcis, f.
+LS|inventrix|inventrix|īcis|f.||she that finds out, invents, an inventress|inventrix|0
+GG|inventrix|inventrix|īcis|f.||celle qui trouve, qui invente|inventrix|
+GJ|inventrix|inventrix|icis, f.|celle qui trouve, qui invente.
+Ge|inventrix|inventrīx|trīcis, f.|die Erfinderin, Urheberin
+FG|inventrix|inventrix icis féminin (inventor), celle qui trouve, qui invente.
+Lw|inventrix|inventrīx|īcis|f||she that finds out, a discoverer||||inventrix
+YO|
+PO|inventrix|inventrix, inventri_cis : f
+WW||||
+|investigatrix|investīgātrix|īnvēstīgātrīx|5|īnvēstīgātrīc||īcis, f.
+LS|investigatrix|investīgātrix|īcis|f.||she that investigates|investigatrix|0
+GG|investigatrix|investīgātrix|īcis|f.||celle qui fait des recherches|investigatrix|
+GJ|
+Ge|investigatrix|investīgātrīx|trīcis, f.|die Erforscherin, erforschend, untersuchend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|invictrix|invictrix|īnvīctrīx|5|īnvīctrīc||īcis, f.
+LS|invictrix|invictrix|īcis|f.|adj.|unconquerable|invictrix|0
+GG|invictrix|invictrix|īcis|f.||celle qu'on ne peut vaincre, invincible|invictrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|invitatrix|invītātrix|īnvītātrīx|5|īnvītātrīc||īcis, f.
+LS|invitatrix|invītātrix|īcis|f.||she that invites|invitatrix|0
+GG|invitatrix|invītātrix|īcis|f.||celle qui invite [au fig.]|invitatrix|
+GJ|invitatrix|invītatrix|īcis, f.|celle qui invite (au fig.).
+Ge|invitatrix|invītātrīx|trīcis, f.|die Einladerin, einladend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|irpex|irpex|īrpēx|5|īrpĭc||ĭcis, m.
+LS|irpex|irpex|ĭcis|m.||a large rake with iron teeth, harrow, erpice|irpex|(
+GG|irpex|irpex|ĭcis|m.|S.|mot sabin), sorte de herse [pour arracher les mauvaises herbes]|hirpex|irpex
+GJ|irpex|irpex|icis, m. (mot sabin)|sorte de herse [pour arracher les mauvaises herbes].
+Ge|irpex|irpex|hyrpex), picis, m.|unsere Egge
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jactatrix|jactātrix|jāctātrīx|5|jāctātrīc||īcis, f.
+LS|jactatrix|jactātrix|īcis|f.||she that boasts|jactatrix|0
+GG|
+GJ|jactatrix|jactātrix|īcis, f.|celle qui vante ou qui se vante.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jaculatrix|jăcŭlātrix|jăcŭlātrīx|5|jăcŭlātrīc||īcis, f.
+LS|jaculatrix|jăcŭlātrix|īcis|f.||she that hurls; the huntress|jaculatrix|0
+GG|jaculatrix|jăcŭlātrix|īcis|f.||chasseresse [Diane]|jaculatrix|
+GJ|jaculatrix|jăcŭlātrix|īcis, f. [jaculator]|celle qui lance le javelot, chasseresse (= Diane).
+Ge|iaculatrix|iaculātrīx|trīcis, f.|die Schützin
+FG|jaculatrix|jaculatrix icis féminin (jaculator), chasseresse (Diane).
+Lw|iaculatrix|iaculātrīx|īcis|f||a javelin thrower, huntress||||iaculatrix
+YO|
+PO|
+WW||||
+|janitrix|jānĭtrix|jānĭtrīx|5|jānĭtrīc||īcis, f.
+LS|janitrix|jānĭtrix|īcis|f.||a female door-keeper, a portress|janitrix|0
+GG|janitrix|jānĭtrix|īcis|f.||portière, esclave chargée d'ouvrir / [fig.] qui garde l'entrée / belles-soeurs|janitrix|
+GJ|janitrix|jānĭtrix|īcis, f. [janitor]|portière, esclave chargée d'ouvrir.
+Ge|ianitrix|iānitrīx|trīcis, f.|die Türsteherin, Pförtnerin
+FG|janitrix|janitrix icis féminin (janitor), portière, esclave, chargée d'ouvrir ; (figuré) qui garde l'entrée.
+Lw|
+YO|
+PO|
+WW||||
+|judicatrix|jūdĭcātrix|jūdĭcātrīx|5|jūdĭcātrīc||īcis, f.
+LS|judicatrix|jūdĭcātrix|īcis|f.||she that judges, decides|judicatrix|0
+GG|judicatrix|jūdĭcātrix|īcis|f.||celle qui juge|judicatrix|
+GJ|judicatrix|judicatrix|īcis, f.|celle qui juge.
+Ge|iudicatrix|iūdicātrīx|trīcis, f.|die Richterin, Beurteilerin - beurteilend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|junix|jūnix|jūnīx|5|jūnīc||īcis, f.
+LS|junix|jūnix|īcis|f.||a young cow, a calf, heifer|junix|or uncontr. 
+GG|junix|jūnix|īcis|f.||génisse, jeune vache|junix|
+GJ|junix|jūnix|icis, f. [juvenix]|- 1 - génisse, jeune vache. - 2 - jeune fille.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jurgatrix|jurgātrix|jūrgātrīx|5|jūrgātrīc||īcis, f.
+LS|jurgatrix|jurgātrix|īcis|f.||a quarrelsome woman|jurgatrix|0
+GG|jurgatrix|jurgātrix|īcis|f.||querelleuse|jurgatrix|
+GJ|jurgatrix|jurgatrix|īcis, f.|querelleuse.
+Ge|iurgatrix|iūrgātrīx|trīcis, f.|die Zänkerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|justificatrix|justĭfĭcātrix|jūstĭfĭcātrīx|5|jūstĭfĭcātrīc||īcis, f.
+LS|justificatrix|justĭfĭcātrix|īcis|f.||she who justifies|justificatrix|0
+GG|justificatrix|justĭfĭcātrix|īcis|f.||celle qui justifie|justificatrix|
+GJ|justificatrix|justificatrix|īcis, f.|celle qui justifie.
+Ge|iustificatrix|iūstificātrīx|trīcis, f.|die Rechtfertigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|juvenix|jŭvĕnix|jŭvĕnīx|5|jŭvĕnīc||īcis, f.
+LS|juvenix|jŭvĕnix|īcis|f.||a young cow, a calf, heifer|juvenix|or uncontr. 
+GG|juvenix|jŭvĕnix|īcis|f.||génisse ; [par ext.] jeune fille|juvenix|
+GJ|juvenix|jŭvĕnix|īcis, f.|- 1 - génisse. - 2 - jeune fille.
+Ge|iuvenix|iuvenīx|īcis, f.|eine junge Kuh - eine Färse
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laceratrix|lăcĕrātrix|lăcĕrātrīx|5|lăcĕrātrīc||īcis, f.
+LS|laceratrix|lăcĕrātrix|īcis|f.||she that lacerates|laceratrix|0
+GG|laceratrix|lăcĕrātrix|īcis|f.|S.|celui, celle qui déchire|lacerator|lăcĕrātrix
+GJ|laceratrix|lăcĕrātrix|īcis, f.|Macer. qui déchire, qui ronge.
+Ge|laceratrix|lacerātrīx|trīcis, f.|die Zerfleischerin, zerfleischend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lamentatrix|lāmentātrix|lāmēntātrīx|5|lāmēntātrīc||īcis, f.
+LS|lamentatrix|lāmentātrix|īcis|f.||she who bewails|lamentatrix|0
+GG|lamentatrix|lāmentātrix|īcis||||lamentator|lāmentātrix
+GJ|lamentatrix|lāmentātrix|īcis, f.|celle qui se lamente.
+Ge|lamentatrix|lāmentātrīx|trīcis, f.|das Klageweib
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lapidatrix|lăpĭdātrīx|lăpĭdātrīx|5|lăpĭdātrīc||īcis, f.
+LS|
+GG|lapidatrix|lăpĭdātrix|īcis|f.||celle qui lapide|lapidatrix|
+GJ|lapidatrix|lăpĭdātrix|īcis, f.|Orig. celle qui lapide.
+Ge|lapidatrix|lapidātrīx|trīcis, f.|die Steinigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|larix|lărix|lărīx|5|lărĭc||ĭcis, f.
+LS|larix|lărix||f.||a larch, larch-tree|larix|ĭcis 
+GG|larix|lărix|ĭcis|f.||larix ou mélèze [arbre]|larix|
+GJ|
+Ge|larix|larix|icis, f.|der Lärchenbaum
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|latrix|lātrīx|lātrīx|5|lātrīc||īcis, f.
+LS|
+GG|latrix|lātrix|īcis|f.||celle qui apporte une lettre|latrix|
+GJ|
+Ge|latrix|lātrīx|trīcis, f.|die Überbringerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laudatrix|laudātrix|lāudātrīx|5|lāudātrīc||īcis, f.
+LS|laudatrix|laudātrix|īcis|f.||she who praises|laudatrix|0
+GG|laudatrix|laudātrix|īcis|f.||celle qui loue|laudatrix|
+GJ|laudatrix|laudātrix|īcis, f.|celle qui loue.
+Ge|laudatrix|laudātrīx|trīcis, f.|die Lobrednerin
+FG|laudatrix|laudatrix icis féminin (laudator), celle qui loue.
+Lw|laudatrix|laudātrīx|īcis|f||she who praises||||laudatrix
+YO|
+PO|
+WW||||
+|laurex|laurex|lāurēx|5|lāurĭc||ĭcis, m.
+LS|laurex|laurex|ĭcis|m.||a young rabbit cut out from the mother, or taken from her teats|laurex|(
+GG|
+GJ|
+Ge|laurex|laurex|icis, m.|ein junges Kaninchen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lavatrix|lăvātrix|lăvātrīx|5|lăvātrīc||īcis, f.
+LS|
+GG|lavatrix|lăvātrix|īcis|f.||laveuse|lavatrix|
+GJ|lavatrix|lăvātrix|īcis, f.|Gloss. laveuse.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lectrix|lectrix|lēctrīx|5|lēctrīc||īcis, f.
+LS|lectrix|lectrix|īcis|f.||a female reader|lectrix|0
+GG|lectrix|lectrix|īcis|f.||lectrice|lectrix|
+GJ|lectrix|lectrix|īcis, f.|Serv. lectrice.
+Ge|lectrix|lēctrīx|trīcis, f.|die Vorleserin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|liberatrix|lībĕrātrix|lībĕrātrīx|5|lībĕrātrīc||īcis, f.
+LS|liberatrix|lībĕrātrix|īcis|f.||she that releases|liberatrix|0
+GG|liberatrix|lībĕrātrix|īcis|f.|S.|celui ou celle qui délivre, libérateur, libératrice|liberator|lībĕrātrix
+GJ|liberatrix|lībĕrātrix|īcis, f.|celle qui libère, libératrice.
+Ge|liberatrix|līberātrīx|trīcis, f.|die Befreierin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|litigatrix|lītĭgātrīx|lītĭgātrīx|5|lītĭgātrīc||īcis, f.
+LS|
+GG|litigatrix|lītĭgātrix|īcis|f.||plaideuse|litigatrix|
+GJ|litigatrix|lĭtĭgātrix|īcis, f.|plaideuse.
+Ge|litigatrix|lītigātrīx|trīcis, f.|die Streiterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|litteratrix|littĕrātrix|līttĕrātrīx|5|līttĕrātrīc||īcis, f.
+LS|litteratrix|littĕrātrix|||||litteratrix|v. litteratorius.
+GG|litteratrix|littĕrātrix|īcis|f.||grammairienne|litteratrix|
+GJ|
+Ge|litteratrix|litterātrīx|trīcis, f.|die Sprachlehrerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lodix|lōdix|lōdīx|5|lōdīc||īcis, f.
+LS|lodix|lōdix|īcis|f.||a coverlet, blanket, counterpane|lodix|0
+GG|lodix|lōdix|īcis|f.||couverture [de lit]|lodix|
+GJ|lodix|lōdix|īcis, f.|couverture [de lit].
+Ge|lodix|lōdīx|īcis, f.|eine gewebte Decke, Bettdecke
+FG|
+Lw|lodix|lōdīx|īcis|f||a coverlet, counterpane||||lodix
+YO|
+PO|
+WW||||
+|mandatrix|mandātrix|māndātrīx|5|māndātrīc||īcis, f.
+LS|mandatrix|mandātrix|īcis|f.||she that charges, commands|mandatrix|0
+GG|mandatrix|mandātrix|īcis|f.||celle qui commande|mandatrix|
+GJ|
+Ge|mandatrix|mandātrīx|trīcis, f.|die Aufträgerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|manuinspex|mănŭinspex|mănŭīnspēx|5|mănŭīnspĭc||ĭcis, m.
+LS|manuinspex|mănŭinspex||||a hand-inspector, student, practitioner of palmistry|manuinspex|
+GG|manuinspex|mănŭinspex|ĭcis|m.||chiromancien|manuinspex|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|matrix|mātrix|mātrīx|5|mātrīc||īcis, f.
+LS|matrix|mātrix|īcis|f.||a mother|matrix|0
+GG|matrix|mātrix|īcis|f.||reproductrice, femelle / sein, matrice / mère souche [en parl. d'arbres] / [fig.] souche, matrice, registre / source, origine, cause|matrix|
+GJ|matrix|mātrix|īcis, f.|- 1 - femelle des animaux, reproductrice, femelle. - 2 - mère. - 3 - arbre, souche qui produit des rejetons. - 4 - matrice. - 5 - matricule, registre. - 6 - métropole. - 7 - cause, source, origine.
+Ge|matrix|mātrīx|trīcis, f.|die Mutter - das Muttertier, Zuchttier - die Erzeugerin, Stammutter - der Stamm - die Mutter = Gebärmutter - der Mutterleib - Verzeichnis - die Matrikel - die Mutter
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|meddix|meddix|mēddīx|5|mēddĭc||ĭcis, m.
+LS|meddix|meddix|icis|m.||he who cares for, attends to, a curator, magistrate among the Oscans|meddix|(
+GG|meddix|meddix|ĭcis|m.||médix, magistrat suprême chez les Osques / médix tutique|meddix|
+GJ|meddix|meddix|icis, m. [de l'osque metideicos, celui qui montre le droit]|Enn. magistrat (chez les Osques).
+Ge|meddix|mēddix|icis, m.|der Magistrat - der oberste Magistrat
+FG|meddix|meddix icis masculin, médix, magistrat suprême chez les Osques ; ou meddix tuticus, médix tutique.
+Lw|meddix|meddix (mēdix)|icis|m||a magistrate, the highest magistrate||||meddix
+YO|
+PO|
+WW||||
+|mediatrix|mĕdĭātrix|mĕdĭātrīx|5|mĕdĭātrīc||īcis, f.
+LS|mediatrix|mĕdĭātrix|icis|f.||a mediatrix|mediatrix|0
+GG|mediatrix|mĕdĭātrix|īcis|f.||celle qui se place entre, secourable|mediatrix|
+GJ|
+Ge|mediatrix|mediātrīx|trīcis, f.|die Mittlerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|medix|mēdix|mēdīx|5|mēdic||icis, m.
+LS|medix|medix|icis|m.||he who cares for, attends to, a curator, magistrate among the Oscans|meddix|v. meddix.
+GG|medix|mēdix||||v. meddix, etc.|medix|
+GJ|medix|medix|icis, m. [de l'osque metideicos, celui qui montre le droit]|Enn. magistrat (chez les Osques).
+Ge|
+FG|
+Lw|medix|medix|see meddix.|||r||||medix
+YO|
+PO|
+WW||||
+|memoratrix|mĕmŏrātrix|mĕmŏrātrīx|5|mĕmŏrātrīc||īcis, f.
+LS|memoratrix|mĕmŏrātrix|īcis|f.||she who mentions, relates|memoratrix|0
+GG|memoratrix|mĕmŏrātrix|īcis|f.||celle qui rappelle|memoratrix|
+GJ|memoratrix|mĕmŏrātrix|īcis, f.|celle qui rappelle, qui raconte (qqch).
+Ge|memoratrix|memorātrīx|trīcis, f.|die Erwähnerin, Erzählerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ministratrix|mĭnistrātrix|mĭnīstrātrīx|5|mĭnīstrātrīc||īcis, f.
+LS|ministratrix|mĭnistrātrix|icis|f.||a female attendant, a handmaid|ministratrix|0
+GG|ministratrix|mĭnistrātrix|īcis|f.||celle qui aide, qui seconde|ministratrix|
+GJ|ministratrix|mĭnistrātrix|īcis, f.|qui sert, qui seconde.
+Ge|ministratrix|ministrātrīx|trīcis, f.|die Gehilfin
+FG|
+Lw|ministratrix|ministrātrīx|īcis|f||a female attendant, handmaid||||ministratrix
+YO|
+PO|
+WW||||
+|ministrix|mĭnistrix|mĭnīstrīx|5|mĭnīstrīc||īcis, f.
+LS|ministrix|mĭnistrix|īcis|f.||a maid-servant, handmaid|ministrix|0
+GG|ministrix|mĭnistrix|īcis|f.||c. ministratrix|ministrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|miratrix|mīrātrix|mīrātrīx|5|mīrātrīc||īcis, f.
+LS|miratrix|mīrātrix|īcis|f.||wondering, admiring; she that wonders, admires|miratrix|0
+GG|miratrix|mīrātrix|īcis|f.||admiratrice|miratrix|
+GJ|miratrix|mīrātrix|īcis, f.|admiratrice
+Ge|miratrix|mīrātrīx|trīcis, f.|die Verwundrerin, Bewundrerin - sich verwundernd, bewundernd
+FG|
+Lw|miratrix|mīrātrīx|īcis|f||an admirer, wondering||||miratrix
+YO|
+PO|
+WW||||
+|moderatrix|mŏdĕrātrix|mŏdĕrātrīx|5|mŏdĕrātrīc||īcis, f.
+LS|moderatrix|mŏdĕrātrix|īcis|f.||She who moderates, allays; a directress, mistress, governess|moderatrix|0
+GG|moderatrix|mŏdĕrātrix|īcis|f.||celle qui modère, qui règle, qui dirige|moderatrix|
+GJ|moderatrix|mŏdĕrātrix|īcis, f.|celle qui modère, celle qui règle, modératrice, directrice.
+Ge|moderatrix|moderātrīx|trīcis, f.|die Mäßigerin - die Leiterin, Beherrscherin
+FG|moderatrix|moderatrix icis féminin (moderator), celle qui modère, qui règle, qui dirige.
+Lw|moderatrix|moderātrīx|īcis|f||she who rules, a directress, guide, controller||||moderatrix
+YO|
+PO|
+WW||||
+|modulatrix|mŏdŭlātrix|mŏdŭlātrīx|5|mŏdŭlātrīc||īcis, f.
+LS|modulatrix|mŏdŭlātrix|īcis|f.||she that regulates|modulatrix|0
+GG|modulatrix|mŏdŭlātrix|īcis|f.||celle qui mesure, qui règle|modulatrix|
+GJ|modulatrix|mŏdŭlātrix|īcis, f.|celle qui mesure, celle qui dispose régulièrement.
+Ge|modulatrix|modulātrīx|trīcis, f.|eine, die richtig abmißt, regelt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mundatrix|mundātrix|mūndātrīx|5|mūndātrĭc||ĭcis, f.
+LS|mundatrix|mundātrix|ĭcis|f.||a cleaner|mundatrix|0
+GG|mundatrix|mundātrix|īcis|f.||de mundator|mundatrix|
+GJ|mundatrix|mundātrix|īcis, f.|Aug. celle qui purifie.
+Ge|mundatrix|mundātrīx|trīcīs, f.|die Reinigerin - reinigend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|munifex|mūnĭfex|mūnĭfēx|5|mūnĭfĭc||ĭcis, com.
+LS|munifex|mūnĭfex|ĭcis|com.||one who performs service, is on duty|munifex|0
+GG|munifex|mūnĭfex|ĭcis|||qui fait son devoir / qui remplit son office|munifex|
+GJ|munifex|mūnĭfex|ĭcis [munus + facio]|qui fait son devoir, qui remplit sa fonction.
+Ge|munifex|mūnifex|ficis|diensttuend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|munitrix|mūnītrix|mūnītrīx|5|mūnītrīc||īcis, f.
+LS|munitrix|mūnītrix|īcis|f.||a female fortifier|munitrix|0
+GG|munitrix|mūnītrix|īcis|f.||celle qui munit, qui protège|munitrix|
+GJ|
+Ge|munitrix|mūnītrīx|trīcis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|natrix|nā̆trix|nā̆trīx|5|nā̆trīc||īcis, m.
+LS|natrix|nā̆trix|īcis|m.|||natrix|0
+GG|natrix|natrix|ĭcis|m., f.||hydre, serpent d'eau / [fig.] = homme dangereux / sorte de plante|natrix|
+GJ|natrix|natrix|īcis, m. et f.|- 1 - hydre, serpent de mer. - 2 - fouet (fait avec la peau de l'hydre). - 3 - serpent, vipère (---> homme dangereux).
+Ge|natrix|natrix|tricis, f.|die Wasserschlange - Schlange
+FG|natrix|natrix icis féminin, hydre, serpent d'eau.
+Lw|natrix|nātrīx|īcis|f||a water-snake||||natrix
+YO|
+PO|
+WW||||
+|necatrix|nĕcātrix|nĕcātrīx|5|nĕcātrīc||īcis, f.
+LS|necatrix|nĕcātrix|īcis|f.||she who slays, med.|necatrix|0
+GG|necatrix|nĕcātrix|īcis|f.||celle qui tue [fig.]|necatrix|
+GJ|necatrix|necatrix|īcis, f.|celle qui tue (au fig).
+Ge|necatrix|necātrīx|trīcis, f.|die Totschlägerin, Mörderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|negatrix|nĕgātrix|nĕgātrīx|5|nĕgātrīc||īcis, f.
+LS|negatrix|nĕgātrix|īcis|f.||she who denies|negatrix|0
+GG|negatrix|nĕgātrix|īcis|f.||celle qui nie|negatrix|
+GJ|negatrix|nĕgatrix|īcis, f.|- 1 - celle qui nie, qui refuse. - 2 - celle qui nie Jésus-Christ.
+Ge|negatrix|negātrīx|trīcis, f.|die Verneinerin, Leugnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|negotiatrix|nĕgōtĭātrix|nĕgōtĭātrīx|5|nĕgōtĭātrīc||īcis, f.
+LS|negotiatrix|nĕgōtĭātrix|īcis|f.||she that carries on a business, a female trader|negotiatrix|(
+GG|negotiatrix|nĕgōtĭātrix|īcis|f.||celle qui fait le commerce, marchande / celle qui négocie, qui prépare|negotiatrix|
+GJ|negotiatrix|nĕgōtiatrix|īcis, f.|marchande, commerçante; celle qui prépare, intermédiaire.
+Ge|negotiatrix|negōtiātrīx|trīcis, f.|die Händlerin - die Vermittlerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nemoricultrix|nĕmŏrĭcultrix|nĕmŏrĭcūltrīx|5|nĕmŏrĭcūltrīc||īcis, f.
+LS|nemoricultrix|nĕmŏrĭcultrix|īcis|f.||she that dwells in the woods|nemoricultrix|0
+GG|nemoricultrix|nĕmŏrĭcultrix|īcis|f.||celle qui habite les bois|nemoricultrix|
+GJ|nemoricultrix|nemoricultrix|icis, f.|celle qui habite les bois.
+Ge|nemoricultrix|nemoricultrīx|trīcis, f.|die Waldbewohnerin
+FG|
+Lw|nemoricultrix|nemoricultrīx|īcis|f||forest-haunting||||nemoricultrix
+YO|
+PO|
+WW||||
+|noidenolex|Noidenolex|Nŏidenolēx|5|Nŏidenolĭc||ĭcis, f.
+LS|
+GG|Noidenolex|Noidenolex|ĭcis|f.|S.|ville d'Helvétie, auj. Neufchâtel|Noidenolex|Noidenolex
+GJ|Noidenolex|Noidenolex|icis, f.|ville d'Helvétie, auj. Neufchâtel.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|noidenolix|Noidenolix|Nŏidenolīx|5|Nŏidenolĭc||ĭcis, f.
+LS|
+GG|Noidenolix|Noidenolix|ĭcis|f.|S.|ville d'Helvétie, auj. Neufchâtel|Noidenolex|-lix
+GJ|Noidenolix|Noidenolix|icis, f.|ville d'Helvétie, auj. Neufchâtel.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|notrix|notrix|nō̆trīx|5|nō̆trīc||īcis, f.
+LS|notrix|notrix|īcis|f.||a wet-nurse, nurse|nutrix|(old orthogr. 
+GG|notrix|notrix||||arch. pour nutrix|notrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|novatrix|nŏvātrix|nŏvātrīx|5|nŏvātrīc||īcis, f.
+LS|novatrix|nŏvātrix|īcis|f.||she who renews, changes|novatrix|0
+GG|novatrix|nŏvātrix|īcis|f.||celle qui renouvelle|novatrix|
+GJ|novatrix|novatrix|īcis, f.|qui renouvelle.
+Ge|novatrix|novātrīx|trīcis, f.|die Erneurerin
+FG|
+Lw|novatrix|novātrīx|īcis|f||she who renews, a renovator||||novatrix
+YO|
+PO|
+WW||||
+|nugatrix|nūgātrix|nūgātrīx|5|nūgātrīc||īcis, f.
+LS|nugatrix|nūgātrix|īcis||adj.|trifling, frivolous|nugatrix|0
+GG|nugatrix|nūgātrix|īcis|f.||débauchée, impudique|nugatrix|
+GJ|nugatrix|nūgātrix|īcis, f.|débauchée, impudique.
+Ge|nugatrix|nūgātrīx|trīcis, f.|possenhaft, läppisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nuntiatrix|nuntĭātrix|nūntĭātrīx|5|nūntĭātrīc||īcis, f.
+LS|nuntiatrix|nuntĭātrix|īcis|f.||she that announces|nuntiatrix|(
+GG|nuntiatrix|nuntĭātrix|īcis|f.||celle qui annonce|nuntiatrix|
+GJ|
+Ge|nuntiatrix|nūntiātrīx|trīcis, f.|die Verkündigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|obex|ōbex|ōbēx|5|ōbĭc||ĭcis, m.
+LS|obex|ōbex|obĭcis|m.||nom. sing.; acc., a bolt, bar; a barrier, wall|obex|0
+GG|obex|ŏbex|ĭcis ou objicis|m.||barre, verrou [placé devant la porte pour la fermer] / [en gén.] barrière, obstacle / [fig.] empêchement|obex|
+GJ|obex|ōbex|ōbĭcis (objex, objĭcis), m. et qqf. f.|- 1 - ce qui est placé devant pour faire obstacle : barre, verrou, barrière, clôture, digue. - 2 - obstacle, empêchement, difficulté.
+Ge|
+FG|obex|obex icis ou objicis de l'ancien nominatif objex, masculin et quelquefois féminin (objici), barre, verrou ; barrière, obstacle.
+Lw|obex|(ōbex, ōbicis)||m||a bolt, bar, barrier, wall, sing, acc, plur, barriers, A hinderance, impediment, obstacle||||obex
+YO|
+PO|obex|obex, obicis : m/f
+WW||||
+|observatrix|observātrix|ōbsērvātrīx|5|ōbsērvātrīc||īcis, f.
+LS|observatrix|observātrix|īcis|f.||she that observes, an observer|observatrix|0
+GG|observatrix|observātrix|īcis|f.||celle qui observe, qui respecte|observatrix|
+GJ|observatrix|observatrix|īcis, f.|celle qui observe, qui respecte.
+Ge|observatrix|observātrīx|trīcis, f.|die Beobachterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|obstitrix|obstĭtrix|ōbstĭtrīx|5|ōbstĭtrīc||īcis, f. [obsto]
+LS|
+GG|obstitrix|obstĭtrix||||v. obstetrix.|obstitrix|
+GJ|obstitrix|obstitrix|īcis, f. [obsto]|accoucheuse, sage-femme.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|obumbratrix|ŏbumbrātrix|ŏbūmbrātrīx|5|ŏbūmbrātrīc||īcis, f.
+LS|obumbratrix|ŏbumbrātrix|īcis|f.||she that shades, darkens|obumbratrix|0
+GG|obumbratrix|ŏbumbrātrix|īcis|f.||celle qui couvre de son ombre [fig.]|obumbratrix|
+GJ|
+Ge|obumbratrix|obumbrātrīx|trīcis, f.|die Beschatterin, beschattend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|occursatrix|occursātrix|ōccūrsātrīx|5|ōccūrsātrīc||īcis, f.
+LS|occursatrix|occursātrix|īcis|f.||she that runs up to one|occursatrix|0
+GG|occursatrix|occursātrix|īcis|f.||celle qui va au-devant, qui s'empresse|occursatrix|
+GJ|occursatrix|occursatrix|īcis, f.|(Lebaigue P. 852 et P. 853) qui va au-devant, qui prévient.
+Ge|occursatrix|occursātrīx|trīcis, f.|die Entgegengeherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|offendix|offendix|ōffēndīx|5|ōffēndĭc||ĭcis, f.
+LS|offendix|offendix|ĭcis|f.||the knot, the band|offendix|0
+GG|offendix|offendix|ĭcis|f.||pl., noeuds qui attachent les brides du bonnet pontifical (apex) / attaches, fermoirs d'un livre|offendix|
+GJ|
+Ge|offendix|offendix|dicis, f.|das Kinnband
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|offex|offex|ōffēx|5|ōffĭc||ĭcis, m.
+LS|offex|offex|ĭcis|m.||a hinderer|offex|0
+GG|offex|offex|ĭcis|m.||celui qui empêche, qui nuit|offex|
+GJ|offex|offex|ĭcis, m. [officio]|celui qui empêche, celui qui nuit.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|officinatrix|offĭcīnātrix|ōffĭcīnātrīx|5|ōffĭcīnātrīc||īcis, f.
+LS|officinatrix|offĭcīnātrix|īcis|f.||a, woman that keeps a workshop|officinatrix|0
+GG|officinatrix|offĭcīnātrix|īcis|f.||ouvrière|officinatrix|
+GJ|officinatrix|offĭcīnātrix|īcis, f. [officinator]|ouvrière.
+Ge|officinatrix|officīnātrīx|trīcis, f.|die Werkmeisterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|olfactatrix|olfactātrix|ōlfāctātrīx|5|ōlfāctātrīc||īcis, f.
+LS|olfactatrix|olfactātrix|īcis|f.||she who scents, observes|olfactatrix|0
+GG|olfactatrix|olfactātrix|īcis|f.||qui sent, qui flaire|olfactatrix|
+GJ|
+Ge|olfactatrix|olfactātrīx|trīcis, f.|die Riecherin - die Bemerkerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|olfactrix|olfactrix|ōlfāctrīx|5|ōlfāctrīc||īcis, f.
+LS|olfactrix|olfactrix|īcis|f.|||olfactrix|0
+GG|
+GJ|olfactrix|olfactrix|icis|celle qui flaire, qui pressent.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|operatrix|ŏpĕrātrix|ŏpĕrātrīx|5|ŏpĕrātrīc||īcis, f.
+LS|operatrix|ŏpĕrātrix|īcis|f.||she that works, a worker, effecter, producer|operatrix|0
+GG|operatrix|ŏpĕrātrix|īcis||adj.|qui cause, qui produit|operatrix|
+GJ|operatrix|ŏpĕrātrix|īcis, f.|qui produit, qui cause.
+Ge|operatrix|operātrīx|trīcis, f.|die Bewirkerin, Verursacherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|opinatrix|ŏpīnātrīx|ŏpīnātrīx|5|ŏpīnātrīc||īcis, f.
+LS|
+GG|opinatrix|ŏpīnātrix|īcis|f.||celle qui n'affirme rien, qui se borne aux conjectures|opinatrix|
+GJ|
+Ge|opinatrix|opīnātrīx|trīcis, f.|die Vermuterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oratrix|ōrātrix|ōrātrīx|5|ōrātrīc||īcis, f.
+LS|oratrix|ōrātrix|īcis|f.||She that prays, beseeches, a female suppliant|oratrix|0
+GG|oratrix|ōrātrix|īcis|f.||celle qui prie, qui intercède / c. oratoria|oratrix|
+GJ|oratrix|ōratrix|īcis, f.|- 1 - celle qui intercède. - 2 - l'art oratoire, la rhétorique.
+Ge|Oratrix|Orātrīx||
+FG|oratrix|oratrix icis féminin (orator), celle qui prie, qui intercède.
+Lw|oratrix|ōrātrīx|īcis|f||she that prays, a female suppliant||||oratrix
+YO|
+PO|
+WW||||
+|orbatrix|orbātrīx|ōrbātrīx|5|ōrbātrīc||īcis, f.
+LS|
+GG|orbatrix|orbātrix|īcis|f.||de orbator|orbatrix|
+GJ|
+Ge|orbatrix|orbātrīx||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ordinatrix|ordĭnātrix|ōrdĭnātrīx|5|ōrdĭnātrīc||īcis, f.
+LS|ordinatrix|ordĭnātrix|īcis|f.||she that orders, arranges|ordinatrix|0
+GG|ordinatrix|ordĭnātrix|īcis|f.||ordonnatrice|ordinatrix|
+GJ|ordinatrix|ordĭnātrix|īcis, f.|Aug. ordonnatrice.
+Ge|Ordinatrix|Ordinātrīx||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ostentatrix|ostentātrix|ōstēntātrīx|5|ōstēntātrīc||īcis, f.
+LS|ostentatrix|ostentātrix|īcis|f.||she that displays, boasts|ostentatrix|0
+GG|ostentatrix|ostentātrix|īcis|f.||celle qui étale, qui tire vanité de|ostentatrix|
+GJ|ostentatrix|ostentātrix|īcis, f.|celle qui tire vanité de.
+Ge|ostentatrix|ostentātrīx||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ovispex|ŏvispex|ŏvīspēx|5|ŏvīspĭc||ĭcis, m.
+LS|
+GG|ovispex|ŏvispex|ĭcis|m.||aruspice|ovispex|
+GJ|ovispex|ŏvispex|icis, m. [ovis + specio]|Gloss. Isid. aruspice.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pantex|pantex|pāntēx|5|pāntĭc||ĭcis, m.
+LS|pantex|pantex|ĭcis||||pantex|0
+GG|pantex|pantex|ĭcis|m.|S.|et ordint|pantex|pantex
+GJ|pantex|pantex|icis, m. (surtout au plur. pantices, um)|intestin, panse, abdomen.
+Ge|pantex|pantex||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peccatrix|peccātrix|pēccātrīx|5|pēccātrīc||īcis, f.
+LS|peccatrix|peccātrix|īcis|f.||a female sinner|peccatrix|0
+GG|peccatrix|peccātrix|īcis|f.||pécheresse|peccatrix|
+GJ|peccatrix|peccatrix|īcis, f.|pécheresse.
+Ge|peccatrix|peccātrīx|trīcis, f.|die Sünderin, sündigend, sündhaft
+FG|
+Lw|
+YO|
+PO|
+WW||peccatrix, peccatricis||
+|pellex|pellex|pēllēx|5|pēllĭc||ĭcis, f.
+LS|pellex|pellex|ĭcis|f.||a kept mistress, concubine|paelex|), 
+GG|pellex|pellex|ĭcis|f.|S.|concubine, maîtresse [en gén.] / rivale (d'une f. mariée) / homme prostitué, favori, mignon|pellex|pellex
+GJ|pellex|pellex|ĭcis, f.|- 1 - concubine, maîtresse (d'un homme marié). - 2 - rivale (d’une femme mariée), courtisane. - 3 - homme prostitué, favori, mignon.
+Ge|
+FG|
+Lw|
+YO|
+PO|pellex|pe_llex, pe_llicis : f
+WW||||
+|pendix|pendix|pēndīx|5|pēndĭc||ĭcis, f.
+LS|pendix|pendix|ĭcis|f.|||pendix|0
+GG|pendix|pendix|ĭcis|f.||pendigo|pendix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peragratrix|pĕrā̆grātrix|pĕrā̆grātrīx|5|pĕrā̆grātrīc||īcis, f.
+LS|peragratrix|pĕrā̆grātrix|īcis|f.||she that wanders, travels through|peragratrix|0
+GG|peragratrix|pĕrăgrātrix|īcis|f.||celle qui visite successivement|peragratrix|
+GJ|
+Ge|peragratrix|peragrātrīx|trīcis, f.|die Durchwandrerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perditrix|perdĭtrix|pērdĭtrīx|5|pērdĭtrīc||īcis, f.
+LS|perditrix|perdĭtrix|īcis|f.||she that ruins, destroys|perditrix|0
+GG|perditrix|perdĭtrix|īcis|f.||celle qui perd, qui détruit, fléau|perditrix|
+GJ|perditrix|perdĭtrix|īcis, f.|Hier. celle qui perd, qui détruit, qui corrompt.
+Ge|perditrix|perditrīx|trīcis, f.|die Verderberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peremptrix|pĕremptrix|pĕrēmptrīx|5|pĕrēmptrīc||īcis, f.
+LS|peremptrix|pĕremptrix|īcis|f.||she that destroys, kills|peremptrix|(
+GG|peremptrix|pĕremptrix|īcis|f.||celle qui détruit|peremptrix|
+GJ|peremptrix|peremptrix|īcis, f.|qui détruit, qui anéantit.
+Ge|peremptrix|perēmptrīx|trīcis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perfectrix|perfectrix|pērfēctrīx|5|pērfēctrīc||īcis, f.
+LS|perfectrix|perfectrix|īcis|f.||she that finishes, perfects|perfectrix|0
+GG|perfectrix|perfectrix|īcis|f.||celle qui fait complètement, auteur de|perfectrix|
+GJ|
+Ge|perfectrix|perfectrīx|trīcis, f.|die Vollenderin, Vervollkommnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perlatrix|perlātrīx|pērlātrīx|5|pērlātrīc||īcis, f.
+LS|perlatrix|perlātrix|īcis|f.||she that bears, carries|perlatrix|0
+GG|perlatrix|perlătrix|īcis|f.||porteuse [de lettres]|perlatrix|
+GJ|perlatrix|perlātrix|īcis, f.|porteuse [de lettres].
+Ge|perlatrix|perlātrīx|trīcis, f.|die Überbringerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perscrutatrix|perscrūtātrix|pērscrūtātrīx|5|pērscrūtātrīc||īcis, f.
+LS|perscrutatrix|perscrūtātrix|īcis|f.||an examiner|perscrutatrix|0
+GG|perscrutatrix|perscrūtātrix|īcis|f.||celle qui scrute, qui sonde|perscrutatrix|
+GJ|perscrutatrix|perscrūtātrix|īcis, f.|celle qui scrute, qui sonde.
+Ge|perscrutatrix|perscrūtātrīx|trīcis, f.|die Erforscherin, Ergründerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|persecutrix|persĕcūtrix|pērsĕcūtrīx|5|pērsĕcūtrīc||īcis, f.
+LS|persecutrix|persĕcūtrix|īcis|f.||she that pursues, persecutes|persecutrix|0
+GG|persecutrix|persĕcūtrix|īcis|f.||celle qui poursuit, qui persécute|persecutrix|
+GJ|persecutrix|persĕcutrix|icis, f.|celle qui poursuit, qui persécute.
+Ge|persecutrix|persecūtrīx|trīcis, f.|die Verfolgerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|persuasitrix|persuāsitrīx|pērsŭāsī̆trīx|5|pērsŭāsī̆trīc||īcis, f.
+LS|
+GG|persuasitrix|persuasitrix|īcis|f.|S.|celle qui persuade, qui séduit|persuastrix|-sitrix
+GJ|persuasitrix|persuasitrix|īcis, f. [persuasor]|Plaut. celle qui persuade, qui séduit.
+Ge|persuasitrix|persuāsitrīx|trīcis, f.|die Überrederin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|persuastrix|persuastrix|pērsŭāstrīx|5|pērsŭāstrīc||īcis, f.
+LS|persuastrix|persuastrix|īcis|f.||she that persuades, a, female, persuader.|persuastrix|(
+GG|persuastrix|persuastrix|īcis|f.|S.|celle qui persuade, qui séduit|persuastrix|persuastrix
+GJ|persuastrix|persuastrix|īcis, f. [persuasor]|Plaut. celle qui persuade, qui séduit.
+Ge|persuastrix|persuāstrīx|strīcis, f.|die Überrederin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perturbatrix|perturbātrix|pērtūrbātrīx|5|pērtūrbātrīc||īcis, f.
+LS|perturbatrix|perturbātrix|īcis|f.||she that disquiets, disturbs|perturbatrix|0
+GG|perturbatrix|perturbātrix||f.|S.|perturbateur, perturbatrice|perturbator|-trix
+GJ|perturbatrix|perturbatrix|īcis, f.|perturbatrice.
+Ge|perturbatrix|perturbātrīx|trīcis, f.|die Verwirrerin
+FG|
+Lw|perturbatrix|perturbātrīx|īcis|f||a disturber||||perturbatrix
+YO|
+PO|
+WW||||
+|petitrix|pĕtītrix|pĕtītrīx|5|pĕtītrīc||īcis, f.
+LS|petitrix|pĕtītrix|īcis|f.||A female applicant, candidate|petitrix|0
+GG|petitrix|pĕtītrix|īcis|f.||demanderesse / celle qui brigue|petitrix|
+GJ|petitrix|pĕtītrix|īcis, f.|- 1 - demanderesse. - 2 - celle qui brigue.
+Ge|petitrix|petītrīx|trīcis, f.|die Bewerberin - die Anspruchmacherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|piatrix|pĭātrix|pĭātrīx|5|pĭātrīc||īcis, f.
+LS|piatrix|pĭātrix|īcis|f.||she that appeases the gods by a sacrifice|piatrix|0
+GG|piatrix|pĭātrix|īcis|f.||femme qui fait des cérémonies expiatoires|piatrix|
+GJ|piatrix|pĭātrix|īcis, f.|Fest. celle qui fait des cérémonies expiatoires.
+Ge|piatrix|piātrīx|trīcis, f.|die Sühnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pietaticultrix|pĭĕtātĭcultrix|pĭĕtātĭcūltrīx|5|pĭĕtātĭcūltrīc||īcis, f.
+LS|pietaticultrix|pĭĕtātĭcultrix|īcis|f.||that practises maternal care|pietaticultrix|0
+GG|pietaticultrix|pĭĕtātĭcultrix|īcis|f.||qui a de la piété filiale|pietaticultrix|
+GJ|pietaticultrix|pĭĕtātĭcultrix|īcis, f.|qui a de la piété filiale.
+Ge|pietaticultrix|pietāticultrīx|trīcis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pilatrix|pīlātrīx|pīlātrīx|5|pīlātrīc||īcis, f.
+LS|pilatrix|pĭlātrix|īcis|f.||she that robs, plunders|pilatrix|0
+GG|pilatrix|pīlātrix|īcis|f.||voleuse|pilatrix|
+GJ|pilatrix|pīlātrix|īcis, f.|Titin. voleuse.
+Ge|pilatrix|pilātrīx|trīcis, f.|die Räuberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|piscatrix|piscātrix|pīscātrīx|5|pīscātrīc||īcis, f.
+LS|piscatrix|piscātrix|īcis|f.||she that fishes|piscatrix|0
+GG|piscatrix|piscātrix|īcis|f.||pêcheuse [en parl. d'une grenouille]|piscatrix|
+GJ|piscatrix|piscatrix|īcis, f.|pêcheuse (en parl. d'une grenouille).
+Ge|piscatrix|piscātrīx|trīcis, f.|die Fischerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pistrix|pistrix|pīstrīx|5|pīstrīc||īcis, f.
+LS|pistrix|pistrix|īcis|f.||-I. a woman who pounds corn;, a female baker -II. any sea-monster; a whale, shark, sawfish|pistrix|or 
+GG|pistrix|pistrix|īcis|f.||celle qui fait le pain, boulangère // baleine / la Baleine [constellation]|1 pistrix|
+GJ|pistrix|pistrix|īcis, f.|1 - [pistor] boulangère. 2 - baleine; la Baleine (constellation).
+Ge|pistrix|pīstrīx|trīcis, f.|die Stampferin - die Bäckerin
+FG|pistrix|pistrix icis féminin, baleine; la Baleine (constellation).
+Lw|pistrix|pīstrīx|īcis|f||a seamonster, whale, shark, saw-fish||||pistrix
+YO|
+PO|
+WW||||
+|pix|pix|pīx|5|pĭc||ĭcis, f.
+LS|pix|pix|pĭcis|f.||pitch|pix|0
+GG|pix|pix|ĭcis|f.||poix|pix|
+GJ|pix|pix|picis, f.|poix.
+Ge|pix|pix|picis, f.|das Pech - der Teer
+FG|pix|pix icis féminin, poix.
+Lw|pix|pix|picis|f||pitch, lumps of pitch||||pix
+YO|
+PO|pix|pix, picis : f
+WW||||
+|placatrix|plācātrix|plācātrīx|5|plācātrīc||īcis, f.
+LS|placatrix|plācātrix|īcis|f.||she that appeases, propitiates|placatrix|0
+GG|placatrix|plācātrix|īcis|f.||celle qui apaise|placatrix|
+GJ|placatrix|plācātrix|īcis, f.|celle qui apaise, celle qui fléchit.
+Ge|placatrix|plācātrīx|trīcis, f.|die Besänftigerin, Versöhnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|plantatrix|plantātrix|plāntātrīx|5|plāntātrīc||īcis, f.
+LS|
+GG|plantatrix|plantātrix|īcis|f.||celle qui plante|plantatrix|
+GJ|plantatrix|plantatrix|īcis, f.|Cass. celle qui plante.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|plaustrix|plaustrix|plāustrīx|5|plāustrīc||īcis, f.
+LS|plaustrix|plaustrix|īcis|f.||a female applauder|plaustrix|0
+GG|plaustrix|plaustrix|īcis|f.||celle qui applaudit|plaustrix|
+GJ|plaustrix|plaustrix|īcis, f. [plausor]|celle qui applaudit.
+Ge|plaustrix|plaustrīx|trīcis, m.|die Beifallklatscherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pollicitatrix|pollĭcĭtātrix|pōllĭcĭtātrīx|5|pōllĭcĭtātrīc||īcis, f.
+LS|pollicitatrix|pollĭcĭtātrix|īcis|f.||she that promises|pollicitatrix|0
+GG|pollicitatrix|pollĭcĭtātrix|īcis|f.|S.|celui, celle qui promet|pollicitator|-tātrix
+GJ|pollicitatrix|pollĭcĭtatrix|īcis, f.|celle qui promet.
+Ge|pollicitatrix|pollicitātrīx|trīcis, f.|die Verheißerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pollutrix|pollūtrix|pōllūtrīx|5|pōllūtrīc||īcis, f.
+LS|pollutrix|pollūtrix|īcis|f.||a polluter|pollutrix|0
+GG|pollutrix|pollūtrix|īcis|f.||celle qui souille, qui profane|pollutrix|
+GJ|pollutrix|pollūtrix|īcis, f.|Aug. celle qui souille, qui profane.
+Ge|pollutrix|pollūtrīx|trīcis, f.|die Besudlerin, Entheiligerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|polythrix|pŏlўthrix|pŏlўthrīx|5|pŏlўthrĭc||ĭcis, f.
+LS|polythrix|pŏlythrix|trĭchos|f.|||polytrichon|0
+GG|polythrix|pŏlўthrix|ĭcis|f.|S.|capillaire [plante]|polytrichon|-thrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|populatrix|pŏpŭlātrix|pŏpŭlātrīx|5|pŏpŭlātrīc||īcis, f.
+LS|populatrix|pŏpŭlātrix|īcis|f.||she that, wastes, destroys|populatrix|0
+GG|populatrix|pŏpŭlātrix|īcis|f.||celle qui ravage|populatrix|
+GJ|populatrix|pŏpŭlātrix|īcis, f.|celle qui ravage.
+Ge|populatrix|populātrīx|trīcis, f.|die Verheererin, Verwüsterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|portatrix|portātrix|pōrtātrīx|5|pōrtātrīc||īcis, f.
+LS|portatrix|portātrix|īcis|f.||she that carries|portatrix|0
+GG|portatrix|portātrix|īcis|f.||porteuse|portatrix|
+GJ|
+Ge|portatrix|portātrīx|trīcīs, f.|die Trägerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|possestrix|possestrix|pōssēstrīx|5|pōssēstrīc||īcis, f.
+LS|possestrix|possestrix|īcis|f.||she that possesses|possestrix|0
+GG|possestrix|possestrix|īcis|f.||celle qui possède|possestrix|
+GJ|
+Ge|possestrix|possestrīx|trīcis, f.|die Besitzerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|postulatrix|postŭlātrix|pōstŭlātrīx|5|pōstŭlātrīc||īcis, f.
+LS|postulatrix|postŭlātrix|īcis|f.||she that demands|postulatrix|0
+GG|postulatrix|postŭlātrix|īcis|f.||celle qui demande, qui supplie|postulatrix|
+GJ|
+Ge|postulatrix|pōstulātrīx|trīcis, f.|fordernd
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|potrix|pōtrix|pōtrīx|5|pōtrīc||īcis, f.
+LS|potrix|pōtrix|īcis|f.||a female tippler|potrix|0
+GG|potrix|pōtrix|īcis|f.||buveuse (ivrognesse)|potrix|
+GJ|potrix|pōtrix|icis, f.|buveuse.
+Ge|potrix|pōtrīx|trīcis, f.|die Trinkerin, Säuferin
+FG|potrix|potrix icis féminin (potor), buveuse (ivrognesse).
+Lw|potrix|pōtrīx|īcis|f||a female tippler||||potrix
+YO|
+PO|
+WW||||
+|praecantatrix|praecantātrix|prāecāntātrīx|5|prāecāntātrīc||īcis,, f.
+LS|praecantatrix|praecantātrix|īcis, a false reading for praecantrix||||praecantatrix|0
+GG|praecantatrix|praecantatrix|īcis|f.||v. praecantrix.|praecantatrix|
+GJ|praecantatrix|praecantatrix|īcis, f.|enchanteresse, sorcière.
+Ge|praecantatrix|praecantātrīx|trīcis, f.|die Besprecherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praecantrix|praecantrix|prāecāntrīx|5|prāecāntrīc||īcis, f.
+LS|praecantrix|praecantrix|īcis|f.||an enchantress, sorceress|praecantrix|0
+GG|praecantrix|praecantrix|īcis|f.|S.|celle qui fait des enchantements préventifs|praecantrix|praecantrix
+GJ|
+Ge|praecantrix|praecantrīx|trīcis, f.|die Besprecherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praeceptrix|praeceptrix|prāecēptrīx|5|prāecēptrīc||īcis, f.
+LS|praeceptrix|praeceptrix|īcis|f.||a preceptress|praeceptrix|0
+GG|praeceptrix|praeceptrix|īcis|f.||celle qui enseigne, maîtresse|praeceptrix|
+GJ|praeceptrix|praeceptrix|icis, f.|celle qui enseigne, maîtresse.
+Ge|praeceptrix|praeceptrīx|trīcis, f.|die Unterweiserin
+FG|praeceptrix|praeceptrix icis féminin (praeceptor), celle qui enseigne, maîtresse.
+Lw|praeceptrix|praeceptrīx|īcis|f||a preceptress||||praeceptrix
+YO|
+PO|
+WW||||
+|praedatrix|praedātrix|prāedātrīx|5|prāedātrīc||īcis, f.
+LS|praedatrix|praedātrix|īcis|f.||she that plunders, pillages, robs, the nymph Dryope, Adj.|praedatrix|0
+GG|praedatrix|praedātrix|īcis|f.||celle qui dérobe, qui ravit / adjt, rapace|praedatrix|
+GJ|
+Ge|praedatrix|praedātrīx|trīcis, f.|die Beutemacherin, Räuberin
+FG|praedatrix|praedatrix icis féminin, celle qui dérobe, qui ravit ; adjectif, rapace.
+Lw|
+YO|
+PO|
+WW||||
+|praedicatrix|praedĭcātrix|prāedĭcātrīx|5|prāedĭcātrīc||īcis, f.
+LS|praedicatrix|praedĭcātrix|īcis|f.||she that makes known|praedicatrix|0
+GG|praedicatrix|praedĭcātrix|īcis|f.||celle qui annonce|praedicatrix|
+GJ|
+Ge|praedicatrix|praedicātrīx|trīcis, f.|die Bekanntmacherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praejudex|praejūdex|prāejūdēx|5|prāejūdĭc||ĭcis, m.
+LS|praejudex|praejūdex|ĭcis|m.||one who judges beforehand|praejudex|0
+GG|praejudex|praejūdex|ĭcis|m.||juge en premier ressort|praejudex|
+GJ|praejudex|praejūdex|ĭcis, m.|Gloss. juge en premier ressort.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praemiatrix|praemĭātrix|prāemĭātrīx|5|prāemĭātrīc||īcis, f.
+LS|praemiatrix|praemĭātrix|īcis|f.||she who rewards|praemiatrix|0
+GG|praemiatrix|praemĭātrix|īcis|f.||celle qui récompense|praemiatrix|
+GJ|praemiatrix|praemiatrix|īcis, f.|celle qui récompense.
+Ge|praemiatrix|praemiātrīx|trīcis, f.|die Belohnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praenuntiatrix|praenuntĭātrix|prāenūntĭātrīx|5|prāenūntĭātrīc||īcis, f.
+LS|praenuntiatrix|praenuntĭātrix|īcis|f.||she that foretells, predicts|praenuntiatrix|0
+GG|praenuntiatrix|praenuntĭātrix|īcis|f.||celle qui annonce d'avance|praenuntiatrix|
+GJ|praenuntiatrix|praenuntiatrix|īcis, f.|celle qui annonce.
+Ge|praenuntiatrix|praenūntiātrīx|trīcis, f.|die Vorherverkündigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praestigiatrix|praestīgĭātrix|prāestīgĭātrīx|5|prāestīgĭātrīc||īcis, f.
+LS|praestigiatrix|praestigĭātrix|īcis|f.||she who plays tricks, juggles, deceives|praestigiatrix|0
+GG|praestigiatrix|praestīgĭātrix|īcis|f.||trompeuse|praestigiatrix|
+GJ|praestigiatrix|praestigiatrix|īcis, f.|trompeuse.
+Ge|praestigiatrix|praestīgiātrīx|trīcis, f.|die Gauklerin, Taschenspielerin, Betrügerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praevaricatrix|praevārĭcātrix|prāevārĭcātrīx|5|prāevārĭcātrīc||īcis, f.
+LS|praevaricatrix|praevārĭcātrix|īcis|f.||she who transgresses, sins|praevaricatrix|0
+GG|praevaricatrix|praevārĭcātrix|īcis|f.||celle qui transgresse|praevaricatrix|
+GJ|praevaricatrix|praevārĭcātrix|īcis, f.|Aug. Hier. qui manque à son devoir.
+Ge|praevaricatrix|praevāricātrīx|trīcis, f.|die Sünderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praeviatrix|praevĭātrīx|prāevĭātrīx|5|prāevĭātrīc||īcis, f.
+LS|
+GG|praeviatrix|praevĭātrix|īcis|f.||qui montre le chemin|praeviatrix|
+GJ|
+Ge|praeviatrix|praeviātrīx|trīcis, f.|die Vorausgängerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|precatrix|prĕcātrīx|prĕcātrīx|5|prĕcātrīc||īcis, f.
+LS|
+GG|precatrix|prĕcātrix|īcis|f.||celle qui intercède|precatrix|
+GJ|
+Ge|precatrix|precātrīx|trīcis, f.|die Bitterin, Fürbitterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|procreatrix|prōcrĕātrix|prōcrĕātrīx|5|prōcrĕātrīc||īcis, f.
+LS|procreatrix|prōcrĕātrix|Icis|f.||she that brings forth, a mother|procreatrix|0
+GG|procreatrix|prōcrĕātrix|īcis|f.||mère [fig.]|procreatrix|
+GJ|procreatrix|procreatrix|īcis, f.|mère.
+Ge|procreatrix|prōcreātrīx|trīcis, f.|die Erzeugerin, Mutter
+FG|procreatrix|procreatrix icis féminin, mère (figuré).
+Lw|procreatrix|prōcreātrīx|īcis|f||she that brings forth, a mother||||procreatrix
+YO|
+PO|
+WW||||
+|procuratrix|prōcūrātrix|prōcūrātrīx|5|prōcūrātrīc||īcis, f.
+LS|procuratrix|prōcūrātrix|īcis|f.||a governess, protectress|procuratrix|0
+GG|procuratrix|prōcūrātrix|īcis|f.||celle qui a soin de, surveillante [fig.]|procuratrix|
+GJ|procuratrix|prōcūrātrix|īcis, f.|celle qui a soin de, gardienne.
+Ge|procuratrix|prōcūrātrīx|trīcis, f.|die Besorgerin
+FG|procuratrix|procuratrix icis féminin (procuro), surveillante.
+Lw|procuratrix|prōcūrātrīx|īcis|f||a governess, protectress||||procuratrix
+YO|
+PO|
+WW||||
+|proditrix|prōdĭtrix|prōdĭtrīx|5|prōdĭtrīc||īcis, f.
+LS|proditrix|prōditrix|īcis|f.||a female betrayer, a traitress|proditrix|0
+GG|proditrix|prōdĭtrix|īcis|f.||celle qui révèle, révélatrice / celle qui trahit [qqn]|proditrix|
+GJ|
+Ge|proditrix|prōditrīx|trīcis, f.|die Verräterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|progenitrix|prōgĕnī̆trix|prōgĕnī̆trīx|5|prōgĕnī̆trīc||īcis, f.
+LS|progenitrix|prōgĕnī̆trix|īcis|f.||the foundress, general mother|progenitrix|(
+GG|progenitrix|prōgĕnĭtrix|īcis|f.||aïeule, grand-mère|progenitrix|
+GJ|progenitrix|prōgĕnĭtrix|īcis, f.|aïeule, grand-mère.
+Ge|progenitrix|prōgenitrīx|trīcis, f.|die Stammutter, Ahnfrau
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|propitiatrix|prŏpĭtĭātrix|prŏpĭtĭātrīx|5|prŏpĭtĭātrīc||īcis, f.
+LS|propitiatrix|prŏpĭtĭātrix|īcis|f.||a propitiatress|propitiatrix|0
+GG|propitiatrix|prŏpĭtĭātrix|īcis|f.||celle qui intercède pour|propitiatrix|
+GJ|propitiatrix|prŏpĭtĭātrix|īcis, f.|celle qui intercède pour.
+Ge|propitiatrix|propitiātrīx|trīcis, f.|die Versöhnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|propugnatrix|prōpugnātrix|prōpūgnātrīx|5|prōpūgnātrīc||īcis, f.
+LS|propugnatrix|prōpugnātrix|īcis|f.||she that defends, a protectress|propugnatrix|0
+GG|propugnatrix|prōpugnātrix|īcis|f.||celle qui éloigne [un danger]|propugnatrix|
+GJ|
+Ge|propugnatrix|prōpūgnātrīx|trīcis, f.|die Verfechterin, Verteidigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prosatrix|prōsătrix|prōsătrīx|5|prōsătrīc||īcis, f.
+LS|prosatrix|prōsatrix|īcis|f.||an ancestress|prosatrix|0
+GG|prosatrix|prōsătrix|īcis|f.||mère|prosatrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prospex|prōspex|prōspēx|5|prōspĭc||ĭcis, m.
+LS|prospex|prōspex|ĭcis|m.||one foreseeing, a foreseer|prospex|0
+GG|prospex|prospex|ĭcis|m.||qui prévoit, prophète|prospex|
+GJ|
+Ge|prospex|prōspex|icis, m.|voraussehend - der Vorherseher
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|provocatrix|prōvŏcātrix|prōvŏcātrīx|5|prōvŏcātrīc||īcis, f.
+LS|provocatrix|prōvŏcātrix|īcis|f.||she that entices, med.|provocatrix|0
+GG|provocatrix|prōvŏcātrix|īcis|f.||celle qui provoque|provocatrix|
+GJ|provocatrix|prōvŏcātrix|īcis, f.|Lact. celle qui provoque.
+Ge|provocatrix|prōvocātrīx|trīcis, f.|hervorlockend, reizend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pternix|pternix|ptērnīx|5|ptērnĭc||ĭcis, f.
+LS|pternix|pternix|ĭcis|f.||the straight stem of a plant|pternix|0
+GG|pternix|pternix|ĭcis|f.||tige du cardon [plante]|pternix|
+GJ|pternix|pternix|ĭcis, f.|tige de cactus.
+Ge|pternix|pternix|icis|der gerade Stengel der Pflanze
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|publicatrix|pūblĭcātrix|pūblĭcātrīx|5|pūblĭcātrīc||īcis, f.
+LS|publicatrix|pūblĭcātrix|īcis|f.||she that publishes, exposes|publicatrix|0
+GG|publicatrix|pūblĭcātrix|īcis|f.|S.|celui, celle qui divulgue|publicator|pūblĭcātrix
+GJ|publicatrix|pūblĭcātrix|icis, f.|Arn. celle qui divulgue.
+Ge|publicatrix|pūblicātrīx|trīcis, f.|Preisgeberin, Feilbieterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pugnatrix|pugnātrix|pūgnātrīx|5|pūgnātrīc||īcis, f.
+LS|pugnatrix|pugnātrix|īcis|f.|Adj.|combative, martial|pugnatrix|0
+GG|pugnatrix|pugnātrix|īcis|f.||guerrière / une combattante|pugnatrix|
+GJ|pugnatrix|pugnātrix|īcis, f.|- 1 - guerrière. - 2 - une combattante.
+Ge|pugnatrix|pūgnātrīx|trīcis, f.|die Fechterin - streitbar
+FG|pugnatrix|pugnatrix icis féminin, guerrière.
+Lw|
+YO|
+PO|
+WW||||
+|purgatrix|purgātrix|pūrgātrīx|5|pūrgātrīc||īcis, f.
+LS|purgatrix|purgātrix|īcis|f.||she that cleanses, purifies: cleansing, purifying|purgatrix|0
+GG|purgatrix|purgātrix|īcis|f.||celle qui purifie|purgatrix|
+GJ|
+Ge|purgatrix|pūrgātrīx|trīcis, f.|reinigend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quadruplex|quā̆drŭplex|qụā̆drŭplēx|7|qụā̆drŭplĭc||ĭcis, n.
+LS|quadruplex|quā̆drŭplex|ĭcis|n.|adj.|Fourfold, quadruple|quadruplex|0
+GG|quadruplex|quădrŭplex|ĭcis|||quadruple / [poét.] quatre / subst. n., le quadruple|quadruplex|
+GJ|quadruplex|quădrŭplex|ĭcis, adj.|quadruple, quatre.
+Ge|quadruplex|quadruplex|plicis|vierfältig, vierfach - das Vierfache - vier
+FG|
+Lw|quadruplex|quadruplex|icis||adj.|fourfold, quadruple, Four, a fourfold amount||||quadruplex
+YO|
+PO|quadruplex|quadruplex, quadruplicis : a
+WW||quadruplex, quadruplicis||
+|ramex|rāmex|rāmēx|5|rāmĭc||ĭcis, m.
+LS|ramex|rāmex|ĭcis|m.||The blood-vessels of the lungs|ramex|0
+GG|ramex|rāmex|ĭcis|m.||bâton / pl., (branches) vaisseaux de la poitrine, poumon / hernie, varicocèle|ramex|
+GJ|ramex|rāmex|ĭcis, m.|- 1 - pieu, bâton, perche. - 2 - hernie, varicocèle. - 3 - au plur. vaisseaux du poumon, poumons.
+Ge|ramex|rāmex|icis, m.|der Bruch - der Aderbruch, Hodenbruch - die Lungengefäße, Lunge
+FG|ramex|ramex icis masculin (ramus),
+Lw|ramex|rāmex|icis|m||||||ramex
+YO|
+PO|
+WW||||
+|raptrix|raptrix|rāptrīx|5|rāptrīc||īcis, f.
+LS|raptrix|raptrix|īcis|f.||she that carries off, ravishes|raptrix|0
+GG|raptrix|raptrix|īcis|f.||celle qui ravit|raptrix|
+GJ|raptrix|raptrix|īcis, f.|celle qui fait un enlèvement, celle qui ravit.
+Ge|raptrix|raptrīx|trīcis, f.|raubend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rebellatrix|rĕbellātrix|rĕbēllātrīx|5|rĕbēllātrīc||īcis, f.
+LS|rebellatrix|rĕbellātrix|īcis|f.||she that revolts, rebels|rebellatrix|0
+GG|rebellatrix|rĕbellātrix|īcis|f.||celle qui se révolte, rebelle|rebellatrix|
+GJ|rebellatrix|rĕbellātrix|īcis, f.|celle qui se rebelle, une rebelle.
+Ge|rebellatrix|rebellātrīx|trīcis, f.|die den Krieg (oft) erneuernde, sich - Sieger auflehnende
+FG|rebellatrix|rebellatrix icis féminin, celle qui se révolte, rebelle.
+Lw|rebellatrix|rebellātrīx|īcis|f||she that renews war, rebel||||rebellatrix
+YO|
+PO|rebellatrix|rebella_tri_x, rebella_tri_cis : a
+WW||||
+|receptatrix|rĕceptātrīx|rĕcēptātrīx|5|rĕcēptātrīc||īcis, f.
+LS|
+GG|receptatrix|rĕceptātrix|īcis|f.||recéleuse|receptatrix|
+GJ|receptatrix|rĕceptātrix|īcis, f. [recipio]|Hier. recéleuse.
+Ge|receptatrix|receptātrīx|trīcis, f.|die Aufnehmerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|receptrix|rĕceptrix|rĕcēptrīx|5|rĕcēptrīc||īcis, f.
+LS|receptrix|rĕceptrix|īcis|f.||She that receives|receptrix|0
+GG|receptrix|rĕceptrix|īcis|f.||recéleuse|receptrix|
+GJ|receptrix|rĕceptrix|icis, f. [receptor]|- 1 - Cic. celle qui recèle, recéleuse. - 2 - celle qui reçoit.
+Ge|receptrix|receptrīx|trīcis, f.|die Aufnehmerin - die Hehlerin
+FG|receptrix|receptrix icis féminin (receptor), receleuse.
+Lw|receptrix|receptrīx|īcis|f||a harborer, concealer||||receptrix
+YO|
+PO|
+WW||||
+|rectrix|rectrix|rēctrīx|5|rēctrīc||īcis, f.
+LS|rectrix|rectrix|īcis|f.||she that leads, guides; a directress, governess, mistress|rectrix|0
+GG|rectrix|rectrix|īcis|f.||directrice, maîtresse, reine|rectrix|
+GJ|rectrix|rectrix|icis, f.|qui guide, qui gouverne, directrice, maîtresse, reine.
+Ge|rectrix|rēctrīx|trīcis, f.|die Lenkerin, Leiterin
+FG|rectrix|rectrix icis féminin, directrice, maîtresse, reine.
+Lw|
+YO|
+PO|
+WW||||
+|redemptrix|rĕdemptrix|rĕdēmptrīx|5|rĕdēmptrīc||īcis, f.
+LS|redemptrix|rĕdemptrix|īcis|f.||she that redeems, a redemptress|redemptrix|0
+GG|redemptrix|rĕdemptrix|īcis|f.||celle qui rachète|redemptrix|
+GJ|
+Ge|redemptrix|redēmptrīx|trīcis, f.|die Erlöserin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|refrigeratrix|rē̆frīgĕrātrix|rē̆frīgĕrātrīx|5|rē̆frīgĕrātrīc||īcis, f.
+LS|refrigeratrix|rē̆frīgĕrātrix|īcis|f.||she that cools; cooling|refrigeratrix|0
+GG|refrigeratrix|rĕfrīgĕrātrix|īcis|||rafraîchissante|refrigeratrix|
+GJ|refrigeratrix|refrigeratrix|īcis, f.|qui rafraîchit.
+Ge|refrigeratrix|refrīgerātrīx|trīcis, f.|abkühlend
+FG|refrigeratrix|refrigeratrix icis féminin, rafraîchissante.
+Lw|
+YO|
+PO|
+WW||||
+|relatrix|rĕlātrix|rĕlātrīx|5|rĕlātrīc||īcis, f.
+LS|relatrix|rĕlātrix|īcis|f.||a female teller, narrator|relatrix|0
+GG|relatrix|rĕlātrix|īcis|f.||celle qui rapporte, qui raconte|relatrix|
+GJ|relatrix|rĕlātrix|īcis, f. [relator]|qui rapporte, qui fait un récit.
+Ge|relatrix|relātrīx|trīcis, f.|Bericht erstattend, berichtend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|relictrix|rĕlictrīx|rĕlīctrīx|5|rĕlīctrīc||īcis, f.
+LS|
+GG|relictrix|rĕlictrix|īcis|f.|S.|celui, celle qui abandonne|relictor|rĕlictrix
+GJ|relictrix|rĕlictrix|īcis, f.|Prisc. celle qui abandonne, qui n'a égard pour rien.
+Ge|relictrix|relictrīx|trīcis, f.|eine, die im Stiche läßt, nicht beachtet
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|reliquatrix|rĕlĭquātrix|rĕlĭqụātrīx|5|rĕlĭqụātrīc||īcis, f.
+LS|reliquatrix|rĕlĭquātrix|īcis|f.||she that is in arrears, a defaultress|reliquatrix|0
+GG|reliquatrix|rĕlĭquātrix|īcis|f.||qui doit encore compte de quelques péchés|reliquatrix|
+GJ|
+Ge|reliquatrix|reliquātrīx|trīcis, f.|die Restantin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|remoratrix|rĕmŏrātrīx|rĕmŏrātrīx|5|rĕmŏrātrīc||īcis, f.
+LS|remoratrix|rĕmŏrātrix|īcis|f.||she that delays, hinders|remoratrix|0
+GG|
+GJ|
+Ge|remoratrix|remorātrīx|trīcis, f.|die Säumerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|remuneratrix|rĕmūnĕrātrix|rĕmūnĕrātrīx|5|rĕmūnĕrātrīc||īcis, f.
+LS|remuneratrix|rĕmūnĕrātrix|īcis|f.||she that repays, avenges|remuneratrix|0
+GG|remuneratrix|rĕmūnĕrātrix|īcis|f.||rémunératrice|remuneratrix|
+GJ|remuneratrix|rĕmūnĕrātrix|īcis, f.|Ambr. celle qui rémunère, qui récompense.
+Ge|remuneratrix|remūnerātrīx|trīcis, f.|die Vergelterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|repensatrix|rĕpensātrix|rĕpēnsātrīx|5|rĕpēnsātrīc||īcis, f.
+LS|repensatrix|rĕpensātrix|īcis|f.||she who recompenses|repensatrix|0
+GG|repensatrix|rĕpensātrix|īcis|f.||celle qui donne une compensation|repensatrix|
+GJ|
+Ge|repensatrix|repēnsātrīx|trīcis, f.|die Wiedervergelterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|repertrix|rĕpertrix|rĕpērtrīx|5|rĕpērtrīc||īcis, f.
+LS|repertrix|rĕpertrix|īcis|f.||she that finds out, an inventress, absol.|repertrix|0
+GG|repertrix|rĕpertrix|īcis|f.||inventrice|repertrix|
+GJ|repertrix|rĕpertrix|īcis, f.|inventrice.
+Ge|repertrix|repertrīx|trīcis, f.|die Erfinderin, Urheberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|reprobatrix|rĕprŏbātrix|rĕprŏbātrīx|5|rĕprŏbātrīc||īcis, f.
+LS|reprobatrix|rĕprŏbātrix|īcis|f.||she that condemns, reprobates|reprobatrix|0
+GG|reprobatrix|rĕprŏbātrix|īcis|f.|S.|celui, celle qui réprouve|reprobator|rĕprŏbātrix
+GJ|
+Ge|reprobatrix|reprobātrīx|trīcis, f.|die Verwerferin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|resignatrix|rĕsignātrix|rĕsīgnātrīx|5|rĕsīgnātrīc||īcis, f.
+LS|resignatrix|rĕsignātrix|īcis|f.||she that unseals, opens|resignatrix|0
+GG|resignatrix|rĕsignātrix|īcis|f.||celle qui descelle ce qui est scellé = qui touche à une chose défendue|resignatrix|
+GJ|
+Ge|resignatrix|resīgnātrīx|trīcis, f.|die Entsieglerin, Eröffnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|restitutrix|rēstĭtūtrix|rēstĭtūtrīx|5|rēstĭtūtrīc||īcis, f.
+LS|restitutrix|rēstĭtūtrix|īcis|f.||she that gives back, a restorer|restitutrix|0
+GG|restitutrix|restĭtūtrix|īcis|f.||celle qui restitue|restitutrix|
+GJ|
+Ge|restitutrix|restitūtrīx|trīcis, f.|die Wiedererstatterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|retentatrix|rĕtentātrīx|rĕtēntātrīx|5|rĕtēntātrīc||īcis, f.
+LS|retentatrix|rĕtentātrix|īcis|f.||she that retains|retentatrix|0
+GG|retentatrix|rētentātrix|īcis||adj.|adj. f., qui retient|retentatrix|
+GJ|retentatrix|rĕtentātrix|īcis, f. [retentator]|Macr. qui retient, détentrice.
+Ge|retentatrix|retentātrīx|trīcis, f.|die Zurückhalterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|retifex|rētĭfex|rētĭfēx|5|rētĭfĭc||ĭcis, m.
+LS|retifex|rētĭfex|fĭcis|m.||a netmaker|retifex|0
+GG|retifex|rētĭfex|ĭcis|m.||fabricant de filets|retifex|
+GJ|
+Ge|retifex|rētifex|ficis, m.|der Netzverfertiger
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ructatrix|ructātrix|rūctātrīx|5|rūctātrīc||īcis, f.
+LS|ructatrix|ructātrix|īcis|f.||she that belches|ructatrix|0
+GG|ructatrix|ructātrix|īcis|f.||qui donne des rapports|ructatrix|
+GJ|ructatrix|ructātrix|īcis, f.|qui fait faire des rots.
+Ge|ructatrix|ructātrīx|trīcis, f.|Aufstoßen-, Rülpsen verursachend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rumex|rŭmex|rŭmēx|5|rŭmĭc||ĭcis, m. f.
+LS|rumex|rŭmex|ĭcis|m. f.||I. m. a missile weapon II. f. sorrel|rumex1|0
+GG|rumex|rŭmex|ĭcis|m. f.||rumex ou petite oseille [plante] / espèce de dard|rumex|
+GJ|rumex|rumex|icis, m. et f.|- 1 - rumex ou petite oseille (plante). - 2 - sorte de dard.
+Ge|rumex|rumex|icis, c.|der Ampfer, Sauerampfer - das Brandgeschoß
+FG|rumex|rumex icis,
+Lw|
+YO|
+PO|
+WW||||
+|rupex|rŭpex|rŭpēx|5|rŭpĭc||ĭcis, m.
+LS|rupex|rŭpex|ĭcis|m.||a rough, uncultivated man; a boor, rustic, clown|rupex|0
+GG|rupex|rŭpex|ĭcis|m.||homme grossier, lourdaud, rustaud|rupex|
+GJ|rupex|rupex|icis, m.|homme grossier, un lourdaud.
+Ge|rupex|rupex|icis, m.|der Steinblock - steinern - ein Klotz - ein Rüpel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sacrificatrix|săcrĭfĭcātrīx|săcrĭfĭcātrīx|5|săcrĭfĭcātrīc||īcis, f.
+LS|
+GG|sacrificatrix|săcrĭfĭcātrix|īcis|f.||sacrificatrice [épith. de Vénus]|sacrificatrix|
+GJ|sacrificatrix|săcrĭfĭcātrix|īcis, f.|sacrificatrice [épith. de Vénus].
+Ge|sacrificatrix|sacrificātrīx|trīcis, f.|die Opfrerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salix|sălix|sălīx|5|sălĭc||ĭcis, f.
+LS|salix|sălix|ĭcis|f.||a willow-tree, willow, sallow|salix|0
+GG|salix|sălix|ĭcis|f.||saule [arbre] / baguette de saule ou d'osier|salix|
+GJ|salix|salix|salicis, f.|- 1 - saule, osier. - 2 - baguette de saule.
+Ge|salix|salix|icis, f.|die Weide - der Weidenbaum - Weidenruten
+FG|salix|salix icis féminin, saule (arbre).
+Lw|salix|salix|icis|f||a willow-tree, willow, sallow||||salix
+YO|
+PO|salix|salix, salicis : f
+WW||||
+|saltatrix|saltātrix|sāltātrīx|5|sāltātrīc||īcis, f.
+LS|saltatrix|saltātrix|īcis|f.||a female dancer, dancing-girl|saltatrix|0
+GG|saltatrix|saltātrix|īcis|f.||danseuse, mime, pantomime|saltatrix|
+GJ|saltatrix|saltatrix|īcis, f.|danseuse.
+Ge|saltatrix|saltātrīx|trīcis|die Tänzerin
+FG|saltatrix|saltatrix icis féminin (saltator), danseuse, mime.
+Lw|saltatrix|saltātrīx|īcis|f||a female dancer, dancing-girl||||saltatrix
+YO|
+PO|
+WW||||
+|salutatrix|sălūtātrix|sălūtātrīx|5|sălūtātrīc||īcis, f.
+LS|salutatrix|sălūtātrix|īcis|f.||she that salutes;|salutatrix|0
+GG|salutatrix|sălūtātrix|īcis||adj.|qui salue|salutatrix|
+GJ|salutatrix|sălūtātrix|īcis, f.|qui salue.
+Ge|salutatrix|salūtātrīx|trīcis, f.|grüßend, begrüßend - die Aufwartung-, (den Hof) machend
+FG|salutatrix|salutatrix icis, adjectif féminin (salutator), qui salue.
+Lw|salutatrix|salūtātrīx|īcis|f||that makes complimentary visits, of morning callers||||salutatrix
+YO|
+PO|
+WW||||
+|salvatrix|salvātrīx|sālvātrīx|5|sālvātrīc||īcis, f.
+LS|
+GG|salvatrix|salvātrix|īcis|f.||celle qui sauve|salvatrix|
+GJ|salvatrix|salvātrix|īcis, f.|celle qui sauve.
+Ge|salvatrix|salvātrīx|trīcis, f.|die Erretterin, Erlöserin - errettend, erlösend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sandix|sandix|sāndīx|5|sāndīc||īcis, m. f.
+LS|sandix|sandix||f.||vermilion, a color like vermilion|sandix|(
+GG|sandix|sandix|īcis|m. f.|S.|sorte de rouge artificiel / plante qui fournit une teinture rouge|sandix|sandix
+GJ|sandix|sandix|īcis (sandyx, ycis), m. et f.|- 1 - sandyx (arbuste à fleurs rouges). - 2 - rouge artificiel.
+Ge|
+FG|sandix|sandix icis ou sandyx ycis masculin ou féminin, sorte de rouge artificiel.
+Lw|
+YO|
+PO|
+WW||||
+|sandyx|sandyx|sāndȳx|7|sāndīc||īcis, f
+LS|sandyx|sandyx||f.||vermilion, a color like vermilion|sandix|(
+GG|sandyx|sandyx||m. f.|S.|sorte de rouge artificiel / plante qui fournit une teinture rouge|sandix|sandyx
+GJ|sandyx|sandyx||c. sandix.
+Ge|sandyx|sandȳx||eine Staude mit scharlachroter Blume - 45 sandyx - eine rote Mineralfarbe - die Mennige
+FG|
+Lw|sandyx|sandȳx|īcis|f||a bright red, vermilion||||sandyx
+YO|
+PO|sandyx|sandyx, sandycis : f
+WW||||
+|sarcinatrix|sarcĭnātrix|sārcĭnātrīx|5|sārcĭnātrīc||īcis, f.
+LS|sarcinatrix|sarcĭnātrix|īcis|f.||she that mends, patches|sarcinatrix|0
+GG|sarcinatrix|sarcĭnātrix|īcis|f.|S.|raccommodeuse, couturière // celle qui garde les bagages|1 sarcinator|-trix
+GJ|sarcinatrix|sarcĭnātrix|īcis, f.|1 - raccommodeuse, couturière. 2 - Fronto. celle qui garde les bagages.
+Ge|sarcinatrix|sarcinātrīx|trīcis, f.|die Schneiderin, Flickerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sarcitrix|sarcītrīx|sārcītrīx|5|sārcītrīc||īcis, f.
+LS|
+GG|sarcitrix|sarcītrix|īcis|f.||raccommodeuse, ravaudeuse|sarcitrix|
+GJ|
+Ge|sarcitrix|sarcītrīx|trīcis, f. = sartrix, Non. 56, 22|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sartrix|sartrix|sārtrīx|5|sārtrīc||īcis, f.
+LS|sartrix|sartrix|īcis|f.||she who patches, mends|sartrix|0
+GG|sartrix|sartrix|īcis|f.||raccommodeuse|sartrix|
+GJ|sartrix|sartrix|icis, f.|Fronto. raccommodeuse, ravaudeuse.
+Ge|sartrix|sartrīx|trīcis. f.|die Flickerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|saurix|saurix|sāurīx|5|sāurĭc||ĭcis, m.
+LS|saurix|saurix|||||saurix|v. sorix.
+GG|saurix|saurix|ĭcis|m.|S.|sorte de chouette|saurix|saurix
+GJ|saurix|saurix|ĭcis, m.|sorte de chouette.
+Ge|saurix|saurix|icis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scandix|scandix|scāndīx|5|scāndīc||īcis, f.
+LS|scandix|scandix|īcis|f.||the herb chervil|scandix|0
+GG|scandix|scandix|īcis|f.||cerfeuil musqué|scandix|
+GJ|
+Ge|scandix|scandīx|īcis, f.|der Kerbel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scrutatrix|scrūtātrix|scrūtātrīx|5|scrūtātrīc||īcis, f.
+LS|scrutatrix|scrūtātrix|īcis|f.||she that searches, examines, inquires into|scrutatrix|0
+GG|scrutatrix|scrūtātrix|īcis|f.||celle qui recherche [fig.]|scrutatrix|
+GJ|
+Ge|scrutatrix|scrūtātrīx|trīcis, f.|die Aufsucherin, Nachforscherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sectatrix|sectātrīx|sēctātrīx|5|sēctātrīc||īcis, f.
+LS|
+GG|sectatrix|sectātrix|īcis|f.||celle qui suit une doctrine, etc.|sectatrix|
+GJ|
+Ge|sectatrix|sectātrīx|trīcis, f.|die Anhängerin, Freundin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sectrix|sectrix|sēctrīx|5|sēctrīc||īcis, f.
+LS|sectrix|sectrix|īcis|f.||she that purchases confiscated goods|sectrix|0
+GG|sectrix|sectrix|īcis|f.||acheteuse de biens confisqués|sectrix|
+GJ|sectrix|sectrix|, īcis, f. [sector, seco]|Plin. acheteuse de biens confisqués.
+Ge|sectrix|sectrīx|trīcis, f.|die Ersteherin, Aufkäuferin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|seductrix|sēductrix|sēdūctrīx|5|sēdūctrīc||īcis, f.
+LS|seductrix|sēductrix|īcis|f.||she that seduces|seductrix|0
+GG|seductrix|sēductrix|īcis|f.||séductrice|seductrix|
+GJ|seductrix|sēductrix|īcis, f.|Tert. séductrice.
+Ge|seductrix|sēductrīx|trīcis, f.|die Verführerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sentix|sentix|sēntīx|5|sēntĭc||ĭcis, m.
+LS|sentix|sentix|ĭcis|m.||the plant, dog rose, wildbrier|sentix|0
+GG|sentix|sentix|īcis|f.||c. sentis|sentix|
+GJ|sentix|sentix|ĭcis, m.|c. sentis, is, m.
+Ge|sentix|sentix|ticis, m.|der Hagebuttenstrauch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|separatrix|sēpărātrix|sēpărātrīx|5|sēpărātrīc||īcis, f.
+LS|separatrix|sēpărātrix|īcis|f.||she that separates|separatrix|0
+GG|separatrix|sēpărātrix|īcis|f.|S.|qui sépare|separator|sēpărātrix
+GJ|separatrix|separatrix|īcis, f.|celle qui sépare.
+Ge|separatrix|sēparātrīx|trīcis|die Absondrerin, Trennerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sermocinatrix|sermōcĭnātrix|sērmōcĭnātrīx|5|sērmōcĭnātrīc||īcis, f.
+LS|sermocinatrix|sermōcĭnātrix|īcis|f.||that converses, adapted to conversation;|sermocinatrix|0
+GG|sermocinatrix|sermōcĭnātrix|īcis|f.||une bavarde / qui concerne les entretiens de la vie courante|sermocinatrix|
+GJ|sermocinatrix|sermocinatrix|īcis, f.|- 1 - celle qui cause, qui bavarde. - 2 - l'art du dialogue (t. de rhét.).
+Ge|sermocinatrix|sermōcinātrīx|trīcis, f.|die Sich-Unterredende - die Schwätzerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|servatrix|servātrix|sērvātrīx|5|sērvātrīc||īcis, f.
+LS|servatrix|servātrix|īcis|f.||She that keeps, preserves, a, savior, deliverer, an epithet of goddesses|servatrix|0
+GG|servatrix|servātrix|īcis|||fém. de servator|servatrix|
+GJ|servatrix|servatrix|īcis, f.|- 1 - celle qui sauve, libératrice. - 2 - gardienne, protectrice. - 3 - celle qui se conforme à.
+Ge|servatrix|servātrīx|trīcis|die Bewahrerin - die Erhalterin, Erretterin - die Bewahrerin - Erfüllerin, Beobachterin
+FG|servatrix|servatrix cis, féminin de servator.
+Lw|servatrix|servātrīx|īcis|f||she that preserves, a saviour, deliverer||||servatrix
+YO|
+PO|servatrix|serva_trix, serva_tri_cis : f
+WW||||
+|sibilatrix|sībĭlātrīx|sībĭlātrīx|5|sībĭlātrīc||īcis, f.
+LS|sibilatrix|sībĭlātrix|īcis||adj.|f., hissing, whistling|sibilatrix|0
+GG|sibilatrix|sĭbĭlātrix|īcis|f.||qui siffle [en parl. de la syrinx]|sibilatrix|
+GJ|sibilatrix|sībĭlātrix|īcis, f.|Capel. qui siffle.
+Ge|sibilatrix|sībilātrīx|trīcis, f.|zischend, pfeifend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|signifex|signĭfex|sīgnĭfēx|5|sīgnĭfĭc||ĭcis, m.
+LS|signifex|signĭfex|fĭcis|m.||an image-maker, carver, statuary|signifex|0
+GG|signifex|signĭfex|ĭcis|m.||statuaire|signifex|
+GJ|signifex|signĭfex|fĭcis, m.|Apul. statuaire.
+Ge|signifex|sīgnifex|ficis, m.|der Bildner, Bildgießer, Bildhauer
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|silvicultrix|silvĭcultrix|sīlvĭcūltrīx|5|sīlvĭcūltrīc||īcis, adj. f.
+LS|silvicultrix|silvĭcultrix|īcis||adj.|f., living in the woods|silvicultrix|(
+GG|silvicultrix|silvĭcultrix|īcis||adj.|adj. f., qui habite les forêts|silvicultrix|
+GJ|silvicultrix|silvĭcultrix|īcis, adj. f.|qui habite les forêts.
+Ge|silvicultrix|silvicultrīx|trīcis, f.|im Walde wohnend
+FG|
+Lw|silvicultrix|silvicultrīx|īcis|f|adj.|living in the woods||||silvicultrix
+YO|
+PO|
+WW||silvicultrix, silvicultricis||
+|simpulatrix|simpŭlātrix|sīmpŭlātrīx|5|sīmpŭlātrīc||īcis, f.
+LS|simpulatrix|simpŭlātrix|īcis||||simpulatrix|0
+GG|simpulatrix|simpŭlātrix|icis|f.||femme qui tient la simpule|simpulatrix|
+GJ|
+Ge|simpulatrix|simpulātrīx|trīcis|die Eingießerin des Weines in die Opferschale vermittelst des
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|simpuviatrix|simpŭvĭātrīx|sīmpŭvĭātrīx|5|sīmpŭvĭātrīc||īcis, 
+LS|
+GG|simpuviatrix|simpŭvĭātrix|īcis|||c. simpulatrix|simpuviatrix|
+GJ|
+Ge|simpuviatrix|simpuviātrīx|trīcis, f.|die Kredenzerin des
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|simulatrix|sĭmŭlātrix|sĭmŭlātrīx|5|sĭmŭlātrīc||īcis, f.
+LS|simulatrix|sĭmŭlātrix|īcis|f.||a, transformer;|simulatrix|0
+GG|simulatrix|sĭmŭlātrix|īcis|f.||celle qui transforme, qui métamorphose [Circé]|simulatrix|
+GJ|simulatrix|simulatrix|īcis, f.|Stat. enchanteresse, magicienne.
+Ge|simulatrix|simulātrīx|trīcis|die Umbildnerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sociatrix|sŏcĭātrix|sŏcĭātrīx|5|sŏcĭātrīc||īcis, f.
+LS|sociatrix|sŏcĭātrix|īcis|f.||she who associates, unites|sociatrix|0
+GG|sociatrix|sŏcĭātrix|īcis|f.||celle qui unit|sociatrix|
+GJ|sociatrix|sŏcĭātrix|īcis, f. [socio]|celle qui unit.
+Ge|sociatrix|sociātrīx|trīcis, f.|die Vereinigerin, vereinigend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|solidatrix|sŏlĭdātrix|sŏlĭdātrīx|5|sŏlĭdātrīc||īcis, f.
+LS|solidatrix|sŏlĭdātrix|īcis|f.||she that makes firm, solid, a strengthener|solidatrix|0
+GG|solidatrix|sŏlĭdātrix|īcis|f.||celle qui rend solide|solidatrix|
+GJ|solidatrix|sŏlĭdātrix|īcis, f. [solido]|Arn. celle qui rend solide.
+Ge|solidatrix|solidātrīx|trīcis, f.|die Befestigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|solutrix|sŏlūtrix|sŏlūtrīx|5|sŏlūtrīc||īcis, f.
+LS|solutrix|sŏlūtrix|īcis|f.||she that looses, sets free|solutrix|0
+GG|solutrix|sŏlūtrix|īcis|f.||celle qui délivre de|solutrix|
+GJ|solutrix|sŏlūtrix|īcis, f. [solutor]|celle qui délivre de.
+Ge|solutrix|solūtrīx|trīcis, f.|die Löserin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sorix|sōrix|sōrīx|5|sōrĭc||ĭcis, m.
+LS|sorix|sorix||||avis tributa Saturno ab auguribus|sorix|or 
+GG|sorix|sōrix|ĭcis|m.|S.|sorte de chouette|saurix|sōrix
+GJ|sorix|sōrix|ĭcis, m.|sorte de chouette.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sospitatrix|sospĭtātrix|sōspĭtātrīx|5|sōspĭtātrīc||īcis, f.
+LS|sospitatrix|sospĭtātrix|īcis|f.||she that saves, delivers|sospitatrix|0
+GG|sospitatrix|sospĭtātrix|īcis|f.|S.|sauveur, libératrice|sospitator|-trix
+GJ|sospitatrix|sospitatrix|īcis, f.|libératrice.
+Ge|sospitatrix|sōspitātrīx|trīcis, f.|die Erretterin, errettend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|spadix|spādix|spādīx|5|spādīc||īcis, comm.
+LS|spadix|spādix|īcis|comm.||a palm-branch broken off, together with its fruit;|spadix|0
+GG|spadix|spādix|īcis|m.||c. spadicum / sorte d'instrument de musique comme la lyre // (equus) cheval bai-brun|1 spadix|
+GJ|spadix|spādix|īcis, m.|- 1 - c. spadicum. - 2 - le spadix (sorte d'instrument de musique comme la lyre).
+Ge|spadix|spādix|icis|abgerissener Palmzweig - dattelfarben, braunrot, kastanienbraun
+FG|
+Lw|spadix|spādīx|īcis||adj.|date-brown, nutbrown, chestnut-brown||||spadix
+YO|
+PO|
+WW||spadix, spadicis||
+|spectatrix|spectātrix|spēctātrīx|5|spēctātrīc||īcis, f.
+LS|spectatrix|spectātrix|īcis|f.||She that looks at, observes, med.|spectatrix|0
+GG|spectatrix|spectātrix|īcis|f.||spectatrice / juge|spectatrix|
+GJ|spectatrix|spectātrix|īcis, f.|- 1 - spectatrice. - 2 - au fig. juge.
+Ge|spectatrix|spectātrīx|trīcis, f.|die Betrachterin, Zuschauerin, Beobachterin - die Beurteilerin, Prüferin
+FG|spectatrix|spectatrix icis féminin (spectator), spectatrice ; juge.
+Lw|spectatrix|spectātrīx|īcis|f||a looker-on||||spectatrix
+YO|
+PO|spectatrix|specta_trix, specta_tri_cis : f
+WW||||
+|speculatrix|spĕcŭlātrīx|spĕcŭlātrīx|5|spĕcŭlātrīc||īcis, f.
+LS|speculatrix|spĕcŭlātrīx|īcis|f.||she that spies, watches, a, spy, watcher.|speculatrix|0
+GG|speculatrix|spĕcŭlātrix|īcis|f.||observatrice|speculatrix|
+GJ|speculatrix|spĕcŭlātrix|īcis, f.|- 1 - qui épie, qui observe, qui surveille, observatrice. - 2 - Stat. qui a vue sur.
+Ge|speculatrix|speculātrīx|trīcis, f.|die Ausspäherin
+FG|speculatrix|speculatrix icis féminin (speculator), observatrice.
+Lw|speculatrix|speculātrīx|īcis|f||a spy, watcher||||speculatrix
+YO|
+PO|
+WW||||
+|spinturnix|spinturnix|spīntūrnīx|5|spīntūrnīc||īcis, f.
+LS|spinturnix|spinturnix|īcis|f.||an unsightly bird|spinturnix|0
+GG|spinturnix|spinturnix|īcis|f.||oiseau de mauvais augure|spinturnix|
+GJ|spinturnix|spinturnix|icis, f.|oiseau de mauvais augure.
+Ge|spinturnix|spinturnīx|īcis, f.|der Uhu
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|spoliatrix|spŏlĭātrix|spŏlĭātrīx|5|spŏlĭātrīc||īcis, f.
+LS|spoliatrix|spŏlĭātrix|īcis|f.||she that robs, pillages, spoils|spoliatrix|0
+GG|spoliatrix|spŏlĭātrix|īcis|f.||spoliatrice|spoliatrix|
+GJ|spoliatrix|spŏlĭātrix|īcis, f.|spoliatrice.
+Ge|spoliatrix|spoliātrīx|trīcis, f.|beraubend - die Berauberin, Plündererin
+FG|spoliatrix|spoliatrix icis féminin (spolio), spoliatrice.
+Lw|spoliatrix|spoliātrīx|īcis|f||she that robs, a plunderer, spoiler||||spoliatrix
+YO|
+PO|
+WW||||
+|sponstrix|spōnstrīx|spōnstrīx|5|spōnstrīc||īcis, f.
+LS|
+GG|sponstrix|sponstrix|īcis|f.||répondante|sponstrix|
+GJ|
+Ge|sponstrix|spōnstrīx|trīcis, f.|die Bürgin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|stimulatrix|stĭmŭlātrix|stĭmŭlātrīx|5|stĭmŭlātrīc||īcis, f.
+LS|stimulatrix|stĭmŭlātrix|īcis|f.||she that pricks on, instigates, stimulates|stimulatrix|0
+GG|stimulatrix|stĭmŭlātrix|īcis|f.||instigatrice|stimulatrix|
+GJ|stimulatrix|stĭmŭlātrix|īcis, f.|instigatrice.
+Ge|stimulatrix|stimulātrīx|trīcis, f.|die Reizerin, Hetzerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|stipatrix|stīpātrix|stīpātrīx|5|stīpātrīc||īcis, f.
+LS|stipatrix|stipātrix|trīcis||adj.|f., attendant upon, thronging in attendance|stipatrix|0
+GG|stipatrix|stīpātrix|īcis|f.||de stipator|stipatrix|
+GJ|
+Ge|stipatrix|stīpātrīx|trīcis, f.|Begleiterin umringend, umgebend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|strangulatrix|strangŭlātrix|strāngŭlātrīx|5|strāngŭlātrīc||īcis, f.
+LS|strangulatrix|strangŭlātrix|īcis|f.||she that chokes, strangles|strangulatrix|0
+GG|strangulatrix|strangŭlātrix|īcis|f.|S.|celui, celle qui étrangle|strangulator|-trix
+GJ|
+Ge|strangulatrix|strangulātrīx|trīcis, f.|die Erwürgerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subex|sŭbex|sŭbēx|5|sŭbĭc||ĭcis, m. 
+LS|subex|sŭbex|ĭcis||||subex|0
+GG|subex|sŭbex||||v. subices.|subex|
+GJ|subex|sūbex|ĭcis, m. |v. subices.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subigitatrix|sŭbĭgĭtātrix|sŭbĭgĭtātrīx|5|sŭbĭgĭtātrīc||īcis, f.
+LS|subigitatrix|sŭbĭgĭtātrix|īcis|f.||she that indulges in illicit intercourse, a lascivious woman|subigitatrix|(
+GG|subigitatrix|sŭbĭgĭtātrix|īcis|f.||enjôleuse|subigitatrix|
+GJ|subigitatrix|sŭbĭgĭtātrix|īcis, f.|qui sollicite au mal.
+Ge|subigitatrix|subigitātrīx|trīcis, f.|die Durcharbeiterin - die unzüchtige Betasterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subornatrix|sŭbōrnātrīx|sŭbōrnātrīx|5|sŭbōrnātrīc||īcis, f.
+LS|
+GG|subornatrix|sŭbornātrix|īcis|f.||celle qui aide la femme de chambre|subornatrix|
+GJ|subornatrix|sŭbornātrix|īcis, f.|celle qui aide la femme de chambre.
+Ge|subornatrix|subōrnātrīx|trīcīs, f.|die Gehilfin der
+FG|
+Lw|
+YO|
+PO|
+WW||||
+!|subpostrix|subpostrix|sūbpōstrīx|5|sūbpōstrīc||īcis, f.
+LS|subpostrix|subpostrix|īcis|f.||she that fraudulently exchanges, substitutes|suppostrix|(
+GG|
+GJ|subpostrix|subpostrix|īcis, f.|celle qui substitue frauduleusement.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subrectrix|subrēctrīx|sū̆brēctrīx|5|sū̆brēctrīc||īcis, f.
+LS|
+GG|subrectrix|subrectrix|īcis|f.|S.|celui, celle qui dresse|subrector|subrectrix
+GJ|subrectrix|subrectrix|īcis, f. [subrigo]|Prisc. celle qui érige.
+Ge|subrectrix|subrēctrīx|trīcis, f.|die Aufrichterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sudatrix|sūdātrix|sūdātrīx|5|sūdātrīc||īcis, f.
+LS|sudatrix|sūdātrix|īcis|f.||she that sweats, causes sweating|sudatrix|0
+GG|sudatrix|sūdātrix|īcis|f.||en sueur, trempée de sueur|sudatrix|
+GJ|sudatrix|sudatrix|īcis, f.|qui fait suer.
+Ge|sudatrix|sūdātrīx|trīcis, f.|schwitzend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suffragatrix|suffrāgātrix|sūffrāgātrīx|5|sūffrāgātrīc||īcis, f.
+LS|suffragatrix|suffrāgātrix|īcis|f.||a, favorer, supporter|suffragatrix|0
+GG|suffragatrix|suffrāgātrix|īcis|f.||approbatrice|suffragatrix|
+GJ|suffragatrix|suffragatrix|īcis, f.|approbatrice.
+Ge|suffragatrix|suffrāgātrīx|trīcīs, f.|die Begünstigerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|superatrix|sŭpĕrātrix|sŭpĕrātrīx|5|sŭpĕrātrīc||īcis, f.
+LS|superatrix|sŭpĕrātrix|īcis|f.||she that conquers|superatrix|0
+GG|superatrix|sŭpĕrātrix|īcis|f.||celle qui l'emporte sur|superatrix|
+GJ|superatrix|sŭpĕrātrix|īcis, f.|Inscr. celle qui l'emporte (sur).
+Ge|superatrix|superātrīx|trīcis, f.|die Überwinderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|suppostrix|suppostrix|sūppōstrīx|5|sūppōstrīc||īcis, f.
+LS|suppostrix|suppostrix|īcis|f.||she that fraudulently exchanges, substitutes|suppostrix|(
+GG|suppostrix|suppostrix|īcis|f.||celle qui substitue frauduleusement|suppostrix|
+GJ|suppostrix|suppostrix|īcis, f.|celle qui substitue frauduleusement.
+Ge|suppostrix|suppostrīx|trīcis, f.|die Unterschieberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|surrectrix|surrectrix|sūrrēctrīx|5|sūrrēctrīc||īcis, f.
+LS|
+GG|surrectrix|surrectrix|īcis|f.|S.|celui, celle qui se lève|surrector|surrectrix
+GJ|surrectrix|surrectrix|īcis, f. [subrigo]|Prisc. celle qui érige.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sustentatrix|sustentātrīx|sūstēntātrīx|5|sūstēntātrīc||īcis, f.
+LS|
+GG|sustentatrix|sustentātrix|īcis|f.||celle qui nourrit|sustentatrix|
+GJ|sustentatrix|sustentātrix|īcis, f.|J.-Val. celle qui entretient, qui nourrit.
+Ge|sustentatrix|sustentātrīx|trīcis, f.|die Erhalterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|susurratrix|sŭsurrātrix|sŭsūrrātrīx|5|sŭsūrrātrīc||īcis, f.
+LS|susurratrix|sŭsurrātrix|īcis|f.||a whisperer|susurratrix|0
+GG|
+GJ|susurratrix|sŭsurrātrix|īcis, f. [susurrator]|- 1 - celle qui chuchote. - 2 - celle qui colporte des histoires.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sutrix|sūtrix|sūtrīx|5|sūtrīc||īcis, f.
+LS|sutrix|sūtrix|īcis|f.||a sewingwoman|sutrix|0
+GG|sutrix|sūtrix|īcis|f.||celle qui fait des souliers|sutrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|syrophoenix|Sўrŏphoenix|Sўrŏphōenīx|5|Sўrŏphōenīc||īcis, m.
+LS|Syrophoenix|Sўrŏphoenix|īcis|m.||a Syroph&oelig;nician|Syrophoenix|0
+GG|Syrophoenix|Sўrŏphoenix|ĭcis|m.|S.|Syrophénicien, Phénicien|Syrophoenix|Sўrŏphoenix
+GJ|Syrophoenix|Syrŏphoenix|īcis, m.|Syrophénicien (habitant de la partie de la Phénicie qui touche aux frontières de la Syrie).
+Ge|Syrophoenix|Syrophoenīx|īcis, m.|ein Syrophönizier - eine Syrophönizierin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tamarix|tămărix|tămărīx|5|tămărīc||īcis, f.
+LS|tamarix|tămărix|īcis|f.||a tamarisk, tamariskshrub|tamarix|0
+GG|tamarix|tămărix|īcis|f.|S.|tamaris [plante]|tamarice|-rix
+GJ|tamarix|tămărix|īcis, f.|v. tamarice.
+Ge|tamarix|tamarīx|rīcis, f.|die Tamariske, Tamariskenstaude
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|temptatrix|temptātrīx|tēmptātrīx|5|tēmptātrīc||īcis, f.
+LS|
+GG|temptatrix|temptātrix|īcis|f.|S.|séductrice|temptator|-tātrix
+GJ|temptatrix|temptātrix|īcis, f.|séductrice.
+Ge|temptatrix|temptātrīx|trīcis, f.|die Versucherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|testatrix|testātrix|tēstātrīx|5|tēstātrīc||īcis, f.
+LS|testatrix|testātrix|īcis|f.||she that makes a will, testament, a testatrix|testatrix|0
+GG|testatrix|testātrix|icis|f.||testatrice, celle qui a fait un testament|testatrix|
+GJ|testatrix|testatrix|īcis, f.|testatrice.
+Ge|testatrix|tēstātrīx|trīcis, f.|die Testiererin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetralix|tē̆trălix|tē̆trălīx|5|tē̆trălĭc||ĭcis, f.
+LS|tetralix|tē̆trălix|ĭcis|f.||a plant, heath|tetralix|0
+GG|tetralix|tĕtrălix|ĭcis|f.||espèce de bruyère|tetralix|
+GJ|
+Ge|tetralix|tetrālix|icis, f.|Haidekraut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|textrix|textrix|tēxtrīx|5|tēxtrīc||īcis, f.
+LS|textrix|textrix|īcis|f.||a female weaver|textrix|0
+GG|textrix|textrix|īcis|f.||celle qui fait de la toile / pl. = les Parques|textrix|
+GJ|textrix|textrix|icis, f.|celle qui fait de la toile.
+Ge|textrix|textrīx|trīcis, f.|webend - die Weberin
+FG|textrix|textrix icis féminin (textor), tisserande.
+Lw|
+YO|
+PO|
+WW||||
+|thomix|thōmix|thōmīx|5|thōmĭc||ĭcis, f.
+LS|thomix|thōmix|icis|f.||a cord, string, line, thread|thomix|(
+GG|thomix|thōmix|ĭcis|f.||corde de jonc|thomix|
+GJ|thomix|thōmix|ĭcis, f.|corde de jonc ou de chanvre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tomex|tōmex|tōmēx|5|tōmĭc||ĭcis, f.
+LS|tomex|tōmex|ĭcis|f.||a cord, string, line, thread|thomix|(
+GG|tomex|tōmex|ĭcis|f.||v. tomix.|tomex|
+GJ|tomex|tōmex|ĭcis, f.|corde de jonc ou de chanvre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tomix|tōmix|tōmīx|5|tōmĭc||ĭcis, f.
+LS|tomix|tōmix|ĭcis|f.||a cord, string, line, thread|thomix|(
+GG|tomix|tōmix|ĭcis|f.||corde de jonc ou de chanvre|tomix|
+GJ|tomix|tōmix|ĭcis, f.|corde de jonc ou de chanvre.
+Ge|tomix|tōmix|icis, f.|die Schnur - der Faden, Bindfaden
+FG|tomix|tomix icis féminin, corde de jonc ou de chanvre.
+Lw|
+YO|
+PO|
+WW||||
+|tonstrix|tonstrix|tōnstrīx|5|tōnstrīc||īcis, f.
+LS|tonstrix|tonstrix|īcis|f.||a female hair-cutter, barber|tonstrix|(
+GG|tonstrix|tonstrix|īcis|f.||barbière|tonstrix|
+GJ|tonstrix|tonstrix|īcis, f.|barbière, perruquière.
+Ge|tonstrix|tōnstrīx|trīcis, f.|die Schererin, Barbiererin
+FG|tonstrix|tonstrix icis féminin (tonsor), barbière.
+Lw|
+YO|
+PO|
+WW||||
+|tortrix|tortrix|tōrtrīx|5|tōrtrīc||īcis, f.
+LS|
+GG|tortrix|tortrix|īcis|f.||celle qui torture|tortrix|
+GJ|tortrix|tortrix|īcis, f.|Fort. celle qui torture.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tractatrix|tractātrix|trāctātrīx|5|trāctātrīc||īcis, f.
+LS|tractatrix|tractātrix|īcis|f.||a female shampooer|tractatrix|0
+GG|tractatrix|tractātrix|īcis|f.||masseuse|tractatrix|
+GJ|tractatrix|tractatrix|īcis, f.|esclave qui masse, masseuse.
+Ge|tractatrix|tractātrīx|trīcis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|triumphatrix|Trĭumphātrix|Trĭūmphātrīx|5|Trĭūmphātrīc||īcis, f.
+LS|Triumphatrix|Trĭumphātrix|īcis|f.||the Triumphant|Triumphatrix|0
+GG|triumphatrix|trĭumphātrix|īcis|f.||la triomphante [légion]|triumphatrix|
+GJ|triumphatrix|triumphātrix|īcis, f.|Inscr. la (légion) triomphante.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|turbatrix|turbātrix|tūrbātrīx|5|tūrbātrīc||īcis, f.
+LS|turbatrix|turbātrix|īcis|f.||she that troubles, disquiets, disturbs|turbatrix|0
+GG|turbatrix|turbātrix|īcis|f.||qui sème le trouble, perturbatrice|turbatrix|
+GJ|turbatrix|turbātrix|īcis, f. [turbator]|Apul. perturbatrice, qui trouble.
+Ge|turbatrix|turbātrīx|trīcis, f.|die Beunruhigerin, beunruhigend, störend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tutrix|tūtrix|tūtrīx|5|tūtrīc||īcis, f.
+LS|tutrix|tutrix|īcis|f.||f, a female guardian, tutrix.|tutrix|0
+GG|tutrix|tūtrix|īcis|f.||tutrice / tutrice, protectrice [fig.]|tutrix|
+GJ|
+Ge|tutrix|tūtrīx|īcis, f.|die Schützerin, Beschützerin - die Vormünderin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ulex|ulex|ulēx|5|ulĭc||ĭcis, m.
+LS|ulex|ulex|ĭcis|m.||a shrub resembling rosemary|ulex|0
+GG|ulex|ulex|ĭcis|m.||sorte de romarin [plante]|ulex|
+GJ|ulex|ulex|ĭcis, m.|sorte de romarin [plante].
+Ge|ulex|ulex|icis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|unctrix|unctrīx|ūnctrīx|5|ūnctrīc||īcis, f.
+LS|
+GG|unctrix|unctrix|īcis|f.||celle qui frictionne|unctrix|
+GJ|
+Ge|Unctrix|Unctrīx|trīcis, f.|die Salberin, Einreiberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|urpex|urpex|ūrpēx|5|ūrpĭc||ĭcis, m.
+LS|
+GG|urpex|urpex||||v. hirpex.|urpex|
+GJ|urpex|urpex|ĭcis, m.|c. hirpex.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|usurpatrix|ūsurpātrix|ūsūrpātrīx|5|ūsūrpātrīc||īcis, f.
+LS|usurpatrix|ūsurpātrix|īcis|f.||she that assumes, takes to herself without right|usurpatrix|0
+GG|usurpatrix|ūsurpātrix|īcis||adj.|adj. f., qui usurpe [qqch], qui s'arroge injustement|usurpatrix|
+GJ|usurpatrix|ūsurpātrix|īcis, f.|Salv. celle qui s'arroge injustement quelque chose.
+Ge|Usurpatrix|Usūrpātrīx|trīcis, f.|die Anmaßerin, Usurpatorin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|varix|vărix|vărīx|5|vărĭc||ĭcis, m.
+LS|varix|vărix|ĭcis|m.||a dilated vein, varix|varix|0
+GG|varix|vărix|ĭcis|m. f.||varice|varix|
+GJ|varix|vărix|ĭcis, m. ou f.|varice.
+Ge|varix|varix|icis, c.|die Krampfader, Kropfader
+FG|varix|varix icis masculin ou féminin, varice.
+Lw|varix|varix|icis|m||a dilated vein, varix||||varix
+YO|
+PO|
+WW||||
+|vaspix|vaspix|vāspīx|5|vāspĭc||ĭcis, f.
+LS|
+GG|vaspix|vaspix|ĭcis|f.|S.|et vas picitum|vaspicetum|vaspix
+GJ|
+Ge|vaspix|vaspix|icis, f.|der dichte Büschel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vastatrix|vastātrix|vāstātrīx|5|vāstātrīc||īcis, f.
+LS|vastatrix|vastātrix|īcis|f.||a, waster, ravager, devastater;|vastatrix|0
+GG|vastatrix|vastātrix|īcis|||fém. de vastator|vastatrix|
+GJ|vastatrix|vastātrix|īcis, f.|dévastatrice.
+Ge|vastatrix|vāstātrīx|trīcis, f.|die Verheererin, Verwüsterin
+FG|vastatrix|vastatrix icis féminin de vastator.
+Lw|
+YO|
+PO|
+WW||||
+|vaticinatrix|vātĭcĭnātrix|vātĭcĭnātrīx|5|vātĭcĭnātrīc||īcis, f.
+LS|vaticinatrix|vātĭcĭnātrix|īcis|f.||a prophetess, female fortune-teller|vaticinatrix|0
+GG|vaticinatrix|vātĭcĭnātrix|īcis|f.||prophétesse, devineresse|vaticinatrix|
+GJ|vaticinatrix|vătĭcĭnātrix|īcis, f. [vaticinator]|prophétesse, devineresse.
+Ge|vaticinatrix|vāticinātrīx|trīcis, f.|die Prophetin, Weissagerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vectrix|vectrix|vēctrīx|5|vēctrīc||īcis, f.
+LS|vectrix|vectrix|īcis|f.||she that carries, transports|vectrix|0
+GG|vectrix|vectrix|īcis||adj.|qui transporte, qui porte|vectrix|
+GJ|
+Ge|vectrix|vectrīx|trīcis, f.|tragend, auf sich reiten lassend - die Reitstute - überfahrend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|venatrix|vēnātrix|vēnātrīx|5|vēnātrīc||īcis, f.
+LS|venatrix|vēnātrix|īcis|f.|adj.|a huntress|venatrix|0
+GG|venatrix|vēnātrix|īcis||adj.|adj. f., qui chasse, chasseresse / [fig.] qui recherche|venatrix|
+GJ|venatrix|vēnātrix|īcis, f. [venator]|- 1 - qui chasse, chasseresse. - 2 - qui recherche.
+Ge|venatrix|vēnātrīx|trīcis, f.|die Jägerin - jagend - die Erstreberin
+FG|venatrix|venatrix icis féminin, chasseresse.
+Lw|venatrix|vēnātrīx|īcis|f||a huntress||||venatrix
+YO|
+PO|venatrix|ve_na_trix, ve_na_tri_cis : f
+WW||||
+|venditrix|vendĭtrix|vēndĭtrīx|5|vēndĭtrīc||īcis, f.
+LS|venditrix|vendĭtrix|īcis|f.||she that sells, vends|venditrix|0
+GG|venditrix|vendĭtrix|īcis|f.||venderesse|venditrix|
+GJ|
+Ge|venditrix|vēnditrīx|trīcis, f.|die Verkäuferin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vestifex|vestĭfex|vēstĭfēx|5|vēstĭfĭc||ĭcis, m.
+LS|
+GG|vestifex|vestĭfex|ĭcis|m.|S.|tailleur, couturière|vestifex|vestĭfex
+GJ|vestifex|vestĭfex|ĭcis, m. et vestĭfĭca, ae, f. [vestis + facio]|tailleur, couturière.
+Ge|vestifex|vestifex|ficis, m.|der Kleidermacher, Schneider
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vestiplex|vestĭplex|vēstĭplēx|5|vēstĭplĭc||ĭcis, m.
+LS|
+GG|vestiplex|vestĭplex|ĭcis|m.||esclave chargé de la garde-robe, valet de chambre|vestiplex|
+GJ|vestiplex|vestĭplex|ĭcis, m. [vestis + plico]|esclave chargé de la garde-robe, valet de chambre.
+Ge|vestiplex|vestiplex||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vestispex|vestispex|vēstīspēx|5|vēstīspĭc||ĭcis, m.
+LS|
+GG|vestispex|vestispex|ĭcis|m.|S.|esclave chargé de la garde-robe, valet de chambre|vestispex|vestispex
+GJ|vestispex|vestispex|ĭcis, m., et vestispĭcus, i, m. [vestis + specio]|esclave chargé de la garde-robe, valet de chambre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|veteratrix|vĕtĕrātrix|vĕtĕrātrīx|5|vĕtĕrātrīc||īcis, f.
+LS|veteratrix|vĕtĕrātrix|īcis|f.||a sorceress|veteratrix|0
+GG|veteratrix|vĕtĕrātrix|īcis|f.||vieille rouée|veteratrix|
+GJ|veteratrix|veteratrix|īcis, f.|une vieille rouée.
+Ge|veteratrix|veterātrīx|tricis, f.|durchtrieben, verschmitzt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vexatrix|vexātrix|vēxātrīx|5|vēxātrīc||īcis, f.
+LS|vexatrix|vexātrix|īcis|f.||she that vexes, molests|vexatrix|0
+GG|vexatrix|vexātrix|īcis|f.||celle qui tourmente, qui persécute|vexatrix|
+GJ|vexatrix|vexatrix|īcis, f.|celle qui tourmente, qui persécute.
+Ge|vexatrix|vexātrīx|trīcīs, f.|die Mißhandlerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vibix|vībix|vībīx|5|vībīc||īcis, f.
+LS|vibix|vībix|īcis|f.||the mark of a blow, stripe, a weal|vibex|(
+GG|vibix|vībix|icis|f.||c. vibex 1|vibix|
+GJ|
+Ge|vibix|vībīx|īcis, f.|die Strieme, Schwiele
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vindicatrix|vindĭcātrīx|vīndĭcātrīx|5|vīndĭcātrīc||īcis, f.
+LS|
+GG|vindicatrix|vindĭcātrix|īcis|f.|S.|vindex|vindicator|vindĭcātrix
+GJ|
+Ge|vindicatrix|vindicātrīx|trīcis, f.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|violatrix|vĭŏlātrix|vĭŏlātrīx|5|vĭŏlātrīc||īcis, f.
+LS|violatrix|vĭŏlātrix|īcis|f.||she who profanes, violates|violatrix|0
+GG|violatrix|vĭŏlātrix|īcis|f.||violatrice, celle qui viole|violatrix|
+GJ|
+Ge|violatrix|violātrīx|trīcis, f.|die Verletzerin, verletzend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vitex|vītex|vītēx|5|vītĭc||ĭcis, f.
+LS|vitex|vītex|ĭcis|f.||the chaste-tree, Abraham's balm|vitex|0
+GG|vitex|vītex|ĭcis|f.||gattilier [arbuste]|vitex|
+GJ|vitex|vitex|icis, f.|Plin. vitex (espèce de saule).
+Ge|vitex|vītex|icis, f.|Keuschlamm, Abrahamsbaum
+FG|vitex|vitex icis féminin, vitex, espèce de saule.
+Lw|
+YO|
+PO|
+WW||||
+|vivificatrix|vīvĭfĭcātrīx|vīvĭfĭcātrīx|5|vīvĭfĭcātrīc||īcis, f.
+LS|
+GG|vivificatrix|vīvĭfĭcātrix|īcis||adj.|adj. f., vivifiante|vivificatrix|
+GJ|vivificatrix|vīvĭfĭcātrix|īcis, f.|vivifiante.
+Ge|vivificatrix|vīvificātrīx|trīcis, f.|die Lebendigmacherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|viviradix|vīvĭrādix|vīvĭrādīx|5|vīvĭrādīc||īcis, f.
+LS|viviradix|vīvĭrādix|īcis|f.||a set, cutting having a root, a layer, quickset;|viviradix|0
+GG|viviradix|vīvĭrādix|īcis|f.||plant vif, plante avec sa racine|viviradix|
+GJ|viviradix|vīvĭrādix|īcis, f.|plant vif, plante avec sa racine.
+Ge|viviradix|vīvirādīx|dīcis, f.|der Ableger, Fechser
+FG|viviradix|viviradix icis féminin (vivus radix), plant vif, plante avec sa racine.
+Lw|viviradix|vīvirādīx|īcis|f||a rooted cutting, layer, quickset||||viviradix
+YO|
+PO|
+WW||||
+|vomex|vŏmex|vŏmēx|5|vŏmĭc||ĭcis, m.
+LS|
+GG|vomex|vŏmex|ĭcis|||c. vomax ?|vomex|
+GJ|
+Ge|vomex|vomex|icis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vortex|vortex|vōrtēx|5|vōrtĭc||ĭcis, m.
+LS|vortex|vortex|ĭcis|m.||A whirl, eddy, whirlpool, vortex|vertex|(
+GG|vortex|vortex|ĭcis|m.|S.|tourbillon d'eau / [de vent, de feu] / sommet / [poét.] tête / [fig.] = le plus haut degré|vertex|vortex
+GJ|vortex|vortex|ĭcis, m. [verto]|- 1 - tourbillon d'eau (de vent, de feu, de poussière), typhon, trombe. - 2 - sommet de la tête; tête. - 3 - point culminant du ciel, pôle, axe. - 4 - cime d'une montagne; montagne. - 5 - point culminant d'une chose : cime, faîte, pointe. - 6 - le plus haut degré, le comble, le paroxysme.
+Ge|
+FG|
+Lw|
+YO|
+PO|vortex|vortex, vorticis : m
+WW||||
+|adnuntiatrix|adnuntĭātrix|ādnūntĭātrīx|5|ādnūntĭātrīc||īcis, f.
+LS|
+GG|adnuntiatrix|adnuntĭātrix|īcis|f.|S.|qui annonce|adnuntiator|adnuntĭātrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adstipulatrix|adstĭpŭlātrix|ādstĭpŭlātrīx|5|ādstĭpŭlātrīc||īcis, f.
+LS|
+GG|adstipulatrix|adstĭpŭlātrix|īcis|f.||garante|adstipulatrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|advorsatrix|advorsātrix|ādvōrsātrīx|5|ādvōrsātrīc||īcis, f.
+LS|advorsatrix|advorsātrix|īcis|f.||a female antagonist, adversary|adversatrix|(archaic 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|carnificatrix|carnĭfĭcātrix|cārnĭfĭcātrīx|5|cārnĭfĭcātrīc||īcis, f.
+LS|
+GG|carnificatrix|carnĭfĭcātrix|īcis|f.|S.|celui ou celle qui fait l'office du bourreau|carnificator|carnĭfĭcātrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chordifex|chordifex|chōrdifēx|5|chōrdific||icis, m.
+LS|
+GG|
+GJ|
+Ge|chordifex|chordifex|icis, m.|einer, der Darmsaiten macht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|collatrix|collătrix|cōllătrīx|5|cōllătrīc||īcis, f.
+LS|
+GG|collatrix|collătrix|īcis|f.||de collator|collatrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|collaudatrix|collaudātrix|cōllāudātrīx|5|cōllāudātrīc||īcis, f.
+LS|
+GG|collaudatrix|collaudātrix|īcis|f.||[décad.]|collaudatrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|commentatrix|commentātrix|cōmmēntātrīx|5|cōmmēntātrīc||īcis, f.
+LS|
+GG|commentatrix|commentātrix|īcis|f.||celle qui invente|commentatrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|comportatrix|comportātrīx|cōmpōrtātrīx|5|cōmpōrtātrīc||īcis, f.
+LS|
+GG|
+GJ|
+Ge|comportatrix|comportātrīx|īcis, f.|die Trägerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|condonatrix|condōnātrīx|cōndōnātrīx|5|cōndōnātrīc||īcis, f.
+LS|
+GG|
+GJ|
+Ge|condonatrix|condōnātrīx|īcis, f.|die Schenkerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|conticitrix|contĭcĭtrix|cōntĭcĭtrīx|5|cōntĭcĭtrīc||īcis, f.
+LS|
+GG|conticitrix|contĭcĭtrix|īcis|f.|S.|celui ou celle qui se tait|conticitor|contĭcĭtrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|delactatrix|delactatrix|delāctā̆trīx|5|delāctā̆trīc||īcis, f.
+LS|
+GG|
+GJ|delactatrix|delactatrix|īcis, f.|Aug. celle qui sèvre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|denominatrix|denominatrix|denominā̆trīx|5|denominā̆trīc||īcis, f.
+LS|
+GG|
+GJ|denominatrix|denominatrix|īcis, f.|celle qui nomme.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dictrix|dictrix|dīctrīx|5|dīctrīc||īcis, f.
+LS|
+GG|dictrix|dictrix|īcis|f.||celle qui dit|dictrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enunciatiatrix|enunciatĭātrix|enūncĭatĭātrīx|5|enūncĭatĭātrīc||īcis, f.
+LS|enunciatiatrix|enunciatĭātrix|īcis|f.||f, she who enounces, declares|enuntiatrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enunciatrix|ēnuncĭātrix|ēnūncĭātrīx|5|ēnūncĭātrīc||īcis, f.
+LS|
+GG|
+GJ|enunciatrix|ēnuncĭātrix|īcis, f.|qui énonce, qui exprime; qui interprète.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exhulceratrix|exhulcĕrātrix|ēxhūlcĕrātrīx|5|ēxhūlcĕrātrīc||īcis, f.
+LS|exhulceratrix|exhulcĕrātrix|īcis|f.||she who causes soreness, exulceration|exulceratrix|(also 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|expecttatrix|expecttātrix|ēxpēcttātrīx|5|ēxpēcttātrīc||īcis, f.
+LS|expecttatrix|expecttātrix|īcis|f.||she that expects, awaits|exspectatrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exsculptrix|exsculptrix|ēxscūlptrīx|5|ēxscūlptrīc||īcis, f.
+LS|
+GG|exsculptrix|exsculptrix|īcis|f.||v. expultrix|exsculptrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|extenuatrix|extenuatrix|ēxtenŭā̆trīx|5|ēxtenŭā̆trīc||īcis, f.
+LS|
+GG|
+GJ|extenuatrix|extenuatrix|īcis, f.|qui affaiblit.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fermentatrix|fermentātrix|fērmēntātrīx|5|fērmēntātrīc||īcis, f.
+LS|
+GG|
+GJ|fermentatrix|fermentātrix|īcis, f.|celle qui fait fermenter.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|foeneratrix|foenĕrātrix|fōenĕrātrīx|5|fōenĕrātrīc||īcis, f.
+LS|foeneratrix|foenĕrātrix|īcis|f.||a female money-lender, usurer|faeneratrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fusitrix|fūsĭtrix|fūsĭtrīx|5|fūsĭtrīc||īcis, f.
+LS|
+GG|fusitrix|fūsĭtrix|īcis|f.||celle qui verse|fusitrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|impultrix|impultrix|īmpūltrīx|5|īmpūltrīc||īcis, f.
+LS|
+GG|impultrix|impultrix|īcis|f.|S.|instigatrice|impulstrix|impultrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|inficiatrix|infĭcĭātrix|īnfĭcĭātrīx|5|īnfĭcĭātrīc||īcis, f.
+LS|inficiatrix|infĭcĭātrix|īcis|f.||she that denies, disowns|infitiatrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|infractrix|infractrix|īnfrāctrīx|5|īnfrāctrīc||īcis, f.
+LS|
+GG|infractrix|infractrix|īcis|f.|S.|celui, celle qui brise|infractor|infractrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|interemtrix|intĕremtrix|īntĕrēmtrīx|5|īntĕrēmtrīc||īcis, f.
+LS|interemtrix|intĕremtrix|īcis|f.||she that destroys, kills, a murderess|interemptrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|isex|isex|isēx|5|isic||icis, m.
+LS|
+GG|
+GJ|
+Ge|isex|isex|icis, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|joculatrix|jŏcŭlātrix|jŏcŭlātrīx|5|jŏcŭlātrīc||īcis, f.
+LS|
+GG|joculatrix|jŏcŭlātrix|īcis|f.||rieuse, railleuse, bouffonne|joculatrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|jutrix|jūtrīx|jūtrīx|5|jūtrīc||īcis, f.
+LS|
+GG|jutrix|jūtrix|īcis|f.||celle qui aide, qui secourt|jutrix|
+GJ|
+Ge|iutrix|iūtrīx|trīcis, f.|die Helferin, Hilfreiche
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lanifex|lānifex|lānifēx|5|lānific||icis, m.
+LS|
+GG|
+GJ|
+Ge|lanifex|lānifex|icis, m.|der Wollarbeiter
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laurix|laurix|lāurīx|5|lāurĭc||ĭcis, m.
+LS|laurix|laurix|ĭcis|m.||a young rabbit cut out from the mother, or taken from her teats|laurex|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|miseratrix|mĭsĕrātrix|mĭsĕrātrīx|5|mĭsĕrātrīc||īcis, f.
+LS|
+GG|miseratrix|mĭsĕrātrix|īcis|f.|S.|celui, celle qui a pitié, miséricordieux|miserator|-trix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|negociatrix|nĕgōcĭātrix|nĕgōcĭātrīx|5|nĕgōcĭātrīc||īcis, f.
+LS|negociatrix|nĕgōcĭātrix|īcis|f.||she that carries on a business, a female trader|negotiatrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nunciatrix|nuncĭātrix|nūncĭātrīx|5|nūncĭātrīc||īcis, f.
+LS|nunciatrix|nuncĭātrix|īcis|f.||she that announces|nuntiatrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|passernix|passernix|pāssērnīx|5|pāssērnīc||īcis, m.
+LS|passernix|passernix|īcis|m.||a whetstone|passernix|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peremtrix|pĕremtrix|pĕrēmtrīx|5|pĕrēmtrīc||īcis, f.
+LS|peremtrix|pĕremtrix|īcis|f.||she that destroys, kills|peremptrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|persuastritrix|persuastritrix|pērsŭāstrī̆trīx|5|pērsŭāstrī̆trīc||īcis, f.
+LS|persuastritrix|persuastritrix|īcis|f.||she that persuades, a, female, persuader.|persuastrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|polytrix|pŏlўtrix|pŏlўtrīx|5|pŏlўtrĭc||ĭcis, f.
+LS|
+GG|polytrix|pŏlўtrix|ĭcis|f.|S.|capillaire [plante]|polytrichon|-trix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praecentrix|praecentrix|prāecēntrīx|5|prāecēntrīc||īcis, f.
+LS|
+GG|praecentrix|praecentrix|īcis|f.|S.|celle qui fait des enchantements préventifs|praecantrix|-centrix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|praesumptrix|praesumptrix|prāesūmptrīx|5|prāesūmptrīc||īcis, f.
+LS|praesumptrix|praesumptrix|īcis|f.||a presumptuous person|praesumptrix|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pristix|pristix|prīstīx|5|prīstic||icis, f.
+LS|pristix|pristix|icis|f.||any sea-monster; a whale, shark, sawfish|pristix|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|reconciliatrix|rĕconcĭlĭātrix|rĕcōncĭlĭātrīx|5|rĕcōncĭlĭātrīc||īcis, f.
+LS|reconciliatrix|rĕconcĭlĭātrix|īcis|f.||a reconciler|reconciliatrix|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|refocillatrix|rĕfŏcillātrix|rĕfŏcīllātrīx|5|rĕfŏcīllātrīc||īcis, f.
+LS|refocillatrix|rĕfŏcillātrix|īcis|f.||the reviver|refocillatrix|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|restitrix|rēstĭtrix|rēstĭtrīx|5|rēstĭtrīc||īcis, f.
+LS|restitrix|rēstĭtrix|īcis|f.||she that stays behind|restitrix|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|rigatrix|rigatrix|rigā̆trīx|5|rigā̆trīc||īcis, adj. f.
+LS|
+GG|
+GJ|rigatrix|rigatrix|īcis, adj. f.|Aug. celle qui arrose.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|savrix2|savrix2|sāvrīx|5|sāvrĭc||ĭcis, m.
+LS|savrix|savrix|ĭcis|m.||avis tributa Saturno ab auguribus|sorix|or 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|secutrix|sĕcūtrix|sĕcūtrīx|5|sĕcūtrīc||īcis, f.
+LS|secutrix|sĕcūtrix|īcis|f.||a follower|secutrix|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|significatrix|signĭfĭcātrix|sīgnĭfĭcātrīx|5|sīgnĭfĭcātrīc||īcis, f.
+LS|
+GG|
+GJ|significatrix|signĭfĭcātrix|īcis, f.|celle qui désigne.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subagitatrix|sŭbăgĭtātrix|sŭbăgĭtātrīx|5|sŭbăgĭtātrīc||īcis, f.
+LS|subagitatrix|sŭbăgĭtātrix|īcis|f.||she that indulges in illicit intercourse, a lascivious woman|subigitatrix|v. subigitatio, etc.
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subiex|subiex|subĭēx|5|subĭic||icis, m.
+LS|
+GG|
+GJ|
+Ge|subiex|subiex|icis, m.|die Unterlage
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tentatrix|tentātrix|tēntātrīx|5|tēntātrīc||īcis, f.
+LS|
+GG|
+GJ|tentatrix|tentātrix|īcis, f.|séductrice.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tentrix|tentrix|tēntrīx|5|tēntrīc||īcis, f.
+LS|
+GG|tentrix|tentrix|īcis|f.||celle qui tend|tentrix|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thomex|thōmex|thōmēx|5|thōmic||icis, f.
+LS|thomex|thōmex|icis|f.||a cord, string, line, thread|thomix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tonsrix|tonsrix|tōnsrīx|5|tōnsrīc||īcis, f.
+LS|tonsrix|tonsrix|īcis|f.||a female hair-cutter, barber|tonstrix|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|veratrix|vērātrix|vērātrīx|5|vērātrīc||īcis, f.
+LS|veratrix|vērātrix|īcis|f.||a sorceress|veratrix|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|allex2|allex2|āllēx|5|āllĭc||ĭcis, m.
+LS|allex|allex|ĭcis|m.||the great toe;|allex1|Err :509
+GG|allex|allex|ĭcis|m.|S.|gros orteil|2 allex|allex
+GJ|allex|allex|(hallex), ĭcis, m.|gros orteil.
+Ge|allex|allex|icis, m. = pellex in pede|die große Fußzehe
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|caudex|Caudex|Cāudēx|5|Cāudĭc||ĭcis, m.
+LS|Caudex|Caudex|cis|m.||a Roman cognomen, consul|Caudex2|0
+GG|Caudex|Caudex|ĭcis|m.||surnom d'un Appius Claudius|2 Caudex|
+GJ|Caudex|Caudex|ĭcis, m.|Caudex (surnom).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|caudex2|caudex2|cāudēx|5|cāudĭc||ĭcis, m.
+LS|caudex|caudex|ĭcis|m.|||caudex1|0
+GG|caudex|caudex|ĭcis|m.||souche, tronc d'arbre / [fig.] homme stupide, bûche / c. codex|1 caudex|
+GJ|caudex|caudex|(cōdex), ĭcis, m.|- a - tronc d'arbre, souche. - b - au fig. homme idiot, une bûche. - c - pièce de bois attachée aux pieds des esclaves. - d - assemblage de planches. - e - tablettes de bois; registre, livre. - f - recueil de lois, code (on écrit alors codex et non caudex).
+Ge|caudex|caudex|dicis, m.|der Baumstamm, Stamm - Klotz - bestehende Schreibtafel - das Notizbuch
+FG|caudex|caudex icis masculin, souche, tronc d'arbre ; (figuré) homme stupide, bûche.
+Lw|caudex|caudex|icis|m||a trunk of a tree, stock, stem, a blockhead||||caudex
+Y§|
+PO|caudex|caudex, caudicis : m
+WW||||
+|hallex2|hallex2|hāllēx|5|hāllĭc||ĭcis, m.
+LS|hallex|hallex|ĭcis|||the great toe; hence, in derision, of a little man|hallex|0
+GG|hallex|hallex|ĭcis|m.|S.|gros orteil|2 allex|hall-
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|pelex|pēlex|pēlēx|5|pēlĭc||ĭcis, f.
+LS|pelex|pēlex|ĭcis|f.||concubine, a kept mistress, concubine of a married man|paelex|0
+GG|pelex|pēlex|ĭcis|f.|S.|concubine, maîtresse [en gén.] / rivale (d'une f. mariée) / homme prostitué, favori, mignon|pellex|pēlex
+GJ|pelex|pēlex|ĭcis, f.|- 1 - concubine, maîtresse (d'un homme marié). - 2 - rivale (d’une femme mariée), courtisane. - 3 - homme prostitué, favori, mignon.
+Ge|pelex|pēlex|icis, f.|das Kebsweib - die Geliebte usw. - der Buhle, Buhlknabe
+FG|
+Lw|pelex|pēlex|see paelex.|||l||||pelex
+Y§|
+PO|
+WW||||
+|perdix|perdix|pērdīx|5|pērdīc||īcis, comm.
+LS|perdix|perdix|īcis|comm.||a partridge|perdix1|0
+GG|perdix|perdix|īcis|f.||perdrix [oiseau]|1 perdix|
+GJ|perdix|perdix|īcis, f.|perdrix.
+Ge|perdix|perdīx|dīcis, c.|das Rebhuhn
+FG|
+Lw|perdix|perdīx|īcis|f||a plover, lapwing||||perdix
+Y§|
+PO|perdix|perdix, perdi_cis : m/f
+WW||||
+|perdix2|Perdix2|Pērdīx|5|Pērdīc||īcis, m.
+LS|Perdix|Perdix|īcis|m.||the nephew of D&oelig;dalus|Perdix2|0
+GG|Perdix|Perdix|īcis|m.||jeune Athénien changé en perdrix par Minerve|2 Perdix|
+GJ|Perdix|Perdix|īcis, m.|Perdix (neveu de Dédale, changé en perdrix par Minerve).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|phoenix|Phoenix|Phōenīx|5|Phōenīc||īcis, m.
+LS|Phoenix|Phoenix|īcis|m.|Adj.|-I. -I. the Carthaginians, a Carthaginian, a Ph&oelig;nician -II. The son of Amyntor, who was given by Peleus to Achilles as a companion in the Trojan war -II. Ph&oelig;nician;|Phoenice1|0
+GG|Phoenix|Phoenix|īcis|m.||Phénix [fils d'Agénor et frère de Cadmus, donna son nom à la Phénicie] / fils d'Amyntor et gouverneur d'Achille, qu'il suivit au siège de Troie|2 Phoenix|
+GJ|Phoenix|Phoenix|īcis, m.|1 - Phénix. - a - fils d'Agénor et frère de Cadmus (le fondateur de la Phénicie). - b - fils d'Amyntor, roi d'Argos et précepteur d'Achille. - c - un architecte. - d - un statuaire. - e - fleuve de Thessalie. 2 - a - Phénicien. - b - Carthaginois.
+Ge|Phoenix|Phoenīx|īcis, m.|
+FG|Phoenix|Phoenix icis masculin,
+Lw|
+Y§|
+PO|
+WW||||
+|phoenix2|phoenix2|phōenīx|5|phōenīc||īcis, m.
+LS|phoenix|phoenix|īcis|m.||the ph&oelig;nix, a fabulous bird in Arabia. It was said to live, years, and from its ashes a young ph&oelig;nix arose|phoenix3|0
+GG|phoenix|phoenix|īcis|m. f.||phénix [oiseau fabuleux] / le palmier|1 phoenix|
+GJ|phoenix|phoenix|īcis, m. (acc. sing. -icem, -ica)|le phénix (oiseau fabuleux).
+Ge|phoenix|phoenīx|īcis, f.|der Palmbaum
+FG|phoenix|phoenix icis,
+Lw|phoenix|phoenīx|īcis|m||the phoenix, a fabulous bird||||phoenix
+Y§|
+PO|
+WW||||
+|viatrix|vĭātrix|vĭātrīx|5|vĭātrīc||īcis, f.
+LS|viatrix|vĭātrix|īcis|f.||a female traveller|viatrix|0
+GG|viatrix|vĭātrix|īcis|f.||voyageuse|1 viatrix|
+GJ|
+Ge|viatrix|viātrīx|tricis, f.|die Reisende
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|viatrix2|Viātrix2|Vĭātrīx|5|Vĭātrīc||īcis, f.
+LS|
+GG|Viatrix|Viātrix|īcis|f.||nom de f.|2 Viatrix|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|vibex|vībex|vībēx|5|vībīc||īcis, f.
+LS|vibex|vībex|īcis|f.||the mark of a blow, stripe, a weal|vibex|(
+GG|vibex|vībex|īcis|f.||marque [de coups de fouet], strie, meurtrissure|1 vibex|
+GJ|vibex|vibex|icis, f. (surtout au plur. vibices, um)|marque (de coups de fouet), meurtrissure.
+Ge|
+FG|vibex|vibex icis féminin, marque (de coups de fouet), strie, meurtrissure.
+Lw|
+Y§|
+PO|
+WW||||
+|cilix2|Cĭlix2|Cĭlīx|5|Cĭlĭc||ĭcis, adj. m.
+LS|Cilix|Cĭlix|ĭcis||adj.|Cilician|Cilicia|0
+GG|Cilix|Cĭlix|ĭcis||adj.|de Cilicie, Cilicien|2 Cilix|Cĭlix
+GJ|Cilix|Cĭlix|ĭcis, adj. m.|de Cilicie, Cilicien.
+Ge|
+FG|Cilix|Cilix icis, adjectif masculin, de Cilicie, cilicien ; Cilices um, masculin, Ciliciens, habitants de la Cilicie.
+Lw|Cilix|Cilix|icis||adj.|Cilician:||||Cilix
+Y§|
+PO|
+WW||||
+|felix3|fĕlix3|fĕlīx|5|fĕlĭc||ĭcis, f.
+LS|felix|fĕlix|ĭcis|f.||the hair of the pubes|filix|(
+GG|felix|fĕlix|ĭcis|f.|S.|fougère [plante] / [fig.] poils|filix|fĕl-
+GJ|felix|fĕlix|(fĭlix, fĭlex), ĭcis, f.|fougère.
+Ge|
+FG|felix|felix icis,
+Lw|
+Y§|
+PO|
+WW||||
+|felix2|Fēlix2|Fēlīx|5|Fēlīc||īcis, m.
+LS|Felix|Fēlix|īcis|m.||a Roman surname of frequent occurrence, first applied to|Felix2|(with 
+GG|
+GJ|Felix|Fēlix|īcis, m.|Félix (surnom).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|molitrix|mōlītrix|mōlītrīx|5|mōlītrīc||īcis, f.
+LS|molitrix|mōlītrix|īcis|f.||she who attempts, frames, contrives|molitrix|0
+GG|molitrix|mōlītrix|īcis|f.||celle qui machine qqch|molitrix|
+GJ|molitrix|mōlītrix|īcis, f.|celle qui trame qqch, qui machine qqch.
+Ge|molitrix|mōlītrīx|trīcis, f.|die Veranstalterin
+FG|molitrix|molitrix icis féminin (molitor), celle qui machine quelque chose.
+Lw|
+Y§|
+PO|
+WW||||
+|molitrix2|mŏlitrix2|mŏlī̆trīx|5|mŏlī̆trīc||īcis, f.
+LS|
+GG|
+GJ|molitrix|mŏlitrix|īcis, f.|meunière.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|pollex2|Pollex2|Pōllēx|5|Pōllĭc||ĭcis, m.
+LS|Pollex|Pollex|ĭcis|m.||the name of a slave of Cicero|Pollex2|0
+GG|Pollex|Pollex|ĭcis|m.||nom d'un esclave de Cicéron|2 Pollex|
+GJ|Pollex|Pollex|ĭcis, m.|Pollex (esclave de Cicéron).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|simplex2|Simplex2|Sīmplēx|5|Sīmplĭc||ĭcis, m.
+LS|
+GG|Simplex|Simplex|ĭcis|m.||surnom|2 Simplex|
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|vindex2|Vindex2|Vīndēx|5|Vīndĭc||ĭcis, m.
+LS|
+GG|Vindex|Vindex|ĭcis|m.||C. Julius Vindex [procurateur de la Gaule, qui se révolta contre Néron]|2 Vindex|
+GJ|Vindex|Vindex|ĭcis, m.|Suet. Julius Vindex (procurateur de la Gaule qui se révolta contre Néron).
+Ge|
+FG|Vindex|Vindex icis masculin, C. Julius Vindex (procurateur de la Gaule, qui se révolta contre Néron).
+Lw|
+Y§|
+PO|
+WW||||
+|apparatrix=adparatrix|appărātrix|āppărātrīx|5|āppărātrīc||īcis, f.
+LS|apparatrix|appărātrix|īcis|f.||she that prepares|apparatrix|(
+GG|apparatrix|appărātrix|īcis|f.||préparatrice|apparatrix|
+GJ|apparatrix|appărātrix|īcis, f.|Hier. préparatrice, celle qui apprête.
+Ge|apparatrix|apparātrīx|īcis, f.|die Dienende
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|assentatrix=adsentatrix|assentātrix|āssēntātrīx|5|āssēntātrīc||īcis, f.
+LS|assentatrix|assentātrix|īcis|f.||a female flatterer|assentatrix|(
+GG|assentatrix|assentātrix|īcis|f.|S.|flagorneuse|adsentatrix|ass-
+GJ|assentatrix|assentātrix|īcis, f.|flagorneuse.
+Ge|assentatrix|assentātrīx|trīcis, f.|die unablässige Beipflichterin, Liebedienerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|assertrix=adsertrix|assertrīx|āssērtrīx|5|āssērtrīc||īcis, f.
+LS|
+GG|assertrix|assertrix|īcis|f.|S.|celle qui prend la défense de|adsertrix|ass-
+GJ|assertrix|assertrix|īcis, f.|celle qui prend la défense de.
+Ge|assertrix|assertrīx|trīcis, f.|die Verteidigerin, Vertreterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|assestrix=adsestrix|assestrix|āssēstrīx|5|āssēstrīc||īcis, f.
+LS|assestrix|assestrix|īcis|f.||she that sits by, a female assistant|assestrix|(
+GG|assestrix|assestrix|īcis|f.|S.|de adsessor;|adsestrix|ass-
+GJ|assestrix|assestrix|īcis, f. [adsessor]|celle qui s'assoit auprès, qui assiste, qui aide.
+Ge|assestrix|assestrīx|īcis, f.|die Beisitzerin, Gehilfin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|assumptrix=adsumptrix|assūmptrīx|āssūmptrīx|5|āssūmptrīc||īcis, f.
+LS|
+GG|assumptrix|assumptrix|īcis|f.|S.|celle qui s'approprie|adsumptrix|ass-
+GJ|
+Ge|assumptrix|assūmptrīx|trīcis, f.|die Annehmerin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|compotrix=conpotrix|compōtrix|cōmpōtrīx|5|cōmpōtrīc||īcis, f.
+LS|compotrix|compōtrix|īcis|f.||a female drinking - companion|compotrix|(
+GG|compotrix|compōtrix|īcis|f.|adj.|compagne de bouteille|compotrix|
+GJ|compotrix|compōtrix|īcis, f.|compagne de bouteille.
+Ge|compotrix|compōtrīx|trīcis, f.|die Mittrinkerin, Trinkschwester
+FG|
+Lw|compotrix|com-pōtrīx|īcis|f||a drinking-companion, T.||||compotrix
+YO|
+PO|
+WW||||
+|corruptrix=conruptrix|corruptrix|cōrrūptrīx|5|cōrrūptrīc||īcis, f.
+LS|corruptrix|corruptrix|īcis|f.||she that corrupts, seduces;, adj., corrupting|corruptrix|(
+GG|corruptrix|corruptrix|īcis|f.||corruptrice|corruptrix|
+GJ|corruptrix|corruptrix|īcis, f. [corruptor]|corruptrice.
+Ge|corruptrix|corruptrīx|trīcis, f.|die Verderberin, Verführerin - verführerisch
+FG|corruptrix|corruptrix icis féminin (corruptor), corruptrice.
+Lw|corruptrix|corruptrīx (conr-)|īcis|f||one who seduces||||corruptrix
+YO|
+PO|
+WW||corruptrix, corruptricis||
+|illatrix=inlatrix|illātrīx|īllātrīx|5|īllātrīc||īcis, f.
+LS|
+GG|illatrix|illātrix|īcis|f.|S.|celle qui apporte|illatrix|illātrix
+GJ|illatrix|illātrix|īcis, f.|celle qui apporte, qui procure.
+Ge|illatrix|illātrīx|trīcis, f.|die Darbringerin, Verleiherin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|imperatrix=inperatrix|impĕrātrix|īmpĕrātrīx|5|īmpĕrātrīc||īcis, f.
+LS|imperatrix|impĕrātrix|īcis|f.||she who commands, a mistress|imperatrix|(
+GG|imperatrix|impĕrātrix|īcis|f.||celle qui commande|imperatrix|
+GJ|imperatrix|impĕrātrix|īcis, f.|celle qui commande.
+Ge|imperatrix|imperātrīx|trīcis, f.|die Gebieterin - die Befehlshaberin
+FG|imperatrix|imperatrix icis féminin, celle qui commande.
+Lw|imperatrix|imperātrīx (inp-)|īcis|f||she who commands, a mistress||||imperatrix
+YO|
+PO|
+WW||||
+|impulstrix=inpulstrix|impulstrix|īmpūlstrīx|5|īmpūlstrīc||īcis, f.
+LS|impulstrix|impulstrix|īcis|f.||she who instigates|impulstrix|(
+GG|impulstrix|impulstrix|īcis|f.|S.|instigatrice|impulstrix|impulstrix
+GJ|
+Ge|impulstrix|impulstrīx|trīcis, f.|die Antreiberin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|irritatrix=inritatrix|irrītātrix|īrrītātrīx|5|īrrītātrīc||īcis, f.
+LS|irritatrix|irrītātrix|īcis|f.||she who incites|irritatrix|(
+GG|irritatrix|irrītātrix|īcis|f.|S.|celui, celle qui irrite, excite|irritator|irrītātrix
+GJ|irritatrix|irrītātrix|īcis, f.|celle qui excite.
+Ge|irritatrix|irrītātrīx|trīcis, f.|die Anreizerin zum Widerstand, widerspenstig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adfectatrix=affectatrix|adfectātrix|ādfēctātrīx|5|ādfēctātrīc||īcis, f.
+LS|adfectatrix|adfectātrix|īcis|f.||she that strives for|affectatrix|(better 
+GG|adfectatrix|adfectātrix|īcis|f.||celle qui se pique de|adfectatrix|
+GJ|adfectatrix|adfectātrix|īcis, f.|Tert. qui se pique de.
+Ge|affectatrix|affectātrīx|īcis, f.|die Nachäfferin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adflictrix=afflictrix|adflīctrīx|ādflīctrīx|5|ādflīctrīc||īcis, f.
+LS|
+GG|adflictrix|adflictrīx|īcis|f.||celle qui renverse, destructrice|adflictrix|
+GJ|adflictrix|adflictrix|īcis, f.|celle qui renverse, destructrice.
+Ge|afflictrix|afflīctrīx|īcis, f.|anschlagend
+FG|
+Lw|
+YO|
+PO|
+WW||adflictrix, adflictricis||
+|exspectatrix=expectatrix|exspectātrix|ēxspēctātrīx|5|ēxspēctātrīc||īcis, f.
+LS|exspectatrix|exspectātrix|īcis|f.||she that expects, awaits|exspectatrix|(
+GG|exspectatrix|exspectātrix|īcis|f.|S.|celui ou celle qui attend|exspectator|exspectātrix
+GJ|exspectatrix|exspectatrix|icis, f.|celle qui attend.
+Ge|exspectatrix|exspectātrīx|trīcis, f.|die Erwarterin
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|exstirpatrix=extirpatrix|exstirpātrix|ēxstīrpātrīx|5|ēxstīrpātrīc||īcis, f.
+LS|exstirpatrix|exstirpātrix|īcis|f.||she who destroys, wastes|exstirpatrix|(
+GG|exstirpatrix|exstirpātrix|īcis|f.||celle qui détruit|exstirpatrix|
+GJ|exstirpatrix|exstirpatrix|īcis, f.|celle qui détruit.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|obstetrix=opstetrix|obstē̆trix|ōbstē̆trīx|5|ōbstē̆trīc||īcis, f.
+LS|obstetrix|obstē̆trix|īcis|f.||a midwife|obstetrix|(
+GG|obstetrix|obstĕtrix|īcis|f.||accoucheuse, sage-femme|obstetrix|
+GJ|obstetrix|obstĕtrix|īcis, f. [obsto]|accoucheuse, sage-femme.
+Ge|obstetrix|obstetrīx|opstitrīx), trīcis|die Wehmutter, Hebamme
+FG|obstetrix|obstetrix icis féminin (ob sto), sage-femme.
+Lw|obstetrix|obstetrīx (opst-, obstit-)|īcis|f||a midwife||||obstetrix
+YO|
+PO|obstetrix|obstetrix, obstetri_cis : f
+WW||||
+|subcortex=succortex|subcortex|sūbcōrtēx|5|sūbcōrtĭc||ĭcis, m.
+LS|subcortex|subcortex|ĭcis|m.||the under, inner bark|succortex|(
+GG|subcortex|subcortex|ĭcis|m.||aubier [d'un arbre]|subcortex|
+GJ|subcortex|subcortex|ĭcis, m.|l'aubier.
+Ge|subcortex|subcortex|icis, c.|die untere-, innere Rinde
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bellatrix2|bellātrix2|bēllātrīx|5|bēllātrīc||īcis, f.
+LS|bellatrix|bellātrix|īcis|f.||a female warrior|bellatrix|0
+GG|bellatrix|bellātrix|īcis|f.|S.|(f. de bellator), guerrière|bellatrix|
+GJ|bellatrix|bellātrix|īcis, f. subst.|guerrière.
+Ge|bellatrix|bellātrīx|trīcis, f.|kriegerisch, streitbar, zum Kriegführen geschickt
+FG|bellatrix|bellatrix icis féminin (féminin de bellator), guerrière
+Lw|bellatrix|bellātrīx|īcis|f||a female warrior||||bellatrix
+YO|
+PO|bellatrix|bella_trix, bella_tri_cis : f
+WW||||
+|illix2|illix2|īllīx|5|īllĭc||ĭcis, m.
+LS|
+GG|illix|illix|ĭcis|m.||appeau / séducteur, séductrice|2 illex|-lix
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quadruplex2|quā̆drŭplex2|qụā̆drŭplēx|7|qụā̆drŭplĭc||ĭcis, n.
+LS|quadruplex|quā̆drŭplex|ĭcis|n.||Fourfold, quadruple|quadruplex|0
+GG|quadruplex|quădrŭplex|ĭcis|n.||le quadruple|quadruplex|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|supplex2|supplex2|sūpplēx|5|sūpplĭc||ĭcis, m.
+LS|supplex|supplex|ĭcis|m.||a suppliant, humble petitioner|supplex|(
+GG|supplex|supplex|plĭcis|m.||celui qui supplie|supplex|
+GJ|
+Ge|
+FG|
+Lw|supplex|supplex (subpl-)|icis|m.||a suppliant, humble petitioner||||supplex
+YO|
+PO|
+WW||supplex, supplicis||
+|triplex2|trī̆plex2|trī̆plēx|7|trī̆plĭc||ĭcis, n.
+LS|triplex|trī̆plex|ĭcis|n.|adj.|threefold, triple.|triplex|0
+GG|triplex|trĭplex|ĭcis|n.||le triple|triplex|
+GJ|
+Ge|
+FG|
+Lw|triplex|triplex|icis|n.||three times as much, a threefold portion, triple||||triplex
+YO|
+PO|
+WW||triplex, triplicis||
+|illex3=inlex|illex3|īllēx|5|īllĭc||ĭcis, m.
+LS|
+GG|illex|illex|ĭcis|m.||appeau|2 illex|inl-
+GJ|
+Ge|
+FG|
+Lw|
+Y2|
+PO|
+WW||||

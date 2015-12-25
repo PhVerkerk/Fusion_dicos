@@ -1,0 +1,250 @@
+|december|Dĕcembĕr|Dĕcēmbĕr|16|Dĕcēmbr||bris,
+LS|
+GG|December|Dĕcembĕr|bris, bre||adj.|du mois de décembre|December|
+GJ|December|December|bris, bre|de décembre
+Ge|December|December|bris, bre|zur Zehn gehörig, Dezember- - der Dezember - zum Monat Dezember gehörig, des Dezember
+FG|December|December bris, masculin (decem), décembre (le dixième mois de l'année romaine à compter du mois de mars) ; adjectif, du mois de décembre : Kalendae Decembres, calendes de décembre.
+Lw|December|December|bris, bre||adj.|of the tenth, the tenth month, December, m, the third full year, of December, of the Saturnalia||||December
+YO|
+PO|
+WW||December, Decembris||
+|fanester|Fanester|Fanēstĕr|16|Fanēstr||tris
+LS|Fanester|Fanester|tris||||Fanester|0
+GG|
+GJ|Fanester|Fanester|tris, e|de Fanum.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|insaluber|insălūber|īnsălūbĕr|16|īnsălūbr||bris
+LS|
+GG|insaluber|insălūber|bris||adj.|malsain, insalubre|insaluber|insălūber
+GJ|
+Ge|Insaluber|Insalūber|bris, e|ungesund - unersprießlich
+FG|insaluber|insaluber bris, et insalubris e, malsain, insalubre.
+Lw|
+YO|
+PO|
+WW||||
+|inuber|ĭnūber|ĭnūbĕr|15|ĭnūbēr||ūbēris
+LS|inuber|ĭnūber|ūbēris||adj.|not full, ill-fed, ill-conditioned, poor|inuber|0
+GG|inuber|ĭnūber|ĕris|||maigre|inuber|
+GJ|inuber|inuber|eris|maigre, sec.
+Ge|inuber|inūber|beris|nicht voll
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|involucer|invŏlŭcer|īnvŏlŭcĕr|16|īnvŏlū̆cr||cris,
+LS|involucer|invŏlŭcer|cris, cre||adj.|unable to fly, unfledged|involucer|0
+GG|involucer|invŏlŭcer|cris, cre|||qui ne peut voler|involucer|
+GJ|involucer|involucer|cris, cre|qui ne peut voler.
+Ge|involucer|involucer|cris, cre|noch nicht flügge
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mamzer|mamzer|māmzĕr|15|māmzĕr||ĕris
+LS|mamzer|mamzer|ĕris||adj.|comm., illegitimate, bastard|manzer|(
+GG|mamzer|mamzer||||v. manzer.|mamzer|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||mamzer, mamzeris||
+|manzer|manzĕr|mānzĕr|15|mānzĕr||ĕris
+LS|manzer|manzer|ĕris|||-I. adj. comm., illegitimate, bastard, subst. -II. a bastard|manzer|(
+GG|manzer|manzĕr|ĕris||adj.|[mot hébreu] bâtard, né d'un commerce illégitime|manzer|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||manzer, manzeris||
+|paludester|pălūdestĕr|pălūdēstĕr|16|pălūdēstr||tris,
+LS|paludester|pălūdester|tris, tre||adj.|marshy, swampy|paludester|0
+GG|paludester|pălūdestĕr|tris, tre|||marécageux|paludester|
+GJ|paludester|paludester|tris, tre|marécageux.
+Ge|paludester|palūdester||
+FG|
+Lw|
+YO|
+PO|
+WW||paludester, paludestris||
+|peracer|pĕrācĕr|pĕrācĕr|16|pĕrācr||ācris,
+LS|peracer|pĕrācer|ācris, ācre||adj.|very sharp;|peracer|0
+GG|peracer|pĕrācĕr|cris, cre|||très aigre ; [fig.] très vif, très pénétrant|peracer|
+GJ|peracer|peracer|acris, acre|- 1 - très aigre. - 2 - très vif, très fin.
+Ge|peracer|perācer|cris, cre|sehr scharf
+FG|peracer|peracer cris cre, très aigre ; (figuré) très désagréable.
+Lw|peracer|per-ācer|ācris, ācre||adj.|very sharp, Fig.: iudicium||||peracer
+YO|
+PO|peracer|pera_cer, pera_cris, pera_cre : a
+WW||peracer, peracris||
+|perceleber|percĕlĕbĕr|pērcĕlĕbĕr|16|pērcĕlē̆br||bris,
+LS|perceleber|percĕlĕber|bris, bre||adj.|very famous, very celebrated, distinguished|perceleber|0
+GG|perceleber|percĕlĕbĕr|bris, bre|||très célèbre|perceleber|
+GJ|perceleber|perceleber|bris, bre|très célèbre.
+Ge|perceleber|perceleber|bris, bre|sehr gefeiert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|perceler|percĕlĕr|pērcĕlĕr|15|pērcĕlĕr||celĕris
+LS|perceler|percĕler|celĕris||adj.|very quick, swift, Adv.|perceler|0
+GG|perceler|percĕlĕr|ĕris, ĕre|||très prompt|perceler|
+GJ|perceler|perceler|eris, ere|très prompt, très rapide.
+Ge|perceler|perceler|is, e|sehr schnell
+FG|perceler|perceler ere eris, très prompt.
+Lw|perceler|per-celer|celeris||adj.|very quick, sudden||||perceler
+YO|
+PO|
+WW||perceler, perceleris||
+|perpauper|perpaupĕr|pērpāupĕr|15|pērpāupĕr||ĕris
+LS|perpauper|perpauper|ĕris||adj.|very poor|perpauper|0
+GG|perpauper|perpaupĕr|ĕris|||très pauvre|perpauper|
+GJ|perpauper|perpauper|eris|très pauvre.
+Ge|perpauper|perpauper|peris|ganz arm
+FG|perpauper|perpauper eris, très pauvre.
+Lw|perpauper|per-pauper|eris||adj.|very poor||||perpauper
+YO|
+PO|
+WW||perpauper, perpauperis||
+|praeceler|praecĕlĕr|prāecĕlĕr|15|prāecĕlĕr||cĕlĕris
+LS|praeceler|praecĕler|cĕlĕris, e||adj.|very swift, quick|praeceler|0
+GG|praeceler|praecĕlĕr|ĕris, ĕre|||très prompt, très rapide|praeceler|
+GJ|praeceler|praeceler|eris, ere|très rapide.
+Ge|praeceler|praeceler|celeris, celere|überaus schnell
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|puber|pūbĕr|pūbĕr|15|pūbĕr||ĕris
+LS|puber|pūber|ĕris||adj.|that is grown up, of ripe age, adult, pubescent.|pubes1|and 
+GG|puber|pūbĕr|ĕris||adj.|adj., pubère, adulte / [plantes]|1 pubes|pūbĕr
+GJ|puber|pūber|ĕris|v. pubes, eris.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|puter|pŭtĕr|pŭtĕr|16|pū̆tr||tris,
+LS|puter|pŭter|tris, tre||adj.|rotten, decaying, putrefying, stinking, putrid.|puter|and 
+GG|puter|pŭtĕr|||adj.|pourri, gâté, corrompu, fétide / délabré, en ruines / désagrégé / [fig.] flasque|puter|pŭtĕr
+GJ|puter|pŭtĕr|tris, tre|- 1 - pourri, corrompu, vermoulu. - 2 - qui se dissout facilement, désagrégé, flasque, mou, friable.
+Ge|puter|puter|putris, putre|in Verwesung-, in Fäulnis übergegangen, angegangen, verwest, faul, morsch, ranzig, brandig - locker, morsch, mürbe, welk
+FG|puter|puter ou putris putris e (pus),
+Lw|puter|puter|tris, tre||adj.|rotten, decaying, putrefying, stinking, putrid, mouldering, rotten, Crumbling, friable, mellow, soft, flabby, languishing, withered||||puter
+YO|
+PO|puter|puter, putris, putre : a
+WW||puter, putris||
+|semivolucer|sēmĭvŏlŭcĕr|sēmĭvŏlŭcĕr|16|sēmĭvŏlū̆cr||cris,
+LS|
+GG|semivolucer|sēmĭvŏlŭcĕr|cris, cre|||à moitié oiseau|semivolucer|
+GJ|semivolucer|semivolucer|cris, cre|qui est à moitié oiseau.
+Ge|semivolucer|sēmivolucer|cris, cre|halbgeflügelt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subacer|sŭbăcĕr|sŭbăcĕr|16|sŭbā̆cr||acris,
+LS|subacer|subăcĕr|acris, acre||adj.|somewhat sharp|subacer|0
+GG|subacer|sŭbācĕr|acris, acre|||un peu âcre|subacer|
+GJ|subacer|sŭbăcĕr|cris, cre|Isid. un peu âcre.
+Ge|subacer|subācer|cris, cre|etwas scharf
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|telluster|tellustĕr|tēllūstĕr|16|tēllūstr||tris,
+LS|telluster|telluster|tris, e||adj.|of or belonging to the earth, terrestrial|telluster|0
+GG|telluster|tellustĕr|tris, tre|||terrestre|telluster|
+GJ|telluster|tellustĕr|tris, tre [tellus]|terrestre.
+Ge|telluster|tellūster|tris, tre|auf der Erde befindlich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|veter|vĕtĕr|vĕtĕr|15|vĕtĕr||ĕris
+LS|veter|vĕter|ĕris||adj.|comp.|veter|Enn. and Att. ap. 
+GG|veter|vĕtĕr||m.||v. vetus|veter|
+GJ|veter|veter|arch. Enn.|c. vetus.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sububer|sŭbūber|sŭbūbĕr|15|sŭbūbĕr||ĕris
+LS|
+GG|sububer|sŭbūber|ĕris|||qui est à la mamelle|sububer|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|congener2|congĕnĕr2|cōngĕnĕr|15|cōngĕnĕr||ĕris
+LS|congener|congĕner|ĕris||adj.|of the same race, kind|congener1|0
+GG|congener|congĕnĕr|ĕris|||qui est d'une nature semblable|2 congener|
+GJ|congener|congĕnĕr|ĕris|de même nature, de la même espèce.
+Ge|congener|congener|eris|von gleichem Geschlechte
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|silvester|silvester|sīlvēstĕr|16|sīlvēstr||e
+LS|silvester|silvester|e||adj.|Of or belonging to a wood or forest, overgrown with woods, wooded, woody|silvestris|(
+GG|silvester|silvester|is, e|||de forêt, couvert de forêts, boisé|silvestris|silvester :
+GJ|silvester|silvester|is, e|- 1 - boisé, couvert de forêts, forestier. - 2 - des forêts, qui vit dans les forêts, sauvage. - 3 - sauvage, non cultivé. - 4 - rustique, agreste, pastoral.
+Ge|silvester|silvester|tris, tre|zum Walde gehörig - mit Wald bewachsen, waldig, Wald- - mit Wald bewachsene, waldige Gegenden - im Walde, aus dem Walde - wild wachsend, wild - ländlich
+FG|
+Lw|
+Y§|
+PO|
+WW||silvester, silvestris||
+|sequester|sĕquestĕr|sĕqụēstĕr|16|sĕqụēstr||tra,
+LS|
+GG|sequester|sĕquester|tra, trum||adj.|qui intervient, médiateur / subst. sequestrum, qqf sequestre, dans les expr.|1 sequester|sĕquester
+GJ|sequester|sĕquestĕr|tra, trum (sĕquestĕr, tris, e)|qui intervient, médiateur.
+Ge|sequester|sequester|tra, trum|vermittelnd - Mittelsperson - Mittelsperson - Mittelsperson, Vermittler - Mittelsperson - etwa Niederlegung einer streitigen Sache bei einer dritten Person
+FG|sequester|sequester tra trum (sequester tris tre), qui intervient, médiateur.
+Lw|sequester|sequester|tra, tre||adj.|inter mediate, mediating, negotiating, m., a depositary, trustee, mediator, agent of bribery, go-between, f., under the protection of a truce||||sequester
+Y§|
+PO|sequester|sequester, sequestra, sequestrum : a
+WW||||
+|sequester3|sequester3|seqụēstĕr|16|seqụēstr||tris,
+LS|
+GG|sequester|sequester|tris, tre||adj.|qui intervient, médiateur / subst. sequestrum, qqf sequestre, dans les expr.|1 sequester|sequester
+GJ|
+Ge|
+FG|
+Lw|sequester|sequester|tris||adj.|inter mediate, mediating, negotiating||||sequester
+Y§|
+PO|
+WW||||
+|uber2|ūbĕr2|ūbĕr|15|ūbĕr||ĕris
+LS|uber|ūber|ĕris||adj.|rich, full, fruitful, fertile, abundant, plentiful, copious, productive|uber2|0
+GG|uber|ūbĕr|ĕris||adj.|abondant, plein, bien nourri / fécond, riche|1 uber|
+GJ|uber|ūbĕr|ĕris, adj.|a - abondant, plein, bien nourri. b - fécond; riche. c - gros, gras, replet.
+Ge|Uber|Uber||ergiebig, reich, reichhaltig, fruchtbar - wohlgenährt, dick - reichlich, reichhaltig, in Fülle - inhaltreich
+FG|uber|uber eris, adjectif,
+Lw|uber|ūber|eris||adj.|abounding, rich, full, fruitful, fertile, abundant, plentiful, copious, productive, rich, abounding, fruitful, productive, full of, full, rich, copious, suggestive, fruitful||||uber2
+Y§|
+PO|uber|u_ber, u_beris : a
+WW||uber, uberis||

@@ -1,0 +1,2090 @@
+|acapnos|ăcapnŏs|ăcāpnŏs|110|||on
+LS|acapnos|ăcapnos|on||adj.|without smoke|acapnos|0
+GG|
+GJ|acapnos|ăcapnŏs|ŏn|sans fumée.
+Ge|acapnos|acapnos|on|rauchlos
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|acaustos|ăcaustŏs|ăcāustŏs|110|||on
+LS|
+GG|acaustos|ăcaustŏs|ŏn|||non brûlé, incombustible ; [épithète donnée à une pierre précieuse]|acaustos|
+GJ|acaustos|ăcaustŏs|ŏn|non brûlé, incombustible (en parl. d'une pierre précieuse).
+Ge|acaustos|acaustos|on|unverbrennlich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aceratos|ăcĕrătŏs|ăcĕrătŏs|110|||on
+LS|
+GG|aceratos|ăcĕrătos|on|||sans cornes|aceratos|
+GJ|aceratos|ăcĕrătŏs|ŏn|qui n'a pas de cornes.
+Ge|aceratos|aceratos|on|ungehörnt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|achromos|ăchrōmŏs|ăchrōmŏs|110|||on
+LS|
+GG|achromos|ăchrōmŏs|ŏn|||sans couleur|achromos|
+GJ|achromos|ăchrōmŏs|ŏn|sans couleur.
+Ge|achromos|achrōmos|on|ohne Beschönigung, ohne milden Anstrich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adiaphoros|ădĭăphŏrŏs|ădĭăphŏrŏs|110|||on
+LS|adiaphoros|ădĭăphŏros|on|||indifferent|adiaphoros|0
+GG|
+GJ|adiaphoros|ădĭaphŏrŏs|ŏn|indifférent.
+Ge|adiaphoros|adiaphoros|on|gleichgültig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ametros|ămĕtrŏs|ămĕtrŏs|110|||on
+LS|
+GG|ametros|ămĕtrŏs|ŏn|||sans mesure, en prose|ametros|
+GJ|
+Ge|ametros|ametros|on|ohne Metrum, in ungebundener Rede
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amphemerinos|amphēmĕrĭnŏs|āmphēmĕrĭnŏs|110|||on
+LS|amphemerinos|amphēmĕrĭnŏs|a, on||adj.|daily|amphemerinos|0
+GG|amphemerinos|amphēmĕrĭnos|on|||qui revient tous les jours|amphemerinos|
+GJ|amphemerinos|amphemerinos|on|Plin. qui revient tous les jours, quotidien.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amphicyrtos|amphĭcyrtŏs|āmphĭcȳrtŏs|110|||on
+LS|
+GG|amphicyrtos|amphĭcyrtŏs luna||||état de la lune ayant deux cornes, c'-à-d. au premier quartier|amphicyrtos luna|
+GJ|
+Ge|amphicyrtos|amphicyrtos|on|nach beiden Seiten gekrümmt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anacamptos|ănăcamptŏs|ănăcāmptŏs|110|||on
+LS|
+GG|anacamptos|ănăcamptŏs|ŏn|||retourné|anacamptos|
+GJ|anacamptos|ănăcamptŏs|ŏn|Capel. retourné.
+Ge|anacamptos|anacamptos|on|umgekehrt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anaclitos|ănăclĭtŏs|ănăclĭtŏs|110|||on
+LS|
+GG|anaclitos|ănaclĭtŏs|on|||muni d'un dossier|anaclitos|
+GJ|anaclitos|ănăclĭtŏs|ŏn|Schol. muni d'un dossier.
+Ge|anaclitos|anaclitos|on|mit einer Rücklehne versehen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anaclomenos|ănăclōmĕnŏs|ănăclōmĕnŏs|110|||on
+LS|
+GG|anaclomenos|ănaclōmĕnos|ŏn|||recourbé en arrière [sorte de mètre]|anaclomenos|
+GJ|anaclomenos|ănăclōmĕnŏs|ŏn|replié.
+Ge|anaclomenos|anaclōmenos|on|zurückbiegend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anarchos|ănarchŏs|ănārchŏs|110|||on
+LS|
+GG|anarchos|ănarchŏs|on|||sans commencement|anarchos|
+GJ|anarchos|anarchos|on|sans commencement.
+Ge|anarchos|anarchos|on|ohne Anfang
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anodynos|ănōdўnŏs|ănōdўnŏs|110|||a, on
+LS|anodynos|ănōdўnŏs|a, on||adj.|stilling pain|anodynos|(
+GG|anodynos|ănōdynŏs|ŏn|||qui calme la douleur|anodynos|
+GJ|anodynos|ănōdynŏs|ŏn (anodynus, a, um)|C.-Aur. qui calme la douleur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anomalos|ănōmălŏs|ănōmălŏs|110|||a, on
+LS|anomalos|ănōmălŏs|a, on||adj.|deviating from the general rule, irregular, anomalous|anomalos|(
+GG|anomalos|ănōmălos|on|||irrégulier|anomalus|ănōmălos
+GJ|anomalos|ănōmălŏs|ŏn (ănōmălus, a, um)|Diom. inégal, irrégulier.
+Ge|anomalos|anōmalos|on|nach mit der Regel nicht übereinstimmend, unregelmäßig, anomal
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anomoeos|ănŏmoeos|ănŏmōeos|110|||on
+LS|
+GG|anomoeos|ănŏmoeos|ŏn|||dissemblable|anomoeos|
+GJ|anomoeos|ănŏmoeos|ŏn|Prosp. dissemblable.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anomoeusios|ănŏmoeūsiŏs|ănŏmōeūsĭŏs|110|||on
+LS|
+GG|anomoeusios|ănŏmoeūsios|on|||de nature dissemblable|anomoeusios|
+GJ|anomoeusios|ănŏmoeusiŏs|ŏn|Hilar. de nature dissemblable.
+Ge|anomoeusios|anomoeūsios|on|von ungleichem Wesen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anonomastos|ănŏnŏmastos|ănŏnŏmāstos|110|||on
+LS|anonomastos|ănŏnŏmastos|on||adj.||anonomastos|0
+GG|anonomastos|ănŏnŏmastos|on|||sans nom|anonomastos|
+GJ|anonomastos|ănŏnŏmastŏs|ŏn|Tert. sans nom (un des éons de Valentin).
+Ge|anonomastos|anonomastos|on|ungenannt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anthophoros|anthŏphŏrŏs|ānthŏphŏrŏs|110|||on
+LS|
+GG|anthophoros|anthŏphŏrŏs|ŏn|||qui porte des fleurs|anthophoros|
+GJ|
+Ge|anthophoros|anthophoros|on|Blumen tragend, blühend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aoratos|ăŏrātŏs|ăŏrātŏs|110|||on
+LS|
+GG|aoratos|ăŏrātŏs|ŏn|||invisible|aoratos|
+GJ|aoratos|aoratos|on|invisible.
+Ge|aoratos|aoratos|on|unsichtbar
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|apangelticos|ăpangelticos|ăpāngēlticos|110|||on
+LS|
+GG|apangelticos|ăpangelticos|on|||qui raconte|apangelticos|
+GJ|
+Ge|apangelticos|apangelticos|on|erzählend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|apyros|ăpўrŏs|ăpўrŏs|110|||on
+LS|apyros|ăpўros|on||adj.|virgin-sulphur|apyros|0
+GG|apyros|ăpyrŏs|ŏn|||minerai d'or qui n'a pas été au feu|apyros|
+GJ|apyros|ăpyrŏs|ŏn|qui n'a pas été au feu.
+Ge|apyros|apyros|on|feuerlos - gediegen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|araeostylos|ăraeostўlŏs|ărāeōstўlŏs|110|||on
+LS|araeostylos|ăraeostўlos|on||adj.|with columns standing for apart, areostyle|araeostylos|0
+GG|araeostylos|ăraeostylŏs|on|||qui a des colonnes écartées|araeostylos|
+GJ|araeostylos|ăraeostylŏs|ŏn|(Lebaigue P. 94) dont les colonnes sont très espacées.
+Ge|araeostylos|araeostȳlos|on|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|arrhythmos|arrhythmŏs|ārrhythmŏs|110|||on
+LS|
+GG|arrhythmos|arrhythmŏs|ŏn|||mal cadencé|arrhythmos|
+GJ|arrhythmos|arrhythmŏs|ŏn|Capel. dépourvu de rythme, mal cadencé, dépourvu d'harmonie.
+Ge|arrhythmos|arrhythmos|on|ohne Ebenmaß, ungleichmäßig, unharmonisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|artios|artĭŏs|ārtĭŏs|110|||on
+LS|
+GG|artios|artĭŏs|on|||proportionné|artios|
+GJ|
+Ge|artios|artios|#NOM ?|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|asarotos|ăsărōtŏs|ăsărōtŏs|110|||on
+LS|
+GG|asarotos|ăsărōtŏs|ŏn|n.|S.|en mosaïque|asarotos|ăsărōtŏs
+GJ|asarotos|asarotos|on|en mosaïque.
+Ge|asarotos|asarōtos|on|ungekehrt, ungefegt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|asteroplectos|astĕrŏplēctŏs|āstĕrŏplēctŏs|110|||on
+LS|
+GG|asteroplectos|astĕrŏplectŏs|on|||frappé par la foudre|asteroplectos|
+GJ|
+Ge|asteroplectos|asteroplēctos|on|vom Wetterleuchten getroffen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|asystatos|ăsystătŏs|ăsȳstătŏs|110|||on
+LS|
+GG|asystatos|ăsystătŏs|a, um|||instable, qui n'a pas de stabilité|asystatos|
+GJ|asystatos|asystatos|a, um|Lact. instable.
+Ge|asystatos|asystatos|on|unbeständig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|auleticos|aulētĭcŏs|āulētĭcŏs|110|||on
+LS|
+GG|auleticos|aulētĭcŏs|ŏn|||dont on fait des flûtes|auleticos|
+GJ|
+Ge|auleticos|aulēticos|on|zum Flötenspiele dienend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|barytonos|bărўtŏnŏs|bărўtŏnŏs|110|||on
+LS|barytonos|bărўtŏnŏs|ŏn||adj.|not accented on the last syllable|barytonos|0
+GG|
+GJ|
+Ge|barytonos|barytonos|on|den Ton auf der vorletzten Silbe habend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|colossicos|cŏlossĭcŏs|cŏlōssĭcŏs|110|||on
+LS|
+GG|colossicos|cŏlossĭcŏs|ŏn|||colossal|colossicus|cŏlossĭcŏs
+GJ|
+Ge|colossicos|colossicos|on|kolossal, riesenhaft
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cteticos|ctētĭcŏs|ctētĭcŏs|110|||on
+LS|
+GG|cteticos|ctētĭcŏs|ŏn|||possessif [gram.]|cteticos|
+GJ|cteticos|ctētĭcŏs|ŏn|possessif [gram.].
+Ge|cteticos|ctēticos|on|den Besitz anzeigend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diagonios|dĭăgōnĭŏs|dĭăgōnĭŏs|110|||on
+LS|diagonios|dĭăgōnĭŏs|on||adj.|diagonal|diagonios|0
+GG|diagonios|dĭăgōniŏs|a, on|||diagonal [qui va d'un angle à l'autre]|diagonalis|dĭăgōniŏs
+GJ|diagonios|diagōniŏs|on, adj.|diagonal.
+Ge|diagonios|diagōnios|on|diagonal - Diagonale
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dialeucos|dĭăleucŏs|dĭălēucŏs|110|||on
+LS|dialeucos|dĭăleucos|on||adj.|intermixed with white, whitish|dialeucos|0
+GG|dialeucos|dĭăleucŏs|ŏn|||mêlé de blanc|dialeucos|
+GJ|dialeucos|dĭăleucŏs|ŏn|Plin. mêlé de blanc.
+Ge|dialeucos|dialeucos|on|mit Weiß gemischt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diastylos|dĭastȳlŏs|dĭāstȳlŏs|110|||on
+LS|diastylos|dĭastȳlos|on||adj.|having columns far apart, diastyle|diastylos|0
+GG|diastylos|dĭastȳlŏs|ŏn|||d'après le diastyle [avec trois diamètres d'entre-colonnement]|diastylos|
+GJ|diastylos|diastylŏs|ŏn|diastyle, dont les colonnes sont espacées de trois diamètres d'entre-colonnement.
+Ge|diastylos|diastȳlos|on|weitsäulig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dichotomos|dĭchŏtŏmŏs|dĭchŏtŏmŏs|110|||on
+LS|dichotomos|dĭchŏtŏmos|on||adj.|cut in two, halved|dichotomos|0
+GG|dichotomos|dĭchŏtŏmŏs|ŏn||adj.|[la lune] dont on ne voit que la moitié|dichotomos|
+GJ|dichotomos|dĭchŏtŏmŏs|ŏn, (= dimidiatus)|(lune) coupée en deux, (lune) dont on ne voit que la moitié.
+Ge|dichotomos|dichotomos||halb geteilt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dicticos|dictĭcŏs|dīctĭcŏs|110|||on
+LS|dicticos|dictĭcŏs|on||adj.|pointing|dicticos|0
+GG|dicticos|dictĭcŏs|ŏn|||qui sert à montrer, indicateur|dicticos|
+GJ|dicticos|dicticŏs|ŏn|qui sert à montrer, indicateur.
+Ge|dicticos|dicticos|on|zum Zeigen geeignet, Zeige- - zum Hinweisen dienend, hinweisend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diezeugmenos|dĭezeugmĕnŏs|dĭēzēugmĕnŏs|110|||on
+LS|
+GG|diezeugmenos|dĭezeugmĕnŏs|ŏn|||séparé|diezeugmenos|
+GJ|diezeugmenos|dĭezeugmĕnŏs|ŏn|Vitr. séparé.
+Ge|diezeugmenos|diezeugmenos|on|getrennt, geschieden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dilophos|dĭlŏphŏs|dĭlŏphŏs|110|||on
+LS|dilophos|dĭlŏphos|a, on||adj.|with two crests, two-crested|dilophos|0
+GG|dilophos|dĭlŏphŏs||m.||qui a l'aigrette double|dilophos|
+GJ|dilophos|dilophŏs|ŏn|Capel. qui a une double aigrette.
+Ge|dilophos|dilophos|on|mit doppeltem Büschel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dipteros|diptĕrŏs|dīptĕrŏs|110|||on
+LS|dipteros|diptĕros|on||adj.|with two wings|dipteros|0
+GG|dipteros|diptĕrŏs|a, um|||diptère [qui a deux rangs de colonnes]|dipteros|
+GJ|dipteros|dipterŏs|ŏn|diptère, qui a deux rangs de colonnes.
+Ge|dipteros|dipteros|on|doppelflügelig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diptotos|diptōtŏs|dīptōtŏs|110|||on
+LS|
+GG|diptotos|diptōtŏs|ŏn|n. pl.|adj.|noms qui n'ont que deux cas|diptotos|
+GJ|
+Ge|diptotos|diptōtos|on|mit doppelten Kasusendungen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dipyros|dĭpўrŏs|dĭpўrŏs|110|||on
+LS|dipyros|dĭpўros|on||adj.|twice burned|dipyros|0
+GG|dipyros|dĭpўrŏs|ŏn|||deux fois brûlé|dipyros|
+GJ|dipyros|dipyrŏs|ŏn|deux fois brûlé.
+Ge|dipyros|dipyros|on|zweimal im Feuer gewesen, - gebrannt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|emphaticoteros|emphătĭcōtĕrŏs|ēmphătĭcōtĕrŏs|110|||on
+LS|
+GG|
+GJ|emphaticoteros|emphătĭcōtĕrŏs|ŏn|plus expressif, plus emphatique.
+Ge|emphaticoteros|emphaticōteros|on|nachdrücklicher, emphatischer
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|empleuros|empleurŏs|ēmplēurŏs|110|||on
+LS|
+GG|empleuros|empleurŏs|ŏn|||à larges flancs|empleuros|
+GJ|empleuros|empleurŏs|ŏn|à larges flancs.
+Ge|empleuros|empleuros|on|mit vollen (tüchtigen) Seiten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|encyclios|encȳclĭŏs|ēncȳclĭŏs|110|||on
+LS|encyclios|encȳclĭos|on||adj.|of or belonging to a circle, the circle of arts and sciences, the course of study which every Grecian youth went through before entering upon professional studies|encyclios|0
+GG|encyclios|encyclĭŏs|ŏn|||qui embrasse tout, entier, total|encyclios|
+GJ|encyclios|encyclĭŏs|ŏn|qui embrasse tout, entier, total.
+Ge|encyclios|encyclios|on|einen Kreis - bildend - allgemeine-, enzyklopädische Kenntnisse, Enzyklopädie
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|encymos|encȳmŏs|ēncȳmŏs|110|||on
+LS|encymos|encȳmŏs|on||adj.|juicy|encymos|0
+GG|encymos|encȳmŏs|ŏn|||plein de suc, de jus|encymos|
+GJ|
+Ge|encymos|encȳmos|on|saftig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enneaphthongos|ennĕaphthongos|ēnnĕaphthōngos|110|||on
+LS|enneaphthongos|ennĕaphthongos|on||adj.|nine-toned, producing nine tones, sounds|enneaphthongos|0
+GG|
+GJ|enneaphthongos|enneaphthongos|on|qui rend neuf sons.
+Ge|enneaphthongos|enneaphthongos|on|neuntönig, neunstimmig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enrhythmos|enrhythmŏs|ēnrhythmŏs|110|||on
+LS|
+GG|enrhythmos|enrhythmŏs|a, um (on)|||rythmé, mesuré, rythmique|enrhythmicus|-mŏs
+GJ|
+Ge|enrhythmos|enrhythmos|on|taktmäßig, harmonisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|epipedos|ĕpĭpĕdŏs|ĕpĭpĕdŏs|110|||on
+LS|epipedos|ĕpĭpĕdos|ŏn||adj.|plain, level|epipedos|0
+GG|epipedos|ĕpĭpĕdŏs|ŏn||adj.|qui est sur un plan, qui est plan|epipedos|ĕpĭpĕdŏs
+GJ|epipedos|ĕpĭpedos|on (ĕpĭpedus, a, um)|plan, uni.
+Ge|epipedos|epipedos|on|eben
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|epitritos|ĕpī̆trĭtos|ĕpī̆trĭtos|110|||on
+LS|epitritos|ĕpī̆trĭtos|a, um||adj.|containing four thirds.|epitritos|0
+GG|
+GJ|epitritos|epitritos|a, um|épitrite, qui a un tiers en plus.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|epogdoos|ĕpogdŏŏs|ĕpōgdŏŏs|110|||on
+LS|epogdoos|ĕpogdŏŏs|ŏum||adj.|containing a whole and an eighth|epogdoos|0
+GG|epogdoos|ĕpogdŏŏs|ŏum (ŏŏn)|||qui contient une fois et 1/8 ; ex. / par rapport à 8|epogdous|-ŏŏs
+GJ|epogdoos|epogdoos|(epogdous) numerus, (acc. -oon, -oum)|nombre formé d'un nombre moindre, plus son huitième.
+Ge|epogdoos|epogdoos|oon|ein Ganzes und ein Achtel enthaltend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|erythranos|ĕrȳ̆thrănŏs|ĕrȳ̆thrănŏs|110|||on
+LS|erythranos|ĕrȳ̆thrănos|on|||red|erythranos|0
+GG|erythranos|erўthrănŏs|ŏn ou um|||à baies rouges|erythranos|
+GJ|erythranos|erythranŏs|ŏn [erythros]|à baies rouges.
+Ge|erythranos|erythranos|on|mit roten Beeren
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|erythrocomos|ĕrўthrŏcŏmos|ĕrўthrŏcŏmos|110|||on
+LS|erythrocomos|ĕrythrŏcŏmos|on||adj.|red-haired|erythrocomos|0
+GG|erythrocomos|ĕrўthrŏcŏmos|ŏn|||qui a les feuilles rouges|erythrocomos|
+GJ|erythrocomos|erythrŏcŏmŏs|ŏn [erythros]|au feuillage rouge.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eucnemos|eucnēmŏs|ēucnēmŏs|110|||on
+LS|eucnemos|eucnēmos|on|||with beautiful legs|eucnemos|0
+GG|eucnemos|eucnēmŏs|ŏn|||aux beaux mollets|eucnemos|
+GJ|eucnemos|eucnēmŏs|ŏn|Plin. qui a de beaux mollets.
+Ge|eucnemos|eucnēmos|on|mit schönen Unterschenkeln (Waden)
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eustylos|eustȳlŏs|ēustȳlŏs|110|||on
+LS|eustylos|eustȳlos|on||adj.|with pillars evenly arranged|eustylos|0
+GG|eustylos|eustȳlŏs|ŏn|||qui a de belles colonnes|eustylos|
+GJ|eustylos|eustylŏs|ŏn|qui a de belles colonnes.
+Ge|eustylos|eustȳlos|on|schönsäulig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|euthygrammos|euthўgrammŏs|ēuthўgrāmmŏs|110|||on
+LS|
+GG|euthygrammos|euthўgrammŏs|ŏn|||fait à l'équerre, droit, normal / règle ou équerre [au pr.]|euthygrammos|
+GJ|
+Ge|euthygrammos|euthygrammos|on|geradlinig, gerade, recht - das Lineal, Richtscheit
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hecatonstylos|hĕcătonstȳlŏs|hĕcătōnstȳlŏs|110|||on
+LS|
+GG|hecatonstylos|hĕcătonstȳlŏs|ŏn|||à cent colonnes|hecatonstylos|
+GJ|hecatonstylos|hĕcătonstylŏs|ŏn|à cent colonnes.
+Ge|hecatonstylos|hecatonstȳlos|on|hundertsäulig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hemeresios|hēmĕrēsĭŏs|hēmĕrēsĭŏs|110|||on
+LS|hemeresios|hēmĕrēsĭos|on||adj.|of a day|hemeresios|0
+GG|hemeresios|hēmĕrēsĭŏs||m. f.||qui se fait en un seul jour|hemeresios|
+GJ|hemeresios|hēmĕrēsĭŏs|ŏn|qui se fait en un seul jour.
+Ge|hemeresios|hēmerēsios|on|von einem Tage, eintägig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hemiolios|hēmĭŏlĭŏs|hēmĭŏlĭŏs|110|||on
+LS|hemiolios|hēmĭŏlĭos|on||adj.|one and a half|hemiolios|0
+GG|hemiolios|hĕmĭŏlĭos|ŏn|||c. sesquialter|hemiolius|-ĭos
+GJ|hemiolios|hēmĭŏlĭŏs|ŏn (hēmĭŏlĭus, a, um)|c. sesquialter.
+Ge|hemiolios|hēmiolios|a, on|anderthalb
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|heptagonos|heptăgōnŏs|hēptăgōnŏs|110|||on
+LS|heptagonos|heptăgōnos|on||adj.|seven-cornered, having seven angles|heptagonos|0
+GG|
+GJ|heptagonos|heptăgōnŏs|ŏn|heptagone, qui a sept angles.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|heptamyxos|heptămyxŏs|hēptămȳxŏs|110|||on
+LS|
+GG|heptamyxos|heptămyxŏs|ŏn|||à sept becs [de lampes] / septiforme|heptamyxos|
+GJ|heptamyxos|heptamyxŏs|ŏn|à sept becs [de lampes].
+Ge|heptamyxos|heptamyxos|on|mit sieben Tüllen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|heptaphonos|heptăphōnŏs|hēptăphōnŏs|110|||on
+LS|heptaphonos|heptăphōnos|on||adj.|seven times sounding, that gives a sevenfold echo|heptaphonos|0
+GG|heptaphonos|heptăphōnŏs|ŏn|||aux sept échos|heptaphonos|
+GJ|heptaphonos|heptăphōnŏs|ŏn|Plin. qui a sept échos (en parl. d'un portique d'Olympie).
+Ge|heptaphonos|heptaphōnos|on|siebenmal ertönend, siebenfaches Echo gebend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|heptapylos|Heptăpўlos|Hēptăpўlos|110|||on
+LS|Heptapylos|Heptăpўlos|on||adj.|seven-gated|Heptapylos|0
+GG|
+GJ|
+Ge|heptapylos|heptapylos|on|siebentorig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|heptasemos|heptăsēmŏs|hēptăsēmŏs|110|||on
+LS|heptasemos|heptăsēmos|on||adj.|of seven times, containing seven units of time|heptasemos|0
+GG|heptasemos|heptăsēmŏs|ŏn|||qui a sept temps [métr.]|heptasemus|-mŏs
+GJ|heptasemos|heptăsēmŏs|ŏn (heptasēmus, a, um)|qui a sept temps métriques.
+Ge|heptasemos|heptasēmos|on|sieben Zeitmoren habend, siebenzeitig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hexaphoros|hexăphŏros|hēxăphŏros|110|||on
+LS|hexaphoros|hexăphŏros|on||adj.|one of six who carry a load together, med.|hexaphoros|0
+GG|
+GJ|
+Ge|hexaphoros|hexaphoros|on|zu sechs - Last tragend - von sechs zusammen getragen - eine von sechs Männern getragene Sänfte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hexaptotos|hexaptōtŏs|hēxāptōtŏs|110|||on
+LS|
+GG|hexaptotos|hexaptōtŏs|ŏn|n. pl.|S.|qui a les six cas|hexaptotos|hexaptōtŏs
+GJ|
+Ge|hexaptotos|hexaptōtos|on|alle sechs Kasus habend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hexastylos|hexastȳlŏs|hēxāstȳlŏs|110|||on
+LS|hexastylos|hexastўlos|on||adj.|having six columns|hexastylos|0
+GG|hexastylos|hexastȳlŏs|ŏn|||qui a six colonnes|hexastylos|
+GJ|hexastylos|hexastylŏs|ŏn|qui a six colonnes.
+Ge|hexastylos|hexastȳlos|on|sechssäulig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|holosphyratos|hŏlŏsphȳrātŏs|hŏlŏsphȳrātŏs|110|||on
+LS|
+GG|holosphyratos|hŏlŏsphȳrātŏs|ŏn|||massif, solide|holosphyratus|-ŏs
+GJ|
+Ge|holosphyratos|holosphȳrātos|on|ganz - Hammer getrieben, massiv, gediegen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|homoeusios|hŏmoeūsĭŏs|hŏmōeūsĭŏs|110|||on
+LS|
+GG|homoeusios|hŏmoeūsĭŏs|ŏn|||de nature identique|homoeusios|hŏmoeūsĭŏs
+GJ|
+Ge|homoeusios|homoeūsios|on|von gleichem Wesen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|homotonos|hŏmŏtŏnŏs|hŏmŏtŏnŏs|110|||on
+LS|
+GG|homotonos|hŏmŏtŏnŏs|ŏn|||qui a une tension égale|homotonus|-ŏs
+GJ|
+Ge|homotonos|homotonos|on|gleichmäßig gespannt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hyperausteros|hўperaustērŏs|hўperāustērŏs|110|||on
+LS|
+GG|hyperausteros|hўperaustērŏs|ŏn|||très âpre|hyperausteros|
+GJ|hyperausteros|hyperaustērŏs|ŏn|C. Aur. très âpre.
+Ge|hyperausteros|hyperaustēros|on|überherb
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hypogaeos|hўpŏgaeŏs|hўpŏgāeŏs|110|||on
+LS|
+GG|hypogaeos|hўpŏgaeŏs|ŏn|||souterrain|hypogaeos|
+GJ|hypogaeos|hypogaeos|on|souterrain.
+Ge|hypogaeos|hypogaeos|on|unterirdisch - ein unterirdisches Gewölbe - das Grabgewölbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|isemerinos|ĭsēmĕrīnŏs|ĭsēmĕrīnŏs|110|||on
+LS|
+GG|isemerinos|ĭsēmĕrīnos|ŏn|||dont les jours sont égaux aux nuits, équinoxial|isemerinos|
+GJ|isemerinos|ĭsēmĕrīnŏs|ŏn|Chalc. dont les jours sont égaux aux nuits, équinoxial.
+Ge|isemerinos|isēmerinos|on|zur Tag- und Nachtgleiche gehörig, äquinoktialisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|isodomos|īsŏdŏmos|īsŏdŏmos|110|||on
+LS|isodomos|īsŏdŏmos|on||adj.|equally, evenly built|isodomos|0
+GG|
+GJ|
+Ge|Isodomos|Isodomos|on|gleich gebaut
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|isopleuros|īsŏpleuros|īsŏplēuros|110|||on
+LS|isopleuros|īsŏpleuros|on||adj.|equilateral|isopleuros|0
+GG|
+GJ|
+Ge|Isopleuros|Isopleuros|on|gleichseitig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|leucos|leucos|lēucos|110|||on
+LS|leucos|leucos|on||adj.|white|leucos|0
+GG|
+GJ|
+Ge|leucos|leucos|on|weiß
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lexipyretos|lexĭpўrĕtŏs|lēxĭpўrĕtŏs|110|||on
+LS|lexipyretos|lexĭpўrĕtos|on and a, um||adj.|that allays fever, antifebrile|lexipyretos|(
+GG|lexipyretos|lexĭpўrĕtŏs|ŏn||adj.|fébrifuge|lexipyretos|lexĭpўrĕtŏs
+GJ|lexipyretos|lexipyrĕtŏs|ŏn|fébrifuge.
+Ge|lexipyretos|lēxipyretos|on|Fieber stillend, -hemmend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|manicos|mănĭcŏs|mănĭcŏs|110|||on
+LS|
+GG|manicos|mănĭcŏs|ŏn|||qui rend fou|manicos|
+GJ|
+Ge|manicos|manicos|on|rasend machend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|meconicos|mēcōnĭcŏs|mēcōnĭcŏs|110|||on
+LS|
+GG|meconicos|mēcōnĭcŏs|ŏn|||de pavot|meconicos|
+GJ|
+Ge|meconicos|mēcōnicos|on|mohnartig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mimeticos|mīmētĭcŏs|mīmētĭcŏs|110|||on
+LS|
+GG|mimeticos|mīmētĭcŏs|ŏn|||imitatif|mimeticos|
+GJ|
+Ge|mimeticos|mīmēticos|on|zur Darstellung durch Nachahmung geeignet, darstellend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monochordos|mŏnŏchordŏs|mŏnŏchōrdŏs|110|||on
+LS|monochordos|mŏnŏchordos|on||adj.|of one string|monochordos|0
+GG|monochordos|mŏnŏchordŏs|ŏn|n.|S.|à une corde|monochordos|mŏnŏchordŏs
+GJ|monochordos|mŏnŏchordŏs|ŏn|qui n'a qu'une corde.
+Ge|monochordos|monochordos|on|einsaitig - das Monochord
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monochromatos|mŏnŏchrōmătŏs|mŏnŏchrōmătŏs|110|||on
+LS|monochromatos|mŏnochrōmătos|on||adj.|one-colored, of a single color|monochromatos|0
+GG|monochromatos|mŏnŏchrōmătŏs|ŏn|||monochrome|monochromatos|mŏnŏchrōmătŏs
+GJ|monochromatos|mŏnŏchrōmătŏs|ŏn|Plin. d'une seule teinte.
+Ge|monochromatos|monochrōmatos|on|einfarbig - einfarbige Gemälde
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monochromos|mŏnŏchrōmŏs|mŏnŏchrōmŏs|110|||on
+LS|monochromos|mŏnŏchrōmos|on||adj.|one-colored, monochromatic|monochromos|0
+GG|monochromos|mŏnŏchrōmŏs|||||monochromatos|-chrōmŏs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monochronos|mŏnŏchrŏnŏs|mŏnŏchrŏnŏs|110|||on
+LS|monochronos|mŏnochrŏnos|on||adj.|of one time, of the same time, measure|monochronos|0
+GG|monochronos|mŏnŏchrŏnŏs|ŏn|||d'un seul temps|monochronos|
+GJ|
+Ge|monochronos|monochronos|on|von einer Zeit, von einem Zeitmaße
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monoclonos|mŏnŏclōnŏs|mŏnŏclōnŏs|110|||on
+LS|monoclonos|mŏnoclōnos|on||adj.|having a single branch, shoot|monoclonos|0
+GG|monoclonos|mŏnŏclōnŏs|ŏn|||qui n'a qu'une tige|monoclonos|
+GJ|
+Ge|monoclonos|monoclōnos|on|einzweigig, einsprossig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monogrammos|mŏnŏgrammŏs|mŏnŏgrāmmŏs|110|||on
+LS|monogrammos|mŏnogrammos|||adj.|that consist of lines merely, outlined, sketched;|monogrammus|or 
+GG|monogrammos|mŏnŏgrammŏs|-ŏn|m.|S.|fait simplement de lignes, ébauché, linéaire|monogrammus|-ŏs
+GJ|
+Ge|monogrammos|monogrammos|on|einlinig, einstreifig - skizziert - abgefleischt, abgemagert - ein Schatten
+FG|
+Lw|monogrammos|monogrammos|on||adj.|of a mere line, outlined, sketched||||monogrammos
+YO|
+PO|
+WW||||
+|monophonos|mŏnŏphōnŏs|mŏnŏphōnŏs|110|||on
+LS|
+GG|monophonos|mŏnŏphōnŏs|ŏn|||d'un seul son|monophonos|
+GJ|
+Ge|monophonos|monophōnos|on|einstimmig, nur einen Ton enthaltend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monopteros|mŏnoptĕrŏs|mŏnōptĕrŏs|110|||on
+LS|monopteros|mŏnoptĕros|on||adj.|with one wing|monopteros|0
+GG|monopteros|mŏnoptĕrŏs|ŏn|||monoptère, à une aile|monopteros|
+GJ|monopteros|mŏnŏptĕrŏs|ŏn|qui n'a qu'une aile.
+Ge|monopteros|monopteros|on|einflügelig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monoptotos|mŏnŏptōtŏs|mŏnŏptōtŏs|110|||on
+LS|
+GG|monoptotos|mŏnoptōtŏs|ŏn|||qui n'a qu'un cas / pl. n., noms qui n'ont qu'un cas|monoptotos|
+GJ|monoptotos|mŏnŏptōtŏs|ŏn|(mot) qui n'a qu'un seul cas (avec une seule désinence - qui tombe à la fin de ce mot).
+Ge|monoptotos|monoptōtos|on|mit nur einem Kasus - Nomina, die nur eine Kasusform habe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monostrophos|mŏnostrŏphŏs|mŏnōstrŏphŏs|110|||on
+LS|
+GG|monostrophos|mŏnostrŏphŏs|ŏn|||d'une seule strophe|monostrophos|
+GJ|monostrophos|mŏnostrŏphŏs|ŏn|composé d'une seule strophe.
+Ge|monostrophos|monostrophos|on|einstrophig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monosyllabos|mŏnŏsyllăbŏs|mŏnŏsȳllăbŏs|110|||on
+LS|
+GG|
+GJ|monosyllabos|mŏnŏsyllăbŏs|ŏn (mŏnŏsyllăbus, a, um)|monosylllabique.
+Ge|monosyllabos|monosyllabos|on|einsilbig - ein einsilbiges Wort
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octachordos|octăchordŏs|ōctăchōrdŏs|110|||on
+LS|octachordos|octăchordos|on||adj.|eight-stringed, octachord|octachordos|(
+GG|octachordos|octăchordŏs|ŏn||adj.|qui est à huit cordes|octachordos|
+GJ|
+Ge|octachordos|octachordos|on|achtsaitig, achtstimmig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octagonos|octāgōnŏs|ōctāgōnŏs|110|||on
+LS|octagonos|octāgōnŏs|i||adj.|eight-cornered, octagonal|octagonos|v. octogonos.
+GG|
+GJ|
+Ge|octagonos|octagōnos|on|achteckig - das Achteck
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octaphoros|octăphŏrŏs|ōctăphŏrŏs|110|||on
+LS|
+GG|octaphoros|octăphŏrŏs|ŏn||adj.|porté par huit hommes|octophoros|octă-
+GJ|
+Ge|octaphoros|octaphoros|on|von achten getragen - eine von acht Sklaven getragene Sänfte
+FG|
+Lw|octaphoros|octāphoros|see octophoros.|||balls||||octaphoros
+YO|
+PO|
+WW||||
+|octastylos|octăstȳlŏs|ōctăstȳlŏs|110|||on
+LS|octastylos|octăstȳlos|on||adj.|having eight columns, octostyle|octastylos|0
+GG|octastylos|octăstȳlŏs|ŏn|||qui a huit colonnes de front|octastylos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octochordos|octŏchordos|ōctŏchōrdos|110|||on
+LS|octochordos|octŏchordos|on||adj.|eight-stringed, octachord|octachordos|(
+GG|octochordos|octŏchordos||||v. octach-.|octochordos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octogonos|octōgōnŏs|ōctōgōnŏs|110|||on
+LS|octogonos|octōgōnŏs|i||adj.|eight-cornered, octagonal|octogonos|(
+GG|octogonos|octōgōnŏs|ŏn||adj.|adj., qui a huit angles, octogone, v. octagonos|octogonos|octōgōnŏs
+GJ|octogonos|octogonos|on|qui a huit angles, octogone.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octophoros|octōphŏrŏs|ōctōphŏrŏs|110|||on
+LS|
+GG|octophoros|octōphŏrŏs|ŏn||adj.|porté par huit hommes|octophoros|octōphŏrŏs
+GJ|octophoros|octophoros|on|porté par huit hommes.
+Ge|
+FG|octophoros|octophoros (octa-) on, adjectif, porté par huit hommes.
+Lw|octophoros|octōphoros (octāph-)|||adj.|carried by eight bearers||||octophoros
+YO|
+PO|
+WW||||
+|octosyllabos|octŏsyllăbŏs|ōctŏsȳllăbŏs|110|||on
+LS|
+GG|octosyllabos|octŏsyllăbŏs|ŏn|||composé de huit syllabes, octosyllabe|octosyllabus|-bŏs
+GJ|
+Ge|octosyllabos|octōsyllabos|on|achtsilbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|panchrysos|Panchrȳsos|Pānchrȳsos|110|||on
+LS|Panchrysos|Panchrȳsos|on||adj.|all golden|Panchrysos|0
+GG|Panchrysos|Panchrȳsos||||c. Berenice.|Panchrysos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|paradigmaticos|părădīgmătĭcŏs|părădīgmătĭcŏs|110|||ē, ŏn
+LS|
+GG|paradigmaticos|părădigmătĭcŏs|ē ŏn|||cité comme exemple|paradigmaticos|
+GJ|
+Ge|paradigmaticos|paradīgmaticos|ē, on|zum Beispiele dienend, in Form eines Beispieles
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|paralios|părălĭŏs|părălĭŏs|110|||on
+LS|paralios|părălĭos|on||adj.|that grows by the seaside|paralius|(
+GG|paralios|părălĭŏs|a, um||adj.|ŏn,|paralios|părălĭŏs
+GJ|paralios|paralios|on (paralius, um), m. n.|marin, maritime.
+Ge|paralios|paralios|on|am Meere befindlich, - wachsend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|parallelos|părallēlŏs|părāllēlŏs|110|||on
+LS|parallelos|părallēlos|on||adj.|paraliel, absol., parallels of latitude|parallelus|0
+GG|parallelos|părallēlŏs|ŏn||adj.|parallèle / les parallèles [en t. d'astron.]|parallelos|părallēlŏs
+GJ|parallelos|parallelos|on|c. parallelus.
+Ge|parallelos|parallēlos|on|parallel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|paraphoros|părăphŏros|părăphŏros|110|||on
+LS|paraphoros|părăphŏros|on||adj.|bad, of an inferior sort|paraphoros|0
+GG|paraphoros|părăphŏros|ŏn|||de mauvaise qualité|paraphoros|
+GJ|
+Ge|paraphoros|paraphoros|on|schlecht, von schlechter Art
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|parectatos|părectātŏs|părēctātŏs|110|||on
+LS|
+GG|parectatos|părectātŏs|a, um||adj.|déjà grand garçon, jeune homme|parectatos|părectātŏs
+GJ|
+Ge|parectatos|parectatos|on|aufgewachsen, erwachsen - der Erwachsene
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pentadoros|pentădōrŏs|pēntădōrŏs|110|||on
+LS|pentadoros|pentădōros|on||adj.|containing five palms, hand-breadths|pentadoros|0
+GG|pentadoros|pentădōrŏs|ŏn|||long de cinq palmes|pentadoros|
+GJ|pentadoros|pentădōrŏs|ŏn|qui a cinq palmes de long.
+Ge|pentadoros|pentadōros|on|fünf Palmen - Querhände) enthaltend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pentasemos|pentăsēmŏs|pēntăsēmŏs|110|||on
+LS|
+GG|pentasemos|pentăsēmŏs|ŏn|||qui a cinq temps [métrique]|pentasemus|-ŏs
+GJ|
+Ge|pentasemos|pentasēmos|on|fünfzeitig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pentasyllabos|pentăsyllăbŏs|pēntăsȳllăbŏs|110|||on
+LS|
+GG|pentasyllabos|pentăsyllăbŏs|ŏn|||qui est de cinq syllabes|pentasyllabus|-ŏs
+GJ|
+Ge|pentasyllabos|pentasyllabos|on|fünfsilbig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peripteros|pĕriptĕrŏs|pĕrīptĕrŏs|110|||on
+LS|peripteros|pĕriptĕros|on||adj.|surrounded with a row of columns on the outside|peripteros|0
+GG|peripteros|pĕriptĕrŏs|ŏn|||entouré de colonnes]|peripteros|
+GJ|peripteros|pĕriptĕrŏs|ŏn, adj.|Vitr. entouré de colonnes, périptère.
+Ge|peripteros|peripteros|on|ringsherum geflügelt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|peritonaeos|pĕrĭtŏnaeos|pĕrĭtŏnāeos|110|||on
+LS|peritonaeos|pĕrĭtŏnaeos|on||adj.|of or belonging to the peritoneum, peritoneal|peritonaeos|0
+GG|peritonaeos|pĕrĭtŏnaeos membrana||f.||c. peritonaeum|peritonaeos membrana|
+GJ|peritonaeos|pĕrĭtŏnaeos|membrana, f. (c. peritonaeum)|C. Aur. péritoine.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|petrotos|pē̆trōtŏs|pē̆trōtŏs|110|||on
+LS|petrotos|pē̆trōtos|on||adj.|stony, petrified|petrotos|0
+GG|petrotos|pĕtrōtŏs|ŏn||adj.|adj., pétrifié|petrotos|
+GJ|
+Ge|petrotos|petrōtos|on|versteinert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pheugydros|pheugȳ̆drŏs|phēugȳ̆drŏs|110|||on
+LS|pheugydros|pheugȳ̆drŏs|ŏn||adj.|hydrophobic|pheugydros|0
+GG|pheugydros|pheugўdrŏs|ŏn||adj.|qui a horreur de l'eau|pheugydros|
+GJ|pheugydros|pheugydrŏs|ŏn|C. -Aur. qui a horreur de l'eau, hydrophobe.
+Ge|pheugydros|pheugydros|on|wasserscheu
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|philosophumenos|phĭlŏsŏphūmĕnŏs|phĭlŏsŏphūmĕnŏs|110|||on
+LS|philosophumenos|phĭlŏsŏphūmĕnos|on||adj.|philosophical|philosophumenos|(
+GG|philosophumenos|phĭlŏsŏphūmĕnŏs|ŏn|||philosophique|philosophumenos|
+GJ|philosophumenos|phĭlŏsŏphūmĕnŏs|ŏn|Sen. philosophique.
+Ge|philosophumenos|philosophūmenos|on|philosophierend, philosophisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|polyrrhizos|pŏlyrrhīzŏs|pŏlȳrrhīzŏs|110|||on
+LS|polyrrhizos|pŏlyrrhīzos|on||adj.|Having many roots|polyrrhizos|0
+GG|polyrrhizos|pŏlyrrhizŏs|ŏn||adj.|qui a beaucoup de racines|polyrrhizos|pŏlyrrhizŏs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|polyrrizos|pŏlyrrizŏs|pŏlȳrrīzŏs|110|||on
+LS|
+GG|polyrrizos|pŏlyrrizŏs|ŏn||adj.|adj., qui a beaucoup de racines / subst. n., nom d'une plante inconnue|polyrrhizos|-rri-
+GJ|
+Ge|polyrrizos|polyrrizos|on|vielwurzelig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|polytrophos|pŏlўtrŏphŏs|pŏlўtrŏphŏs|110|||on
+LS|
+GG|polytrophos|pŏlўtrŏphŏs|ŏn||adj.|adj., très nourrissant, très nutritif|polytrophos|
+GJ|
+Ge|polytrophos|polytrophos|on|sehr nährend, nahrhaft
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|priapicos|Prĭāpĭcŏs|Prĭāpĭcŏs|110|||on
+LS|
+GG|Priapicos|Prĭāpĭcŏs|ŏn|n.||vers priapéen|Priapicos|
+GJ|Priapicos|Prĭāpĭcŏs|ŏn, n.|priapéen.
+Ge|Priapicos|Priāpicos|on|priapisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prostylos|prostȳlŏs|prōstȳlŏs|110|||on
+LS|prostylos|prostȳlos|on||adj.|having pillars in front|prostylos|0
+GG|prostylos|prostȳlŏs|ŏn||adj.|prostyle, qui a des colonnes par-devant|prostylos|
+GJ|prostylos|prostylŏs|ŏn, adj.|prostyle, qui a des colonnes par-devant.
+Ge|prostylos|prostȳlos|on|vorn Säulen habend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pseudodipteros|pseudŏdiptĕrŏs|psēudŏdīptĕrŏs|110|||on
+LS|pseudodipteros|pseudŏdiptĕros|on||adj.|that appears to have two rows of columns, pseudodipteral|pseudodipteros|0
+GG|pseudodipteros|pseudŏdiptĕrŏs|ŏn||adj.|adj., qui semble être diptère [en parl. d'un édifice]|pseudodipteros|
+GJ|
+Ge|pseudodipteros|pseudodipteros|on|scheinbar zweisäulig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pycnostylos|pycnostȳlŏs|pȳcnōstȳlŏs|110|||on
+LS|pycnostylos|pycnostȳlos|on||adj.|close-columned, having the columns close together, pycnostyle|pycnostylos|0
+GG|pycnostylos|pycnostȳlŏs|ŏn|||pycnostyle, qui a des colonnes très rapprochées|pycnostylos|
+GJ|
+Ge|pycnostylos|pycnostȳlos|on|dichtsäulig, engsäulig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|symmetros|symmē̆trŏs|sȳmmē̆trŏs|110|||on
+LS|symmetros|symmē̆tros|on||adj.|symmetrical|symmetros|0
+GG|symmetros|symmĕtrŏs|ŏn|||symétrique, proportionné|symmetros|
+GJ|symmetros|symmĕtrŏs|ŏn, adj.|Vitr. symétrique, proportionné.
+Ge|symmetros|symmetros|on|ebenmäßig, symmetrisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|synonymos|sўnōnўmŏs|sўnōnўmŏs|110|||on
+LS|
+GG|synonymos|sўnōnўmŏs|ŏs ŏn||adj.|adj., synonyme|synonymos|
+GJ|synonymos|synōnymŏs|ŏn|qui a la même signification, synonyme.
+Ge|synonymos|synōnymos|on|gleichbedeutend, synonym - das gleichbedeutende Wort - das Synonymum
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetrachordos|tē̆trăchordŏs|tē̆trăchōrdŏs|110|||on
+LS|tetrachordos|tē̆trăchordos|on||adj.|having four strings, notes.|tetrachordos|0
+GG|tetrachordos|tĕtrăchordŏs|ŏn||adj.|qui a quatre cordes ou quatre tons|tetrachordos|
+GJ|
+Ge|tetrachordos|tetrachordos|on|viersaitig, vierstimmig - ein Tetrachord
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetracolos|tĕtrăcōlŏs|tĕtrăcōlŏs|110|||on
+LS|
+GG|tetracolos|tĕtrăcōlŏs|ŏn|||à quatre membres [t. de métrique, de rhét.]|tetracolos|
+GJ|
+Ge|tetracolos|tetracōlos|on|viergliederig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetradoros|tē̆trădōrŏs|tē̆trădōrŏs|110|||on
+LS|tetradoros|tē̆trădōros|on||adj.|of four palms, hand-breadths|tetradoros|0
+GG|tetradoros|tĕtrădōrŏs|ŏn|||qui a quatre palmes de dimension|tetradorus|-ŏs
+GJ|
+Ge|tetradoros|tetradōros|on|von vier Palmen (Querhänden)
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetragrammatos|tĕtrăgrammătŏs|tĕtrăgrāmmătŏs|110|||on
+LS|
+GG|tetragrammatos|tĕtrăgrammătŏs|ŏn|||composé de quatre lettres|tetragrammatos|
+GJ|
+Ge|tetragrammatos|tetragrammatos|on|aus vier Buchstaben bestehend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetraphoros|tē̆trăphŏros|tē̆trăphŏros|110|||on
+LS|tetraphoros|tē̆trăphŏros|on||adj.|of four bearers, four bearers carrying any thing together|tetraphoros|0
+GG|
+GJ|
+Ge|tetraphoros|tetraphoros|on|zu vier tragend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetraptotos|tĕtraptōtŏs|tĕtrāptōtŏs|110|||on
+LS|
+GG|tetraptotos|tĕtraptōtŏs forma||||forme qui n'a que quatre cas|tetraptotos forma|
+GJ|
+Ge|tetraptotos|tetraptōtos|on|mit nur vier Kasusendungen - ein Nomen - das nur vier Kasusendungen hat
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetrastichos|tē̆trastĭchŏs|tē̆trāstĭchŏs|110|||on
+LS|tetrastichos|tē̆trastĭchos|on||adj.|containing four rows, lines.|tetrastichos|0
+GG|tetrastichos|tetrastichŏs|ŏn|||de quatre vers / de quatre rangs|tetrastichus|-ŏs
+GJ|
+Ge|tetrastichos|tetrastichos|on|vier Reihen enthaltend - aus vier Zeilen (Versen) bestehend - ein aus vier Zeilen (Versen) bestehendes Gedicht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetrastrophos|tĕtrastrŏphŏs|tĕtrāstrŏphŏs|110|||on
+LS|
+GG|tetrastrophos|tĕtrastrŏphŏs|ŏn|||de quatre strophes|tetrastrophus|-ŏs
+GJ|
+Ge|tetrastrophos|tetrastrophos|on|aus vier Strophen bestehend - ein vierstrophiges Gedicht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tetrastylos|tē̆trastȳlŏs|tē̆trāstȳlŏs|110|||on
+LS|tetrastylos|tē̆trastȳlos|on||adj.|having four columns.|tetrastylos|0
+GG|tetrastylos|tĕtrastȳlŏs|ŏn|||tétrastyle [qui a quatre colonnes ou quatre rangs de colonnes]|tetrastylus|-ŏs
+GJ|
+Ge|tetrastylos|tetrastȳlos|on|viersäulig - eine Galerie von vier Säulenreihen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tricolos|trĭcōlŏs|trĭcōlŏs|110|||on
+LS|
+GG|tricolos|trĭcōlŏs|ŏn||adj.|adj., formé de trois membres, à trois membres|tricolos|
+GJ|
+Ge|tricolos|tricōlos|on|aus drei Gliedern bestehend - eine aus drei Gliedern bestehende Periode
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|adelos|adēlos|adēlos|110|||on
+LS|
+GG|
+GJ|
+Ge|adelos|adēlos|on|ungewiß, unsicher
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|analogos|analogos|analogos|110|||on
+LS|
+GG|
+GJ|
+Ge|analogos|analogos|on|gleiches Verhältnis habend, analog
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|antispasticos|antispasticos|āntīspāsticos|110|||on
+LS|
+GG|
+GJ|
+Ge|antispasticos|antispasticos|on|aus Antispasten bestehend, antispastisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|arrhenogonos|arrhenogonos|ārrhenogonos|110|||on
+LS|
+GG|
+GJ|
+Ge|arrhenogonos|arrhenogonos|on|Männchen - zeugend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|barypicros|barypicros|barypī̆cros|110|||on
+LS|
+GG|
+GJ|
+Ge|barypicros|barypicros|on|schwer bitter
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chortinos|chortinos|chōrtinos|110|||on
+LS|
+GG|
+GJ|
+Ge|chortinos|chortinos|on|aus Gras
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cibdelos|cibdēlos|cībdēlos|110|||on
+LS|
+GG|
+GJ|
+Ge|cibdelos|cibdēlos|on|trügerisch - die Trügerischen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|curotrophos|cūrotrophos|cūrō̆trophos|110|||on
+LS|
+GG|
+GJ|
+Ge|curotrophos|cūrotrophos|on|Kinder nährend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enrythmos|enrythmos|ēnrythmos|110|||on
+LS|enrythmos|enrythmos|on||adj.|rhythmical, in harmony|enrythmos|0
+GG|
+GJ|enrythmus|enrythmus|a, um (enrythmos, on)|rythmé.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|epicoenos|epicoenos|epicōenos|110|||on
+LS|
+GG|
+GJ|
+Ge|epicoenos|epicoenos|on|beiden Geschlechtern gemeinschaftlich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|epidemos|epidēmos|epidēmos|110|||on
+LS|
+GG|
+GJ|
+Ge|epidemos|epidēmos|on, Adi.|einheimisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|euphonos|euphōnos|ēuphōnos|110|||on
+LS|
+GG|
+GJ|
+Ge|euphonos|euphōnos|on|wohlklingend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eutheristos|eutheristos|ēutherīstos|110|||on
+LS|
+GG|
+GJ|
+Ge|eutheristos|eutheristos|on|leicht beschneidbar
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|filosophumenos|filŏsŏphūmĕnos|filŏsŏphūmĕnos|110|||on
+LS|filosophumenos|filŏsŏphūmĕnos|on||adj.|philosophical|philosophumenos|(
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|holocaustos|holocaustos|holocāustos|110|||on
+LS|
+GG|
+GJ|
+Ge|holocaustos|holocaustos|on|zum Brandopfer bestimmt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|holochrysos|holochrȳsos|holochrȳsos|110|||on
+LS|
+GG|
+GJ|
+Ge|holochrysos|holochrȳsos|on|ganz golden
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|holocleros|holoclēros|holō̆clēros|110|||on
+LS|
+GG|
+GJ|
+Ge|holocleros|holoclēros||in allen seinen Teilen unversehrt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|isocinnamos|Isocinnamos|Isocīnnamos|110|||on
+LS|
+GG|
+GJ|
+Ge|Isocinnamos|Isocinnamos|on|zimtähnlich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octasylos|octasȳlos|ōctasȳlos|110|||on
+LS|
+GG|
+GJ|
+Ge|octasylos|octasȳlos|on|achtsäulig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octateuchos|octateuchos|ōctatēuchos|110|||on
+LS|
+GG|
+GJ|
+Ge|octateuchos|octateuchos|on|achtbändig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|onchestios|Onchestĭŏs|Ōnchēstĭŏs|110|||on
+LS|
+GG|
+GJ|Onchestios|Onchestĭŏs|a, um|d'Oncheste.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pandemos|pandemos|pāndemos|110|||on
+LS|
+GG|
+GJ|pandemos|pandemos|on|endémique.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|paradoxos|paradoxos|paradōxos|110|||on
+LS|
+GG|
+GJ|
+Ge|paradoxos|paradoxos|on|wider Erwarten, wunderbar, seltsam, paradox - wider Erwarten Sieger - das Hinhalten - die Spannung - ein paradoxer Satz - paradoxe Sätze
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pentachordos|pentachordos|pēntachōrdos|110|||on
+LS|
+GG|
+GJ|
+Ge|pentachordos|pentachordos|on|fünfsaitig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pentaptotos|pentaptōtos|pēntāptōtos|110|||on
+LS|
+GG|
+GJ|
+Ge|pentaptotos|pentaptōtos|on|fünf Kasus habend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pentastichos|pentastichos|pēntāstichos|110|||on
+LS|
+GG|
+GJ|
+Ge|pentastichos|pentastichos|on|fünf Säulenreihen habend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pseudoperipteros|pseudŏpĕriptĕros|psēudŏpĕrīptĕros|110|||on
+LS|pseudoperipteros|pseudŏpĕriptĕros|on||adj.|that seems to have columns all round|pseudoperipteros|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pterotos|ptĕrōtos|ptĕrōtos|110|||on
+LS|pterotos|ptĕrōtos|on||adj.|winged, with handles|pterotos|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sapros|sapros|sā̆pros|110|||on
+LS|sapros|sapros|on||adj.|rotten, putrid|sapros|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|strategematicos|stratēgēmaticos|stratēgēmaticos|110|||on
+LS|
+GG|
+GJ|
+Ge|strategematicos|stratēgēmaticos|on|die Kriegslist betreffend - Feldherrnlisten, Kriegslisten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|strategicos|stratēgicos|stratēgicos|110|||on
+LS|
+GG|
+GJ|
+Ge|strategicos|stratēgicos|on|den Feldherrn betreffend - Feldherrntaten
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|streptos|streptos|strēptos|110|||on
+LS|streptos|streptos|on||adj.|twisted|streptos|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|syngenicos|syngĕnĭcos|sȳngĕnĭcos|110|||on
+LS|syngenicos|syngĕnĭcos|on||adj.|belonging to one's family, race|syngenicos|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|thelygonos|thēlygonos|thēlygonos|110|||on
+LS|
+GG|
+GJ|
+Ge|thelygonos|thēlygonos|on|Weibchen - zeugend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|triptotos|triptōtos|trīptōtos|110|||on
+LS|
+GG|
+GJ|
+Ge|triptotos|triptōtos|on|mit nur drei Kasusendungen - ein nur drei Kasus habendes Nomen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|erythros2|ĕrȳthrŏs2|ĕrȳthrŏs|110|||on
+LS|erythros|ĕrȳthros|on||adj.|red|erythros|0
+GG|erythros|ĕrўthrŏs|ŏn|||rouge|erythros|
+GJ|erythros|erythrŏs|ŏn|rouge.
+Ge|erythros|erythros|a, on|rot
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|hydragogos2|hўdrăgōgŏs2|hўdrăgōgŏs|110|||on
+LS|
+GG|hydragogos|hўdrăgōgŏs|ŏn||adj.|qui attire les sérosités|2 hydragogos|
+GJ|hydragogos|hydrăgōgŏs|ŏn, adj.|C. -Aur. qui attire les sérosités.
+Ge|hydragogos|hydragōgos|on|Wasser abführend
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|hypaethros|hўpaethrŏs|hўpāethrŏs|110|||on
+LS|hypaethros|hypaethros|a, um||adj.|that is in the open air, uncovered. Subst. m. a temple open or without roof|hypaethrus|or 
+GG|hypaethros|hўpaethrŏs|ŏs ŏn|||hypèthre, exposé à l'air, découvert|hypaethros|
+GJ|
+Ge|hypaethros|hypaethros|on|unter freiem Himmel befindlich, unbedeckt, offen
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|polyonymos|pŏlўōnўmŏs|pŏlўōnўmŏs|110|||on
+LS|
+GG|polyonymos|pŏlўōnўmŏs|ŏn|||qui a plusieurs noms|polyonymus|-ŏs
+GJ|
+Ge|polyonymos|polyōnymos|on|vielnamig - das Rebhühnerkraut
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|acopos2|acŏpŏs2|acŏpŏs|110|||on
+LS|
+GG|
+GJ|acopos|acŏpŏs|ŏn (um), adj.|qui délasse, qui calme la douleur.
+Ge|acopos|acopos|on|durchsetzter Quarzkristall - oder Spat - eine Linderungssalbe
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|tetrarhythmus|tĕtrărhythmus|tĕtrărhythmus|11|||a, um
+LS|
+GG|tetrarhythmus|tĕtrărhythmus|um|||formé de quatre mesures|tetrarhythmus|
+GJ|
+Ge|tetrarhythmus|tetrarhythmus|um|aus vier Takten - Versfüßen bestehend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|asoticos|ăsōtīcŏs|ăsōtīcŏs|110|||on
+LS|
+GG|asoticos|ăsōtīcŏs|ŏn|||c. asotus|asoticos|
+GJ|asoticos|ăsōtīcŏs|ŏn|c. asotus.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caryinos|cărўī̆nŏs|cărўī̆nŏs|110|||on
+LS|caryinos|cărўī̆nŏs|on||adj.|made from nuts|caryinos|-ŏn, and 
+GG|caryinos|cărўĭnŏs|ŏn||adj.|de noix|caryinos|cărўĭnŏs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|colobos|cŏlŏbŏs|cŏlŏbŏs|110|||on
+LS|colobos|cŏlŏbŏs|on||adj.|mutilated, curtailed, in which one syllable is wanting|colobos|0
+GG|colobos|cŏlŏbŏs|ŏn|||mutilé|colobos|
+GJ|colobos|colobos|versus, m. (colobon metrum, n.)|vers catalectique.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|crisimos|crĭsĭmŏs|crĭsĭmŏs|110|||on
+LS|
+GG|crisimos|crĭsĭmŏs|ŏn|||critique, dangereux [t. de médec.]|crisimos|
+GJ|crisimos|crĭsĭmŏs|ŏn, adj.|critique, dangereux, qui amène une crise (t. de méd.).
+Ge|crisimos|crisimos||entscheidend, kritisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gnomicos|gnōmĭcŏs|gnōmĭcŏs|110|||on
+LS|
+GG|gnomicos|gnōmĭcŏs|ŏn|||sententieux|gnomicos|
+GJ|
+Ge|gnomicos|gnōmicos|ē, on|als Denkspruch (Sentenz) dienend, in Form eines Denkspruchs (einer Sentenz)
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|micropsychos|mĭcropsȳchŏs|mĭcrōpsȳchŏs|110|||on
+LS|
+GG|micropsychos|micropsȳchŏs|a, um||adj.|pusillanime|micropsychus|-chŏs
+GJ|micropsychos|mĭcropsychŏs|ŏn (mĭcropsychus, a, um)|- 1 - pusillanime. - 2 - chiche, avare.
+Ge|micropsychos|mīcropsȳchos|ī|kleinmütig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pyrrhopoecilos|pyrrhŏpoecĭlŏs|pȳrrhŏpōecĭlŏs|110|||on
+LS|pyrrhopoecilos|pyrrhŏpoecĭlos||||a kind of porphyry|pyropoecilos|Err :520
+GG|pyrrhopoecilos|pyrrhŏpoecĭlŏs|ŏn|||v. pyropoecilos|pyrrhopoecilos|
+GJ|pyrrhopoecilos|pyrrhŏpoecĭlŏs|ŏn (c. pyropoecilos)|tacheté de rouge (en parl. d'un granit).
+Ge|pyrrhopoecilos|pyrrhopoecilos|op|rötlich bunt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|apyrotos|ăpyrōtŏs|ăpyrōtŏs|110|||on
+LS|
+GG|
+GJ|apyrotos|ăpyrōtŏs|ŏn|incombustible.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|asomatos|ăsōmătŏs|ăsōmătŏs|110|||on
+LS|
+GG|asomatos|ăsōmătŏs|ŏn|||incorporel|asomatos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dramaticos|drāmătĭcŏs|drāmătĭcŏs|110|||on
+LS|
+GG|dramaticos|drāmătĭcŏs|ŏn|||dramatique, qui concerne le drame|dramaticus|drāmătĭcŏs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enharmonios|ĕnharmŏnĭŏs|ĕnhārmŏnĭŏs|110|||on
+LS|
+GG|enharmonios|ĕnharmŏnĭŏs|on|||enharmonique [dans la musique grecque]|enharmonicus|-nĭŏs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|enneaphtongos|ennĕăphtongŏs|ēnnĕăphtōngŏs|110|||on
+LS|
+GG|enneaphtongos|ennĕăphtongŏs|ŏn|||qui rend neuf sons|enneaphtongos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|monophtongos|mŏnophtongŏs|mŏnophtōngŏs|110|||on
+LS|
+GG|monophtongos|mŏnophtongŏs|ŏn|||qui a un son simple|monophtongus|-ŏs
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pantophobos|pantŏphŏbŏs|pāntŏphŏbŏs|110|||on
+LS|
+GG|pantophobos|pantŏphŏbŏs|ŏn|||qui craint tout|pantophobos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|polychrestos|pŏlўchrestŏs|pŏlўchrēstŏs|110|||on
+LS|
+GG|polychrestos|pŏlўchrestŏs|ŏn|||polychreste [t. de méd.]|polychrestos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|prosmelodos|prosmĕlōdŏs|prōsmĕlōdŏs|110|||on
+LS|
+GG|prosmelodos|prosmĕlōdŏs|ŏn|||c. proslambanomenos|prosmelodos|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diphthongos2|diphthongŏs2|diphthōngŏs|110|||on
+LS|
+GG|diphthongos|diphthongŏs|ŏn||adj.|formant diphtongue|1 diphthongos|diphthongŏs
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|lithostrotos2|lĭthostrōtŏs2|lĭthōstrōtŏs|110|||on
+LS|
+GG|lithostrotos|lĭthostrōtŏs|ŏn||adj.|de mosaïque|1 lithostrotos|lĭthostrōtŏs
+GJ|
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|anterumenos|antērūmĕnŏs|āntērūmĕnŏs|110|||e, on
+LS|
+GG|anterumenos|antērūmĕnŏs|ē, ŏn|||opposé|anterumenos|
+GJ|
+Ge|anterumenos|antērumenos|ē, on|entgegengesetzt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bucolicos|būcŏlĭcŏs|būcŏlĭcŏs|110|||e, on
+LS|
+GG|bucolicos|būcŏlĭcŏs|ē, ŏn|||pastoral, bucolique, qui concerne les boeufs ou les pâtres|bucolicus|-ŏs
+GJ|
+Ge|bucolicos|būcolicos|ē, on|zu den Hirten gehörig, Hirtenländlich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|diadumenos|dĭădūmĕnŏs|dĭădūmĕnŏs|110|||e, on
+LS|
+GG|diadumenos|dĭădūmĕnŏs|a, um||adj.|c. diadematus|diadumenos|dĭădūmĕnŏs
+GJ|
+Ge|diadumenos|diadūmenos|ē, on|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lygdinos|lygdĭnŏs|lȳgdĭnŏs|110|||a, on
+LS|
+GG|lygdinos|lygdĭnŏs|a, um||adj.|du marbre appelé lygdos|lygdinus|-ŏs
+GJ|lygdinos|lygdĭnŏs|a, um|Plin. de marbre appelé lygdos.
+Ge|lygdinos|lygdinos|a, on|von weißem Marmor
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|schistos|schistŏs|schīstŏs|110|||a, on
+LS|schistos|schistos|a, on||adj.|split, cleft, divided;, that easily cleaves, cracks, fissile, schistose, red oxide of iron|schistos|0
+GG|schistos|schistŏs|a, ŏn|m.||séparé, divisé / schiste|schistos|
+GJ|schistos|schistŏs|a, ŏn|séparé, divisé.
+Ge|schistos|schistos|a, on|gespalten, getrennt, spalt-, trennbar
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hetaericos|hetaericos|hetāericos|110|||e, on
+LS|
+GG|
+GJ|
+Ge|hetaericos|hetaericos|ē, on|kameradschaftlich, der Kameraden
+FG|
+Lw|hetaericos|hetaericos|ē, on|f||of comrades||||hetaericos
+YO|
+PO|
+WW||||
+|horaeos|hōraeos|hōrāeos|110|||a, on
+LS|
+GG|
+GJ|
+Ge|horaeos|hōraeos|a, on|rechtzeitig - mariniert - reif
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|acronychos|acronychos|ā̆cronychos|110|||a, um
+LS|
+GG|acronychos|acronychos|a, um||adj.|du commencement de la nuit|acronychos|acronychos
+GJ|acronychos|acronychos|a, um|du commencement de la nuit.
+Ge|acronychos|acronychos|um|zu Anfang der Nacht
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|chrysendetos|chrȳsendetos|chrȳsēndetos|110|||a, um
+LS|
+GG|
+GJ|
+Ge|chrysendetos|chrȳsendetos|a, um|mit Gold eingelegt - mit Gold eingelegte Gefäße, -Schüsseln
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hypocautos|hypocautos|hypocāutos|110|||a, um
+LS|
+GG|
+GJ|hypocautos|hypocautos|a, um|chauffé en dessous.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hypolydios|hypolydios|hypolydĭos|110|||a, um
+LS|
+GG|
+GJ|
+Ge|hypolydios|hypolydios|a, um|unterlydisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|asyndetos|ăsyndĕtŏs|ăsȳndĕtŏs|110|||a, um
+LS|
+GG|asyndetos|ăsyndĕtŏs|a, um||adj.|sans connexion|1 asyndetos|ăsyndĕtŏs
+GJ|asyndetos|asyndetos|a, um|non lié, sans liaison, sans connexion.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|acosmos|ăcosmos|ăcōsmos|110|||on
+LS|
+GG|acosmos|ăcosmos||||(beauté) négligée|acosmos|
+GJ|
+Ge|acosmos|acosmos||ohne Ordnung, verwirrt
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bicepsos|bĭcepsŏs|bĭcēpsŏs|110|||on
+LS|bicepsos|bĭcepsŏs|||adj.|Having two heads, twoheaded, with two summits|biceps|0
+GG|
+GJ|bicepsos|bicepsos|arch.|c. biceps.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|oinos|oinos|ŏinos|110|||a, um
+LS|oinos|oinos|a, um||||oinos|0
+GG|oinos|oinos|a, um|||v. unus.|oinos|
+GJ|oinos|oinos|a, um, arch.|c. unus.
+Ge|
+FG|
+Lw|oinos|oinos|||adj.|old for unus||||oinos
+YO|
+PO|
+WW||||
+|salvos|salvos|sālvos|110|||on
+LS|salvos|salvos|a, um||adj.|saved, preserved, unharmed, safe, unhurt, uninjured, well, sound|salvus|(ante-class. 
+GG|
+GJ|
+Ge|
+FG|
+Lw|salvos|salvos or salvus|a, um||adj.|in good health, well, sound, safe, unharmed, uninjured, while their friends are living, safe, well, preserved, uninjured, in good condition, before all was lost, absol., without violation of, saving, I am out of trouble, we are all right, may I die, if, all is well, is all well?, Cr, My, good luck to you||||salvos
+YO|
+PO|
+WW||||
+|schedios|schĕdĭos|schĕdĭos|110|||on
+LS|
+GG|schedios|schĕdĭos|a, um||adj.|fait à la hâte, bâclé|schedios|schĕdĭos
+GJ|schedios|schĕdĭos|ou schĕdĭus, a, um|: fait à la hâte, bâclé.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|scotinos|Scŏtīnŏs|Scŏtīnŏs|110|||on
+LS|
+GG|Scotinos|Scŏtīnŏs|a, um||adj.|le Ténébreux [surnom d'Héraclite]|Scotinos|Scŏtīnŏs
+GJ|
+Ge|Scotinos|Scotīnos|a, um|der Dunkele
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|homousios|hŏmŏūsĭos|hŏmŏūsĭos|110|||on
+LS|
+GG|homousios|hŏmŏūsĭos|ŏn|||de nature identique / consubstantiel|homusius|hŏmŏūsĭos
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||

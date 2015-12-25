@@ -1,0 +1,420 @@
+|aenipes|ăēnĭpēs|ăēnĭpēs|15|ăēnĭpĕd||ĕdis
+LS|aenipes|ăēnĭpes|ĕdis||adj.|that has feet of bronze, bronzefooted|aenipes|or 
+GG|aenipes|ăēnĭpēs|ĕdis|||aux pieds de bronze|aenipes|ăēnĭpēs
+GJ|aenipes|ăēnĭpēs|ĕdis|au pied de bronze, qui a des pieds d'airain.
+Ge|aenipes|aēnipēs|pedis|erzfüßig
+FG|
+Lw|aenipes|aēnipēs (ahēn-)|edis||adj.|bronze-footed||||aenipes
+YO|
+PO|
+WW||aenipes, aenipedis||
+|aequipes|aequĭpēs|āeqụĭpēs|15|āeqụĭpĕd||ĕdis
+LS|aequipes|aequipēs|ĕdis||adj.|having equal feet, isosceles|aequipedus|0
+GG|
+GJ|aequipes|aequĭpēs|ĕdis|Apul. qui a des pieds égaux, qui a des côtés égaux, isocèle.
+Ge|aequipes|aequipēs|pedis|gleichfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||aequipes, aequipedis||
+|aeripes|aerĭpēs|āerĭpēs|15|āerĭpĕd||pĕdis
+LS|aeripes|aerĭpes|pĕdis||adj.|Bronzefooted|aeripes|0
+GG|aeripes|aerĭpēs|ĕdis|||aux pieds d'airain|aeripes|
+GJ|aeripes|aerĭpēs|ĕdis|- 1 - aux pieds d'airain. - 2 - Aus. aux pieds rapides; infatigable.
+Ge|aeripes|aeripēs|pedis|erzfüßig - für starkfüßig - schnellfüßig
+FG|aeripes|aeripes edis (aes, pes), aux pieds d'airain.
+Lw|aeripes|aeripēs|edīs||adj.|with feet of bronze||||aeripes
+YO|
+PO|aeripes|aeripe_s, aeripedis : a
+WW||aeripes, aeripedis||
+|ahenipes|ăhēnĭpēs|ăhēnĭpēs|15|ăhēnĭpĕd||ĕdis
+LS|ahenipes|ăhēnĭpes|ĕdis||adj.|that has feet of bronze, bronzefooted|aenipes|or 
+GG|ahenipes|ăhēnĭpēs|ĕdis|||aux pieds de bronze|aenipes|ăhē-
+GJ|ahenipes|ăhēnĭpēs|ĕdis|au pied de bronze, qui a des pieds d'airain.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||ahenipes, ahenipedis||
+|alipes|ālĭpēs|ālĭpēs|15|ālĭpĕd||ĕdis
+LS|alipes|ālĭpēs|ĕdis||adj.|with wings on the feet, wing-footed., the horses in the chariot of the Sun|alipes|0
+GG|alipes|ālĭpēs|ĕdis|||qui a des ailes aux pieds, aux pieds ailés / rapide|alipes|
+GJ|alipes|ālĭpēs|ĕdis [ala + pes]|1 - aux pieds ailés. 2 - rapide, léger.
+Ge|Alipes|Alipēs|pedis|Flügel an den Füßen habend - schnellfüßig, schnellaufend
+FG|alipes|alipes edis (ala, pes), qui a des ailes aux pieds, aux pieds ailés ; rapide.
+Lw|alipes|ālipēs|edis||adj.|with wings on the feet, wing-footed, to Mercury, swift, fleet, quick||||alipes
+YO|
+PO|alipes|a_lipe_s, a_lipedis : a
+WW||alipes, alipedis||
+|avipes|ăvĭpēs|ăvĭpēs|15|ăvĭpĕd||pĕdis
+LS|avipes|ăvĭpēs|pĕdis||adj.|bird-footed, swift-footed|avipes|0
+GG|avipes|ăvĭpēs|ĕdis|||rapide|avipes|
+GJ|avipes|ăvĭpēs|ĕdis [avis + pes]|Seren. rapide.
+Ge|avipes|avipēs|pedis|vogelfüßig, schnellfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||avipes, avipedis||
+|capripes|căprĭpēs|căprĭpēs|15|căprĭpĕd||pĕdis
+LS|capripes|căprĭpēs|pĕdis||adj.|goat-footed|capripes|0
+GG|capripes|caprĭpēs|ĕdis|||qui a des pieds de chèvre|capripes|
+GJ|capripes|capripes|edis|aux pieds de chèvre.
+Ge|capripes|capripēs|pedis|ziegenfüßig
+FG|capripes|capripes edis (capra pes), qui a des pieds de chèvre.
+Lw|capripes|capripēs|pedis||adj.|goat-footed||||capripes
+YO|
+PO|capripes|capripe_s, capripedis : a
+WW||capripes, capripedis||
+|celeripes|cĕlĕrĭpēs|cĕlĕrĭpēs|15|cĕlĕrĭpĕd||pĕdis
+LS|celeripes|cĕlĕrĭpēs|pĕdis||adj.|swiftfooted|celeripes|0
+GG|celeripes|cĕlĕrĭpēs|pĕdis|||léger à la course|celeripes|
+GJ|celeripes|cĕlĕrĭpēs|ĕdis [celer + pes]|léger à la course.
+Ge|celeripes|celeripēs|pedis|schnellfüßig - der Schnelläufer
+FG|
+Lw|celeripes|celeripēs|pedis||adj.|swift of foot||||celeripes
+YO|
+PO|
+WW||celeripes, celeripedis||
+|circumpes|circumpēs|cīrcūmpēs|15|cīrcūmpĕd||pĕdis
+LS|circumpes|circumpēs|pĕdis|||A kind of parasites|circumpes|0
+GG|
+GJ|
+Ge|circumpes|circumpēs|pedis|um die Füße befindlich
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|citipes|cĭtĭpēs|cĭtĭpēs|15|cĭtĭpĕd||pĕdis
+LS|citipes|cĭtĭpēs|pĕdis||adj.|swiftfooted, fleet|citipes|0
+GG|citipes|cĭtĭpēs|pĕdis|||aux pieds rapides|citipes|
+GJ|citipes|cĭtĭpēs|pĕdis [citus + pes]|aux pieds rapides.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||citipes, citipedis||
+|draconipes|drăcōnĭpēs|drăcōnĭpēs|15|drăcōnĭpĕd||ĕdis
+LS|
+GG|draconipes|drăcōnĭpēs|ĕdis|||qui a des pieds de dragon|draconipes|
+GJ|draconipes|drăcōnĭpēs|pĕdis|qui a des pieds de dragon.
+Ge|draconipes|dracōnipēs|pedis|schlangenfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fissipes|fissĭpēs|fīssĭpēs|15|fīssĭpĕd||pĕdis
+LS|fissipes|fissĭpes|pĕdis||adj.|cloven-footed.|fissipes|0
+GG|fissipes|fissĭpēs|ĕdis|||qui a les pieds fourchus, fissipède|fissipes|
+GJ|fissipes|fissĭpēs|ĕdis [fissus + pes]|qui a les pieds fourchus, fissipède.
+Ge|fissipes|fissipēs|pedis|gespaltene Füße-, -Klauen habend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|flammipes|flammĭpēs|flāmmĭpēs|15|flāmmĭpĕd||pĕdis
+LS|flammipes|flammĭpes|pĕdis||adj.|fiery-footed|flammipes|0
+GG|flammipes|flammĭpēs|ĕdis|||rapide comme la flamme|flammipes|
+GJ|flammipes|flammĭpēs|pĕdis|aux pieds de flamme, rapide comme la flamme.
+Ge|flammipes|flammipēs|pedis|feuerfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|flexipes|flexĭpēs|flēxĭpēs|15|flēxĭpĕd||pĕdis
+LS|flexipes|flexĭpes|pĕdis||adj.|with crooked feet|flexipes|0
+GG|flexipes|flexĭpēs|ĕdis||adj.|[lierre] qui chemine en s'entortillant|flexipes|
+GJ|flexipes|flexĭpēs|ĕdis [flexus + pes]|grimpant.
+Ge|flexipes|flexipēs|pedis|krummfüßig
+FG|flexipes|flexipes edis, adjectif (flexus pes) (lierre) qui chemine en s'entortillant.
+Lw|flexipes|flexipēs|pedis||adj.|with crooked feet, clasping||||flexipes
+YO|
+PO|
+WW||flexipes, flexipedis||
+|gracilipes|grăcĭlĭpēs|grăcĭlĭpēs|15|grăcĭlĭpĕd||pĕdis
+LS|gracilipes|grăcĭlĭpes|pĕdis||adj.|slender-footed|gracilipes|0
+GG|gracilipes|grăcĭlĭpēs|ĕdis|||qui a des jambes grêles|gracilipes|
+GJ|gracilipes|grăcĭlĭpēs|pĕdis [gracilis + pes]|qui a des jambes grêles.
+Ge|gracilipes|gracilipēs|pedis|schlanksüßig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lentipes|lentĭpēs|lēntĭpēs|15|lēntĭpĕd||ĕdis
+LS|lentipes|lentĭpēs|ĕdis||adj.|slowfooted, slow-paced|lentipes|0
+GG|lentipes|lentĭpēs|ĕdis|||qui marche lentement|lentipes|
+GJ|lentipes|lentĭpēs|pĕdis [lentus + pes]|Aus. qui va lentement.
+Ge|lentipes|lentipēs|pedis|langsam zu Fuße, langsam gehend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|longipes|longĭpēs|lōngĭpēs|15|lōngĭpĕd||pĕdis
+LS|longipes|longĭpēs|pĕdis||adj.|longfooted|longipes|0
+GG|longipes|longĭpēs|ĕdis|||à longues jambes, longipède|longipes|
+GJ|longipes|longĭpēs|ĕdis|Plin. aux longues jambes.
+Ge|longipes|longipēs|pedis|langfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|mollipes|mollĭpēs|mōllĭpēs|15|mōllĭpĕd||pĕdis
+LS|mollipes|mollĭpes|pĕdis||adj.|softfooted|mollipes|0
+GG|mollipes|mollĭpēs|pĕdis|||qui a les pieds tendres|mollipes|
+GJ|mollipes|mollipes|edis|qui a les pieds tendres.
+Ge|mollipes|mollipēs|pedis|schlaffüßig, schleppfüßig
+FG|mollipes|mollipes pedis (mollis pes), qui a les pieds tendres.
+Lw|mollipes|mollipēs|pedis||adj.|soft-footed||||mollipes
+YO|
+PO|
+WW||mollipes, mollipedis||
+|multipes|multĭpēs|mūltĭpēs|15|mūltĭpĕd||pĕdis
+LS|multipes|multĭpēs|pĕdis||adj.|many-footed, multipede; Subst. m. a multipede, millipede|multipes|0
+GG|multipes|multĭpēs|ĕdis|||qui a beaucoup de pattes, de pieds|multipes|
+GJ|multipes|multĭpēs|ĕdis|Plin. Isid. qui a plusieurs pieds, qui a plusieurs pattes.
+Ge|multipes|multipēs|pedis|vielfüßig - ein Vielfuß
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octipes|octĭpēs|ōctĭpēs|15|ōctĭpĕd||ĕdis
+LS|octipes|octĭpēs|ĕdis||adj.|eightfooted|octipes|0
+GG|octipes|octĭpēs|ĕdis|||qui a huit pieds|octipes|
+GJ|octipes|octipes|edis|qui a huit pieds.
+Ge|octipes|octipēs|pedis|achtfüßig
+FG|octipes|octipes edis (octo pes), qui a huit pieds.
+Lw|octipes|octipēs|edis||adj.|eight-footed||||octipes
+YO|
+PO|
+WW||octipes, octipedis||
+|palmipes|palmĭpēs|pālmĭpēs|15|pālmĭpĕd||pĕdis
+LS|palmipes|palmĭpes|pĕdis||adj.|-I. broad-footed -II. a foot and a palm high|palmipes1|0
+GG|palmipes|palmĭpēs|ĕdis|||qui a le pied palmé, palmipède // haut d'un pied et d'un palme|1 palmipes|
+GJ|palmipes|palmipes|edis|1 - [palmus] : long d'un pied et d'un palme. 2 - palmipède, qui a les pieds palmés.
+Ge|palmipes|palmipēs||
+FG|palmipes|palmipes edis (palma), qui a le pied palmé, palmipède. / haut d'un pied et d'un palme.
+Lw|
+YO|
+PO|
+WW||||
+|pennipes|pennĭpēs|pēnnĭpēs|15|pēnnĭpĕd||ĕdis
+LS|pennipes|pennĭpēs|ĕdis||adj.|that has wings on his feet, wing-footed|pennipes|0
+GG|pennipes|pennĭpēs||||v. pinnipes.|pennipes|
+GJ|pennipes|pennipes|edis|qui a des ailes aux pieds (épithète de Mercure et de Persée).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||pennipes, pennipedis||
+|pinnipes|pinnĭpēs|pīnnĭpēs|15|pīnnĭpĕd||ĕdis
+LS|
+GG|pinnipes|pinnĭpes|ĕdis|||qui a des plumes aux pieds|pinnipes|
+GJ|pinnipes|pinnipes|edis|qui a des ailes aux pieds (épithète de Mercure et de Persée).
+Ge|pinnipes|pinnipēs|pedis|an den Füßen geflügelt
+FG|
+Lw|
+YO|
+PO|
+WW||pinnipes, pinnipedis||
+|plumipes|plūmĭpēs|plūmĭpēs|15|plūmĭpĕd||ĕdis
+LS|plumipes|plūmĭpes|ĕdis||adj.|feather-footed, with feathered feet|plumipes|0
+GG|plumipes|plūmĭpēs|ĕdis|||qui a les pieds garnis de plumes|plumipes|
+GJ|
+Ge|
+FG|
+Lw|plumipes|plūmipēs|edis||adj.|with feathered feet||||plumipes
+YO|
+PO|
+WW||plumipes, plumipedis||
+|properipes|prŏpĕrĭpēs|prŏpĕrĭpēs|15|prŏpĕrĭpĕd||ĕdis
+LS|properipes|prŏpĕrĭpēs|ĕdis||adj.|swift of foot|properipes|0
+GG|properipes|prŏpĕrĭpēs|ĕdis|||aux pieds légers, agiles|properipes|
+GJ|
+Ge|properipes|properipēs|pedis|schnellfüßig
+FG|
+Lw|properipes|properipēs|edis||adj.|swift of foot||||properipes
+YO|
+PO|
+WW||properipes, properipedis||
+|quadripes|quā̆drĭpēs|qụā̆drĭpēs|15|qụā̆drĭpĕd||pĕdis
+LS|quadripes|quā̆drĭpēs|pĕdis||adj.|having four feet, going on four feet;|quadrupes|(
+GG|quadripes|quădrĭpēs||||v. quadrupedus, etc.|quadripedus|quădrĭpēs
+GJ|quadripes|quădripēs||c. quadrupes.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|septipes|septĭpēs|sēptĭpēs|15|sēptĭpĕd||pĕdis
+LS|septipes|septĭpēs|pĕdis||adj.|sevenfoot;, excessively tall, gigantic, in carm.;|septipes|0
+GG|septipes|septĭpēs|ĕdis|||haut de sept pieds|septipes|
+GJ|septipes|septĭpēs|ĕdis [septem + pes]|haut de sept pieds.
+Ge|septipes|septipēs|pedis|von sieben Fuß - siebenschuhig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|solidipes|sŏlĭdĭpēs|sŏlĭdĭpēs|15|sŏlĭdĭpĕd||pĕdis
+LS|solidipes|sŏlĭdĭpēs|pĕdis||adj.||solidipes|0
+GG|solidipes|sŏlĭdĭpēs|ĕdis|||solipède|solidipes|
+GJ|solidipes|sŏlĭdĭpēs|pĕdis [solidus + pes]|Plin. solipède (dont le sabot n'est pas fendu).
+Ge|solidipes|solidipēs|pedis|ganzhufig
+FG|solidipes|solidipes edis solidus pes), solipède.
+Lw|
+YO|
+PO|
+WW||||
+|sonipes|sŏnĭpēs|sŏnĭpēs|15|sŏnĭpĕd||pĕdis
+LS|sonipes|sŏnĭpēs|pĕdis||adj.|with sounding feet, noisy-footed|sonipes|(
+GG|sonipes|sŏnĭpēs|ĕdis||adj.|au pied bruyant|sonipes|
+GJ|sonipes|sŏnĭpēs|pĕdis|au pied bruyant.
+Ge|sonipes|sonipēs|pedis|mit dem Fuße tönend - das Pferd, Roß
+FG|sonipes|sonipes edis (sonus pes), au pied bruyant ; substantif masculin, cheval, coursier.
+Lw|sonipes|sonipēs (sonupēs)|pedis||adj.|with sounding feet, noisy-footed, m., the charger||||sonipes
+YO|
+PO|sonipes|sonipe_s, sonipedis : m
+WW||||
+|sonupes|sŏnŭpēs|sŏnŭpēs|15|sŏnŭpĕd||pĕdis
+LS|sonupes|sŏnŭpēs|pĕdis||adj.|with sounding feet, noisy-footed, subst., noisy-foot, a horse, a prancer, steed|sonipes|v. sonipes.
+GG|
+GJ|
+Ge|
+FG|
+Lw|sonupes|sonupēs|see sonipes.|||||||sonupes
+YO|
+PO|
+WW||||
+|suppes|suppēs|sūppēs|15|sūppĕd||pĕdis
+LS|suppes|suppēs|pĕdis||adj.|having feet turned under, with twisted feet|suppes|0
+GG|suppes|suppēs|ĕdis|||qui a les pieds retournés|suppes|
+GJ|suppes|suppēs|pĕdis, adj. [sub-pes]|Petr. qui a les pieds retournés sur eux-mêmes, pied bot.
+Ge|suppes|suppēs|pedis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tremipes|trĕmĭpēs|trĕmĭpēs|15|trĕmĭpĕd||pĕdis
+LS|tremipes|trĕmĭpēs|pĕdis||adj.|trembling-footed, with trembling feet|tremipes|0
+GG|tremipes|trĕmĭpēs|ēdis|||aux pieds tremblants|tremipes|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|uncipes|uncĭpēs|ūncĭpēs|15|ūncĭpĕd||pĕdis
+LS|uncipes|uncĭpēs|pĕdis||adj.|having feet bent in, crook-footed|uncipes|0
+GG|uncipes|uncĭpēs|ĕdis|||aux pieds recourbés|uncipes|
+GJ|
+Ge|uncipes|uncipēs|pedis|eingebogene Füße habend, krummfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|curvipes|curvĭpēs|cūrvĭpēs|15|cūrvĭpĕd||ĕdis
+LS|
+GG|curvipes|curvĭpēs|ĕdis|||qui a les pieds recourbés|curvipes|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duipes|duĭpēs|dŭĭpēs|15|dŭĭpĕd||ĕdis
+LS|
+GG|duipes|duĭpēs|ĕdis|||c. bipes|duipes|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|palmopes|palmŏpes|pālmŏpes|15|pālmŏpĕd||pĕdis
+LS|palmopes|palmŏpes|pĕdis||||palmopes|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pinnapes|pinnăpes|pīnnăpes|15|pīnnăpĕd||pĕdis
+LS|pinnapes|pinnăpes|pĕdis||adj.|winged on the feet, having winged feet|pinnapes|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|unipes|ūnĭpēs|ūnĭpēs|15|ūnĭpĕd||ĕdis
+LS|
+GG|unipes|ūnĭpēs|ĕdis||adj.|adj., qui n'a qu'un pied|unipes|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cornipes|cornĭpēs|cōrnĭpēs|15|cōrnĭpĕd||pĕdis
+LS|cornipes|cornĭpēs|pĕdis||adj.|-I. hornfooted, hoofed|cornipes|0
+GG|cornipes|cornĭpēs|ĕdis||adj.|qui a des pieds de corne|cornipes|cornĭpēs
+GJ|cornipes|cornĭpēs|pĕdis|qui a des pieds de corne.
+Ge|cornipes|cornipēs|pedis|hornfüßig, behuft - der Hornfüßige, Huffüßige
+FG|cornipes|cornipes edis (cornu pes), qui a des pieds de corne.
+Lw|cornipes|cornipēs|pedis||adj.|horn-footed, hoofed||||cornipes
+Y§|
+PO|cornipes|cornipe_s, cornipedis : a
+WW||cornipes, cornipedis||
+|quadrupes2|quā̆drŭpēs2|qụā̆drŭpēs|15|qụā̆drŭpĕd||pĕdis
+LS|quadrupes|quā̆drŭpēs|pĕdis||adj.|having four feet, going on four feet;|quadrupes|(
+GG|quadrupes|quădrŭpēs|ĕdis|||qui va sur quatre pieds, qui galope / qui a quatre pieds ; appuyé sur ses pieds et ses mains [famil., qui est à quatre pattes]|quadrupes|
+GJ|quadrupes|quadrupes|pĕdis, adj.|- a - qui a quatre pieds, qui a quatre pattes, qui va à quatre pieds, qui va à quatre pattes. - b - appuyé sur ses pieds et ses mains; fam. qui est à quatre pattes.
+Ge|quadrupes|quadrupēs|pedis|auf vier Füßen gehend - stehend - galoppierend - vierfüßig - das vierfüßige Tier
+FG|
+Lw|quadrupes|quadrupēs (quadripes)|pedis||adj.|with four feet, on all fours, hand and foot, m, a quadruped, four-footed creature, of his steeds||||quadrupes
+Y§|
+PO|quadrupes|quadrupe_s, quadrupedis : a
+WW||quadrupes, quadrupedis||
+|sepes2|sēpēs2|sēpēs|15|sēpĕd||pĕdis
+LS|sepes|sēpēs|pĕdis||adj.|six-footed|sepes1|0
+GG|sepes|sēpēs|ĕdis|||qui a six pieds|1 sepes|
+GJ|sepes|sepes|edis|qui a six pieds.
+Ge|sepes|sēpēs|pedis|sechsfüßig
+FG|
+Lw|
+Y§|
+PO|
+WW||sepes, sepedis||
+|tripes|trĭpēs|trĭpēs|15|trĭpĕd||ĕdis
+LS|tripes|trĭpēs|ĕdis||adj.|having three feet, three-footed, of a man leaning on a staff|tripes|0
+GG|tripes|trĭpēs|ĕdis||adj.|adj., qui a trois pieds / qui porte sur trois pieds|1 tripes|
+GJ|tripes|trĭpĕs|pēdis|- 1 - qui a trois pieds. - 2 - qui porte sur trois pieds.
+Ge|tripes|tripēs|pedis|dreifüßig - der Dreifuß, dreifüßige Kessel
+FG|tripes|tripes edis, adjectif, qui a trois pieds ; qui porte sur trois pieds.
+Lw|tripes|tripēs|edis||adj.|with three feet, three-footed||||tripes
+Y§|
+PO|tripes|tripe_s, tripedis : a
+WW||tripes, tripedis||

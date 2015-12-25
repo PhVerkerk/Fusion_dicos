@@ -1,0 +1,390 @@
+|agipes|ăgĭpēs|ăgĭpēs|5|ăgĭpĕd||ĕdis, m.
+LS|agipes|ăgĭpēs|pĕdis|m.||a senator who silently passes over to him for, with whom he intends to vote|agipes|0
+GG|agipes|ăgĭpēs|ĕdis|m.||aux pieds rapides|agipes|
+GJ|agipes|agipēs|ĕdis, m.|sénateur qui vote en passant d'un côté ou de l'autre (sénateur aux pieds agiles).
+Ge|agipes|agipēs|pedis|schnellfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|anguipes|anguĭpēs|āngụĭpēs|5|āngụĭpĕd||ĕdis, m.
+LS|anguipes|anguĭpēs|ĕdis||adj.|serpent - footed|anguipes|(
+GG|anguipes|anguĭpēs|ĕdis|m.||qui se termine en serpent|anguipes|
+GJ|anguipes|anguĭpēs|edis|Ov. qui a des serpents pour pieds, aux pieds de serpents (épithète des Géants).
+Ge|anguipes|anguipēs|pedis, m.|schlangenfüßig - die Schlangenfüßler
+FG|anguipes|anguipes edis masculin (anguis pes), qui se termine en serpent.
+Lw|anguipes|anguipēs|||adj.|serpent-footed||||anguipes
+YO|
+PO|
+WW||anguipes, anguipedis||
+|antepes|antĕpēs|āntĕpēs|7|āntĕped||edis, m
+LS|antepes|antĕpēs|pĕdis|m.||The forefoot|antepes|0
+GG|antepes|antĕpēs|pĕdis|m.||pied de devant|antepes|
+GJ|antepes|antĕpēs|pĕdis, m.|- 1 - pied de devant. - 2 - qui court devant, parasite.
+Ge|antepes|antepēs|pedis, m.|der Vorderfuß
+FG|antepes|antepes pedis masculin, pied de devant.
+Lw|antepes|ante-pēs|edis|m||the forefoot, C. (poet.).||||antepes
+YO|
+PO|
+WW||||
+|cohaeres|cŏhaeres|cŏhāeres|5|cŏhāerēd||ēdis, comm.
+LS|cohaeres|cŏhaeres|ēdis|comm.||a coheir, fellow-heir, Gen. plur., fem.|cohaeres|(
+GG|cohaeres|cŏhaeres||||v. coheres.|cohaeres|
+GJ|cohaeres|cŏhaerēs|ēdis, m. ou f.|cohéritier, cohéritière.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|coheres|cŏhērēs|cŏhērēs|5|cŏhērēd||ēdis, comm.
+LS|coheres|cŏhēres|ēdis|comm.||a coheir, fellow-heir, Gen. plur., fem.|coheres|(
+GG|coheres|cŏhērēs|ēdis|m. f.||cohéritier, cohéritière|coheres|
+GJ|coheres|cŏhērēs|ēdis, m. ou f.|cohéritier, cohéritière.
+Ge|coheres|cohērēs|ēdis, c|der Miterbe - die Miterbin
+FG|coheres|coheres edis masculin ou féminin, cohéritier, cohéritière.
+Lw|coheres|cohērēs|ēdis|m||a coheir, fellow-heir, sharer in an inheritance||||coheres
+YO|
+PO|coheres|cohe_re_s, cohe_re_dis : m/f
+WW||||
+|crassipes|Crassĭpēs|Crāssĭpēs|5|Crāssĭpĕd||ĕdis, m.
+LS|Crassipes|Crassĭpēs|pĕdis|||a surname of the gens Furia, the most celebrated is, Cicero's son-in-law|Crassipes|0
+GG|Crassipes|Crassĭpes|ĕdis|m.||surnom romain|Crassipes|
+GJ|Crassipes|Crassĭpēs|pĕdis, m. [crassus + pes]|Crassipès (surnom romain).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cupes|cūpēs|cūpēs|5|cūpĕd||ĕdis, m.
+LS|cupes|cūpes|ĕdis|m.|adj.|fond of delicacies, dainty|cuppes|v. cuppes.
+GG|cupes|cupēs||||v. cuppes.|cupes|
+GJ|cupes|cūpes||c. cuppes.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||cupes, cupedis||
+|cuppes|cuppēs|cūppēs|5|cūppĕd||ĕdis, 
+LS|cuppes|cuppes|ĕdis||adj.|fond of delicacies, dainty|cuppes|(
+GG|cuppes|cuppēs||||gourmand / c. cuppedia 2|cuppes|
+GJ|cuppes|cuppes|arch. (= cupidus)|gourmand.
+Ge|cuppes|cuppēs|pēdis, m.|das Naschmaul
+FG|
+Lw|
+YO|
+PO|
+WW||cuppes, cuppedis||
+|eres|ērēs|ērēs|5|ērēd||ēdis, 
+LS|eres|ēres||comm.||acc. sing., an heir, heiress.|heres|v. heres.
+GG|eres|ērēs|ēdis|||v. hērēs.|eres|
+GJ|eres|eres||c. heres.
+Ge|Eres|Erēs|is, m.|der Igel
+FG|
+Lw|eres|ērēs|see heres.|||known||||eres
+YO|
+PO|
+WW||||
+|exercipes|exercĭpēs|ēxērcĭpēs|5|ēxērcĭpĕd||ĕdis, m.
+LS|
+GG|exercipes|exercĭpēs|ĕdis|m.||coureur|exercipes|
+GJ|exercipes|exercĭpēs|ĕdis, m. [exerceo + pes]|coureur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|extensipes|extensĭpēs|ēxtēnsĭpēs|5|ēxtēnsĭpĕd||ĕdis, m.
+LS|extensipes|extensĭpes|pĕdis|||another name for|extensipes|0
+GG|extensipes|extensĭpēs|ĕdis|m.||[métr.] molosse, pied composé de trois longues|extensipes|
+GJ|
+Ge|extensipes|extēnsipēs|pedis, m.|der Dehnfuß
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|haeres|haerēs|hāerēs|5|hāerēd||ēdis, m.
+LS|haeres|haeres|ēdis||||haeres|0
+GG|haeres|haerēs|ēdis|m.||v. heres.|haeres|
+GJ|haeres|haerĕs||c. heres.
+Ge|
+FG|
+Lw|haeres|haerēs|see heres.|||||||haeres
+YO|
+PO|
+WW||||
+|hircipes|Hircĭpēs|Hīrcĭpēs|5|Hīrcĭpĕd||ĕdis, m.
+LS|Hircipes|Hircĭpes|pĕdis|m.||goat-footed|Hircipes|0
+GG|hircipes|hircĭpēs|ĕdis|m.||qui a des pieds de bouc|hircipes|
+GJ|Hircipes|Hircīpēs|pĕdis, m. [hircus + pes]|qui a des pieds de bouc (surnom de Pan).
+Ge|hircipes|hircipēs|pedis, m.|der Bocksfüßige
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ignipes|ignĭpēs|īgnĭpēs|5|īgnĭpĕd||ĕdis, m.
+LS|ignipes|ignĭpes|pĕdis||adj.|fieryfooted|ignipes|0
+GG|ignipes|ignĭpēs|ĕdis|m.||aux pieds de feu (qui brûlent le pavé)|ignipes|
+GJ|ignipes|ignĭpēs|ĕdis m.|aux pieds de feu, rapide.
+Ge|Ignipes|Ignipēs|pedis|feuerfüßig
+FG|
+Lw|ignipes|īgnipēs|pedis||adj.|fiery-footed||||ignipes
+YO|
+PO|
+WW||ignipes, ignipedis||
+|lanipes|lānĭpēs|lānĭpēs|5|lānĭpĕd||ĕdis, m.
+LS|lanipes|lānĭpēs|pĕdis|m.||with wool on the feet, woolfooted|lanipes|0
+GG|lanipes|lānĭpēs|ĕdis|m.||qui a les pieds enveloppés de laine|lanipes|
+GJ|lanipes|lānĭpēs|ĕdis, m.|qui a les pieds enveloppés de laine.
+Ge|lanipes|lānipēs|pedis|wollfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|latipes|lātĭpēs|lātĭpēs|5|lātĭpĕd||ĕdis, m., f.
+LS|latipes|lātĭpēs|ĕdis||adj.|broadfooted|latipes|0
+GG|latipes|lātĭpēs|ĕdis|m., f.||qui a les pieds larges|latipes|
+GJ|latipes|lātĭpēs|pĕdis, m. f.|Avien. qui a les pieds larges.
+Ge|latipes|lātipēs|pedis|breitfüßig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|levipes|lĕvĭpēs|lĕvĭpēs|5|lĕvĭpĕd||ĕdis, m., f.
+LS|levipes|lĕvĭpes|pēdis||adj.|lightfooted|levipes|0
+GG|levipes|lĕvĭpēs|ĕdis|m., f.||léger à la course, aux pieds légers|levipes|
+GJ|levipes|lĕvĭpēs|ĕdis|léger à la course, aux pieds légers.
+Ge|levipes|levipēs|pedis|leichtfüßig
+FG|
+Lw|levipes|levipēs|pedis||adj.|light-footed||||levipes
+YO|
+PO|
+WW||||
+|loripes|lōrĭpēs|lōrĭpēs|5|lōrĭpĕd||ĕdis, m. f.
+LS|loripes|lōrĭpēs|pĕdis||adj.|strapfooted, limber-footed, lithe-legged;, crook-footed, bandy-legged|loripes|0
+GG|loripes|lōrĭpēs|ĕdis|m. f.||qui a les pieds en lanières, qui ne se tient pas sur ses jambes, aux jambes flageolantes|loripes|
+GJ|loripes|lōrīpēs|ĕdis [lorum + pes]|- 1 - aux jambes flageolantes, cagneux. - 2 - lent, qui marche à pas de tortue.
+Ge|loripes|lōripēs|pedis|Schlappbein, Schleppbein - schlappfüßig, schleppfüßig
+FG|
+Lw|loripes|lōripēs|pedis||adj.|club-footed, crook-footed, bandy-legged||||loripes
+YO|
+PO|
+WW||loripes, loripedis||
+|nudipes|nūdĭpēs|nūdĭpēs|5|nūdĭpĕd||ĕdis, m.
+LS|nudipes|nūdĭpēs|ĕdis||adj.|barefoot, barefooted|nudipes|0
+GG|nudipes|nūdĭpēs|ĕdis|m.||qui a les pieds nus|nudipes|
+GJ|nudipes|nūdĭpēs|ĕdis, m. [nudus + pes]|qui a les pieds nus.
+Ge|nudipes|nūdipēs|pedis|mit nackten Füßen, barfuß
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|planipes|plānĭpēs|plānĭpēs|5|plānĭpĕd||ĕdis, m.
+LS|planipes|plānĭpes|pĕdis|m.||a kind of pantomime, ballet-dancer, who performed without the comic, the tragic|planipes|0
+GG|planipes|plānĭpēs|ĕdis|m.||sorte d'acteur bouffon [qui n'a ni le soccus, ni le cothurnus]|planipes|
+GJ|planipes|plānĭpēs|ĕdis, m.|planipède, baladin jouant sans brodequins ni socques.
+Ge|planipes|plānipēs|pedis|breitfüßig - barfuß - ein Barfüßler
+FG|
+Lw|planipes|plānipēs|pedis|m||an actor with naked feet||||planipes
+YO|
+PO|
+WW||||
+|propes|prōpēs|prōpēs|5|prōpĕd||ĕdis, m.
+LS|propes|prŏpēs|ĕdis|m.||a rope, the loose part of the sheet with which a sail is trimmed to the wind|propes|0
+GG|propes|prōpēs|ĕdis|m.||câble qui sert à attacher le bas d'une voile, écoute|propes|
+GJ|
+Ge|propes|prōpēs|pedis, m.|das Schotenende
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|remipes|rēmĭpēs|rēmĭpēs|5|rēmĭpĕd||ĕdis, m., f.
+LS|remipes|rēmĭpēs|pĕdis||adj.|oar-footed|remipes|0
+GG|remipes|rēmĭpēs|ĕdis|m., f.||qui a les pieds palmés / qui avance au moyen de rames|remipes|
+GJ|remipes|rēmĭpēs|pĕdis, adj. [remus]|- 1 - Aus. qui a les pieds palmés. - 2 - Aus. qui avance au moyen de rames.
+Ge|remipes|rēmipēs|pedis|mit den Füßen rudernd - die Ruder gleichs. statt der Füße habend
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|segnipes|segnĭpēs|sēgnĭpēs|5|sēgnĭpĕd||ĕdis, 
+LS|segnipes|segnĭpēs|pĕdis|m.||slowfool|segnipes|0
+GG|segnipes|segnĭpēs|ĕdis|||qui marche lentement|segnipes|
+GJ|segnipes|segnipes|edis|au pied lent (---> cheval).
+Ge|segnipes|sēgnipēs|pedis, m.|der Trägfüßler
+FG|
+Lw|segnipes|sēgnipēs|pedis||adj.|slow of foot||||segnipes
+YO|
+PO|
+WW||segnipes, segnipedis||
+|semipes|sēmĭpēs|sēmĭpēs|5|sēmĭpĕd||ĕdis, m.
+LS|semipes|sēmĭpēs|pĕdis|m.||A half-foot, half a foot.|semipes|0
+GG|semipes|sēmĭpēs|ĕdis|m.||demi-pied [mesure] / demi-pied [de vers] / estropié [qui a une jambe coupée]|semipes|
+GJ|semipes|sēmĭpēs|pĕdis, m.|1 - demi-pied [mesure]. 2 - demi-pied [de vers]. 3 - estropié [qui a une jambe coupée].
+Ge|semipes|sēmipēs|pedis, m.|ein halber Fuß - ein halber Versfuß - halbfüßig - halblahm
+FG|semipes|semipes edis masculin, demi pied (mesure).
+Lw|
+YO|
+PO|
+WW||||
+|senipes|sēnĭpēs|sēnĭpēs|5|sēnĭpĕd||ĕdis, m.
+LS|senipes|sēnĭpēs|pĕdis||adj.|six-footed, senarian|senipes|0
+GG|senipes|sēnĭpēs|ĕdis|m.||de six pieds, sénaire|senipes|
+GJ|senipes|senipes|edis|de six pieds.
+Ge|senipes|sēnipēs|pedis|sechsfüßig, senarisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|serpentipes|serpentĭpēs|sērpēntĭpēs|5|sērpēntĭpĕd||ĕdis, 
+LS|serpentipes|serpentĭpēs|pĕdis|m.||serpent-footed|serpentipes|0
+GG|serpentipes|serpentĭpēs|ĕdis|||dont les pieds sont des serpents|serpentipes|
+GJ|serpentipes|serpentipes|edis|aux pieds de serpents.
+Ge|serpentipes|serpentipēs|pedis|schlangenfüßig
+FG|
+Lw|serpentipes|serpentipēs|pedis|m||serpentfooted||||serpentipes
+YO|
+PO|
+WW||serpentipes, serpentipedis||
+|sesquipes|sesquĭpēs|sēsqụĭpēs|5|sēsqụĭpĕd||ĕdis, m.
+LS|sesquipes|sesquĭpēs|pĕdis|m.||a foot and a half|sesquipes|0
+GG|sesquipes|sesquĭpēs|ĕdis|m.||un pied et demi|sesquipes|
+GJ|sesquipes|sesquipēs|ĕdis, m.|un pied et demi.
+Ge|sesquipes|sesquipēs|pedis, m.|anderthalb Fuß
+FG|sesquipes|sesquipes edis masculin, un pied et demi.
+Lw|
+YO|
+PO|
+WW||||
+|subhaeres|sŭbhaeres|sŭbhāeres|5|sŭbhāerēd||ēdis, m.
+LS|subhaeres|sŭbhaeres|ēdis|m.||the next, second heir|subheres|(
+GG|subhaeres|sŭbhaeres||||v. subheres.|subhaeres|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subheres|sŭbhērēs|sŭbhērēs|5|sŭbhērēd||ēdis, m.
+LS|subheres|sŭbhēres|ēdis|m.||the next, second heir|subheres|(
+GG|subheres|sŭbhērēs|ēdis|m.||second héritier|subheres|
+GJ|
+Ge|subheres|subhērēs|ēdis, m.|der Beierbe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tardipes|tardĭpēs|tārdĭpēs|5|tārdĭped||edis, m.
+LS|tardipes|tardĭpēs|pĕdis||adj.|slowfooted, tardy-footed;, limping, halting, absol.|tardipes|0
+GG|tardipes|tardĭpēs|edis|m.||qui marche lentement / le dieu boiteux, Vulcain|tardipes|
+GJ|tardipes|tardipēs|ĕdis|qui marche lentement.
+Ge|tardipes|tardipēs|pedis|lahm, hinkend
+FG|
+Lw|tardipes|tardipēs|pedis||adj.|limping, halting||||tardipes
+YO|
+PO|tardipes|tardipe_s, tardipedis : a
+WW||tardipes, tardipedis||
+|vincipes|vincĭpēs|vīncĭpēs|5|vīncĭpĕd||ĕdis, m.
+LS|
+GG|vincipes|vincĭpēs|ĕdis|m.||qui a les pieds liés|vincipes|
+GJ|
+Ge|vincipes|vincipēs|pedis, m.|mit gefesselten Füßen
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|volucripes|vŏlū̆crĭpēs|vŏlū̆crĭpēs|5|vŏlū̆crĭpĕd||ĕdis, m. f.
+LS|volucripes|vŏlū̆crĭpĕs|ĕdis||adj.|swiftfooted, swift|volucripes|0
+GG|volucripes|vŏlŭcrĭpēs|ĕdis|m. f.||au pied léger [fig.], rapide / rapide [en parl. d'un vers]|volucripes|
+GJ|
+Ge|volucripes|volucripēs|pedis|schnellfüßig, schnell
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gravipes|gravipēs|gravipēs|5|graviped||edis, m.
+LS|
+GG|
+GJ|
+Ge|gravipes|gravipēs|edis, m.|die Trappe
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cornipes2|cornĭpēs2|cōrnĭpēs|5|cōrnĭpĕd||ĕdis, m. f. m.
+LS|cornipes|cornĭpēs|pĕdis|m.||a horn-footed animal, the horse, the centaur Chiron|cornipes|0
+GG|cornipes|cornĭpēs|ĕdis|m. f. m.|S.|cheval, cavale / le centaure Chiron|cornipes|cornĭpēs
+GJ|cornipes|cornĭpēs|pĕdis, m.|- a - m. f. cheval, cavale. - b - m. le centaure Chiron.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|quadrupes|quā̆drŭpēs|qụā̆drŭpēs|5|qụā̆drŭpĕd||ĕdis, m.
+LS|quadrupes|quā̆drŭpēs|ĕdis|m.||Masc.|quadrupes|0
+GG|quadrupes|quădrŭpēs|ĕdis|m. f. n.||quadrupède|quadrupes|
+GJ|quadrupes|quadrupes|pĕdis, subst. m. f. (s.-ent. bestia), n. (s-ent. animal)|- a - quadrupède. - b - cheval, cavale. - c - le Cheval (constellation).
+Ge|
+FG|quadrupes|quadrupes edis,
+Lw|
+Y§|
+PO|quadrupes|quadrupe_s, quadrupedis : m/f
+WW||||
+|tripes2|trĭpēs2|trĭpēs|5|trĭpĕd||ĕdis, m.
+LS|
+GG|tripes|trĭpēs|ĕdis|m.||trépied, vase à trois pieds|2 tripes|
+GJ|
+Ge|
+FG|tripes|tripes edis masculin, trépied, vase à trois pieds.
+Lw|
+Y§|
+PO|
+WW||||
+|exheres2|exhēres2|ēxhēres|5|ēxhērēd||ēdis, m.
+LS|exheres|exhēres|ēdis|m.||a disinherited person|exheres|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||exheres, exheredis||
+|sonipes2|sŏnĭpēs2|sŏnĭpēs|5|sŏnĭpĕd||ĕdis, m.
+LS|sonipes|sŏnĭpēs|pĕdis|m.||noisy-foot, a horse, a prancer, steed|sonipes|(
+GG|sonipes|sŏnĭpēs|ĕdis|m.||cheval, coursier|sonipes|
+GJ|
+Ge|sonipes|sonipēs|pedis, m.|das Pferd, Roß
+FG|sonipes|sonipes edis (sonus pes), au pied bruyant ; substantif masculin, cheval, coursier.
+Lw|sonipes|sonipēs (sonupēs)|pedis|||the charger||||sonipes
+YO|
+PO|sonipes|sonipe_s, sonipedis : m
+WW||||
+|bipes2|bĭpēs2|bĭpēs|5|bĭpĕd||ĕdis, m.
+LS|
+GG|bipes|bĭpēs|ĕdis|m.||bipède, animal à deux pieds|bipes|
+GJ|
+Ge|
+FG|bipes|bipes edis (bis pes), qui a deux pieds, bipède ; substantif masculin, bipède, animal à deux pieds.
+Lw|
+YO|
+PO|
+WW||||

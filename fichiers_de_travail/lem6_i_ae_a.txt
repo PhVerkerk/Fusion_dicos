@@ -1,0 +1,640 @@
+|bisquini|bisquīni|bīsqụīni|11|-|-|ae, a
+LS|
+GG|bisquini|bisquīni|ae, a|||[poét.] deux fois cinq = dix|bisquini|bisquīni
+GJ|bisquini|bisquini|ae, a|dix (2 fois 5).
+Ge|
+FG|bisquini|bisquini, et mieux bis quini ae a (poétique), deux fois cinq : = dix.
+Lw|
+YO|
+PO|
+WW||||
+|bisseni|bissēni|bīssēni|11|-|-|ae, a
+LS|bisseni|bissēni|||||bissenus and bisseni|.
+GG|bisseni|bissēni|ae, a|||[poét.] deux fois six = douze|bisseni|bissēni
+GJ|bisseni|bisseni|ae, a|douze (2 fois six).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|centeni|centēni|cēntēni|11|-|-|ae, a
+LS|centeni|centēni|ae, a||num. distr.|a hundred each, a hundred|centeni|0
+GG|centeni|centēni|ae, a|||[distributif] cent à chacun, cent chaque fois / cent [nombre cardinal]|centeni|
+GJ|centeni|centēni|ae, a (gén. -nūm)|- 1 - chacun cent, cent chaque fois. - 2 - cent.
+Ge|
+FG|centeni|centeni ae a,
+Lw|
+YO|
+PO|centeni|cente_ni_, cente_nae, cente_na : a
+WW||||
+|deceni|dĕcēni|dĕcēni|11|-|-|ae, a
+LS|
+GG|deceni|dĕcēni|ae, a|||c. deni|deceni|
+GJ|
+Ge|deceni|decēni|#NOM ?|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ducenteni|dŭcentēnī|dŭcēntēnī|11|-|-|ae, a
+LS|
+GG|ducenteni|dŭcentēni|ae, a|||pl., c. duceni|ducenteni|
+GJ|ducenteni|dŭcentēni||c. duceni.
+Ge|ducenteni|ducentēnī|ae|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duocenteni|dŭŏcentēnī|dŭŏcēntēnī|11|-|-|ae, a
+LS|
+GG|duocenteni|dŭŏcentēni|ae, a|||c. duceni|duocenteni|
+GJ|
+Ge|duocenteni|duocentēnī|ae, a = duceni|je zweihundert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duodeni|dŭŏdēni|dŭŏdēni|11|-|-|ae, a
+LS|duodeni|dŭŏdēni|ae, a||num. distr.|twelve each; twelve, at twelve per cent.|duodeni|0
+GG|duodeni|dŭŏdēni|ae, a|||[distrib.] chacun douze / [poét.] = duodecim, douze|duodeni|
+GJ|duodeni|dŭŏdeni|ae, a|- 1 - chacun douze, douze ensemble. - 2 - douze.
+Ge|duodeni|duodēnī|ae, a|je zwölf - zwölf - zwölffach - der zwölfte
+FG|duodeni|duodeni ae a (duodecim),
+Lw|duodeni|duodēnī|ae, a||adj.|twelve each, twelve apiece, twelve each year||||duodeni
+YO|
+PO|duodeni|duode_ni_, duode_nae, duode_na : a
+WW||||
+|duodequadrageni|dŭŏdēquā̆drāgēnī|dŭŏdēqụā̆drāgēnī|11|-|-|ae, a
+LS|duodequadrageni|dŭŏdēquā̆drāgēni|ae, a||num. distr.|thirty-eight each|duodequadrageni|0
+GG|duodequadrageni|dŭŏdēquădrāgēnī|ae, a|||chaque fois trente-huit|duodequadrageni|
+GJ|duodequadrageni|dŭŏdequadrageni|ae, a|Plin. chaque fois trente-huit, qui sont au nombre de trente-huit.
+Ge|duodequadrageni|duodēquadrāgēnī|ae, a|je achtunddreißig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duodequinquageni|dŭŏdēquinquāgēni|dŭŏdēqụīnqụāgēni|11|-|-|ae, a
+LS|duodequinquageni|dŭŏdēquinquāgēni|ae, a||num. distr.|forty-eight each; forty-eight|duodequinquageni|0
+GG|duodequinquageni|dŭŏdēquinquāgēni|ae, a|||chaque fois quarante-huit|duodequinquageni|
+GJ|duodequinquageni|dŭŏdequinquageni|ae, a|chaque fois quarante-huit, au nombre de quarante-huit.
+Ge|duodequinquageni|duodēquinquāgēnī|ae, a|je achtundvierzig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duodeviceni|dŭŏdēvīcēnī|dŭŏdēvīcēnī|11|-|-|ae, a
+LS|duodeviceni|dŭŏdēvīcēni|ae, a||num. distr.|eighteen each|duodeviceni|0
+GG|duodeviceni|dŭŏdĕvīcēni|ae, a|||chacun dix-huit|duodeviceni|
+GJ|duodeviceni|dŭŏdeviceni|ae, a|chacun dix-huit, au nombre de dix-huit.
+Ge|
+FG|
+Lw|duodeviceni|duo-dē-vīcēnī|ae, a||adj.|distr., eighteen each||||duodeviceni
+YO|
+PO|duodeviceni|duode_vi_ce_ni_, duode_vi_ce_nae, duode_vi_ce_na : a
+WW||||
+|milleni|millēni|mīllēni|11|-|-|ae, a
+LS|milleni|millēni|ae, a||num. distr.|a thousand each, a thousand|milleni|0
+GG|milleni|millēni|ae, a|||mille chacun, au nombre de mille|millenus|millēni
+GJ|milleni|milleni|ae, a (gén. millenûm)|au nombre de mille.
+Ge|milleni|mīllēnī|ae, a|je tausend - tausendfach
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nonageni|nōnāgēni|nōnāgēni|11|-|-|ae, a
+LS|nonageni|nōnāgēni|ae, a||num. distr.|ninety each|nonageni|0
+GG|nonageni|nōnāgēni|ae, a|||au nombre de 90 chacun|nonageni|
+GJ|nonageni|nōnāgēni|ae, a|chacun quatre-vingt-dix, par quatre-vingt-dix, au nombre de quatre-vingt-dix.
+Ge|nonageni|nōnāgēnī|ae, a|je neunzig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nongeni|nongēni|nōngēni|11|-|-|ae, a
+LS|nongeni|nongēni|ae, a||num. distr.|nine hundred each|nongeni|0
+GG|nongeni|nongēni||||chaque fois neuf cents|nongeni|nongēni
+GJ|nongeni|nongēni|ae, a|chaque fois neuf cents, neuf cents chacun.
+Ge|nongeni|nōngēnī|ae, a|je neunhundert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nongenteni|nongentēni|nōngēntēni|11|-|-|ae, a
+LS|nongenteni|nongentēni|ae, a||num. distr.|nine hundred each|nongeni|0
+GG|nongenteni|nongentēni||||chaque fois neuf cents|nongeni|nongentēni
+GJ|nongenteni|nongentēni|ae, a|chaque fois neuf cents, neuf cents chacun.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nongenti|nongenti|nōngēnti|11|-|-|ae, a
+LS|nongenti|nongenti|||adj.|card., nine hundred|nongenti|(
+GG|nongenti|nongenti|ae, a|||neuf cents / sing., un des neuf cents|nongenti|
+GJ|nongenti|nongenti|ae, a|neuf cents.
+Ge|nongenti|nōngentī|ae, a|neunhundert
+FG|nongenti|nongenti ae a, neuf cents.
+Lw|nongenti|nōngentī|ae, a|||||||nongenti
+YO|
+PO|nongenti|no_ngenti_, no_ngentae, no_ngenta : a
+WW||||
+|noningenti|nōningenti|nōnīngēnti|11|-|-|ae, a
+LS|noningenti|nōningenti|||adj.|card., nine hundred|noningenti|v. nongenti.
+GG|noningenti|nōningenti|ae, a|||c. nongenti|noningenti|
+GJ|
+Ge|noningenti|nōningentī|ae, a|neunhundert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|noveni|nŏvēnī|nŏvēnī|11|-|-|ae, a
+LS|
+GG|noveni|nŏvēni|ae, a|||comprenant chaque fois neuf|novenus|-vēni
+GJ|
+Ge|noveni|novēnī|Orum|je neun
+FG|
+Lw|noveni|novēnī|ae, a|||nine each, nine||||noveni
+YO|
+PO|
+WW||||
+|octingeni|octingēni|ōctīngēni|11|-|-|ae, a
+LS|octingeni|octingēni|ae, a||num. distr.|a eight hundred each|octingeni|and 
+GG|octingeni|octingēni|ae, a|||distrib., chaque fois huit cents|octingeni|octingēni
+GJ|octingeni|octingeni|ae, a|chaque fois huit cents, huit cents chacun.
+Ge|octingeni|octingēni|ae, a|je achthundert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octingenteni|octingentēni|ōctīngēntēni|11|-|-|ae, a
+LS|octingenteni|octingentēni|ae, a||num. distr.|a eight hundred each|octingeni|and 
+GG|octingenteni|octingentēni|ae, a|||distrib., chaque fois huit cents|octingeni|-gentēni
+GJ|octingenteni|octingenteni|ae, a|chaque fois huit cents, huit cents chacun.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|octogeni|octōgēni|ōctōgēni|11|-|-|ae, a
+LS|octogeni|octōgēni|ae, a||num. distr.|eighty each|octogeni|0
+GG|octogeni|octōgēni|ae, a|||[distrib.] chaque fois (chacun) quatre-vingts / quatre-vingts|octogeni|
+GJ|octogeni|octogeni|ae, a|- 1 - chaque fois quatre-vingts, chacun quatre-vingts. - 2 - quatre-vingts.
+Ge|octogeni|octōgēnī|ae, a, I) distr.|je achtzig - achtzig
+FG|octogeni|octogeni ae a, distributif, chaque fois (chacun) quatre-vingts.
+Lw|octogeni|octōgēnī|ae, a|||eighty each||||octogeni
+YO|
+PO|octogeni|octo_ge_ni_, octo_ge_nae, octo_ge_na : a
+WW||||
+|pauculi|paucŭli|pāucŭli|11|-|-|ae, a
+LS|
+GG|pauculi|paucŭli|ae, a|||qui sont en très petit nombre, très peu nombreux / [rare au sing.]|pauculi|
+GJ|pauculi|paucŭli|ae, a (qqf. paucŭlus, a, um)|très peu nombreux, en très petit nombre.
+Ge|
+FG|pauculi|pauculi ae a, diminutif de pauci, qui sont en très petit nombre, très peu nombreux.
+Lw|
+YO|
+PO|
+WW||||
+|perpauculi|perpaucŭlī|pērpāucŭlī|11|-|-|ae, a
+LS|
+GG|perpauculi|perpaucŭli|ae, a|||très peu nombreux|perpauculi|
+GJ|perpauculi|perpauculi|ae, a|en très petit nombre, très peu nombreux.
+Ge|
+FG|
+Lw|perpauculi|per-pauculī|ōrum||adj.|ly||||perpauculi
+YO|
+PO|
+WW||||
+|quadrageni|quā̆drāgēni|qụā̆drāgēni|11|-|-|ae, a
+LS|quadrageni|quā̆drāgēni|ae, a||num. distrib. adj.||quadrageni|0
+GG|quadrageni|quădrāgēni|ae, a -num :|||distrib., quarante chacun, chaque fois quarante / gén. pl. habituel -num|quadrageni|
+GJ|quadrageni|quădrāgēni|ae, a (gén. plur. -gēnūm)|- 1 - quarante chacun. - 2 - chaque fois quarante.
+Ge|quadrageni|quadrāgēnī|ae, a, Num. distrib.|je (jeder, jedem) vierzig - allemal vierzig
+FG|quadrageni|quadrageni ae a, distributif, quarante chacun.
+Lw|quadrageni|quadrāgēnī|ae, a|||forty each||||quadrageni
+YO|
+PO|quadrageni|quadra_ge_ni_, quadra_ge_nae, quadra_ge_na : a
+WW||||
+|quadringeni|quā̆dringēni|qụā̆drīngēni|11|-|-|ae, a
+LS|quadringeni|quā̆dringēni|ae, a||||quadringeni|0
+GG|quadringeni|quădringēni|ae, a|||quatre cents chacun, chaque fois|quadringeni|
+GJ|quadringeni|quădringēni|ae, a|au nombre de quatre cents chacun, quatre cents chaque fois.
+Ge|quadringeni|quadringēnī|ae, a|je (jeder, jedem) vierhundert
+FG|quadringeni|quadringeni ae a, quatre cents chacun.
+Lw|quadringeni|quadringēnī|ae, a|||four hundred each||||quadringeni
+YO|
+PO|quadringeni|quadringe_ni_, quadringe_nae, quadringe_na : a
+WW||||
+|quadringenteni|quā̆dringentēni|qụā̆drīngēntēni|11|-|-|ae, a
+LS|quadringenteni|quā̆dringentēni|||||quadringenteni|a false read. for quadringenti, q. v.
+GG|quadringenteni|quădringentēni|ae, a|||c. quadringeni|quadringenteni|
+GJ|quadringenteni|quădringentēni|ae, a|c. quadringeni.
+Ge|quadringenteni|quadringentēnī|ae, a = quadringeni, Prisc. de fig. num. § 24. p. 414, 1 K. –|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quadrini|quā̆drīni|qụā̆drīni|11|-|-|ae, a
+LS|quadrini|quā̆drīni|ae, a||num. distrib. adj.|four each, four|quadrini|0
+GG|quadrini|quădrīni|ae, a|||distrib., chacun quatre, chaque fois quatre|quadrini|
+GJ|quadrini|quădrīni|ae, a|chacun quatre, chaque fois quatre, quatre par quatre, au nombre de quatre.
+Ge|
+FG|quadrini|quadrini ae a (quattuor), chacun quatre.
+Lw|
+YO|
+PO|
+WW||||
+|quaterni|quăterni|qụătērni|11|-|-|ae, a
+LS|quaterni|quăterni|ae, a||adj.||quaterni|0
+GG|quaterni|quăterni|ae, a|||distrib., chacun quatre, quatre chaque fois / quatre à la fois / gén. habituel quaternum|quaterni|
+GJ|quaterni|quăterni|ae, a|chacun quatre, quatre chaque fois, quatre par quatre.
+Ge|quaterni|quaternī|ae, a|je vier, jedesmal vier - vier auf einmal, vier zusammen
+FG|quaterni|quaterni ae a (quattuor), distributif, chacun quatre, quatre chaque fois.
+Lw|quaterni|quaternī|ae, a|||four each, by fours, four at a time, four from each legion||||quaterni
+YO|
+PO|quaterni|quaterni_, quaternae, quaterna : a
+WW||||
+|quindeni|quindēni|qụīndēni|11|-|-|ae, a
+LS|quindeni|quindēni|ae, a||num. distrib. adj.||quinideni|v. quinideni.
+GG|quindeni|quindēni|ae, a|||quinze chacun|quindeni|
+GJ|quindeni|quindēni|ae, a|Vitr. quinze chacun.
+Ge|quindeni|quīndēnī|ae, a, Num. distr.|je fünfzehn
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quingenteni|quingentēni|qụīngēntēni|11|-|-|ae, a
+LS|quingenteni|quingentēni|ae, a||num. distrib. adj.||quingenteni|0
+GG|quingenteni|quingentēni|ae, a|||quingeni|quingenteni|
+GJ|quingenteni|quingentēni|ae, a|Vulg. c. quingeni.
+Ge|quingenteni|quīngentēnī|ae, a|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quinideni|quīnīdēni|qụīnīdēni|11|-|-|ae, a
+LS|quinideni|quīnīdēni|ae, a||num. distrib. adj.||quinideni|or 
+GG|quinideni|quīnīdēni|quinae denae, etc.;|||quinze chacun|quinideni|
+GJ|quinideni|quīnīdēni|quīnae dēnae, quīna dēna|c. quindēni - 1 - chaqun quinze, quinze par quinze. - 2 - quinze.
+Ge|
+FG|quinideni|quinideni quinae denae, etc., quinze chacun.
+Lw|
+YO|
+PO|
+WW||||
+|quiniviceni|quīnīvīcēni|qụīnīvīcēni|11|-|-|ae, a
+LS|quiniviceni|quīnīvīcēni|ae, a||num. distrib. adj.|twenty-five each|quiniviceni|(
+GG|quiniviceni|quīnīvīcēni||||quinaevicenae, etc., chacun vingt-cinq|quiniviceni|quīnīvīcēni
+GJ|quiniviceni|quīnīvīcēni|ae, a|chacun vingt-cinq, vingt-cinq chaque fois.
+Ge|
+FG|quiniviceni|quiniviceni (quini viceni) quinaevicenae, etc., chacun vingt-cinq.
+Lw|
+YO|
+PO|
+WW||||
+|quinquageni|quinquāgēni|qụīnqụāgēni|11|-|-|ae, a
+LS|quinquageni|quinquāgēni|ae, a||num. distrib. adj.||quinquageni|0
+GG|quinquageni|quinquāgēni|ae, a|||distrib., cinquante chacun / au sing. / cinquante|quinquageni|
+GJ|quinquageni|quinquāgēni|ae, a|- 1 - cinquante chacun, chaque fois cinquante. - 2 - cinquante.
+Ge|quinquageni|quīnquāgēnī|ae, a|je fünfzig - fünfzig
+FG|quinquageni|quinquageni ae a, cinquante chacun.
+Lw|quinquageni|quīnquāgēnī|ae, a|||fifty each||||quinquageni
+YO|
+PO|quinquageni|qui_nqua_ge_ni_, qui_nqua_ge_nae, qui_nqua_ge_na : a
+WW||||
+|quoteni|quŏtēni|qụŏtēni|11|-|-|ae, a
+LS|quoteni|quŏtēni|ae, a||num. distrib. adj.|how many|quoteni|0
+GG|quoteni|quŏtēni|ae, a|||interr. distributif, combien nombreux [respectivement, par parcelles]|quoteni|
+GJ|quoteni|quoteni|ae, a|combien pour chacun? combien chaque fois?
+Ge|quoteni|quotēnī|ae, a|wie viele
+FG|quoteni|quoteni ae a, interrogatif distributif, combien nombreux (respectivement).
+Lw|quoteni|quotēnī|ae, a|||how many, of what number each||||quoteni
+YO|
+PO|
+WW||||
+|septingeni|septingēni|sēptīngēni|11|-|-|ae, a
+LS|septingeni|septingēni|ae, a||num. distrib. adj.|seven hundred each|septingeni|0
+GG|septingeni|septingēni|ae, a|||chacun sept cents|septingeni|
+GJ|septingeni|septingēni|ae, a|chacun sept cents.
+Ge|septingeni|septingēnī|ae, a|je (jeder, jedem) siebenhundert
+FG|septingeni|septingeni ae a, chacun sept cents.
+Lw|
+YO|
+PO|
+WW||||
+|septingenteni|septingentēnī|sēptīngēntēnī|11|-|-|ae, a
+LS|
+GG|septingenteni|septingentēni|ae, a|||v. septingeni|septingenteni|
+GJ|septingenteni|septingentēni|ae, a|v. septingeni.
+Ge|septingenteni|septingentēnī||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|septuageni|septŭāgēni|sēptŭāgēni|11|-|-|ae, a
+LS|septuageni|septŭāgēni|ae, a||num. distrib. adj.|seventy each|septuageni|0
+GG|septuageni|septŭāgēni|ae, a|||chacun soixante-dix / au sing., qui est au nombre de soixante-dix|septuageni|
+GJ|septuageni|septŭāgēni|ae, a|chacun soixante-dix.
+Ge|septuageni|septuāgēnī|ae, a|siebzig - je (jeder, jedem) siebzig - siebzig - je siebzigst
+FG|septuageni|septuageni ae a, chacun soixante-dix.
+Lw|
+YO|
+PO|septuageni|septua_ge_ni_, septua_ge_nae, septua_ge_na : a
+WW||||
+|septuageniquini|septŭāgēnīquīni|sēptŭāgēnīqụīni|11|-|-|ae, a
+LS|septuageniquini|septŭāgēniquīni|||||septuageniquini|0
+GG|septuageniquini|septŭāgēnīquīni|ae|||a, soixante-quinze|septuageniquini|
+GJ|septuageniquini|septŭāgēnīquīni|ae, a|soixante-quinze.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sesceni|sēscēnī|sēscēnī|11|-|-|ae, a
+LS|sesceni|sescēni|ae, a||num. distrib. adj.|six hundred each.|sescenteni|v. sescenteni.
+GG|
+GJ|sesceni|sesceni|ae, a|six cents à la fois, chacun six cents.
+Ge|sesceni|sescēnī|ae, a|je (jeder, jedem) sechshundert
+FG|
+Lw|sesceni|sēscēnī (sexcēnī)|ae, a||adj.|six hundred each||||sesceni
+YO|
+PO|
+WW||||
+|sescenteni|sescentēnī|sēscēntēnī|11|-|-|ae, a
+LS|sescenteni|sescentēni|ae, a||num. distrib. adj.|six hundred each.|sescenteni|also 
+GG|
+GJ|sescenteni|sescenteni||c. sesceni.
+Ge|sescenteni|sescentēnī|ae, a|je (jeder, jedem) sechshundert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sexceni|sexcēni|sēxcēni|11|-|-|ae, a
+LS|sexceni|sexcēni|||||sexceni|v. sesceni.
+GG|sexceni|sexcēni|ae, a|||six cents chacun ou chaque fois|sexceni|sexcēni
+GJ|sexceni|sexceni|ae, a|- 1 - six cents chacun, six cents chaque fois. - 2 - six cents.
+Ge|
+FG|sexceni|sexceni et sexcenteni ae a, six cents chacun ou chaque fois.
+Lw|sexceni|sexcēnī, sexcentēsimus, sexcentī|see sēscen-.|||||||sexceni
+YO|
+PO|
+WW||||
+|sexcenteni|sexcentēni|sēxcēntēni|11|-|-|ae, a
+LS|sexcenteni|sexcentēni|ae, a||num. distrib. adj.|six hundred each.|sescenteni|also 
+GG|sexcenteni|sexcentēni|ae, a|||six cents chacun ou chaque fois|sexceni|sexcentēni
+GJ|sexcenteni|sexcenteni|ae, a|- 1 - six cents chacun, six cents chaque fois. - 2 - six cents.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|terdeni|terdēni|tērdēni|11|-|-|ae, a
+LS|terdeni|terdēni|better separately||||terdeni|0
+GG|
+GJ|terdeni|terdēni|ae, a|au nombre de trente.
+Ge|terdeni|terdēni|ae, a|jedreizehn
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|terni|terni|tērni|11|-|-|ae, a
+LS|terni|terni|ae, a||num. distr. adj.|three each, three.|terni|(
+GG|terni|terni|ae, a|||distributif, chacun trois, chaque fois trois, par trois / sing. [rare] / [poét.] = trois|terni|
+GJ|terni|terni|ae, a [ter]|1 - chacun trois, chaque fois trois, par trois. 2 - poét. trois.
+Ge|terni|ternī|ae, a|je (jeder, jedem) drei - drei zusammen, auf einmal
+FG|terni|terni ae a (ter),
+Lw|terni|ternī|ae, a||adj.|three each, Three, triple||||terni
+YO|
+PO|terni|terni_, ternae, terna : a
+WW||||
+|ternideni|ternīdēni|tērnīdēni|11|-|-|ae, a
+LS|ternideni|ternidēni|ae, a||num. distr. adj.|thirteen each|ternideni|0
+GG|ternideni|ternīdēni|-naedēnae, -nadēna|||pl., chaque fois treize|ternideni|
+GJ|ternideni|ternīdēni|ae, a|chaque fois treize.
+Ge|
+FG|ternideni|ternideni, ternae denae, terna dena, pluriel, chaque fois treize.
+Lw|
+YO|
+PO|
+WW||||
+|terquini|terquīni|tērqụīni|11|-|-|ae, a
+LS|
+GG|terquini|terquīni|ae, a|||qui sont au nombre de quinze|terquini|
+GJ|terquini|terquīni|ae, a|qui sont au nombre de quinze.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trecenteni|trĕcentēni|trĕcēntēni|11|-|-|ae, a
+LS|trecenteni|trĕcentēni|ae, a||num. distr. adj.|three hundred each|trecenteni|0
+GG|trecenteni|trĕcentēni|ae, a|||chaque fois trois cents|trecenteni|
+GJ|trecenteni|trecenteni|ae, a|chaque fois trois cents.
+Ge|trecenteni|trecentēnī|ae, a|dreihundert
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tricenti|trĭcenti|trĭcēnti|11|-|-|ae, a
+LS|tricenti|trĭcenti|ae, a||num. adj.|three hundred|tricenti|(
+GG|tricenti|trĭcenti||||v. trecenteni, trecenti|tricenteni|trĭcenti
+GJ|
+Ge|tricenti|tricentī||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trigeni|trīgēni|trīgēni|11|-|-|ae, a
+LS|
+GG|trigeni|trīgēni|ae a|||c. triceni|trigeni|
+GJ|trigeni|trigeni|ae, a|qui sont au nombre de trente.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|trini|trīni|trīni|11|-|-|ae, a
+LS|trini|trīni|ae, a||num. distr. adj.|three each, three.|trini|(
+GG|trini|trīni|ae, a a, um|||[employé avec les subst. qui n'ont pas de sing.] au nombre de trois / [avec des subst. ayant le sing.] / est rare|trini|
+GJ|trini|trini|ae, a|- 1 - qui sont par trois. - 2 - trois (avec les noms qui n'ont pas de sing.). - 3 - triples. - 4 - au sing. triple.
+Ge|trini|trīni|ae, a|
+FG|trini|trini ae a (tres),
+Lw|trini|trīnī|ae, a|||three each, three, Threefold, triple||||trini
+YO|
+PO|trini|tri_ni_, tri_nae, tri_na : a
+WW||||
+|undeni|undēni|ūndēni|11|-|-|ae, a
+LS|undeni|undēni|ae, a||num. distr. adj.|eleven each, eleven|undeni|0
+GG|undeni|undēni|ae a|||numéral distrib., chacun onze, chaque fois onze / qqf. sing.|undeni|
+GJ|undeni|undēni|ae, a|chacun onze, chaque fois onze.
+Ge|Undeni|Undēnī|ae, a|je elf - elf
+FG|undeni|undeni ae a, numéral distributif, chacun onze.
+Lw|undeni|ūndēnī|ae, a||adj.|eleven each, eleven, stanzas of eleven feet each, elegiac verse, forty-four years||||undeni
+YO|
+PO|
+WW||||
+|undetriceni|undētrīcēni|ūndētrīcēni|11|-|-|ae, a
+LS|undetriceni|undētrīcēni|ae, a||num. distr. adj.|twenty-nine each, twentynine|undetriceni|0
+GG|undetriceni|undētrīcēni|ae, a|||qui sont par vingt-neuf, chaque fois vingt-neuf|undetriceni|
+GJ|
+Ge|Undetriceni|Undētrīcēnī|ae, a|neunundzwanzig
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|undeviceni|undēvīcēni|ūndēvīcēni|11|-|-|ae, a
+LS|undeviceni|undēvīcēni|ae, a||num. distr. adj.|nineteen each, nineteen|undeviceni|0
+GG|undeviceni|undēvīcēni|ae a|||chaque fois dix-neuf|undeviceni|
+GJ|undeviceni|undēviceni|ae, a|chacun dix-neuf, chaque fois dix-neuf.
+Ge|Undeviceni|Undēvīcēnī|ae, a|neunzehn
+FG|undeviceni|undeviceni ae a, chaque fois dix-neuf.
+Lw|
+YO|
+PO|
+WW||||
+|vigeni|vīgēni|vīgēni|11|-|-|ae, a
+LS|vigeni|vīgēni|ae, a||num. distr. adj.|twenty each, twenty|vigeni|(collat. form 
+GG|vigeni|vīgēni||||v. viceni.|vigeni|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sexageniquini|sexāgēnīquīni|sēxāgēnīqụīni|11|-|-|ae, a
+LS|sexageniquini|sexāgēnīquīni|ae, a||num. distrib. adj.|sixty-five each|sexageniquini|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|complurimi|complūrĭmi|cōmplūrĭmi|11|-|-|ae, a
+LS|
+GG|complurimi|complūrĭmi|ae, a|||v. complures.|complurimi|
+GJ|complurimi|complurimi|ae, a|très nombreux.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duini|duīni|dŭīni|11|-|-|ae, a
+LS|
+GG|duini|duīni|ae, a|||c. bini|duini|
+GJ|duini|duini||c. bini.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|duoviginti|dŭŏvīgintī|dŭŏvīgīntī|11|-|-|ae, a
+LS|
+GG|duoviginti|dŭŏvīginti||||c. duo et viginti|duoviginti|
+GJ|duoviginti|dŭŏviginti|Err :509|vingt-deux.
+Ge|duoviginti|duovīgintī||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quatrini|quā̆trīni|qụā̆trīni|11|-|-|ae, a
+LS|quatrini|quā̆trīni|ae, a||||quatrini|v. quadrini.
+GG|quatrini|quătrīni|ae, a|||v. quadrini.|quatrini|
+GJ|quatrini|quătrīni||v. quadrini.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|senideni|sēnīdēni|sēnīdēni|11|-|-|ae, a
+LS|senideni|sēnīdēni|ae, a||||senideni|v. seni.
+GG|senideni|sēnīdēni|ae, a|||chacun seize|senideni|
+GJ|senideni|senideni|ae, a|- 1 - qui sont seize. - 2 - seize.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aliquammulti|ălĭquammulti|ălĭqụāmmūlti|11|-|-|ae, a
+LS|
+GG|
+GJ|aliquammulti|ălĭquammulti|ae, a (ălĭquam multi, ae, a)|passablement nombreux.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quamplurimi|quamplūrimi|qụāmplūrimi|11|-|-|ae, a
+LS|
+GG|
+GJ|quamplurimi|quamplūrimi|ae, a (qqf. au sing.)|le plus grand nombre possible, en très grand nombre, très nombreux.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quincenti|quincenti|qụīncēnti|11|-|-|ae, a
+LS|quincenti|quincenti|ae, a||||quincenti|v. quingenti 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sedeni|sēdēni|sēdēni|11|-|-|ae, a
+LS|
+GG|
+GJ|
+Ge|sedeni|sēdēni|ae, a|zu sechzehn
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|tricenteni|trĭcentēni|trĭcēntēni|11|-|-|ae, a
+LS|
+GG|tricenteni|trĭcentēni|ae, a|||v. trecenteni, trecenti|tricenteni|trĭcentēni
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||

@@ -1,0 +1,600 @@
+|aesar|Aesar|Āesăr|5|Āesăr||ăris, m.
+LS|Aesar|Aesar|ăris|m.||-I. a river in Lower Italy, in the neighborhood of Crotona, Esaro -II. A name of God among the Etruscans|Aesar|. 
+GG|Aesar|Aesar||m.|S.|dieu des Étrusques / rivière de la Grande Grèce|Aesar|Aesar
+GJ|Aesar|Aesar|aris, m.|Esar (dieu étrusque). / l'Esar (petit fleuve côtier).
+Ge|aesar|aesar|aris, m.|Gott bei den Etruskern / ein Fluß bei Kroton in Bruttien, j. Esaro
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|amilcar|Amilcar|Amīlcăr|5|Amīlcăr||ăris, m.
+LS|Amilcar|Amilcar|ăris|m.||A general, son of Gisgo, slain in besieging Syracuse|Hamilcar|v. Hamilcar.
+GG|Amilcar|Amilcar||m.||v. Hamilcar.|Amilcar|
+GJ|
+Ge|
+FG|Amilcar|Amilcar masculin, voir Hamilcar.
+Lw|
+YO|
+PO|
+WW||||
+|apollinar|Ăpollĭnar|Ăpōllĭnăr|8|Ăpōllĭnār||āris, n.
+LS|Apollinar|Ăpollĭnar|āris|n.||a temple dedicated to Apollo, Apollinarem;|Apollinar|0
+GG|
+GJ|Apollinar|Ăpollĭnar|āris, n.|temple consacré à Apollon.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|aspar|Aspar|Āspăr|5|Āspăr||ăris, m.
+LS|Aspar|Aspar|ăris|m.||a Numidian|Aspar|0
+GG|Aspar|Aspar|ăris|m.||ami de Jugurtha|Aspar|
+GJ|Aspar|Aspar|ăris, m.|Aspar (ami de Jugurtha).
+Ge|
+FG|Aspar|Aspar aris masculin, ami de Jugurtha.
+Lw|
+YO|
+PO|
+WW||||
+|bacar|bacar|bacăr|8|bacăr||ăris, n.
+LS|bacar|bacar|ăris|n.||a wine-vessel similar to the, a wine-glass|bacar|0
+GG|bacar|bacar||||vase à vin|bacar|
+GJ|bacar|bacar||vase à vin.
+Ge|bacar|bacar||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|baccar|baccăr|bāccăr|8|bāccăr||ăris, n.
+LS|baccar|baccar|ăris|n.||a wine-vessel similar to the, a wine-glass|baccar|(
+GG|baccar|baccăr|ăris|n.|S.|baccar [plante dont on tirait un parfum] / nard sauvage|baccar|baccăr
+GJ|baccar|baccăr|ăris, n. (baccăris, is, f.)|- 1 - baccar [plante dont on tirait un parfum]. - 2 - nard sauvage.
+Ge|baccar|baccar|aris, n.|der keltische Baldrian
+FG|baccar|baccar aris neutre et baccaris is féminin, baccar (plante dont on tirait un parfum).
+Lw|
+YO|
+PO|
+WW||||
+|baccaris|baccăris|bāccăris|8|bāccăar||aris, f
+LS|baccaris|baccăris|is|f.||a plant having a fragrant root, from which an oil was expressed;|baccar|0
+GG|baccaris|baccăris|is|f.|S.|baccar [plante dont on tirait un parfum] / nard sauvage|baccar|baccăris
+GJ|
+Ge|
+FG|
+Lw|baccaris|baccaris (bacch-)|aris|f||a plant whose root yielded a fragrant oil, V.||||baccaris
+YO|
+PO|
+WW||||
+|bacchar|bacchar|bācchăr|8|bācchăr||ăris, n.
+LS|bacchar|bacchar|ăris|n.|||bacchar|and 
+GG|bacchar|bacchar||||v. baccar.|bacchar|
+GJ|bacchar|bacchar||v. baccar.
+Ge|bacchar|bacchar||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|balthasar|Balthasar|Bālthasăr|5|Bālthasar||aris, m.
+LS|
+GG|Balthasar|Balthasar|aris|m.|S.|Balthasar, dernier roi de Babylone|Balthasar|Balthasar
+GJ|Balthasar|Balthasar|m., indecl., ou gén. aris|Balthasar, dernier roi de Babylone.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|balthassar|Balthassar|Bālthāssăr|5|Bālthāssar||aris, m.
+LS|
+GG|Balthassar|Balthassar|aris|m.|S.|Balthasar, dernier roi de Babylone|Balthasar|-ssar
+GJ|Balthassar|Balthassar|m., indecl., ou gén. aris|Balthasar, dernier roi de Babylone.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|balthazar|Balthazar|Bālthāzăr|5|Bālthāzar||aris, m.
+LS|
+GG|Balthazar|Balthazar|aris|m.|S.|Balthasar, dernier roi de Babylone|Balthasar|-zar
+GJ|Balthazar|Balthazar|m., indecl., ou gén. aris|Balthasar, dernier roi de Babylone.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|boccar|Boccār|Bōccār|5|Bōccăr||ăris, m.
+LS|
+GG|Boccar|Boccār|ăris|m.||nom d'Africain|Boccar|
+GJ|Boccar|Boccar|aris (Bocchor, oris), m.|Boccar (roi de Mauritanie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bocchar|Bocchar|Bōcchăr|8|Bōcchăr||ăris, m
+LS|Bocchar|Bocchar|ăris||||Bocchar|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|Bocchar|Bocchar (-car)|aris|m||a king of Mauretania, L.:||||Bocchar
+YO|
+PO|
+WW||||
+|boletar|bōlētăr|bōlētăr|8|bōlētār||āris, n.
+LS|boletar|bōlētar||n.||a vessel for mushrooms, lemm.|boletaria|0
+GG|boletar|bōlētăr|āris|n.||plat destiné aux champignons, plat [en gén.]|boletar|
+GJ|boletar|bŏlētăr|āris, n.|plat (pour champignons).
+Ge|boletar|bōlētar|āris|ein Geschirr zu Pilzen - jedes Eßgeschirr, Küchengeschirr
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bomilcar|Bŏmilcăr|Bŏmīlcăr|5|Bŏmīlcăr||ăris, m.
+LS|Bomilcar|Bŏmilcar|ăris|m.||A Carthaginian general, contemporary with Agathocles|Bomilcar|0
+GG|Bomilcar|Bŏmilcăr|ăris|m.||général carthaginois / général d'Annibal / officier de Jugurtha|Bomilcar|
+GJ|Bomilcar|Bŏmilcar|aris, m.|Bomilcar (un Carthaginois).
+Ge|Bomilcar|Bomilcar|aris, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bustar|bustăr|būstăr|5|būstār||āris, m.
+LS|bustar|bustar|aris|m.||a place where dead bodies were burned|bustar|0
+GG|bustar|bustăr|āris|n.||endroit où les cadavres sont brûlés / étable à boeufs|bustar|
+GJ|bustar|bustăr|āris, n.|Char. endroit où les cadavres sont brûlés.
+Ge|bustar|bustar|āris, n.|die Leichenbrandstätte
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|calpar|calpăr|cālpăr|8|cālpār||āris, n.
+LS|calpar|calpar|aris|n.||a vessel for liquids, for wine, a winecask, wine-pitcher|calpar|0
+GG|calpar|calpăr|āris|n.||broc, cruche où l'on conserve le vin / vin nouveau|calpar|
+GJ|calpar|calpar|aris, n.|- 1 - broc à vin, vase à vin. - 2 - vin nouveau.
+Ge|calpar|calpar|āris, n.|Weinfaß - junger Wein vom Fasse
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|carcar|carcăr|cārcăr|8|cārcăr||ăris, n.
+LS|
+GG|carcar|carcăr|ăris|n.||c. carcer|carcar|
+GJ|
+Ge|carcar|carcar|aris, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cidar|cĭdăr|cĭdăr|8|cĭdăr||ăris, n.
+LS|cidar|cĭdar|aris|n.||an ornament for the head of Persian kings, a diadem, tiara|cidaris|0
+GG|cidar|cĭdăr|ăris|n.|S.|tiare du grand-prêtre [chez les Hébreux]|cidar|cĭdăr
+GJ|cidar|cĭdăr|ăris, n.|- 1 - cidaris (diadème des souverains d'Orient). - 2 - tiare (porté par le grand-prêtre des Juifs).
+Ge|cidar|cidar|cidara|Barettdas Turban
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|cinnabar|cinnăbăr|cīnnăbăr|8|cīnnăbăr||ăris, n.
+LS|
+GG|cinnabar|cinnăbăr|ăris|n.|S.|cinabre [couleur d'un rouge vif]|cinnabar|cinnăbăr
+GJ|cinnabar|cinnabar|aris, n. (cinnabaris, is, f.)|cinabre (de la couleur du vermillon).
+Ge|cinnabar|cinnabar|aris, n.|Art Haarfrisur
+FG|cinnabar|cinnabar aris neutre, et -baris is féminin, cinabre (couleur d'un rouge vif).
+Lw|
+YO|
+PO|
+WW||||
+|cochlear|cō̆chlĕăr|cō̆chlĕăr|8|cō̆chlĕār||āris, n.
+LS|cochlear|cō̆chlĕar|āris|n.||a spoon|cochlear|(
+GG|cochlear|cŏchlĕăr|is|n.|S.|cuillerée, mesure pour les liquides|cochlear|cŏchlĕăr
+GJ|cochlear|cochlear|is, n. (abl. -i)|- 1 - cuiller. - 2 - cuillerée (mesure pour les liquides).
+Ge|cochlear|cochlear|Aris|der Löffel - der Eßlöffel
+FG|cochlear|cochlear et cochleare is neutre, cuiller.
+Lw|
+YO|
+PO|
+WW||||
+|coclear|cŏclĕăr|cŏclĕăr|8|cŏclĕār||āris, n.
+LS|coclear|cŏclĕar|āris|n.||a spoon, a measure for liquids, a spoonful|coclear|(
+GG|coclear|coclĕăr||||cuillerée, mesure pour les liquides|cochlear|cocl-
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|columbar|cŏlumbar|cŏlūmbăr|8|cŏlūmbār||āris, n.
+LS|columbar|cŏlumbar|āris|n.||a kind of collar|columbar|0
+GG|columbar|cŏlumbar|āris|n.||pigeonnier ; [fig.] sorte de carcan|columbar|
+GJ|columbar|cŏlumbăr|āris, n. [columba]|- 1 - pigeonnier. - 2 - Plaut. carcan (ainsi nommé à cause de sa ressemblance avec les trous du pigeonnier).
+Ge|columbar|columbar|āris, n.|Art Fessel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|columnar|cŏlumnăr|cŏlūmnăr|8|cŏlūmnār||āris, n.
+LS|columnar|cŏlumnar|āris|n.||a stone-quarry, marble-quarry|columnar|0
+GG|columnar|cŏlumnăr|āris|n.||carrière de marbre|columnar|
+GJ|columnar|columnar|aris, n.|carrière de marbre.
+Ge|columnar|columnar|āris, n.|ein Steinbruch - ein Marmorbruch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|eleazar|Elĕāzăr|Elĕāzăr|5|Elĕāzăr||ăris, m.
+LS|
+GG|Eleazar|Elĕāzăr|ăris|m.|S.|Éléazar [fils d'Aaron] / autres du même nom|Eleazar|Elĕāzăr
+GJ|Eleazar|Eleazar|aris, (Eleazarus, i), m.|Eléazar (fils d'Aaron).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|extar|extar|ēxtăr|8|ēxtār||āris, n.
+LS|
+GG|extar|extar|āris|n.||chaudron pour faire cuire les entrailles [des victimes]|extar|
+GJ|extar|extar|aris, n.|chaudron (dans lequel on faisait cuire les entrailles des victimes).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|flusar|Flūsar|Flūsăr|5|Flūsăr||ăris, m.
+LS|
+GG|Flusar|Flūsar|ăris|m.||nom du mois de juillet chez les Furfensiens|Flusar|
+GJ|Flusar|Flūsar|ăris, m.|nom du mois de juillet chez les Furfensiens.
+Ge|Flusar|Flusar|aris, m.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gemellar|gĕmellăr|gĕmēllăr|8|gĕmēllār||āris, n.
+LS|gemellar|gĕmellar|āris|n.||a vessel for holding oil|gemellar|0
+GG|gemellar|gĕmellăr|ĭi|n.|S.|récipient pour l'huile composé de deux vases accouplés|gemellar|gĕmellăr
+GJ|gemellar|gĕmellăr|āris, n. (gĕmellārĭa, ae, f.; gĕmellārĭum, ĭi, n.)|vase double pour l'huile.
+Ge|gemellar|gemellar|āris, n.|ein Gefäß
+FG|gemellar|gemellar aris neutre (-arium ii neutre, -aria ae féminin) (gemellus), récipient pour l'huile composé de deux vases accouplés.
+Lw|
+YO|
+PO|
+WW||||
+|gestar|Gestăr|Gēstăr|5|Gēstăr||ăris, m.
+LS|
+GG|Gestar|Gestăr|ăris|m.||guerrier carthaginois|Gestar|
+GJ|Gestar|Gestăr|ăris, m.|guerrier carthaginois.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|hyphear|hўphĕăr|hўphĕăr|8|hўphĕăr||ăris, n.
+LS|hyphear|hўphĕar|ăris|n.||the mistletoe|hyphear|0
+GG|hyphear|hўphĕăr||n.||gui|hyphear|
+GJ|
+Ge|hyphear|hyphear|pheatos, n.|die Mistel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laccar|laccăr|lāccăr|8|lāccăr||ăris, n.
+LS|laccar|laccar|ăris|n.||a plant|laccar|0
+GG|laccar|laccăr|ăris|n.||nom d'une plante|laccar|
+GJ|
+Ge|laccar|laccar|aris, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|laquear|lăquĕar|lăqụĕăr|8|lăqụĕār||āris, n.
+LS|laquear|lăquĕar|āris||||laquear|0
+GG|laquear|lăquĕar|is|n.|S.||laquear|lăquĕar
+GJ|laquear|lăquĕār|is, n. (surtout au plur.)|lambris, plafond lambrissé, plafond à caissons.
+Ge|laquear|laquear|āris, n.|die getäfelte Decke, Felderdecke - der Plafond
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|latiar|Lătĭar|Lătĭăr|8|Lătĭār||āris, n.
+LS|Latiar|Lătĭar|āris|n.||the festival of Jupiter Latiaris|Latium|0
+GG|Latiar|Lătĭar||n.||sacrifice à Jupiter Latial|Latiar|
+GJ|Latiar|Lătĭar|āris, n.|fête de Jupiter Latial.
+Ge|
+FG|
+Lw|Latiar|Latiar|āris|n||the festival of Jupiter Latiaris||||Latiar
+YO|
+PO|
+WW||||
+|luminare|lūmĭnāre|lūmĭnāre|8|lūmĭnāār||āris, n.
+LS|luminare|lūmĭnāre|āris|n.||that whieh gives light, a light-giver|luminare|0
+GG|luminare|lūmĭnāre|is|n.||qui produit de la lumière, astre / lumière, lampe / fenêtre|luminare|
+GJ|luminare|lūmĭnāre|is, n. (surtout au plur.)|- 1 - astre. - 2 - lumière (artificielle), luminaire, flambeau, lampe, cierge, bougie. - 3 - volet d'une fenêtre, fenêtre.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lupanar|lŭpānăr|lŭpānăr|8|lŭpānār||āris, n.
+LS|lupanar|lŭpānar|āris|n.||a house of ill-repute|lupanar|0
+GG|lupanar|lŭpānăr||n.||lieu de débauche, lieu de prostitution, lupanar / [injure]|lupanar|
+GJ|lupanar|lūpānăr|āris, n.|lieu de débauche, lupanar.
+Ge|lupanar|lupānar|āris, n.|das Bordell
+FG|
+Lw|lupanar|lupānar|āris|n||a house of ill-repute||||lupanar
+YO|
+PO|lupanar|lupa_nar, lupa_na_ris : n
+WW||||
+|palatuar|Pălātŭar|Pălātŭăr|8|Pălātŭār||āris, n.
+LS|Palatuar|Pălātŭar|āris|n.||an offering made at Rome on the Palatine|Palatua|0
+GG|Palatuar|Pălātŭar||n.||sacrifice sur le mont Palatin|Palatuar|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|palear|pălĕăr|pălĕăr|8|pălĕār||āris, n.
+LS|palear|pălĕar|āris|n.||the skin that hangs down from the neck of an ox, the dew-lap|palear|0
+GG|palear|pălĕăr|āris|n.|S.|premier estomac [des ruminants]|palear|pălĕăr
+GJ|palear|pălĕăr|āris, n.|1 - fanon (de boeuf...). 2 - premier estomac (des ruminants).
+Ge|palear|palear||
+FG|palear|palear aris neutre, et ordinairement palearia ium pluriel, fanon de boeuf.
+Lw|
+YO|
+PO|palear|palear, palea_ris : n
+WW||||
+|polvinar|polvīnar|pōlvīnăr|8|pōlvīnār||āris, n.
+LS|polvinar|polvīnar|āris|n.||a couch made of cushions, and spread over with a splendid covering, for the gods and persons who received divine honors; a couch, cushioned seat of the gods, before all the seats of the gods, in all the temples, at the, feasts of the gods, rich store of beasts for sacrifice|pulvinar|(
+GG|polvinar|polvīnar|āris|n.|S.|coussin de lit sur lequel on plaçait les statues des dieux pour un festin (un lectisternium) ; lit de parade / lit des déesses, des impératrices / loge impériale au cirque / [plaist] lit = mouillage pour un navire|pulvinar|polv-
+GJ|polvinar|polvīnăr|āris, n.|- 1 - coussin, lit de parade (sur lequel on plaçait les images des dieux). - 2 - lectisterne, festin en l'honneur des dieux. - 3 - lit nuptial. - 4 - loge impériale (au cirque). - 5 - Plaut. lit (par plaisanterie, mouillage pour un bateau).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pugillar|pŭgillăr|pŭgīllăr|8|pŭgīllār||āris, n.
+LS|pugillar|pŭgillar|āris|n.||a writing-tablet|pugillaris|0
+GG|pugillar|pŭgillăr|āris|n.||c. pugillares|pugillar|
+GJ|pugillar|pŭgillăr|āris, n.|v. pugillaris.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salar|sălăr|sălăr|5|sălăr||ăris, m.
+LS|salar|sălar|ăris|m.||a kind of trout, med.|salar|0
+GG|salar|sălăr|ăris|m.||truite|salar|
+GJ|salar|salar|aris, m.|Aus. truite.
+Ge|salar|salar|aris, m.|die Forelle
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|semimas|sēmĭmās|sēmĭmās|5|sēmĭmăr||ăris, m.
+LS|semimas|sēmĭmās|măris|m.||a halfmale, hermaphrodite|semimas|0
+GG|semimas|sēmĭmās|ăris|m.||eunuque / un libertin, un débauché|semimas|
+GJ|semimas|semimas|aris, m.|castrat, eunuque, châtré; un débauché, un libertin.
+Ge|semimas|sēmimās|maris, m.|halb Mann, Zwitter, Hermaphrodit - kastriert,  entmannt - kastriert ,  entmannt
+FG|
+Lw|semimas|sēmi-mās|maris|m||a half-male, hermaphrodite||||semimas
+YO|
+PO|semimas|se_mima_s, se_mimaris : m
+WW||||
+|soliar|sŏlĭăr|sŏlĭăr|8|sŏlĭār||āris, n.
+LS|soliar|sŏlĭar|āris|n.||a covering for the feet|soliar|0
+GG|soliar|sŏlĭăr|āris|n.||coussin, tapis qu'on étend sur le solium|soliar|
+GJ|soliar|sŏlĭar|āris, n. [solium]|coussin, tapis (qu'on étend sur le solium).
+Ge|soliar|soliar|āris, n.|der Teppich über das
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|specular|spĕcŭlăr|spĕcŭlăr|8|spĕcŭlār||āris, n.
+LS|specular|spĕcŭlar|āris||||specular|0
+GG|specular|spĕcŭlăr|āris|n.||vitre|specular|
+GJ|specular|spĕcŭlăr|āris, n.|voir specularis.
+Ge|specular|specular|āris, n.|die Fensterscheibe - das Fenster
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|subligar|sublĭgăr|sū̆blĭgăr|8|sū̆blĭgār||āris, n.
+LS|subligar|sublĭgar|āris|n.|||subligaculum|0
+GG|subligar|sublĭgăr|ăris|n.||petit tablier pour cacher la nudité, sorte de caleçon|subligar|
+GJ|subligar|sublĭgăr|āris, n.|caleçon (pour cacher la nudité).
+Ge|subligar|subligar|āris, n.|der Schurz - die Schürze - das Schurzfell
+FG|subligar|subligar aris neutre (subligo), sorte de caleçon.
+Lw|subligar|subligar|āris|n||a breech-cloth||||subligar
+YO|
+PO|
+WW||||
+|torcular|torcŭlar|tōrcŭlăr|8|tōrcŭlār||āris, n.
+LS|torcular|torcŭlar|āris|n.||A press|torcular|0
+GG|torcular|torcŭlar|āris|n.||pressoir / lieu où est le pressoir, pressoir|torcular|
+GJ|torcular|torcular|aris, n.|- 1 - pressoir (pour l'huile, le vin). - 2 - l'endroit où se trouve le pressoir.
+Ge|torcular|torcular|āris|die Kelter, Presse - die Kelter
+FG|torcular|torcular aris neutre (torqueo), pressoir ; lieu où est le pressoir, pressoir.
+Lw|
+YO|
+PO|
+WW||||
+|usar|Usar|Usăr|5|Usar||aris, m.
+LS|
+GG|Usar|Usar|aris|m.||fleuve de la Mauritanie|Usar|
+GJ|Usar|Usar|aris, m.|Plin. fleuve de Mauritanie.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|vabar|Vabar|Vabăr|5|Vabar||aris, m.
+LS|
+GG|Vabar|Vabar|aris|m.||fleuve de Numidie|Vabar|
+GJ|Vabar|Vabar|aris, m.|fleuve de Numidie.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|applar|applar|āpplăr|8|āpplār||āris, n.
+LS|
+GG|
+GJ|
+Ge|applar|applar|āris, n.|ein kleiner Löffel
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|arbuscular|arbuscŭlar|ārbūscŭlăr|8|ārbūscŭlār||āris, n.
+LS|
+GG|arbuscular|arbuscŭlar|āris|n.||lieu planté d'arbustes|arbuscular|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bucar|Bucar|Bucăr|5|Bucār||āris, m.
+LS|
+GG|Bucar|Bucar|āris|m.||officier au service de Syphax|Bucar|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|dabar|Dabar|Dabăr|5|Dabăr||ăris, m.
+LS|Dabar|Dabar|ăris|m.||a Numidian, a relative of Masinissa and an intimate friend of Bocchus|Dabar|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|galear|galear|galĕăr|8|galĕār||āris, n.
+LS|
+GG|
+GJ|
+Ge|galear|galear|āris, n.|die Perücke
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|luminar|lūminar|lūminăr|8|lūminār||āris, n.
+LS|
+GG|
+GJ|
+Ge|luminar|lūminar|āris, n.|die Lichtöffnung - der Fensterladen - das Licht - die Leuchte - ein Licht - das Gestirn
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|nabar|Nabar|Nabăr|5|Nabar||aris, m.
+LS|
+GG|
+GJ|Nabar|Nabar|aris, m.|Plin. le Nabar (fleuve de Mauritanie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|succhabar|Succhabăr|Sūcchabăr|8|Sūcchabăr||ăris, n.
+LS|
+GG|Succhabar|Succhabăr|ăris|n.||colonie romaine de la Mauritanie|Succhabar|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|sufasar|Sufasar|Sufasăr|8|Sufasăr||ăris, n.
+LS|
+GG|Sufasar|Sufasar|ăris|n.||ville d'Afrique|Sufasar|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|ursar|ursar|ūrsăr|8|ūrsār||āris, n.
+LS|
+GG|
+GJ|
+Ge|ursar|ursar|āris, n.|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bostar|Bostăr|Bōstăr|5|Bōstăr||ăris, m.
+LS|Bostar|Bostar|ăris|m.||a Carthaginian proper name|Bostar|0
+GG|Bostar|Bostăr|ăris|m.||nom carthaginois|2 Bostar|
+GJ|Bostar|Bostar|aris, m.|Bostar (nom de plusieurs Carthaginois).
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|bostar2|bostăr2|bōstăr|5|bōstar||aris, m.
+LS|
+GG|bostar|bostăr||n.|S.|étable à boeufs|1 bostar|bostăr
+GJ|bostar|bostar|aris, m.|étable à boeufs.
+Ge|bostar|bostar|n. = βουστάσιον|der Rinder-, Ochsenstall
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|caesar2|caesăr2|cāesăr|5|cāesăr||ăris, m.
+LS|
+GG|caesar|caesăr|ăris|m.||c. caeso|1 caesar|
+GJ|caesar|caesăr|ăris, m. [caedo]|c. caeso.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||

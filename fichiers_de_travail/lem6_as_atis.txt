@@ -1,0 +1,300 @@
+|aesinas|Aesīnās|Āesīnās|15|Āesīnāt||ātis
+LS|Aesinas|Aesinas|ātis||adj.|of or pertaining to &AElig;sis|Aesis2|0
+GG|Aesinas|Aesīnās|ātis|||d'Ésis [ville d'Ombrie] / pl. aesinates, habitants d'Ésis|Aesinas|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|alatrinas|Alatrīnās|Alā̆trīnās|15|Alā̆trīnāt||ātis
+LS|
+GG|Alatrinas|Alatrinas||||v. Aletrinas.|Alatrinas|
+GJ|Alatrinas|Alatrīnās|ātis|d'Alétrium (ville du Latium).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caesenas|Caesēnas|Cāesēnas|15|Cāesēnāt||ātis
+LS|Caesenas|Caesēnas|ātis||adj.|of C&oelig;sena|Caesena|0
+GG|Caesenas|Caesēnas|ātis||adj.|adj., de Céséna|Caesena|-nas
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|condas|Condās|Cōndās|15|Cōndāt||ātis
+LS|
+GG|Condas|Condās|ātis||adj.|de Condate|Condate|Condās
+GJ|Condas|Condās|ātis|de Condate.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|fulginas|Fulgĭnās|Fūlgĭnās|15|Fūlgĭnāt||ātis
+LS|Fulginas|Fulgĭnas|ātis||adj.|of or belonging to Fulginia, Fulginian, plur. subst.|Fulginia|0
+GG|Fulginas|Fulgĭnās|ātis||adj.|de Fulginie|Fulginas|
+GJ|Fulginas|Fulgĭnās|ātis|voir Fulginia.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|gavinas|Gavīnās|Gavīnās|15|Gavīnāt||ātis
+LS|
+GG|Gavinas|Gavīnās|ātis|||c. Gabius|Gavinas|
+GJ|Gavinas|Gavīnās|ātis|c. Gabius.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|infernas|infernas|īnfērnas|15|īnfērnāt||ātis
+LS|infernas|infernas|ātis||adj.|of or from the lower country, lowland|infernas|0
+GG|Infernas|Infernas|ātis|||de la mer Inférieure ou Tyrrhénienne|Infernas|
+GJ|Infernas|Infernās|ātis|de la mer Inférieure ou Tyrrhénienne.
+Ge|Infernas|Infernās|Atis|unterländisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|infimas|infĭmās|īnfĭmās|15|īnfĭmāt||ātis
+LS|
+GG|infimas|infĭmās|ātis||adj.|de basse condition|infimas|infĭmās
+GJ|infimas|infimās|ātis|Prisc. de basse condition.
+Ge|Infimas|Infimās|Atis = infimatis|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|internas|internās|īntērnās|15|īntērnāt||ātis
+LS|internas|internas|ātis|||inward, inner|internas|0
+GG|
+GJ|internas|internās|ātis|qui est à l'intérieur.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|optumas|optŭmās|ōptŭmās|15|ōptŭmāt||ātis
+LS|optumas|optŭmas|ātis||adj.|of or belonging to the best, noblest, aristocratic|optimas|(
+GG|
+GJ|
+Ge|optumas|optumās||
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pitinas|Pitinās|Pitinās|15|Pitināt||ātis
+LS|
+GG|Pitinas|Pitinās|ātis||adj.|de Pitinum / subst. m. pl. habitants de Pitinum|Pitinas|
+GJ|Pitinas|Pitinās|ātis|de Pitinum (ville d'Ombrie).
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|salpinas|Salpīnās|Sālpīnās|15|Sālpīnāt||ātis
+LS|Salpinas|Salpīnas||||belonging to the Salpinates|Salpinates|0
+GG|Salpinas|Salpīnās|ātis||adj.|adj., de Salpis|Salpinas|
+GJ|
+Ge|Salpinas|Salpīnās|ātis|salpinatisch
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|supernas|sŭpernās|sŭpērnās|15|sŭpērnāt||ātis
+LS|supernas|sŭpernas|ātis||adj.|of or belonging to the upper country, upper, northern, growing on the Upper, Adriatic Sea|supernas|0
+GG|supernas|sŭpernās|ātis||adj.|qui vient d'en haut, de la mer Supérieure, de l'Adriatique / subst. m., vent qui souffle de l'Adriatique [vent d'est]|supernas|
+GJ|supernas|sŭpernās|ātis|(Lebaigue P. 1227) qui vient des contrées supérieures, du pays d'en haut, de l'Adriatique.
+Ge|supernas|supernās|Atis|oberländisch, von der oberen Gegend - von dem Obermeere - Obermeer e - herkommend
+FG|supernas|supernas atis masculin, féminin, neutre (supernus), qui vient d'en haut, de l'Adriatique.
+Lw|
+YO|
+PO|
+WW||||
+|tolosas|Tŏlōsās|Tŏlōsās|15|Tŏlōsāt||ātis
+LS|Tolosas|Tŏlōsas|ātis||adj.|of Tolosa, Tolosan|Tolosa|0
+GG|Tolosas|Tŏlōsās|tis||adj.|adj., de Tolosa|Tolosa|-sās
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|antemnas|Antemnās|Āntēmnās|15|Āntēmnāt||ātis
+LS|Antemnas|Antemnās|ātis||adj.|belonging to Antemn&oelig;;|Antemnae|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|bergomas|Bergŏmas|Bērgŏmas|15|Bērgŏmāt||ātis
+LS|Bergomas|Bergŏmas|ātis||adj.|of Bergomum|Bergomum|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|campas|Campās|Cāmpās|15|Cāmpāt||ātis
+LS|
+GG|Campas|Campās|ātis|||c. Campanus|Campas|Campās
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|caninefas|Caninĕfas|Caninĕfas|15|Caninĕfāt||ātis
+LS|Caninefas|Caninĕfas|ātis|||of Caninefas|Caninefates|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|canninefas|Canninefas|Cānninefas|15|Cānninefāt||ātis
+LS|
+GG|Canninefas|Canninefas|ātis||adj.|Canninéfate|Canninefates|-ninefas
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lirenas|Līrēnas|Līrēnas|15|Līrēnāt||ātis
+LS|Lirenas|Līrēnas|ātis||adj.|of or belonging to the Liris|Lirenas|v. Liris, II.
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|lirinas|Līrīnas|Līrīnas|15|Līrīnāt||ātis
+LS|Lirinas|Līrīnas|ātis||adj.|of or belonging to the Liris|Lirinas|v. Liris, II.
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|matilicas|Mātĭlĭcās|Mātĭlĭcās|15|Mātĭlĭcāt||ātis
+LS|
+GG|Matilicas|Mātĭlĭcās|ātis|||de Matilica ; pl. m., habitants de Matilica|Matilica|-cās
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|merinas|Merīnas|Merīnas|15|Merīnāt||ātis
+LS|Merinas|Merīnas|ātis||adj.|of or belonging to the city of Merinum, in Apulia|Merinas|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|pisas|Pīsas|Pīsas|15|Pīsāt||ātis
+LS|Pisas|Pīsas|ātis||adj.|Pisatic, Pisan|Pisae|0
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|quojas|quōjas|qụōjas|15|qụōjāt||ātis
+LS|quojas|quōjas|ātis||||cujas|(archaic 
+GG|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||quojas, quojatis||
+|suessas|Suessās|Sŭēssās|15|Sŭēssāt||ātis
+LS|
+GG|Suessas|Suessās|ātis||adj.|de Suessa|Suessas|
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|taurinas|Taurīnās|Tāurīnās|15|Tāurīnāt||ātis
+LS|
+GG|Taurinas|Taurīnās|ātis||adj.|adj., Taurinien|Taurini|Taurīnās
+GJ|
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
+|capenas2|Căpēnas2|Căpēnas|15|Căpēnāt||ātis
+LS|Capenas|Căpēnas|ātis||adj.||Capena|0
+GG|Capenas|Căpēnas|ātis||adj.|adj., de Capène|Capena|-nas
+GJ|Capenas|Capenās|ātis|de Capène.
+Ge|
+FG|
+Lw|
+Y§|
+PO|
+WW||||
+|optimas|optĭmās|ōptĭmās|15|ōptĭmāt||ātis
+LS|optimas|optĭmas|ātis||adj.|of or belonging to the best, noblest, aristocratic|optimas|(
+GG|optimas|optĭmās|ātis||adj.|adj., formé des meilleurs, de l'aristocratie|optimas|optĭmās
+GJ|optimas|optĭmās|ātis|formé des meilleurs, aristocratique, noble.
+Ge|optimas|optimās||
+FG|optimas|optimas atis (optimus), et surtout le pluriel (voir mot suivant)
+Lw|optimas|optimās|ātis||adj.|of the best, of the noblest, aristocratic, m., an adherent of the nobility, aristocrat, partisan of the patricians||||optimas
+Y§|
+PO|
+WW||optimas, optimatis||
+|arpinas2|Arpīnās2|Ārpīnās|15|Ārpīnāt||ātis
+LS|Arpinas|Arpīnas|ātis||adj.|of or pertaining to Arpinum|Arpinum|0
+GG|Arpinas|Arpīnās|ātis|||d'Arpinum|Arpinum|-nās
+GJ|Arpinas|Arpinās|ātis|d'Arpinum.
+Ge|
+FG|
+Lw|
+YO|
+PO|
+WW||||
